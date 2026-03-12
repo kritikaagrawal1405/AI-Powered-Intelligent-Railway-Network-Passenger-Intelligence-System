@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Indian Railway Knowledge Base — FAQs, rules, passenger guidance, station insights",
+    "categories": ["booking", "waitlist", "tatkal", "refund", "concession", "pnr", "luggage", "food", "platform", "general"]
+  },
+
+  "faqs": [
+    {
+      "id": "bk_001",
+      "category": "booking",
+      "keywords": ["how early", "advance booking", "when to book", "book tickets", "booking period", "advance reservation", "advance purchase", "how far in advance", "booking window"],
+      "question": "How early should I book train tickets?",
+      "answer": "Indian Railways allows advance booking up to 120 days before the date of journey (excluding the day of booking). For best availability of confirmed berths, it is strongly recommended to book at least 30–60 days in advance for popular routes and during peak seasons (summer, Diwali, Christmas, Holi). For Tatkal quota, booking opens 1 day before journey (at 10:00 AM for AC classes, 11:00 AM for non-AC). Premium Tatkal has dynamic pricing with no refunds.",
+      "tips": ["Book immediately after the 120-day window opens for peak travel dates", "For Rajdhani/Shatabdi, seats fill within hours of opening", "Set IRCTC reminders for high-demand routes", "Check Ladies/Senior Citizen/Lower Berth quotas for better availability"]
+    },
+    {
+      "id": "bk_002",
+      "category": "booking",
+      "keywords": ["irctc", "online booking", "how to book", "booking website", "book online", "mobile app", "ticket booking steps"],
+      "question": "How do I book a train ticket on IRCTC?",
+      "answer": "Tickets can be booked at irctc.co.in or via the IRCTC Rail Connect app. Steps: (1) Register/login at irctc.co.in, (2) Enter source, destination, date and class, (3) Select a train, (4) Fill passenger details, (5) Choose payment method, (6) Confirm and download e-ticket. A maximum of 6 passengers can be booked per transaction. IRCTC allows 12 tickets per month per account (6 extra if Aadhaar-verified).",
+      "tips": ["Use IRCTC iMudra wallet for faster checkout", "Enable One-Time Password (OTP) login for security", "Book via UPI for instant confirmation"]
+    },
+    {
+      "id": "bk_003",
+      "category": "booking",
+      "keywords": ["classes", "train classes", "ac first class", "sleeper", "second class", "chair car", "3ac", "2ac", "1ac", "which class", "class options"],
+      "question": "What are the different classes available on Indian trains?",
+      "answer": "Indian Railways offers: (1) 1A — First AC (highest comfort, 4-berth coupe), (2) 2A — Second AC (6-berth, curtained), (3) 3A — Third AC (8-berth open), (4) 3E — Third AC Economy (high-density, economical), (5) FC — First Class (non-AC, old trains), (6) CC — AC Chair Car (day trains like Shatabdi), (7) EC — Executive Chair Car (Vande Bharat/Shatabdi premium), (8) SL — Sleeper Class (most popular, no AC), (9) 2S — Second Sitting (short distances, no berth). Premium trains like Rajdhani run only in AC classes.",
+      "tips": []
+    },
+
+    {
+      "id": "wl_001",
+      "category": "waitlist",
+      "keywords": ["waitlist", "wl", "wl ticket", "confirmation chances", "will my ticket confirm", "what affects", "affects confirmation", "ticket confirmation factors", "confirmation probability", "wl confirmation", "chances of confirmation"],
+      "question": "What affects waitlist ticket confirmation?",
+      "answer": "Waitlist (WL) confirmation depends on: (1) WL number — lower WL (1–10) has the highest chance, WL > 40 is rarely confirmed; (2) Days until journey — more days means more chance of movement; (3) Train type — Rajdhani/Shatabdi/Mail trains confirm more tickets than express trains; (4) Class — Sleeper class has more berths (72 per coach) than AC classes; (5) Season/demand — peak holidays reduce confirmation chances drastically; (6) Quota used — General quota has more berths than Tatkal/Ladies; (7) Cancellations by other passengers — each cancellation moves the list. The waitlist clears progressively as passengers cancel or RAC passengers move to confirmed.",
+      "tips": ["WL 1–15 on a non-peak weekday = very likely to confirm", "WL 30+ on a peak holiday = very unlikely, book alternatives", "Check current PNR status 24–48 hrs before journey", "RAC (Reservation Against Cancellation) means you will travel but share a berth"]
+    },
+    {
+      "id": "wl_002",
+      "category": "waitlist",
+      "keywords": ["rac", "reservation against cancellation", "rac ticket", "rac berth", "rac status"],
+      "question": "What is RAC (Reservation Against Cancellation)?",
+      "answer": "RAC (Reservation Against Cancellation) is a status between Waitlist and Confirmed. RAC passengers are guaranteed a seat on the train but must share a side-lower berth with one other RAC passenger. If a confirmed passenger cancels, one RAC passenger gets a full berth, and the first WL passenger moves to RAC. RAC passengers can board the train and will get a berth or full seat within the journey.",
+      "tips": ["Always travel on RAC — you are guaranteed to board", "Ask the TTE on board for a berth — often available after station clearances", "RAC is better than WL — never miss a RAC ticket"]
+    },
+    {
+      "id": "wl_003",
+      "category": "waitlist",
+      "keywords": ["pqwl", "rlwl", "gnwl", "tqwl", "rswl", "quota types", "wl types", "different waitlist"],
+      "question": "What are the different types of waitlist (WL) quotas?",
+      "answer": "Indian Railways has multiple WL quota types: (1) GNWL — General Waitlist (main quota, highest confirmation chances); (2) PQWL — Pooled Quota WL (for intermediate stations, clears slowly); (3) RLWL — Remote Location WL (small stations, clears very slowly); (4) TQWL — Tatkal Quota WL (clears only within Tatkal quota, rarely confirms); (5) RSWL — Road Side Station WL (very small quota). GNWL has the best confirmation chances. PQWL and RLWL are harder to confirm.",
+      "tips": ["Prefer GNWL tickets over PQWL/RLWL whenever possible", "Book from the originating station for GNWL quota", "TQWL almost never confirms — avoid for critical journeys"]
+    },
+
+    {
+      "id": "tk_001",
+      "category": "tatkal",
+      "keywords": ["tatkal", "tatkal booking", "tatkal quota", "tatkal timing", "tatkal charges", "tatkal window", "book tatkal", "tatkal rules", "tatkal opening time", "irctc tatkal"],
+      "question": "What is the IRCTC Tatkal booking window and rules?",
+      "answer": "Tatkal booking opens 1 day before the journey date (D-1). Timing: AC classes (1A, 2A, 3A, CC, EC) open at 10:00 AM; Non-AC classes (SL, 2S) open at 11:00 AM. Tatkal charges are extra: 30% of base fare for AC classes, 10% for non-AC (subject to minimum/maximum limits). No concession is applicable on Tatkal tickets. Refunds on Tatkal tickets are limited — cancellation before 24 hours of departure gets a partial refund; no refund within 24 hours of departure for confirmed tickets.",
+      "tips": ["Log in to IRCTC 15 minutes early and add passengers in advance", "Keep your payment details ready — Tatkal seats fill in seconds", "Premium Tatkal has dynamic pricing — prices can be very high", "Use IRCTC iMudra wallet to avoid payment failures"]
+    },
+
+    {
+      "id": "pnr_001",
+      "category": "pnr",
+      "keywords": ["pnr status", "check pnr", "pnr number", "track ticket", "pnr inquiry", "pnr check"],
+      "question": "How do I check my PNR status?",
+      "answer": "You can check PNR status via: (1) IRCTC website — irctc.co.in > PNR Status; (2) Indian Railways enquiry — enquiry.indianrail.gov.in; (3) SMS — Send PNR <10-digit PNR> to 139; (4) IRCTC app > PNR Status; (5) National Rail Enquiry Service — 139 (call). Status codes: CNF = Confirmed, RAC = Reservation Against Cancellation, WL = Waitlist, CAN = Cancelled, NP = Not Predicted yet.",
+      "tips": ["PNR finalises 4 hours before scheduled departure", "Chart preparation happens 4 hours before departure", "After chart preparation, remaining RAC/WL status is final"]
+    },
+
+    {
+      "id": "rf_001",
+      "category": "refund",
+      "keywords": ["refund", "cancel ticket", "cancellation charges", "refund rules", "cancellation policy", "how to cancel", "ticket cancellation", "cancellation fee"],
+      "question": "What are the cancellation and refund rules?",
+      "answer": "Refund rules for confirmed tickets: (1) More than 48 hours before departure — Rs 240 (1A/2A), Rs 200 (3A/CC/EC), Rs 180 (SL), Rs 60 (2S) flat cancellation charge; (2) 12–48 hours before — 25% of fare deducted; (3) 4–12 hours before — 50% of fare deducted; (4) Less than 4 hours or after departure — No refund. For WL/RAC tickets: full refund if cancelled before chart preparation (minus Rs 60 clerkage). E-tickets cancelled online; paper tickets need TDR filing. Tatkal confirmed tickets: no refund within 24 hours of departure.",
+      "tips": ["Cancel as early as possible to maximise refund", "WL tickets get full refund if not confirmed — cancel before chart", "File TDR (Ticket Deposit Receipt) online for special refund cases"]
+    },
+
+    {
+      "id": "cc_001",
+      "category": "concession",
+      "keywords": ["senior citizen", "concession", "discount", "senior discount", "elderly passenger", "age concession", "half ticket", "student concession", "disability concession"],
+      "question": "What concessions are available for senior citizens and other passengers?",
+      "answer": "Indian Railways offers fare concessions for: (1) Senior Citizens — 40% discount for men aged 60+, 50% for women aged 58+; (2) Differently-abled passengers — 25–75% discount depending on disability type and class; (3) Students — 25–50% discount on SL/2S for students with valid ID; (4) Cancer patients — 75% discount; (5) Blind/deaf-mute passengers — 75% discount (companion also gets 75%). Note: From Feb 2022, senior citizen concessions have been discontinued for general trains and are only available on select trains. Always check current IRCTC terms.",
+      "tips": ["Carry age/disability proof on the train", "Concessions apply only to base fare, not tatkal/other surcharges", "Apply during booking — cannot be added later"]
+    },
+
+    {
+      "id": "lg_001",
+      "category": "luggage",
+      "keywords": ["luggage", "baggage", "luggage limit", "luggage allowance", "extra luggage", "how much luggage", "baggage rules", "overweight luggage"],
+      "question": "What is the luggage allowance on Indian trains?",
+      "answer": "Free luggage allowance: 1A — 70 kg, 2A — 50 kg, 3A/CC/FC — 40 kg, SL/2S — 35 kg, 2S unreserved — 35 kg. Excess luggage can be booked in advance at the parcel office. Hand luggage must not obstruct others or block emergency equipment. Prohibited items include weapons, flammables, and hazardous goods.",
+      "tips": ["Book excess luggage at least 2 hours before departure", "Label all bags with name, PNR, and contact number", "Luggage is not insured — use separate luggage insurance for valuables"]
+    },
+
+    {
+      "id": "fd_001",
+      "category": "food",
+      "keywords": ["food", "meal", "pantry car", "food booking", "e-catering", "food on train", "order food", "irctc food"],
+      "question": "Can I order food on Indian trains?",
+      "answer": "Yes. Food options on Indian trains: (1) Pantry Car — available on long-distance express/mail trains, serving meals, snacks and beverages; (2) E-Catering — order food from local restaurants at selected stations via IRCTC Food app, food.irctc.co.in, or call 1323; (3) Hawkers — vendors at major stations; (4) Pre-booked meals — available during ticket booking for some trains. E-catering delivers food from top restaurants directly to your seat at the station. Rajdhani/Shatabdi include meals in fare.",
+      "tips": ["Order e-catering at least 2 hours before delivery station", "Meals are included in Rajdhani, Shatabdi, and Duronto fares", "Carry dry snacks for trains without pantry cars"]
+    },
+
+    {
+      "id": "pl_001",
+      "category": "platform",
+      "keywords": ["platform", "platform number", "which platform", "train platform", "find platform", "platform inquiry"],
+      "question": "How do I find my train's platform number?",
+      "answer": "Platform numbers are announced closer to departure and are not fixed in advance. You can check: (1) Display boards at the station; (2) Enquiry counter or dial 139; (3) NTES (National Train Enquiry System) app — shows live running status and platform; (4) IRCTC app — live train status section. Arrive at the station at least 30 minutes early to allow time for platform identification.",
+      "tips": ["Platform numbers change frequently — never rely on a number heard days in advance", "Install the NTES app for real-time train tracking and platform info", "For large stations like CSMT, New Delhi — allow extra navigation time"]
+    },
+
+    {
+      "id": "gn_001",
+      "category": "general",
+      "keywords": ["train delay", "why delayed", "reason for delay", "delay causes", "train late", "why trains late", "delays"],
+      "question": "What are the common reasons for train delays in India?",
+      "answer": "Common causes of train delays: (1) Priority to faster/special trains — freight and passenger trains share tracks; (2) Fog and weather — especially in winter, northern plains; (3) Technical faults — loco failure, brake issues; (4) Overcrowded platforms — slow boarding/alighting; (5) Track maintenance blocks; (6) Single-line sections — trains wait for oncoming train to pass; (7) Late running of preceding trains cascading forward; (8) Unscheduled halts — emergencies, level crossings. India's vast network means small delays compound quickly.",
+      "tips": ["Check live train status on NTES before leaving for the station", "Rajdhani/Shatabdi delays are less frequent due to priority status", "Night trains are more often on time than day trains"]
+    },
+    {
+      "id": "gn_002",
+      "category": "general",
+      "keywords": ["best trains", "fastest train", "premium train", "vande bharat", "rajdhani", "shatabdi", "duronto", "which train is best", "train recommendation", "fastest route"],
+      "question": "What are the best trains to travel on Indian Railways?",
+      "answer": "Top tier Indian trains: (1) Vande Bharat Express — fastest (160 km/h design speed), semi-high speed, chair car only, best for day journeys; (2) Rajdhani Express — premium overnight, all AC, meals included, high priority; (3) Shatabdi Express — same-day return, AC chair car, meals included; (4) Duronto Express — non-stop long distance, all AC; (5) Tejas Express — private operator, on-time guarantee with compensation; (6) Humsafar Express — all 3AC, point-to-point. For reliability and speed, Rajdhani and Vande Bharat are the best choices.",
+      "tips": ["Rajdhani and Shatabdi get signal priority — fewer delays", "Vande Bharat is best for distances under 600 km", "Humsafar and Antyodaya are good budget overnight options"]
+    },
+    {
+      "id": "gn_003",
+      "category": "general",
+      "keywords": ["lowest delay", "on time", "punctual train", "most punctual", "least delayed", "best punctuality", "reliable train", "reduce delay risk"],
+      "question": "How do I choose a train with the lowest delay risk?",
+      "answer": "To minimise delay risk: (1) Choose Rajdhani, Shatabdi or Vande Bharat — these have highest priority on tracks; (2) Avoid trains that originate far away — accumulated delays travel with the train; (3) Check historical delay stats on NTES or ixigo before booking; (4) Prefer trains departing from the originating/source station — they start on time; (5) Avoid trains passing through high-congestion junctions like Howrah, Nagpur, Bhusaval; (6) Travel during non-peak seasons (Feb–March, Aug–Sept); (7) Early morning departures tend to be more on time than evening.",
+      "tips": ["Use ixigo or Where is my Train app for delay history", "Trains with numbers 12xxx (Rajdhani/Shatabdi) are most punctual", "Check if your train crosses any known delay-prone junction"]
+    },
+    {
+      "id": "gn_004",
+      "category": "general",
+      "keywords": ["lost luggage", "lost item", "left item on train", "found item", "lost and found", "missing luggage"],
+      "question": "What should I do if I lose an item on the train?",
+      "answer": "If you lose an item on the train: (1) Immediately contact the TTE (Travelling Ticket Examiner) on board; (2) Lodge a complaint at the next major station's RPF (Railway Protection Force) post; (3) Call Helpline 139 to report lost property; (4) File an online complaint at railmadad.indianrailways.gov.in; (5) Contact the destination station's Lost and Found department. Quote your PNR number and exact seat/coach details.",
+      "tips": ["Act immediately — delays reduce recovery chances", "Keep photos of valuables with serial numbers for claims", "RailMadad portal tracks complaint status in real time"]
+    }
+  ]
+}

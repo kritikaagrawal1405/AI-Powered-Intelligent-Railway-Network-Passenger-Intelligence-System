@@ -1,0 +1,136 @@
+train_no,train_name,stop_number,station_code,station_name,arrival_time,departure_time,distance_from_src,delay_minutes,source_station,destination_station,date
+12951,Rajdhani Express,1,MMCT,Mumbai Central,,13:20,0,3,Mumbai Central,New Delhi,2024-01-15
+12951,Rajdhani Express,2,HWH,Howrah,14:47,14:52,209,24,Mumbai Central,New Delhi,2024-01-15
+12951,Rajdhani Express,3,NDLS,New Delhi,15:48,15:48,1015,10,Mumbai Central,New Delhi,2024-01-15
+12952,Rajdhani Express,1,NDLS,New Delhi,,18:05,0,7,New Delhi,Mumbai Central,2024-01-15
+12952,Rajdhani Express,2,BSP,Bilaspur,18:42,18:47,140,1,New Delhi,Mumbai Central,2024-01-15
+12952,Rajdhani Express,3,MMCT,Mumbai Central,20:16,20:16,758,1,New Delhi,Mumbai Central,2024-01-15
+12001,Shatabdi Express,1,NDLS,New Delhi,,12:50,0,0,New Delhi,Bhopal,2024-01-15
+12001,Shatabdi Express,2,DHN,Dhanbad,15:50,15:55,417,16,New Delhi,Bhopal,2024-01-15
+12001,Shatabdi Express,3,RJT,Rajkot,16:26,16:31,1138,7,New Delhi,Bhopal,2024-01-15
+12001,Shatabdi Express,4,BPL,Bhopal,17:41,17:41,1047,9,New Delhi,Bhopal,2024-01-15
+12002,Shatabdi Express,1,BPL,Bhopal,,08:05,0,0,Bhopal,New Delhi,2024-01-15
+12002,Shatabdi Express,2,PUNE,Pune,10:12,10:17,145,28,Bhopal,New Delhi,2024-01-15
+12002,Shatabdi Express,3,AGC,Agra Cantt,12:15,12:20,905,14,Bhopal,New Delhi,2024-01-15
+12002,Shatabdi Express,4,MDU,Madurai,13:01,13:06,1094,1,Bhopal,New Delhi,2024-01-15
+12002,Shatabdi Express,5,NDLS,New Delhi,15:53,15:53,187,1,Bhopal,New Delhi,2024-01-15
+12621,Tamil Nadu Express,1,NDLS,New Delhi,,14:35,0,1,New Delhi,Chennai Central,2024-01-15
+12621,Tamil Nadu Express,2,RNCL,Ranchi,17:32,17:37,288,2,New Delhi,Chennai Central,2024-01-15
+12621,Tamil Nadu Express,3,MAS,Chennai Central,18:24,18:24,68,5,New Delhi,Chennai Central,2024-01-15
+12622,Tamil Nadu Express,1,MAS,Chennai Central,,17:35,0,4,Chennai Central,New Delhi,2024-01-15
+12622,Tamil Nadu Express,2,JP,Jaipur,20:01,20:06,953,2,Chennai Central,New Delhi,2024-01-15
+12622,Tamil Nadu Express,3,CNB,Kanpur Central,22:09,22:14,243,7,Chennai Central,New Delhi,2024-01-15
+12622,Tamil Nadu Express,4,LKO,Lucknow,00:14,00:19,314,1,Chennai Central,New Delhi,2024-01-15
+12622,Tamil Nadu Express,5,NDLS,New Delhi,01:57,01:57,1052,2,Chennai Central,New Delhi,2024-01-15
+12301,Howrah Rajdhani,1,NDLS,New Delhi,,10:50,0,3,New Delhi,Howrah,2024-01-15
+12301,Howrah Rajdhani,2,DHN,Dhanbad,12:57,13:02,404,4,New Delhi,Howrah,2024-01-15
+12301,Howrah Rajdhani,3,PNBE,Patna,15:54,15:59,329,12,New Delhi,Howrah,2024-01-15
+12301,Howrah Rajdhani,4,HWH,Howrah,17:52,17:52,1264,1,New Delhi,Howrah,2024-01-15
+12302,Howrah Rajdhani,1,HWH,Howrah,,17:35,0,5,Howrah,New Delhi,2024-01-15
+12302,Howrah Rajdhani,2,SBC,Bangalore City,18:21,18:26,316,7,Howrah,New Delhi,2024-01-15
+12302,Howrah Rajdhani,3,CBE,Coimbatore,21:21,21:26,1314,0,Howrah,New Delhi,2024-01-15
+12302,Howrah Rajdhani,4,NDLS,New Delhi,23:16,23:16,318,7,Howrah,New Delhi,2024-01-15
+12269,Duronto Express,1,NDLS,New Delhi,,12:35,0,1,New Delhi,Chennai Central,2024-01-15
+12269,Duronto Express,2,BKN,Bikaner,15:34,15:39,642,0,New Delhi,Chennai Central,2024-01-15
+12269,Duronto Express,3,PUNE,Pune,18:38,18:43,599,23,New Delhi,Chennai Central,2024-01-15
+12269,Duronto Express,4,BBS,Bhubaneswar,20:09,20:14,1495,26,New Delhi,Chennai Central,2024-01-15
+12269,Duronto Express,5,NGP,Nagpur,21:19,21:24,764,13,New Delhi,Chennai Central,2024-01-15
+12269,Duronto Express,6,MAS,Chennai Central,22:17,22:17,1133,2,New Delhi,Chennai Central,2024-01-15
+12270,Duronto Express,1,MAS,Chennai Central,,07:50,0,0,Chennai Central,New Delhi,2024-01-15
+12270,Duronto Express,2,ST,Surat,09:57,10:02,893,9,Chennai Central,New Delhi,2024-01-15
+12270,Duronto Express,3,UDZ,Udaipur City,12:31,12:36,793,4,Chennai Central,New Delhi,2024-01-15
+12270,Duronto Express,4,NDLS,New Delhi,15:27,15:27,1291,1,Chennai Central,New Delhi,2024-01-15
+12431,Rajdhani Express,1,NDLS,New Delhi,,13:35,0,5,New Delhi,Tirupati,2024-01-15
+12431,Rajdhani Express,2,DHN,Dhanbad,14:33,14:38,440,0,New Delhi,Tirupati,2024-01-15
+12431,Rajdhani Express,3,TPTY,Tirupati,15:48,15:48,680,19,New Delhi,Tirupati,2024-01-15
+12432,Rajdhani Express,1,TPTY,Tirupati,,14:20,0,2,Tirupati,New Delhi,2024-01-15
+12432,Rajdhani Express,2,INDB,Indore,15:29,15:34,560,8,Tirupati,New Delhi,2024-01-15
+12432,Rajdhani Express,3,JP,Jaipur,16:45,16:50,809,2,Tirupati,New Delhi,2024-01-15
+12432,Rajdhani Express,4,NDLS,New Delhi,19:35,19:35,1377,5,Tirupati,New Delhi,2024-01-15
+12649,Karnataka Sampark,1,NDLS,New Delhi,,12:05,0,6,New Delhi,Bangalore City,2024-01-15
+12649,Karnataka Sampark,2,MAS,Chennai Central,13:36,13:41,1317,1,New Delhi,Bangalore City,2024-01-15
+12649,Karnataka Sampark,3,BPL,Bhopal,14:31,14:36,128,27,New Delhi,Bangalore City,2024-01-15
+12649,Karnataka Sampark,4,TVC,Thiruvananthapuram,17:10,17:15,1224,11,New Delhi,Bangalore City,2024-01-15
+12649,Karnataka Sampark,5,TPTY,Tirupati,20:01,20:06,1148,22,New Delhi,Bangalore City,2024-01-15
+12649,Karnataka Sampark,6,SBC,Bangalore City,21:08,21:08,989,18,New Delhi,Bangalore City,2024-01-15
+12650,Karnataka Sampark,1,SBC,Bangalore City,,18:20,0,7,Bangalore City,New Delhi,2024-01-15
+12650,Karnataka Sampark,2,BBS,Bhubaneswar,21:08,21:13,1132,20,Bangalore City,New Delhi,2024-01-15
+12650,Karnataka Sampark,3,JSME,Jasidih,22:34,22:39,1069,0,Bangalore City,New Delhi,2024-01-15
+12650,Karnataka Sampark,4,NDLS,New Delhi,00:51,00:51,1492,1,Bangalore City,New Delhi,2024-01-15
+11057,Amritsar Exp,1,MMCT,Mumbai Central,,12:05,0,0,Mumbai Central,Jammu Tawi,2024-01-15
+11057,Amritsar Exp,2,JSME,Jasidih,14:01,14:06,31,3,Mumbai Central,Jammu Tawi,2024-01-15
+11057,Amritsar Exp,3,JU,Jodhpur,16:57,17:02,345,3,Mumbai Central,Jammu Tawi,2024-01-15
+11057,Amritsar Exp,4,LKO,Lucknow,18:28,18:33,10,2,Mumbai Central,Jammu Tawi,2024-01-15
+11057,Amritsar Exp,5,CNB,Kanpur Central,19:18,19:23,343,14,Mumbai Central,Jammu Tawi,2024-01-15
+11057,Amritsar Exp,6,JAT,Jammu Tawi,20:01,20:01,1289,3,Mumbai Central,Jammu Tawi,2024-01-15
+11058,Amritsar Exp,1,JAT,Jammu Tawi,,11:20,0,2,Jammu Tawi,Mumbai Central,2024-01-15
+11058,Amritsar Exp,2,BBS,Bhubaneswar,14:16,14:21,864,6,Jammu Tawi,Mumbai Central,2024-01-15
+11058,Amritsar Exp,3,RTM,Ratlam,15:53,15:58,1176,1,Jammu Tawi,Mumbai Central,2024-01-15
+11058,Amritsar Exp,4,MMCT,Mumbai Central,18:12,18:12,285,12,Jammu Tawi,Mumbai Central,2024-01-15
+12009,Shatabdi,1,MMCT,Mumbai Central,,06:05,0,0,Mumbai Central,Ahmedabad,2024-01-15
+12009,Shatabdi,2,ERS,Ernakulam Jn,06:50,06:55,603,34,Mumbai Central,Ahmedabad,2024-01-15
+12009,Shatabdi,3,UDZ,Udaipur City,08:51,08:56,1200,11,Mumbai Central,Ahmedabad,2024-01-15
+12009,Shatabdi,4,RJT,Rajkot,09:53,09:58,372,1,Mumbai Central,Ahmedabad,2024-01-15
+12009,Shatabdi,5,BKN,Bikaner,11:16,11:21,804,0,Mumbai Central,Ahmedabad,2024-01-15
+12009,Shatabdi,6,ADI,Ahmedabad,12:26,12:26,632,13,Mumbai Central,Ahmedabad,2024-01-15
+12010,Shatabdi,1,ADI,Ahmedabad,,08:05,0,9,Ahmedabad,Mumbai Central,2024-01-15
+12010,Shatabdi,2,PNBE,Patna,10:53,10:58,1254,10,Ahmedabad,Mumbai Central,2024-01-15
+12010,Shatabdi,3,SC,Secunderabad,11:51,11:56,1389,11,Ahmedabad,Mumbai Central,2024-01-15
+12010,Shatabdi,4,JU,Jodhpur,13:26,13:31,249,0,Ahmedabad,Mumbai Central,2024-01-15
+12010,Shatabdi,5,RNCL,Ranchi,16:05,16:10,722,3,Ahmedabad,Mumbai Central,2024-01-15
+12010,Shatabdi,6,MMCT,Mumbai Central,18:22,18:22,1353,0,Ahmedabad,Mumbai Central,2024-01-15
+12019,Shatabdi,1,NDLS,New Delhi,,14:50,0,15,New Delhi,Ahmedabad,2024-01-15
+12019,Shatabdi,2,MMCT,Mumbai Central,17:42,17:47,992,7,New Delhi,Ahmedabad,2024-01-15
+12019,Shatabdi,3,VSKP,Visakhapatnam,20:21,20:26,232,3,New Delhi,Ahmedabad,2024-01-15
+12019,Shatabdi,4,BBS,Bhubaneswar,22:11,22:16,326,0,New Delhi,Ahmedabad,2024-01-15
+12019,Shatabdi,5,BKN,Bikaner,23:00,23:05,868,2,New Delhi,Ahmedabad,2024-01-15
+12019,Shatabdi,6,ADI,Ahmedabad,01:53,01:53,91,3,New Delhi,Ahmedabad,2024-01-15
+12020,Shatabdi,1,ADI,Ahmedabad,,20:20,0,10,Ahmedabad,New Delhi,2024-01-15
+12020,Shatabdi,2,SBC,Bangalore City,21:04,21:09,1441,8,Ahmedabad,New Delhi,2024-01-15
+12020,Shatabdi,3,NDLS,New Delhi,21:59,21:59,1277,17,Ahmedabad,New Delhi,2024-01-15
+12723,Telangana Exp,1,HWH,Howrah,,17:05,0,5,Howrah,Secunderabad,2024-01-15
+12723,Telangana Exp,2,PNBE,Patna,20:00,20:05,369,1,Howrah,Secunderabad,2024-01-15
+12723,Telangana Exp,3,SC,Secunderabad,20:45,20:45,929,9,Howrah,Secunderabad,2024-01-15
+12724,Telangana Exp,1,SC,Secunderabad,,12:35,0,11,Secunderabad,Howrah,2024-01-15
+12724,Telangana Exp,2,BBS,Bhubaneswar,14:46,14:51,196,6,Secunderabad,Howrah,2024-01-15
+12724,Telangana Exp,3,AGC,Agra Cantt,16:37,16:42,685,11,Secunderabad,Howrah,2024-01-15
+12724,Telangana Exp,4,CBE,Coimbatore,17:30,17:35,13,5,Secunderabad,Howrah,2024-01-15
+12724,Telangana Exp,5,HWH,Howrah,20:29,20:29,1494,5,Secunderabad,Howrah,2024-01-15
+12637,Pandian Exp,1,MAS,Chennai Central,,09:35,0,4,Chennai Central,Madurai,2024-01-15
+12637,Pandian Exp,2,INDB,Indore,10:22,10:27,1318,0,Chennai Central,Madurai,2024-01-15
+12637,Pandian Exp,3,PNBE,Patna,12:31,12:36,427,0,Chennai Central,Madurai,2024-01-15
+12637,Pandian Exp,4,MDU,Madurai,14:58,14:58,1250,0,Chennai Central,Madurai,2024-01-15
+12638,Pandian Exp,1,MDU,Madurai,,14:05,0,8,Madurai,Chennai Central,2024-01-15
+12638,Pandian Exp,2,RNCL,Ranchi,15:09,15:14,396,3,Madurai,Chennai Central,2024-01-15
+12638,Pandian Exp,3,MAS,Chennai Central,16:11,16:11,1113,5,Madurai,Chennai Central,2024-01-15
+12677,Ernakulam Exp,1,MAS,Chennai Central,,11:35,0,19,Chennai Central,Ernakulam Jn,2024-01-15
+12677,Ernakulam Exp,2,GUH,Guwahati,14:14,14:19,732,2,Chennai Central,Ernakulam Jn,2024-01-15
+12677,Ernakulam Exp,3,GWL,Gwalior,15:02,15:07,138,4,Chennai Central,Ernakulam Jn,2024-01-15
+12677,Ernakulam Exp,4,CBE,Coimbatore,17:25,17:30,1244,11,Chennai Central,Ernakulam Jn,2024-01-15
+12677,Ernakulam Exp,5,ERS,Ernakulam Jn,18:11,18:11,5,2,Chennai Central,Ernakulam Jn,2024-01-15
+12678,Ernakulam Exp,1,ERS,Ernakulam Jn,,18:05,0,0,Ernakulam Jn,Chennai Central,2024-01-15
+12678,Ernakulam Exp,2,PUNE,Pune,19:03,19:08,112,2,Ernakulam Jn,Chennai Central,2024-01-15
+12678,Ernakulam Exp,3,JU,Jodhpur,20:16,20:21,818,1,Ernakulam Jn,Chennai Central,2024-01-15
+12678,Ernakulam Exp,4,RNCL,Ranchi,22:25,22:30,873,21,Ernakulam Jn,Chennai Central,2024-01-15
+12678,Ernakulam Exp,5,MAS,Chennai Central,23:37,23:37,644,13,Ernakulam Jn,Chennai Central,2024-01-15
+22120,Tejas Exp,1,MMCT,Mumbai Central,,11:20,0,8,Mumbai Central,Lucknow,2024-01-15
+22120,Tejas Exp,2,TVC,Thiruvananthapuram,12:16,12:21,530,16,Mumbai Central,Lucknow,2024-01-15
+22120,Tejas Exp,3,HWH,Howrah,15:14,15:19,1326,13,Mumbai Central,Lucknow,2024-01-15
+22120,Tejas Exp,4,ERS,Ernakulam Jn,17:33,17:38,1460,1,Mumbai Central,Lucknow,2024-01-15
+22120,Tejas Exp,5,LKO,Lucknow,18:47,18:47,1388,17,Mumbai Central,Lucknow,2024-01-15
+22119,Tejas Exp,1,LKO,Lucknow,,05:20,0,6,Lucknow,Mumbai Central,2024-01-15
+22119,Tejas Exp,2,BRC,Vadodara,07:15,07:20,1173,13,Lucknow,Mumbai Central,2024-01-15
+22119,Tejas Exp,3,RJT,Rajkot,09:35,09:40,1203,18,Lucknow,Mumbai Central,2024-01-15
+22119,Tejas Exp,4,MMCT,Mumbai Central,11:13,11:13,400,3,Lucknow,Mumbai Central,2024-01-15
+12859,Gitanjali Exp,1,MMCT,Mumbai Central,,19:35,0,0,Mumbai Central,Howrah,2024-01-15
+12859,Gitanjali Exp,2,SBC,Bangalore City,21:23,21:28,1230,2,Mumbai Central,Howrah,2024-01-15
+12859,Gitanjali Exp,3,AII,Ajmer,22:56,23:01,334,4,Mumbai Central,Howrah,2024-01-15
+12859,Gitanjali Exp,4,CNB,Kanpur Central,00:20,00:25,597,13,Mumbai Central,Howrah,2024-01-15
+12859,Gitanjali Exp,5,GWL,Gwalior,02:06,02:11,1296,15,Mumbai Central,Howrah,2024-01-15
+12859,Gitanjali Exp,6,HWH,Howrah,03:52,03:52,526,0,Mumbai Central,Howrah,2024-01-15
+12860,Gitanjali Exp,1,HWH,Howrah,,13:20,0,5,Howrah,Mumbai Central,2024-01-15
+12860,Gitanjali Exp,2,DHN,Dhanbad,16:18,16:23,1443,4,Howrah,Mumbai Central,2024-01-15
+12860,Gitanjali Exp,3,MDU,Madurai,18:00,18:05,57,2,Howrah,Mumbai Central,2024-01-15
+12860,Gitanjali Exp,4,MAS,Chennai Central,20:26,20:31,518,1,Howrah,Mumbai Central,2024-01-15
+12860,Gitanjali Exp,5,BPL,Bhopal,22:21,22:26,654,3,Howrah,Mumbai Central,2024-01-15
+12860,Gitanjali Exp,6,MMCT,Mumbai Central,01:06,01:06,173,22,Howrah,Mumbai Central,2024-01-15

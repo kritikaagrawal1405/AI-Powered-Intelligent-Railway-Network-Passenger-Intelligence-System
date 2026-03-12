@@ -1,0 +1,13 @@
+month,month_name,demand_index,season,peak,festival
+1,Jan,105.0,Winter,No,—
+2,Feb,90.0,Winter,No,—
+3,Mar,125.0,Summer,Yes,Holi
+4,Apr,110.0,Summer,No,—
+5,May,140.0,Summer,Yes,Summer Vacation
+6,Jun,85.0,Monsoon,No,—
+7,Jul,80.0,Monsoon,No,—
+8,Aug,90.0,Monsoon,No,Independence Day
+9,Sep,100.0,Post-Monsoon,No,—
+10,Oct,130.0,Post-Monsoon,Yes,Navratri/Dussehra
+11,Nov,145.0,Post-Monsoon,Yes,Diwali
+12,Dec,120.0,Winter,No,Christmas/New Year

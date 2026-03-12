@@ -1,0 +1,55 @@
+station_code,station_name,latitude,longitude,source
+DBRG,Dibrugarh,27.4728,94.912,pdf_iri
+CAPE,Kanyakumari,8.0883,77.5385,pdf_iri
+SCL,Silchar,24.8333,92.7789,pdf_iri
+TVC,Thiruvananthapuram,8.4855,76.9492,pdf_iri
+SVDK,Shri Mata Vaishno Devi Katra,32.9915,74.9455,pdf_iri
+TEN,Tirunelveli,8.7276,77.7043,pdf_iri
+AGTL,Agartala,23.8315,91.2868,pdf_iri
+SMVB,Bengaluru Cant,12.9957,77.599,pdf_iri
+NTSK,New Tinsukia,27.4969,95.3601,pdf_iri
+RMM,Rameswaram,9.2876,79.3129,pdf_iri
+FZR,Firozpur Cantt,30.9254,74.6137,pdf_iri
+NDLS,New Delhi,28.6419,77.2194,pdf_iri
+MAS,Chennai Central,13.0836,80.2753,pdf_iri
+HWH,Howrah,22.5839,88.3425,pdf_iri
+SBC,Bangalore City,12.9779,77.5672,pdf_iri
+SC,Secunderabad,17.4339,78.5006,pdf_iri
+ADI,Ahmedabad,23.0225,72.5714,pdf_iri
+MMCT,Mumbai Central,18.9693,72.8194,pdf_iri
+LTT,Mumbai LTT,19.0748,72.9028,pdf_iri
+CBE,Coimbatore,11.0168,76.9558,pdf_iri
+GHY,Guwahati,26.1445,91.7362,pdf_iri
+GKP,Gorakhpur,26.7606,83.3732,pdf_iri
+TVCN,Thiruvananthapuram North,8.5119,76.9523,pdf_iri
+ASR,Amritsar,31.634,74.8723,pdf_iri
+OKHA,Okha,22.4668,69.0731,pdf_iri
+TBM,Tambaram,12.9249,80.1,pdf_iri
+SHTT,Shri Hargobindpur Tanda,31.827,75.4574,pdf_iri
+KYQ,Kamakhya,26.163,91.6778,pdf_iri
+GIMB,Gandhidham,23.0753,70.1337,pdf_iri
+LGH,Lalganj,25.8704,82.4008,pdf_iri
+NJP,New Jalpaiguri,26.7053,88.2576,pdf_iri
+NCJ,Nagercoil,8.1776,77.4323,pdf_iri
+YNRK,Rishikesh,30.1158,78.2993,pdf_iri
+SGNR,Sri Ganganagar,29.9175,73.8629,pdf_iri
+TPJ,Tiruchirappalli,10.805,78.6856,pdf_iri
+CDG,Chandigarh,30.7333,76.7794,pdf_iri
+MDU,Madurai,9.9195,78.1193,pdf_iri
+BKN,Bikaner,28.0229,73.3119,pdf_iri
+ERS,Ernakulam Jn,9.9816,76.2999,pdf_iri
+PNBE,Patna,25.6119,85.1439,pdf_iri
+DBG,Darbhanga,26.1542,85.8978,pdf_iri
+MYS,Mysuru,12.3051,76.6551,pdf_iri
+NZM,Hazrat Nizamuddin,28.5713,77.2511,pdf_iri
+JAT,Jammu Tawi,32.7266,74.857,pdf_iri
+TPTY,Tirupati,13.6288,79.4192,pdf_iri
+AYC,Ayodhya Cantt,26.7956,82.204,pdf_iri
+SHC,Saharsa,25.88,86.5951,pdf_iri
+ED,Erode,11.341,77.7172,pdf_iri
+JBN,Jogbani,26.4014,87.2644,pdf_iri
+MQ,Mannargudi,10.6627,79.4521,pdf_iri
+JU,Jodhpur,26.2389,73.0243,pdf_iri
+CHZ,Charlapalli,17.4069,78.5657,pdf_iri
+YPR,Yesvantpur,13.0217,77.5571,pdf_iri
+BJU,Barauni,25.4717,86.0012,pdf_iri

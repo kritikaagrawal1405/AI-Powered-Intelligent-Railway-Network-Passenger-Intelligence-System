@@ -1,0 +1,79 @@
+train_no,train_name,source_code,destination_code,source_station,destination_station,distance_km,duration_min,halts
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,DBRG,CAPE,Dibrugarh,Kanyakumari,4155,4450,58
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,CAPE,DBRG,Kanyakumari,Dibrugarh,4154,4535,58
+12508,Aronai Exp,SCL,TVC,Silchar,Thiruvananthapuram,3916,4395,54
+12507,Aronai Exp,TVC,SCL,Thiruvananthapuram,Silchar,3916,4280,55
+16317,Himsagar Exp,CAPE,SVDK,Kanyakumari,Shri Mata Vaishno Devi Katra,3789,4110,63
+16318,Himsagar Exp,SVDK,CAPE,Shri Mata Vaishno Devi Katra,Kanyakumari,3789,4290,68
+16788,Vaishno Devi Katra Tirunelveli Exp,SVDK,TEN,Shri Mata Vaishno Devi Katra,Tirunelveli,3633,4095,61
+16787,Tirunelveli Vaishno Devi Katra Exp,TEN,SVDK,Tirunelveli,Shri Mata Vaishno Devi Katra,3633,3885,57
+12504,Agartala SMVT Bengaluru Humsafar Exp,AGTL,SMVB,Agartala,Bengaluru Cant,3555,3760,31
+12503,SMVT Bengaluru Agartala Humsafar Exp,SMVB,AGTL,Bengaluru Cant,Agartala,3555,3880,31
+22502,New Tinsukia SMVT Bengaluru SF Exp,NTSK,SMVB,New Tinsukia,Bengaluru Cant,3543,3845,38
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,RMM,FZR,Rameswaram,Firozpur Cantt,3540,3785,42
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,FZR,RMM,Firozpur Cantt,Rameswaram,3540,3760,42
+22501,SMVT Bengaluru New Tinsukia SF Exp,SMVB,NTSK,Bengaluru Cant,New Tinsukia,3544,3655,40
+12515,Coimbatore Silchar SF Exp,CBE,SCL,Coimbatore,Silchar,3493,3975,44
+12516,Silchar Coimbatore SF Exp,SCL,CBE,Silchar,Coimbatore,3493,3875,43
+12521,Barauni Ernakulam Rapti Sagar Exp,BJU,ERS,Barauni,Ernakulam Jn,3434,3640,58
+12522,Ernakulam Barauni Rapti Sagar Exp,ERS,BJU,Ernakulam Jn,Barauni,3434,3680,57
+12483,Thiruvananthapuram North Amritsar SF Exp,TVCN,ASR,Thiruvananthapuram North,Amritsar,3292,3160,26
+12484,Amritsar Thiruvananthapuram North SF,ASR,TVCN,Amritsar,Thiruvananthapuram North,3292,3275,26
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,TVCN,GKP,Thiruvananthapuram North,Gorakhpur,3236,3400,57
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,GKP,TVCN,Gorakhpur,Thiruvananthapuram North,3236,3427,58
+15636,Guwahati Okha Dwarka Exp,GHY,OKHA,Guwahati,Okha,3226,3620,42
+15635,Okha Guwahati Dwarka Exp,OKHA,GHY,Okha,Guwahati,3226,3955,42
+15929,Tambaram New Tinsukia Exp,TBM,NTSK,Tambaram,New Tinsukia,3218,3630,43
+15930,New Tinsukia Tambaram Exp,NTSK,TBM,New Tinsukia,Tambaram,3218,3725,43
+16734,Okha Rameswaram Exp,OKHA,RMM,Okha,Rameswaram,3153,3510,46
+16733,Rameswaram Okha Weekly Exp,RMM,OKHA,Rameswaram,Okha,3153,3570,44
+16601,Erode Jogbani Amrit Bharat Exp,ED,JBN,Erode,Jogbani,3129,3525,49
+16602,Jogbani Erode Amrit Bharat Exp,JBN,ED,Jogbani,Erode,3129,3825,49
+15946,Dibrugarh Mumbai LTT Exp,DBRG,LTT,Dibrugarh,Mumbai LTT,3127,3630,53
+12520,Agartala Mumbai LTT AC SF Exp,AGTL,LTT,Agartala,Mumbai LTT,3127,3405,36
+12519,Mumbai LTT Agartala AC SF Exp,LTT,AGTL,Mumbai LTT,Agartala,3127,3480,36
+15945,Mumbai LTT Dibrugarh Exp,LTT,DBRG,Mumbai LTT,Dibrugarh,3127,3615,51
+15668,Kamakhya Gandhidham Exp,KYQ,GIMB,Kamakhya,Gandhidham,3123,3500,34
+15667,Gandhidham Kamakhya Exp,GIMB,KYQ,Gandhidham,Kamakhya,3123,3795,34
+15909,Avadh Assam Exp,DBRG,LGH,Dibrugarh,Lalganj,3117,3975,95
+15910,Avadh Assam Exp,LGH,DBRG,Lalganj,Dibrugarh,3117,3975,95
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,NJP,NCJ,New Jalpaiguri,Nagercoil,3113,3255,43
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,NCJ,NJP,Nagercoil,New Jalpaiguri,3112,3240,43
+22660,Rishikesh Thiruvananthapuram North SF,YNRK,TVCN,Rishikesh,Thiruvananthapuram North,3111,3255,28
+22659,Thiruvananthapuram North Rishikesh SF,TVCN,YNRK,Thiruvananthapuram North,Rishikesh,3111,3150,27
+22497,Sri Ganganagar Tiruchirappalli Humsafar,SGNR,TPJ,Sri Ganganagar,Tiruchirappalli,3108,3385,36
+22498,Tiruchirappalli Sri Ganganagar Humsafar,TPJ,SGNR,Tiruchirappalli,Sri Ganganagar,3104,3335,36
+12218,Kerala Sampark Kranti Exp,CDG,TVCN,Chandigarh,Thiruvananthapuram North,3088,3060,24
+12217,Kerala Sampark Kranti Exp,TVCN,CDG,Thiruvananthapuram North,Chandigarh,3088,2920,24
+20493,Madurai Chandigarh SF Exp,MDU,CDG,Madurai,Chandigarh,3074,3110,29
+20494,Chandigarh Madurai SF Exp,CDG,MDU,Chandigarh,Madurai,3074,3215,29
+22631,Anuvrat AC SF Exp,MDU,BKN,Madurai,Bikaner,3060,3040,41
+22632,Anuvrat AC SF Exp,BKN,MDU,Bikaner,Madurai,3060,3060,40
+22669,Ernakulam Patna SF Exp,ERS,PNBE,Ernakulam Jn,Patna,3047,3270,34
+22670,Patna Ernakulam SF Exp,PNBE,ERS,Patna,Ernakulam Jn,3047,3190,36
+12577,Bagmati Exp,DBG,MYS,Darbhanga,Mysuru,3036,3145,36
+12578,Bagmati Exp,MYS,DBG,Mysuru,Darbhanga,3036,3220,35
+12625,Kerala Exp,TVC,NDLS,Thiruvananthapuram,New Delhi,3031,2955,42
+12626,Kerala Exp,NDLS,TVC,New Delhi,Thiruvananthapuram,3031,2980,41
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,NZM,TVC,Hazrat Nizamuddin,Thiruvananthapuram,3012,2990,29
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,TVC,NZM,Thiruvananthapuram,Hazrat Nizamuddin,3012,3150,30
+22705,Tirupati Jammu Tawi Humsafar Exp,TPTY,JAT,Tirupati,Jammu Tawi,2985,2690,12
+22706,Jammu Tawi Tirupati Humsafar Exp,JAT,TPTY,Jammu Tawi,Tirupati,2985,2935,12
+12510,Guwahati SMVT Bengaluru SF Exp,GHY,SMVB,Guwahati,Bengaluru Cant,2969,3105,38
+12509,SMVT Bengaluru Guwahati SF Exp,SMVB,GHY,Bengaluru Cant,Guwahati,2968,3190,39
+12641,Thirukkural SF Exp,CAPE,NZM,Kanyakumari,Hazrat Nizamuddin,2919,2765,22
+12642,Thirukkural SF Exp,NZM,CAPE,Hazrat Nizamuddin,Kanyakumari,2919,2805,22
+12432,Hazrat Nizamuddin Thiruvananthapuram Ctrl Raj,NZM,TVC,Hazrat Nizamuddin,Thiruvananthapuram,2846,2479,19
+12431,Thiruvananthapuram Ctrl Hazrat Nizamuddin Raj,TVC,NZM,Thiruvananthapuram,Hazrat Nizamuddin,2844,2475,19
+15934,Amritsar New Tinsukia Exp,ASR,NTSK,Amritsar,New Tinsukia,2812,3570,40
+15933,New Tinsukia Amritsar Exp,NTSK,ASR,New Tinsukia,Amritsar,2812,3545,39
+12621,Tamil Nadu Exp,NDLS,MAS,New Delhi,Chennai Central,2175,1950,42
+12622,Tamil Nadu Exp,MAS,NDLS,Chennai Central,New Delhi,2175,1980,41
+12433,Rajdhani,NDLS,TVC,New Delhi,Thiruvananthapuram,2846,2479,19
+12434,Rajdhani,TVC,NDLS,Thiruvananthapuram,New Delhi,2846,2475,19
+12295,Sanghamitra Express,SBC,PNBE,Bangalore City,Patna,2459,2760,40
+12296,Sanghamitra Express,PNBE,SBC,Patna,Bangalore City,2459,2790,40
+12841,Coromandel Express,HWH,MAS,Howrah,Chennai Central,1663,1590,5
+12842,Coromandel Express,MAS,HWH,Chennai Central,Howrah,1663,1590,5
+12839,Howrah Mail,MAS,HWH,Chennai Central,Howrah,1663,1560,30
+12840,Howrah Mail,HWH,MAS,Howrah,Chennai Central,1663,1560,30

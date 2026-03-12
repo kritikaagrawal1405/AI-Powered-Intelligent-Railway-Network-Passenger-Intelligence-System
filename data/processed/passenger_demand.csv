@@ -1,0 +1,1801 @@
+train_number,train_name,source_station,destination_station,capacity,month,season,demand_multiplier,estimated_passengers,occupancy_rate,waitlist_count,crowd_level
+11013,Coimbatore Express,Lokmanyatilak T,Thane,1800,1,Winter,1.05,1378,0.766,0,Moderate
+11013,Coimbatore Express,Lokmanyatilak T,Thane,1800,2,Winter,0.9,1245,0.692,0,Low
+11013,Coimbatore Express,Lokmanyatilak T,Thane,1800,3,Summer,1.25,1566,0.87,0,Moderate
+11013,Coimbatore Express,Lokmanyatilak T,Thane,1800,4,Summer,1.1,1393,0.774,0,Moderate
+11013,Coimbatore Express,Lokmanyatilak T,Thane,1800,5,Summer,1.4,1879,1.044,47,High
+11013,Coimbatore Express,Lokmanyatilak T,Thane,1800,6,Monsoon,0.85,1042,0.579,0,Low
+11013,Coimbatore Express,Lokmanyatilak T,Thane,1800,7,Monsoon,0.8,1062,0.59,0,Low
+11013,Coimbatore Express,Lokmanyatilak T,Thane,1800,8,Monsoon,0.9,1094,0.608,0,Low
+11013,Coimbatore Express,Lokmanyatilak T,Thane,1800,9,Post-Monsoon,1.0,1249,0.694,0,Low
+11013,Coimbatore Express,Lokmanyatilak T,Thane,1800,10,Post-Monsoon,1.3,1708,0.949,0,High
+11013,Coimbatore Express,Lokmanyatilak T,Thane,1800,11,Post-Monsoon,1.45,2039,1.133,143,Overcrowded
+11013,Coimbatore Express,Lokmanyatilak T,Thane,1800,12,Winter,1.2,1665,0.925,0,High
+11014,Coimbatore Express,Coimbatore Jn,Tiruppur,1800,1,Winter,1.05,1402,0.779,0,Moderate
+11014,Coimbatore Express,Coimbatore Jn,Tiruppur,1800,2,Winter,0.9,1087,0.604,0,Low
+11014,Coimbatore Express,Coimbatore Jn,Tiruppur,1800,3,Summer,1.25,1530,0.85,0,Moderate
+11014,Coimbatore Express,Coimbatore Jn,Tiruppur,1800,4,Summer,1.1,1425,0.792,0,Moderate
+11014,Coimbatore Express,Coimbatore Jn,Tiruppur,1800,5,Summer,1.4,1656,0.92,0,High
+11014,Coimbatore Express,Coimbatore Jn,Tiruppur,1800,6,Monsoon,0.85,1090,0.606,0,Low
+11014,Coimbatore Express,Coimbatore Jn,Tiruppur,1800,7,Monsoon,0.8,939,0.522,0,Low
+11014,Coimbatore Express,Coimbatore Jn,Tiruppur,1800,8,Monsoon,0.9,1085,0.603,0,Low
+11014,Coimbatore Express,Coimbatore Jn,Tiruppur,1800,9,Post-Monsoon,1.0,1269,0.705,0,Moderate
+11014,Coimbatore Express,Coimbatore Jn,Tiruppur,1800,10,Post-Monsoon,1.3,1765,0.981,0,High
+11014,Coimbatore Express,Coimbatore Jn,Tiruppur,1800,11,Post-Monsoon,1.45,1942,1.079,85,Overcrowded
+11014,Coimbatore Express,Coimbatore Jn,Tiruppur,1800,12,Winter,1.2,1470,0.817,0,Moderate
+11027,Mumbai Chennai Mail,Dadar,Thane,1500,1,Winter,1.05,1233,0.822,0,Moderate
+11027,Mumbai Chennai Mail,Dadar,Thane,1500,2,Winter,0.9,1078,0.719,0,Moderate
+11027,Mumbai Chennai Mail,Dadar,Thane,1500,3,Summer,1.25,1449,0.966,0,High
+11027,Mumbai Chennai Mail,Dadar,Thane,1500,4,Summer,1.1,1203,0.802,0,Moderate
+11027,Mumbai Chennai Mail,Dadar,Thane,1500,5,Summer,1.4,1677,1.118,106,Overcrowded
+11027,Mumbai Chennai Mail,Dadar,Thane,1500,6,Monsoon,0.85,924,0.616,0,Low
+11027,Mumbai Chennai Mail,Dadar,Thane,1500,7,Monsoon,0.8,840,0.56,0,Low
+11027,Mumbai Chennai Mail,Dadar,Thane,1500,8,Monsoon,0.9,1012,0.675,0,Low
+11027,Mumbai Chennai Mail,Dadar,Thane,1500,9,Post-Monsoon,1.0,1174,0.783,0,Moderate
+11027,Mumbai Chennai Mail,Dadar,Thane,1500,10,Post-Monsoon,1.3,1578,1.052,46,Overcrowded
+11027,Mumbai Chennai Mail,Dadar,Thane,1500,11,Post-Monsoon,1.45,1612,1.075,67,Overcrowded
+11027,Mumbai Chennai Mail,Dadar,Thane,1500,12,Winter,1.2,1369,0.913,0,High
+11028,Mumbai Chennai Mail,Satara,Koregaon,1500,1,Winter,1.05,1116,0.744,0,Moderate
+11028,Mumbai Chennai Mail,Satara,Koregaon,1500,2,Winter,0.9,925,0.617,0,Low
+11028,Mumbai Chennai Mail,Satara,Koregaon,1500,3,Summer,1.25,1213,0.809,0,Moderate
+11028,Mumbai Chennai Mail,Satara,Koregaon,1500,4,Summer,1.1,1168,0.779,0,Moderate
+11028,Mumbai Chennai Mail,Satara,Koregaon,1500,5,Summer,1.4,1350,0.9,0,High
+11028,Mumbai Chennai Mail,Satara,Koregaon,1500,6,Monsoon,0.85,790,0.527,0,Low
+11028,Mumbai Chennai Mail,Satara,Koregaon,1500,7,Monsoon,0.8,798,0.532,0,Low
+11028,Mumbai Chennai Mail,Satara,Koregaon,1500,8,Monsoon,0.9,937,0.625,0,Low
+11028,Mumbai Chennai Mail,Satara,Koregaon,1500,9,Post-Monsoon,1.0,1077,0.718,0,Moderate
+11028,Mumbai Chennai Mail,Satara,Koregaon,1500,10,Post-Monsoon,1.3,1282,0.855,0,Moderate
+11028,Mumbai Chennai Mail,Satara,Koregaon,1500,11,Post-Monsoon,1.45,1468,0.979,0,High
+11028,Mumbai Chennai Mail,Satara,Koregaon,1500,12,Winter,1.2,1188,0.792,0,Moderate
+12001,Shatabdi,Rani Kamlapati,Bhopal Jn,850,1,Winter,1.05,714,0.84,0,Moderate
+12001,Shatabdi,Rani Kamlapati,Bhopal Jn,850,2,Winter,0.9,623,0.734,0,Moderate
+12001,Shatabdi,Rani Kamlapati,Bhopal Jn,850,3,Summer,1.25,923,1.086,43,Overcrowded
+12001,Shatabdi,Rani Kamlapati,Bhopal Jn,850,4,Summer,1.1,722,0.85,0,Moderate
+12001,Shatabdi,Rani Kamlapati,Bhopal Jn,850,5,Summer,1.4,1022,1.203,103,Overcrowded
+12001,Shatabdi,Rani Kamlapati,Bhopal Jn,850,6,Monsoon,0.85,544,0.641,0,Low
+12001,Shatabdi,Rani Kamlapati,Bhopal Jn,850,7,Monsoon,0.8,583,0.686,0,Low
+12001,Shatabdi,Rani Kamlapati,Bhopal Jn,850,8,Monsoon,0.9,570,0.671,0,Low
+12001,Shatabdi,Rani Kamlapati,Bhopal Jn,850,9,Post-Monsoon,1.0,717,0.844,0,Moderate
+12001,Shatabdi,Rani Kamlapati,Bhopal Jn,850,10,Post-Monsoon,1.3,847,0.997,0,High
+12001,Shatabdi,Rani Kamlapati,Bhopal Jn,850,11,Post-Monsoon,1.45,941,1.108,55,Overcrowded
+12001,Shatabdi,Rani Kamlapati,Bhopal Jn,850,12,Winter,1.2,861,1.014,7,High
+12002,Shatabdi,New Delhi,Mathura Jn,850,1,Winter,1.05,855,1.006,3,High
+12002,Shatabdi,New Delhi,Mathura Jn,850,2,Winter,0.9,781,0.919,0,High
+12002,Shatabdi,New Delhi,Mathura Jn,850,3,Summer,1.25,964,1.135,68,Overcrowded
+12002,Shatabdi,New Delhi,Mathura Jn,850,4,Summer,1.1,944,1.111,56,Overcrowded
+12002,Shatabdi,New Delhi,Mathura Jn,850,5,Summer,1.4,1054,1.24,122,Overcrowded
+12002,Shatabdi,New Delhi,Mathura Jn,850,6,Monsoon,0.85,727,0.856,0,Moderate
+12002,Shatabdi,New Delhi,Mathura Jn,850,7,Monsoon,0.8,595,0.7,0,Moderate
+12002,Shatabdi,New Delhi,Mathura Jn,850,8,Monsoon,0.9,758,0.892,0,Moderate
+12002,Shatabdi,New Delhi,Mathura Jn,850,9,Post-Monsoon,1.0,765,0.901,0,High
+12002,Shatabdi,New Delhi,Mathura Jn,850,10,Post-Monsoon,1.3,991,1.167,85,Overcrowded
+12002,Shatabdi,New Delhi,Mathura Jn,850,11,Post-Monsoon,1.45,1147,1.35,178,Overcrowded
+12002,Shatabdi,New Delhi,Mathura Jn,850,12,Winter,1.2,971,1.143,72,Overcrowded
+12009,Shatabdi,Mumbai Central,Borivali,850,1,Winter,1.05,677,0.797,0,Moderate
+12009,Shatabdi,Mumbai Central,Borivali,850,2,Winter,0.9,527,0.621,0,Low
+12009,Shatabdi,Mumbai Central,Borivali,850,3,Summer,1.25,730,0.859,0,Moderate
+12009,Shatabdi,Mumbai Central,Borivali,850,4,Summer,1.1,710,0.836,0,Moderate
+12009,Shatabdi,Mumbai Central,Borivali,850,5,Summer,1.4,867,1.021,10,High
+12009,Shatabdi,Mumbai Central,Borivali,850,6,Monsoon,0.85,555,0.653,0,Low
+12009,Shatabdi,Mumbai Central,Borivali,850,7,Monsoon,0.8,472,0.556,0,Low
+12009,Shatabdi,Mumbai Central,Borivali,850,8,Monsoon,0.9,538,0.633,0,Low
+12009,Shatabdi,Mumbai Central,Borivali,850,9,Post-Monsoon,1.0,633,0.745,0,Moderate
+12009,Shatabdi,Mumbai Central,Borivali,850,10,Post-Monsoon,1.3,752,0.885,0,Moderate
+12009,Shatabdi,Mumbai Central,Borivali,850,11,Post-Monsoon,1.45,909,1.07,35,Overcrowded
+12009,Shatabdi,Mumbai Central,Borivali,850,12,Winter,1.2,688,0.81,0,Moderate
+12010,Shatabdi,Ahmedabad Jn,Nadiad Jn,850,1,Winter,1.05,583,0.687,0,Low
+12010,Shatabdi,Ahmedabad Jn,Nadiad Jn,850,2,Winter,0.9,498,0.586,0,Low
+12010,Shatabdi,Ahmedabad Jn,Nadiad Jn,850,3,Summer,1.25,765,0.9,0,High
+12010,Shatabdi,Ahmedabad Jn,Nadiad Jn,850,4,Summer,1.1,646,0.76,0,Moderate
+12010,Shatabdi,Ahmedabad Jn,Nadiad Jn,850,5,Summer,1.4,866,1.019,9,High
+12010,Shatabdi,Ahmedabad Jn,Nadiad Jn,850,6,Monsoon,0.85,476,0.56,0,Low
+12010,Shatabdi,Ahmedabad Jn,Nadiad Jn,850,7,Monsoon,0.8,453,0.534,0,Low
+12010,Shatabdi,Ahmedabad Jn,Nadiad Jn,850,8,Monsoon,0.9,540,0.636,0,Low
+12010,Shatabdi,Ahmedabad Jn,Nadiad Jn,850,9,Post-Monsoon,1.0,548,0.645,0,Low
+12010,Shatabdi,Ahmedabad Jn,Nadiad Jn,850,10,Post-Monsoon,1.3,772,0.909,0,High
+12010,Shatabdi,Ahmedabad Jn,Nadiad Jn,850,11,Post-Monsoon,1.45,788,0.928,0,High
+12010,Shatabdi,Ahmedabad Jn,Nadiad Jn,850,12,Winter,1.2,670,0.789,0,Moderate
+12019,Shatabdi,Howrah Jn,Durgapur,850,1,Winter,1.05,829,0.976,0,High
+12019,Shatabdi,Howrah Jn,Durgapur,850,2,Winter,0.9,651,0.766,0,Moderate
+12019,Shatabdi,Howrah Jn,Durgapur,850,3,Summer,1.25,929,1.093,47,Overcrowded
+12019,Shatabdi,Howrah Jn,Durgapur,850,4,Summer,1.1,859,1.011,5,High
+12019,Shatabdi,Howrah Jn,Durgapur,850,5,Summer,1.4,1147,1.35,178,Overcrowded
+12019,Shatabdi,Howrah Jn,Durgapur,850,6,Monsoon,0.85,702,0.826,0,Moderate
+12019,Shatabdi,Howrah Jn,Durgapur,850,7,Monsoon,0.8,604,0.711,0,Moderate
+12019,Shatabdi,Howrah Jn,Durgapur,850,8,Monsoon,0.9,692,0.815,0,Moderate
+12019,Shatabdi,Howrah Jn,Durgapur,850,9,Post-Monsoon,1.0,808,0.951,0,High
+12019,Shatabdi,Howrah Jn,Durgapur,850,10,Post-Monsoon,1.3,1071,1.261,133,Overcrowded
+12019,Shatabdi,Howrah Jn,Durgapur,850,11,Post-Monsoon,1.45,1147,1.35,178,Overcrowded
+12019,Shatabdi,Howrah Jn,Durgapur,850,12,Winter,1.2,903,1.063,32,Overcrowded
+12020,Shatabdi,Ranchi,Muri,850,1,Winter,1.05,572,0.674,0,Low
+12020,Shatabdi,Ranchi,Muri,850,2,Winter,0.9,504,0.593,0,Low
+12020,Shatabdi,Ranchi,Muri,850,3,Summer,1.25,736,0.867,0,Moderate
+12020,Shatabdi,Ranchi,Muri,850,4,Summer,1.1,694,0.817,0,Moderate
+12020,Shatabdi,Ranchi,Muri,850,5,Summer,1.4,871,1.025,12,High
+12020,Shatabdi,Ranchi,Muri,850,6,Monsoon,0.85,484,0.57,0,Low
+12020,Shatabdi,Ranchi,Muri,850,7,Monsoon,0.8,464,0.547,0,Low
+12020,Shatabdi,Ranchi,Muri,850,8,Monsoon,0.9,548,0.645,0,Low
+12020,Shatabdi,Ranchi,Muri,850,9,Post-Monsoon,1.0,622,0.732,0,Moderate
+12020,Shatabdi,Ranchi,Muri,850,10,Post-Monsoon,1.3,782,0.92,0,High
+12020,Shatabdi,Ranchi,Muri,850,11,Post-Monsoon,1.45,822,0.968,0,High
+12020,Shatabdi,Ranchi,Muri,850,12,Winter,1.2,745,0.877,0,Moderate
+12049,Gatimaan Express,Gwalior,Agra Cantt,1800,1,Winter,1.05,1576,0.876,0,Moderate
+12049,Gatimaan Express,Gwalior,Agra Cantt,1800,2,Winter,0.9,1391,0.773,0,Moderate
+12049,Gatimaan Express,Gwalior,Agra Cantt,1800,3,Summer,1.25,1976,1.098,105,Overcrowded
+12049,Gatimaan Express,Gwalior,Agra Cantt,1800,4,Summer,1.1,1746,0.97,0,High
+12049,Gatimaan Express,Gwalior,Agra Cantt,1800,5,Summer,1.4,2077,1.154,166,Overcrowded
+12049,Gatimaan Express,Gwalior,Agra Cantt,1800,6,Monsoon,0.85,1195,0.664,0,Low
+12049,Gatimaan Express,Gwalior,Agra Cantt,1800,7,Monsoon,0.8,1296,0.72,0,Moderate
+12049,Gatimaan Express,Gwalior,Agra Cantt,1800,8,Monsoon,0.9,1263,0.702,0,Moderate
+12049,Gatimaan Express,Gwalior,Agra Cantt,1800,9,Post-Monsoon,1.0,1470,0.817,0,Moderate
+12049,Gatimaan Express,Gwalior,Agra Cantt,1800,10,Post-Monsoon,1.3,2086,1.159,171,Overcrowded
+12049,Gatimaan Express,Gwalior,Agra Cantt,1800,11,Post-Monsoon,1.45,2109,1.172,185,Overcrowded
+12049,Gatimaan Express,Gwalior,Agra Cantt,1800,12,Winter,1.2,1897,1.054,58,Overcrowded
+12050,Gatimaan Express,H Nizamuddin,Agra Cantt,1800,1,Winter,1.05,1603,0.891,0,Moderate
+12050,Gatimaan Express,H Nizamuddin,Agra Cantt,1800,2,Winter,0.9,1405,0.781,0,Moderate
+12050,Gatimaan Express,H Nizamuddin,Agra Cantt,1800,3,Summer,1.25,1958,1.088,95,Overcrowded
+12050,Gatimaan Express,H Nizamuddin,Agra Cantt,1800,4,Summer,1.1,1612,0.896,0,Moderate
+12050,Gatimaan Express,H Nizamuddin,Agra Cantt,1800,5,Summer,1.4,1944,1.08,86,Overcrowded
+12050,Gatimaan Express,H Nizamuddin,Agra Cantt,1800,6,Monsoon,0.85,1360,0.756,0,Moderate
+12050,Gatimaan Express,H Nizamuddin,Agra Cantt,1800,7,Monsoon,0.8,1108,0.616,0,Low
+12050,Gatimaan Express,H Nizamuddin,Agra Cantt,1800,8,Monsoon,0.9,1306,0.726,0,Moderate
+12050,Gatimaan Express,H Nizamuddin,Agra Cantt,1800,9,Post-Monsoon,1.0,1585,0.881,0,Moderate
+12050,Gatimaan Express,H Nizamuddin,Agra Cantt,1800,10,Post-Monsoon,1.3,1868,1.038,41,High
+12050,Gatimaan Express,H Nizamuddin,Agra Cantt,1800,11,Post-Monsoon,1.45,2264,1.258,278,Overcrowded
+12050,Gatimaan Express,H Nizamuddin,Agra Cantt,1800,12,Winter,1.2,1648,0.916,0,High
+12137,Punjab Mail,C Shivaji Term Mumbai,Dadar,1500,1,Winter,1.05,1138,0.759,0,Moderate
+12137,Punjab Mail,C Shivaji Term Mumbai,Dadar,1500,2,Winter,0.9,937,0.625,0,Low
+12137,Punjab Mail,C Shivaji Term Mumbai,Dadar,1500,3,Summer,1.25,1356,0.904,0,High
+12137,Punjab Mail,C Shivaji Term Mumbai,Dadar,1500,4,Summer,1.1,1224,0.816,0,Moderate
+12137,Punjab Mail,C Shivaji Term Mumbai,Dadar,1500,5,Summer,1.4,1554,1.036,32,High
+12137,Punjab Mail,C Shivaji Term Mumbai,Dadar,1500,6,Monsoon,0.85,921,0.614,0,Low
+12137,Punjab Mail,C Shivaji Term Mumbai,Dadar,1500,7,Monsoon,0.8,780,0.52,0,Low
+12137,Punjab Mail,C Shivaji Term Mumbai,Dadar,1500,8,Monsoon,0.9,906,0.604,0,Low
+12137,Punjab Mail,C Shivaji Term Mumbai,Dadar,1500,9,Post-Monsoon,1.0,1042,0.695,0,Low
+12137,Punjab Mail,C Shivaji Term Mumbai,Dadar,1500,10,Post-Monsoon,1.3,1327,0.885,0,Moderate
+12137,Punjab Mail,C Shivaji Term Mumbai,Dadar,1500,11,Post-Monsoon,1.45,1531,1.021,18,High
+12137,Punjab Mail,C Shivaji Term Mumbai,Dadar,1500,12,Winter,1.2,1327,0.885,0,Moderate
+12138,Punjab Mail,Firozpur Cant,Faridkot,1500,1,Winter,1.05,1044,0.696,0,Low
+12138,Punjab Mail,Firozpur Cant,Faridkot,1500,2,Winter,0.9,933,0.622,0,Low
+12138,Punjab Mail,Firozpur Cant,Faridkot,1500,3,Summer,1.25,1329,0.886,0,Moderate
+12138,Punjab Mail,Firozpur Cant,Faridkot,1500,4,Summer,1.1,1167,0.778,0,Moderate
+12138,Punjab Mail,Firozpur Cant,Faridkot,1500,5,Summer,1.4,1447,0.965,0,High
+12138,Punjab Mail,Firozpur Cant,Faridkot,1500,6,Monsoon,0.85,792,0.528,0,Low
+12138,Punjab Mail,Firozpur Cant,Faridkot,1500,7,Monsoon,0.8,769,0.513,0,Low
+12138,Punjab Mail,Firozpur Cant,Faridkot,1500,8,Monsoon,0.9,897,0.598,0,Low
+12138,Punjab Mail,Firozpur Cant,Faridkot,1500,9,Post-Monsoon,1.0,975,0.65,0,Low
+12138,Punjab Mail,Firozpur Cant,Faridkot,1500,10,Post-Monsoon,1.3,1311,0.874,0,Moderate
+12138,Punjab Mail,Firozpur Cant,Faridkot,1500,11,Post-Monsoon,1.45,1533,1.022,19,High
+12138,Punjab Mail,Firozpur Cant,Faridkot,1500,12,Winter,1.2,1273,0.849,0,Moderate
+12163,Chennai Express,Lonavala,Pune Jn,1800,1,Winter,1.05,1492,0.829,0,Moderate
+12163,Chennai Express,Lonavala,Pune Jn,1800,2,Winter,0.9,1377,0.765,0,Moderate
+12163,Chennai Express,Lonavala,Pune Jn,1800,3,Summer,1.25,1760,0.978,0,High
+12163,Chennai Express,Lonavala,Pune Jn,1800,4,Summer,1.1,1702,0.946,0,High
+12163,Chennai Express,Lonavala,Pune Jn,1800,5,Summer,1.4,2068,1.149,160,Overcrowded
+12163,Chennai Express,Lonavala,Pune Jn,1800,6,Monsoon,0.85,1270,0.706,0,Moderate
+12163,Chennai Express,Lonavala,Pune Jn,1800,7,Monsoon,0.8,1080,0.6,0,Low
+12163,Chennai Express,Lonavala,Pune Jn,1800,8,Monsoon,0.9,1342,0.746,0,Moderate
+12163,Chennai Express,Lonavala,Pune Jn,1800,9,Post-Monsoon,1.0,1373,0.763,0,Moderate
+12163,Chennai Express,Lonavala,Pune Jn,1800,10,Post-Monsoon,1.3,1767,0.982,0,High
+12163,Chennai Express,Lonavala,Pune Jn,1800,11,Post-Monsoon,1.45,2095,1.164,177,Overcrowded
+12163,Chennai Express,Lonavala,Pune Jn,1800,12,Winter,1.2,1830,1.017,18,High
+12164,Chennai Express,Chennai Central,Arakkonam,1800,1,Winter,1.05,1584,0.88,0,Moderate
+12164,Chennai Express,Chennai Central,Arakkonam,1800,2,Winter,0.9,1249,0.694,0,Low
+12164,Chennai Express,Chennai Central,Arakkonam,1800,3,Summer,1.25,1906,1.059,63,Overcrowded
+12164,Chennai Express,Chennai Central,Arakkonam,1800,4,Summer,1.1,1602,0.89,0,Moderate
+12164,Chennai Express,Chennai Central,Arakkonam,1800,5,Summer,1.4,2061,1.145,156,Overcrowded
+12164,Chennai Express,Chennai Central,Arakkonam,1800,6,Monsoon,0.85,1132,0.629,0,Low
+12164,Chennai Express,Chennai Central,Arakkonam,1800,7,Monsoon,0.8,1175,0.653,0,Low
+12164,Chennai Express,Chennai Central,Arakkonam,1800,8,Monsoon,0.9,1218,0.677,0,Low
+12164,Chennai Express,Chennai Central,Arakkonam,1800,9,Post-Monsoon,1.0,1341,0.745,0,Moderate
+12164,Chennai Express,Chennai Central,Arakkonam,1800,10,Post-Monsoon,1.3,1852,1.029,31,High
+12164,Chennai Express,Chennai Central,Arakkonam,1800,11,Post-Monsoon,1.45,2179,1.211,227,Overcrowded
+12164,Chennai Express,Chennai Central,Arakkonam,1800,12,Winter,1.2,1681,0.934,0,High
+12201,Garib Rath,Thane,Panvel,1500,1,Winter,1.05,1153,0.769,0,Moderate
+12201,Garib Rath,Thane,Panvel,1500,2,Winter,0.9,1092,0.728,0,Moderate
+12201,Garib Rath,Thane,Panvel,1500,3,Summer,1.25,1536,1.024,21,High
+12201,Garib Rath,Thane,Panvel,1500,4,Summer,1.1,1357,0.905,0,High
+12201,Garib Rath,Thane,Panvel,1500,5,Summer,1.4,1590,1.06,54,Overcrowded
+12201,Garib Rath,Thane,Panvel,1500,6,Monsoon,0.85,978,0.652,0,Low
+12201,Garib Rath,Thane,Panvel,1500,7,Monsoon,0.8,862,0.575,0,Low
+12201,Garib Rath,Thane,Panvel,1500,8,Monsoon,0.9,1090,0.727,0,Moderate
+12201,Garib Rath,Thane,Panvel,1500,9,Post-Monsoon,1.0,1075,0.717,0,Moderate
+12201,Garib Rath,Thane,Panvel,1500,10,Post-Monsoon,1.3,1561,1.041,36,High
+12201,Garib Rath,Thane,Panvel,1500,11,Post-Monsoon,1.45,1594,1.063,56,Overcrowded
+12201,Garib Rath,Thane,Panvel,1500,12,Winter,1.2,1317,0.878,0,Moderate
+12202,Garib Rath,Trivandrum North,Kollam Jn,1500,1,Winter,1.05,1177,0.785,0,Moderate
+12202,Garib Rath,Trivandrum North,Kollam Jn,1500,2,Winter,0.9,1021,0.681,0,Low
+12202,Garib Rath,Trivandrum North,Kollam Jn,1500,3,Summer,1.25,1425,0.95,0,High
+12202,Garib Rath,Trivandrum North,Kollam Jn,1500,4,Summer,1.1,1155,0.77,0,Moderate
+12202,Garib Rath,Trivandrum North,Kollam Jn,1500,5,Summer,1.4,1488,0.992,0,High
+12202,Garib Rath,Trivandrum North,Kollam Jn,1500,6,Monsoon,0.85,845,0.564,0,Low
+12202,Garib Rath,Trivandrum North,Kollam Jn,1500,7,Monsoon,0.8,897,0.598,0,Low
+12202,Garib Rath,Trivandrum North,Kollam Jn,1500,8,Monsoon,0.9,894,0.596,0,Low
+12202,Garib Rath,Trivandrum North,Kollam Jn,1500,9,Post-Monsoon,1.0,1110,0.74,0,Moderate
+12202,Garib Rath,Trivandrum North,Kollam Jn,1500,10,Post-Monsoon,1.3,1321,0.881,0,Moderate
+12202,Garib Rath,Trivandrum North,Kollam Jn,1500,11,Post-Monsoon,1.45,1470,0.98,0,High
+12202,Garib Rath,Trivandrum North,Kollam Jn,1500,12,Winter,1.2,1182,0.788,0,Moderate
+12235,Duronto Express,Madhupur Jn,Jasidih Jn,1100,1,Winter,1.05,767,0.698,0,Low
+12235,Duronto Express,Madhupur Jn,Jasidih Jn,1100,2,Winter,0.9,760,0.691,0,Low
+12235,Duronto Express,Madhupur Jn,Jasidih Jn,1100,3,Summer,1.25,911,0.829,0,Moderate
+12235,Duronto Express,Madhupur Jn,Jasidih Jn,1100,4,Summer,1.1,836,0.76,0,Moderate
+12235,Duronto Express,Madhupur Jn,Jasidih Jn,1100,5,Summer,1.4,1061,0.965,0,High
+12235,Duronto Express,Madhupur Jn,Jasidih Jn,1100,6,Monsoon,0.85,678,0.617,0,Low
+12235,Duronto Express,Madhupur Jn,Jasidih Jn,1100,7,Monsoon,0.8,645,0.587,0,Low
+12235,Duronto Express,Madhupur Jn,Jasidih Jn,1100,8,Monsoon,0.9,672,0.611,0,Low
+12235,Duronto Express,Madhupur Jn,Jasidih Jn,1100,9,Post-Monsoon,1.0,757,0.689,0,Low
+12235,Duronto Express,Madhupur Jn,Jasidih Jn,1100,10,Post-Monsoon,1.3,1085,0.987,0,High
+12235,Duronto Express,Madhupur Jn,Jasidih Jn,1100,11,Post-Monsoon,1.45,1133,1.03,19,High
+12235,Duronto Express,Madhupur Jn,Jasidih Jn,1100,12,Winter,1.2,920,0.837,0,Moderate
+12236,Duronto Express,Anand Vihar Trm,Kanpur Central,1100,1,Winter,1.05,918,0.835,0,Moderate
+12236,Duronto Express,Anand Vihar Trm,Kanpur Central,1100,2,Winter,0.9,679,0.618,0,Low
+12236,Duronto Express,Anand Vihar Trm,Kanpur Central,1100,3,Summer,1.25,983,0.894,0,Moderate
+12236,Duronto Express,Anand Vihar Trm,Kanpur Central,1100,4,Summer,1.1,863,0.785,0,Moderate
+12236,Duronto Express,Anand Vihar Trm,Kanpur Central,1100,5,Summer,1.4,1157,1.052,34,Overcrowded
+12236,Duronto Express,Anand Vihar Trm,Kanpur Central,1100,6,Monsoon,0.85,710,0.646,0,Low
+12236,Duronto Express,Anand Vihar Trm,Kanpur Central,1100,7,Monsoon,0.8,619,0.563,0,Low
+12236,Duronto Express,Anand Vihar Trm,Kanpur Central,1100,8,Monsoon,0.9,706,0.642,0,Low
+12236,Duronto Express,Anand Vihar Trm,Kanpur Central,1100,9,Post-Monsoon,1.0,864,0.786,0,Moderate
+12236,Duronto Express,Anand Vihar Trm,Kanpur Central,1100,10,Post-Monsoon,1.3,1051,0.956,0,High
+12236,Duronto Express,Anand Vihar Trm,Kanpur Central,1100,11,Post-Monsoon,1.45,1151,1.047,31,High
+12236,Duronto Express,Anand Vihar Trm,Kanpur Central,1100,12,Winter,1.2,1004,0.913,0,High
+12245,Duronto Express,Howrah Jn,Bhubaneswar,1100,1,Winter,1.05,1076,0.979,0,High
+12245,Duronto Express,Howrah Jn,Bhubaneswar,1100,2,Winter,0.9,906,0.824,0,Moderate
+12245,Duronto Express,Howrah Jn,Bhubaneswar,1100,3,Summer,1.25,1326,1.206,135,Overcrowded
+12245,Duronto Express,Howrah Jn,Bhubaneswar,1100,4,Summer,1.1,1135,1.032,21,High
+12245,Duronto Express,Howrah Jn,Bhubaneswar,1100,5,Summer,1.4,1375,1.25,165,Overcrowded
+12245,Duronto Express,Howrah Jn,Bhubaneswar,1100,6,Monsoon,0.85,894,0.813,0,Moderate
+12245,Duronto Express,Howrah Jn,Bhubaneswar,1100,7,Monsoon,0.8,757,0.689,0,Low
+12245,Duronto Express,Howrah Jn,Bhubaneswar,1100,8,Monsoon,0.9,891,0.81,0,Moderate
+12245,Duronto Express,Howrah Jn,Bhubaneswar,1100,9,Post-Monsoon,1.0,1031,0.938,0,High
+12245,Duronto Express,Howrah Jn,Bhubaneswar,1100,10,Post-Monsoon,1.3,1329,1.209,137,Overcrowded
+12245,Duronto Express,Howrah Jn,Bhubaneswar,1100,11,Post-Monsoon,1.45,1383,1.258,170,Overcrowded
+12245,Duronto Express,Howrah Jn,Bhubaneswar,1100,12,Winter,1.2,1320,1.2,131,Overcrowded
+12246,Duronto Express,Smvt Bengaluru,Renigunta Jn,1100,1,Winter,1.05,864,0.786,0,Moderate
+12246,Duronto Express,Smvt Bengaluru,Renigunta Jn,1100,2,Winter,0.9,779,0.709,0,Moderate
+12246,Duronto Express,Smvt Bengaluru,Renigunta Jn,1100,3,Summer,1.25,1053,0.958,0,High
+12246,Duronto Express,Smvt Bengaluru,Renigunta Jn,1100,4,Summer,1.1,883,0.803,0,Moderate
+12246,Duronto Express,Smvt Bengaluru,Renigunta Jn,1100,5,Summer,1.4,1203,1.094,62,Overcrowded
+12246,Duronto Express,Smvt Bengaluru,Renigunta Jn,1100,6,Monsoon,0.85,657,0.598,0,Low
+12246,Duronto Express,Smvt Bengaluru,Renigunta Jn,1100,7,Monsoon,0.8,646,0.588,0,Low
+12246,Duronto Express,Smvt Bengaluru,Renigunta Jn,1100,8,Monsoon,0.9,757,0.689,0,Low
+12246,Duronto Express,Smvt Bengaluru,Renigunta Jn,1100,9,Post-Monsoon,1.0,836,0.76,0,Moderate
+12246,Duronto Express,Smvt Bengaluru,Renigunta Jn,1100,10,Post-Monsoon,1.3,1014,0.922,0,High
+12246,Duronto Express,Smvt Bengaluru,Renigunta Jn,1100,11,Post-Monsoon,1.45,1303,1.185,122,Overcrowded
+12246,Duronto Express,Smvt Bengaluru,Renigunta Jn,1100,12,Winter,1.2,941,0.856,0,Moderate
+12259,Sealdah Duronto,Sealdah,Dhanbad Jn,1100,1,Winter,1.05,886,0.806,0,Moderate
+12259,Sealdah Duronto,Sealdah,Dhanbad Jn,1100,2,Winter,0.9,851,0.774,0,Moderate
+12259,Sealdah Duronto,Sealdah,Dhanbad Jn,1100,3,Summer,1.25,1108,1.008,5,High
+12259,Sealdah Duronto,Sealdah,Dhanbad Jn,1100,4,Summer,1.1,1004,0.913,0,High
+12259,Sealdah Duronto,Sealdah,Dhanbad Jn,1100,5,Summer,1.4,1320,1.2,131,Overcrowded
+12259,Sealdah Duronto,Sealdah,Dhanbad Jn,1100,6,Monsoon,0.85,770,0.7,0,Moderate
+12259,Sealdah Duronto,Sealdah,Dhanbad Jn,1100,7,Monsoon,0.8,673,0.612,0,Low
+12259,Sealdah Duronto,Sealdah,Dhanbad Jn,1100,8,Monsoon,0.9,770,0.7,0,Moderate
+12259,Sealdah Duronto,Sealdah,Dhanbad Jn,1100,9,Post-Monsoon,1.0,851,0.774,0,Moderate
+12259,Sealdah Duronto,Sealdah,Dhanbad Jn,1100,10,Post-Monsoon,1.3,1127,1.025,16,High
+12259,Sealdah Duronto,Sealdah,Dhanbad Jn,1100,11,Post-Monsoon,1.45,1349,1.227,149,Overcrowded
+12259,Sealdah Duronto,Sealdah,Dhanbad Jn,1100,12,Winter,1.2,1107,1.007,4,High
+12260,Sealdah Duronto,Bikaner Jn,Sri Dungargarh,1100,1,Winter,1.05,800,0.728,0,Moderate
+12260,Sealdah Duronto,Bikaner Jn,Sri Dungargarh,1100,2,Winter,0.9,643,0.585,0,Low
+12260,Sealdah Duronto,Bikaner Jn,Sri Dungargarh,1100,3,Summer,1.25,919,0.836,0,Moderate
+12260,Sealdah Duronto,Bikaner Jn,Sri Dungargarh,1100,4,Summer,1.1,836,0.76,0,Moderate
+12260,Sealdah Duronto,Bikaner Jn,Sri Dungargarh,1100,5,Summer,1.4,1021,0.929,0,High
+12260,Sealdah Duronto,Bikaner Jn,Sri Dungargarh,1100,6,Monsoon,0.85,576,0.524,0,Low
+12260,Sealdah Duronto,Bikaner Jn,Sri Dungargarh,1100,7,Monsoon,0.8,552,0.502,0,Low
+12260,Sealdah Duronto,Bikaner Jn,Sri Dungargarh,1100,8,Monsoon,0.9,618,0.562,0,Low
+12260,Sealdah Duronto,Bikaner Jn,Sri Dungargarh,1100,9,Post-Monsoon,1.0,699,0.636,0,Low
+12260,Sealdah Duronto,Bikaner Jn,Sri Dungargarh,1100,10,Post-Monsoon,1.3,975,0.887,0,Moderate
+12260,Sealdah Duronto,Bikaner Jn,Sri Dungargarh,1100,11,Post-Monsoon,1.45,1078,0.98,0,High
+12260,Sealdah Duronto,Bikaner Jn,Sri Dungargarh,1100,12,Winter,1.2,838,0.762,0,Moderate
+12261,Howrah Duronto,C Shivaji Term Mumbai,Kalyan Jn,1100,1,Winter,1.05,962,0.875,0,Moderate
+12261,Howrah Duronto,C Shivaji Term Mumbai,Kalyan Jn,1100,2,Winter,0.9,849,0.772,0,Moderate
+12261,Howrah Duronto,C Shivaji Term Mumbai,Kalyan Jn,1100,3,Summer,1.25,1217,1.107,70,Overcrowded
+12261,Howrah Duronto,C Shivaji Term Mumbai,Kalyan Jn,1100,4,Summer,1.1,1029,0.936,0,High
+12261,Howrah Duronto,C Shivaji Term Mumbai,Kalyan Jn,1100,5,Summer,1.4,1217,1.107,70,Overcrowded
+12261,Howrah Duronto,C Shivaji Term Mumbai,Kalyan Jn,1100,6,Monsoon,0.85,751,0.683,0,Low
+12261,Howrah Duronto,C Shivaji Term Mumbai,Kalyan Jn,1100,7,Monsoon,0.8,704,0.64,0,Low
+12261,Howrah Duronto,C Shivaji Term Mumbai,Kalyan Jn,1100,8,Monsoon,0.9,807,0.734,0,Moderate
+12261,Howrah Duronto,C Shivaji Term Mumbai,Kalyan Jn,1100,9,Post-Monsoon,1.0,961,0.874,0,Moderate
+12261,Howrah Duronto,C Shivaji Term Mumbai,Kalyan Jn,1100,10,Post-Monsoon,1.3,1239,1.127,83,Overcrowded
+12261,Howrah Duronto,C Shivaji Term Mumbai,Kalyan Jn,1100,11,Post-Monsoon,1.45,1298,1.18,118,Overcrowded
+12261,Howrah Duronto,C Shivaji Term Mumbai,Kalyan Jn,1100,12,Winter,1.2,1042,0.948,0,High
+12262,Howrah Duronto,Howrah Jn,Tatanagar Jn,1100,1,Winter,1.05,1036,0.942,0,High
+12262,Howrah Duronto,Howrah Jn,Tatanagar Jn,1100,2,Winter,0.9,916,0.833,0,Moderate
+12262,Howrah Duronto,Howrah Jn,Tatanagar Jn,1100,3,Summer,1.25,1223,1.112,73,Overcrowded
+12262,Howrah Duronto,Howrah Jn,Tatanagar Jn,1100,4,Summer,1.1,999,0.909,0,High
+12262,Howrah Duronto,Howrah Jn,Tatanagar Jn,1100,5,Summer,1.4,1294,1.177,116,Overcrowded
+12262,Howrah Duronto,Howrah Jn,Tatanagar Jn,1100,6,Monsoon,0.85,782,0.711,0,Moderate
+12262,Howrah Duronto,Howrah Jn,Tatanagar Jn,1100,7,Monsoon,0.8,750,0.682,0,Low
+12262,Howrah Duronto,Howrah Jn,Tatanagar Jn,1100,8,Monsoon,0.9,904,0.822,0,Moderate
+12262,Howrah Duronto,Howrah Jn,Tatanagar Jn,1100,9,Post-Monsoon,1.0,996,0.906,0,High
+12262,Howrah Duronto,Howrah Jn,Tatanagar Jn,1100,10,Post-Monsoon,1.3,1216,1.106,69,Overcrowded
+12262,Howrah Duronto,Howrah Jn,Tatanagar Jn,1100,11,Post-Monsoon,1.45,1316,1.197,130,Overcrowded
+12262,Howrah Duronto,Howrah Jn,Tatanagar Jn,1100,12,Winter,1.2,1129,1.027,17,High
+12295,Sanghamitra Express,Smvt Bengaluru,Krishnarajapurm,1800,1,Winter,1.05,1265,0.703,0,Moderate
+12295,Sanghamitra Express,Smvt Bengaluru,Krishnarajapurm,1800,2,Winter,0.9,1200,0.667,0,Low
+12295,Sanghamitra Express,Smvt Bengaluru,Krishnarajapurm,1800,3,Summer,1.25,1602,0.89,0,Moderate
+12295,Sanghamitra Express,Smvt Bengaluru,Krishnarajapurm,1800,4,Summer,1.1,1324,0.736,0,Moderate
+12295,Sanghamitra Express,Smvt Bengaluru,Krishnarajapurm,1800,5,Summer,1.4,1729,0.961,0,High
+12295,Sanghamitra Express,Smvt Bengaluru,Krishnarajapurm,1800,6,Monsoon,0.85,1029,0.572,0,Low
+12295,Sanghamitra Express,Smvt Bengaluru,Krishnarajapurm,1800,7,Monsoon,0.8,1016,0.565,0,Low
+12295,Sanghamitra Express,Smvt Bengaluru,Krishnarajapurm,1800,8,Monsoon,0.9,1164,0.647,0,Low
+12295,Sanghamitra Express,Smvt Bengaluru,Krishnarajapurm,1800,9,Post-Monsoon,1.0,1227,0.682,0,Low
+12295,Sanghamitra Express,Smvt Bengaluru,Krishnarajapurm,1800,10,Post-Monsoon,1.3,1528,0.849,0,Moderate
+12295,Sanghamitra Express,Smvt Bengaluru,Krishnarajapurm,1800,11,Post-Monsoon,1.45,1744,0.969,0,High
+12295,Sanghamitra Express,Smvt Bengaluru,Krishnarajapurm,1800,12,Winter,1.2,1450,0.806,0,Moderate
+12296,Sanghamitra Express,Danapur,Ara,1800,1,Winter,1.05,1524,0.847,0,Moderate
+12296,Sanghamitra Express,Danapur,Ara,1800,2,Winter,0.9,1256,0.698,0,Low
+12296,Sanghamitra Express,Danapur,Ara,1800,3,Summer,1.25,1639,0.911,0,High
+12296,Sanghamitra Express,Danapur,Ara,1800,4,Summer,1.1,1477,0.821,0,Moderate
+12296,Sanghamitra Express,Danapur,Ara,1800,5,Summer,1.4,1846,1.026,28,High
+12296,Sanghamitra Express,Danapur,Ara,1800,6,Monsoon,0.85,1177,0.654,0,Low
+12296,Sanghamitra Express,Danapur,Ara,1800,7,Monsoon,0.8,1126,0.626,0,Low
+12296,Sanghamitra Express,Danapur,Ara,1800,8,Monsoon,0.9,1202,0.668,0,Low
+12296,Sanghamitra Express,Danapur,Ara,1800,9,Post-Monsoon,1.0,1279,0.711,0,Moderate
+12296,Sanghamitra Express,Danapur,Ara,1800,10,Post-Monsoon,1.3,1702,0.946,0,High
+12296,Sanghamitra Express,Danapur,Ara,1800,11,Post-Monsoon,1.45,1908,1.06,64,Overcrowded
+12296,Sanghamitra Express,Danapur,Ara,1800,12,Winter,1.2,1699,0.944,0,High
+12301,Howrah Rajdhani,Howrah Jn,Asansol Jn,1200,1,Winter,1.05,1222,1.019,13,High
+12301,Howrah Rajdhani,Howrah Jn,Asansol Jn,1200,2,Winter,0.9,1066,0.889,0,Moderate
+12301,Howrah Rajdhani,Howrah Jn,Asansol Jn,1200,3,Summer,1.25,1406,1.172,123,Overcrowded
+12301,Howrah Rajdhani,Howrah Jn,Asansol Jn,1200,4,Summer,1.1,1184,0.987,0,High
+12301,Howrah Rajdhani,Howrah Jn,Asansol Jn,1200,5,Summer,1.4,1542,1.285,205,Overcrowded
+12301,Howrah Rajdhani,Howrah Jn,Asansol Jn,1200,6,Monsoon,0.85,940,0.784,0,Moderate
+12301,Howrah Rajdhani,Howrah Jn,Asansol Jn,1200,7,Monsoon,0.8,954,0.795,0,Moderate
+12301,Howrah Rajdhani,Howrah Jn,Asansol Jn,1200,8,Monsoon,0.9,1072,0.894,0,Moderate
+12301,Howrah Rajdhani,Howrah Jn,Asansol Jn,1200,9,Post-Monsoon,1.0,1197,0.998,0,High
+12301,Howrah Rajdhani,Howrah Jn,Asansol Jn,1200,10,Post-Monsoon,1.3,1471,1.226,162,Overcrowded
+12301,Howrah Rajdhani,Howrah Jn,Asansol Jn,1200,11,Post-Monsoon,1.45,1578,1.315,226,Overcrowded
+12301,Howrah Rajdhani,Howrah Jn,Asansol Jn,1200,12,Winter,1.2,1294,1.079,56,Overcrowded
+12302,Howrah Rajdhani,Pt Deen Dayal Upadhyay Jn,Gaya Jn,1200,1,Winter,1.05,1210,1.009,6,High
+12302,Howrah Rajdhani,Pt Deen Dayal Upadhyay Jn,Gaya Jn,1200,2,Winter,0.9,983,0.82,0,Moderate
+12302,Howrah Rajdhani,Pt Deen Dayal Upadhyay Jn,Gaya Jn,1200,3,Summer,1.25,1309,1.091,65,Overcrowded
+12302,Howrah Rajdhani,Pt Deen Dayal Upadhyay Jn,Gaya Jn,1200,4,Summer,1.1,1178,0.982,0,High
+12302,Howrah Rajdhani,Pt Deen Dayal Upadhyay Jn,Gaya Jn,1200,5,Summer,1.4,1507,1.256,184,Overcrowded
+12302,Howrah Rajdhani,Pt Deen Dayal Upadhyay Jn,Gaya Jn,1200,6,Monsoon,0.85,985,0.821,0,Moderate
+12302,Howrah Rajdhani,Pt Deen Dayal Upadhyay Jn,Gaya Jn,1200,7,Monsoon,0.8,927,0.773,0,Moderate
+12302,Howrah Rajdhani,Pt Deen Dayal Upadhyay Jn,Gaya Jn,1200,8,Monsoon,0.9,1048,0.874,0,Moderate
+12302,Howrah Rajdhani,Pt Deen Dayal Upadhyay Jn,Gaya Jn,1200,9,Post-Monsoon,1.0,1100,0.917,0,High
+12302,Howrah Rajdhani,Pt Deen Dayal Upadhyay Jn,Gaya Jn,1200,10,Post-Monsoon,1.3,1375,1.146,105,Overcrowded
+12302,Howrah Rajdhani,Pt Deen Dayal Upadhyay Jn,Gaya Jn,1200,11,Post-Monsoon,1.45,1521,1.268,192,Overcrowded
+12302,Howrah Rajdhani,Pt Deen Dayal Upadhyay Jn,Gaya Jn,1200,12,Winter,1.2,1418,1.182,131,Overcrowded
+12305,Kolkata Rajdhani,Howrah Jn,Barddhaman Jn,1200,1,Winter,1.05,1092,0.91,0,High
+12305,Kolkata Rajdhani,Howrah Jn,Barddhaman Jn,1200,2,Winter,0.9,940,0.784,0,Moderate
+12305,Kolkata Rajdhani,Howrah Jn,Barddhaman Jn,1200,3,Summer,1.25,1406,1.172,123,Overcrowded
+12305,Kolkata Rajdhani,Howrah Jn,Barddhaman Jn,1200,4,Summer,1.1,1238,1.032,23,High
+12305,Kolkata Rajdhani,Howrah Jn,Barddhaman Jn,1200,5,Summer,1.4,1582,1.319,229,Overcrowded
+12305,Kolkata Rajdhani,Howrah Jn,Barddhaman Jn,1200,6,Monsoon,0.85,908,0.757,0,Moderate
+12305,Kolkata Rajdhani,Howrah Jn,Barddhaman Jn,1200,7,Monsoon,0.8,822,0.685,0,Low
+12305,Kolkata Rajdhani,Howrah Jn,Barddhaman Jn,1200,8,Monsoon,0.9,916,0.764,0,Moderate
+12305,Kolkata Rajdhani,Howrah Jn,Barddhaman Jn,1200,9,Post-Monsoon,1.0,1148,0.957,0,High
+12305,Kolkata Rajdhani,Howrah Jn,Barddhaman Jn,1200,10,Post-Monsoon,1.3,1425,1.188,135,Overcrowded
+12305,Kolkata Rajdhani,Howrah Jn,Barddhaman Jn,1200,11,Post-Monsoon,1.45,1620,1.35,252,Overcrowded
+12305,Kolkata Rajdhani,Howrah Jn,Barddhaman Jn,1200,12,Winter,1.2,1250,1.042,30,High
+12306,Kolkata Rajdhani,Pt Deen Dayal Upadhyay Jn,Patna Jn,1200,1,Winter,1.05,1123,0.936,0,High
+12306,Kolkata Rajdhani,Pt Deen Dayal Upadhyay Jn,Patna Jn,1200,2,Winter,0.9,1036,0.864,0,Moderate
+12306,Kolkata Rajdhani,Pt Deen Dayal Upadhyay Jn,Patna Jn,1200,3,Summer,1.25,1441,1.201,144,Overcrowded
+12306,Kolkata Rajdhani,Pt Deen Dayal Upadhyay Jn,Patna Jn,1200,4,Summer,1.1,1274,1.062,44,Overcrowded
+12306,Kolkata Rajdhani,Pt Deen Dayal Upadhyay Jn,Patna Jn,1200,5,Summer,1.4,1531,1.276,198,Overcrowded
+12306,Kolkata Rajdhani,Pt Deen Dayal Upadhyay Jn,Patna Jn,1200,6,Monsoon,0.85,894,0.745,0,Moderate
+12306,Kolkata Rajdhani,Pt Deen Dayal Upadhyay Jn,Patna Jn,1200,7,Monsoon,0.8,833,0.695,0,Low
+12306,Kolkata Rajdhani,Pt Deen Dayal Upadhyay Jn,Patna Jn,1200,8,Monsoon,0.9,1058,0.882,0,Moderate
+12306,Kolkata Rajdhani,Pt Deen Dayal Upadhyay Jn,Patna Jn,1200,9,Post-Monsoon,1.0,1122,0.935,0,High
+12306,Kolkata Rajdhani,Pt Deen Dayal Upadhyay Jn,Patna Jn,1200,10,Post-Monsoon,1.3,1508,1.257,185,Overcrowded
+12306,Kolkata Rajdhani,Pt Deen Dayal Upadhyay Jn,Patna Jn,1200,11,Post-Monsoon,1.45,1548,1.29,208,Overcrowded
+12306,Kolkata Rajdhani,Pt Deen Dayal Upadhyay Jn,Patna Jn,1200,12,Winter,1.2,1340,1.117,84,Overcrowded
+12313,Sealdah Rajdhani,Sealdah,Durgapur,1200,1,Winter,1.05,968,0.807,0,Moderate
+12313,Sealdah Rajdhani,Sealdah,Durgapur,1200,2,Winter,0.9,792,0.66,0,Low
+12313,Sealdah Rajdhani,Sealdah,Durgapur,1200,3,Summer,1.25,1137,0.948,0,High
+12313,Sealdah Rajdhani,Sealdah,Durgapur,1200,4,Summer,1.1,920,0.767,0,Moderate
+12313,Sealdah Rajdhani,Sealdah,Durgapur,1200,5,Summer,1.4,1226,1.022,15,High
+12313,Sealdah Rajdhani,Sealdah,Durgapur,1200,6,Monsoon,0.85,793,0.661,0,Low
+12313,Sealdah Rajdhani,Sealdah,Durgapur,1200,7,Monsoon,0.8,715,0.596,0,Low
+12313,Sealdah Rajdhani,Sealdah,Durgapur,1200,8,Monsoon,0.9,825,0.688,0,Low
+12313,Sealdah Rajdhani,Sealdah,Durgapur,1200,9,Post-Monsoon,1.0,852,0.71,0,Moderate
+12313,Sealdah Rajdhani,Sealdah,Durgapur,1200,10,Post-Monsoon,1.3,1208,1.007,5,High
+12313,Sealdah Rajdhani,Sealdah,Durgapur,1200,11,Post-Monsoon,1.45,1165,0.971,0,High
+12313,Sealdah Rajdhani,Sealdah,Durgapur,1200,12,Winter,1.2,1107,0.923,0,High
+12314,Sealdah Rajdhani,Gaya Jn,Dhanbad Jn,1200,1,Winter,1.05,1110,0.925,0,High
+12314,Sealdah Rajdhani,Gaya Jn,Dhanbad Jn,1200,2,Winter,0.9,982,0.819,0,Moderate
+12314,Sealdah Rajdhani,Gaya Jn,Dhanbad Jn,1200,3,Summer,1.25,1256,1.047,33,High
+12314,Sealdah Rajdhani,Gaya Jn,Dhanbad Jn,1200,4,Summer,1.1,1156,0.964,0,High
+12314,Sealdah Rajdhani,Gaya Jn,Dhanbad Jn,1200,5,Summer,1.4,1568,1.307,221,Overcrowded
+12314,Sealdah Rajdhani,Gaya Jn,Dhanbad Jn,1200,6,Monsoon,0.85,912,0.76,0,Moderate
+12314,Sealdah Rajdhani,Gaya Jn,Dhanbad Jn,1200,7,Monsoon,0.8,880,0.734,0,Moderate
+12314,Sealdah Rajdhani,Gaya Jn,Dhanbad Jn,1200,8,Monsoon,0.9,920,0.767,0,Moderate
+12314,Sealdah Rajdhani,Gaya Jn,Dhanbad Jn,1200,9,Post-Monsoon,1.0,1116,0.93,0,High
+12314,Sealdah Rajdhani,Gaya Jn,Dhanbad Jn,1200,10,Post-Monsoon,1.3,1254,1.045,32,High
+12314,Sealdah Rajdhani,Gaya Jn,Dhanbad Jn,1200,11,Post-Monsoon,1.45,1606,1.339,244,Overcrowded
+12314,Sealdah Rajdhani,Gaya Jn,Dhanbad Jn,1200,12,Winter,1.2,1249,1.041,29,High
+12367,Vikramshila Express,Bhagalpur,Sultanganj,1800,1,Winter,1.05,1258,0.699,0,Low
+12367,Vikramshila Express,Bhagalpur,Sultanganj,1800,2,Winter,0.9,1119,0.622,0,Low
+12367,Vikramshila Express,Bhagalpur,Sultanganj,1800,3,Summer,1.25,1486,0.826,0,Moderate
+12367,Vikramshila Express,Bhagalpur,Sultanganj,1800,4,Summer,1.1,1373,0.763,0,Moderate
+12367,Vikramshila Express,Bhagalpur,Sultanganj,1800,5,Summer,1.4,1627,0.904,0,High
+12367,Vikramshila Express,Bhagalpur,Sultanganj,1800,6,Monsoon,0.85,1065,0.592,0,Low
+12367,Vikramshila Express,Bhagalpur,Sultanganj,1800,7,Monsoon,0.8,916,0.509,0,Low
+12367,Vikramshila Express,Bhagalpur,Sultanganj,1800,8,Monsoon,0.9,1042,0.579,0,Low
+12367,Vikramshila Express,Bhagalpur,Sultanganj,1800,9,Post-Monsoon,1.0,1197,0.665,0,Low
+12367,Vikramshila Express,Bhagalpur,Sultanganj,1800,10,Post-Monsoon,1.3,1483,0.824,0,Moderate
+12367,Vikramshila Express,Bhagalpur,Sultanganj,1800,11,Post-Monsoon,1.45,1789,0.994,0,High
+12367,Vikramshila Express,Bhagalpur,Sultanganj,1800,12,Winter,1.2,1530,0.85,0,Moderate
+12368,Vikramshila Express,Patna Jn,Patna Saheb,1800,1,Winter,1.05,1368,0.76,0,Moderate
+12368,Vikramshila Express,Patna Jn,Patna Saheb,1800,2,Winter,0.9,1121,0.623,0,Low
+12368,Vikramshila Express,Patna Jn,Patna Saheb,1800,3,Summer,1.25,1634,0.908,0,High
+12368,Vikramshila Express,Patna Jn,Patna Saheb,1800,4,Summer,1.1,1339,0.744,0,Moderate
+12368,Vikramshila Express,Patna Jn,Patna Saheb,1800,5,Summer,1.4,1837,1.021,22,High
+12368,Vikramshila Express,Patna Jn,Patna Saheb,1800,6,Monsoon,0.85,1018,0.566,0,Low
+12368,Vikramshila Express,Patna Jn,Patna Saheb,1800,7,Monsoon,0.8,970,0.539,0,Low
+12368,Vikramshila Express,Patna Jn,Patna Saheb,1800,8,Monsoon,0.9,1128,0.627,0,Low
+12368,Vikramshila Express,Patna Jn,Patna Saheb,1800,9,Post-Monsoon,1.0,1195,0.664,0,Low
+12368,Vikramshila Express,Patna Jn,Patna Saheb,1800,10,Post-Monsoon,1.3,1679,0.933,0,High
+12368,Vikramshila Express,Patna Jn,Patna Saheb,1800,11,Post-Monsoon,1.45,1935,1.075,80,Overcrowded
+12368,Vikramshila Express,Patna Jn,Patna Saheb,1800,12,Winter,1.2,1456,0.809,0,Moderate
+12423,Dibrugarh Rajdhani,Dibrugarh,New Tinsukia Jn,1200,1,Winter,1.05,974,0.812,0,Moderate
+12423,Dibrugarh Rajdhani,Dibrugarh,New Tinsukia Jn,1200,2,Winter,0.9,827,0.69,0,Low
+12423,Dibrugarh Rajdhani,Dibrugarh,New Tinsukia Jn,1200,3,Summer,1.25,1170,0.975,0,High
+12423,Dibrugarh Rajdhani,Dibrugarh,New Tinsukia Jn,1200,4,Summer,1.1,1042,0.869,0,Moderate
+12423,Dibrugarh Rajdhani,Dibrugarh,New Tinsukia Jn,1200,5,Summer,1.4,1299,1.083,59,Overcrowded
+12423,Dibrugarh Rajdhani,Dibrugarh,New Tinsukia Jn,1200,6,Monsoon,0.85,734,0.612,0,Low
+12423,Dibrugarh Rajdhani,Dibrugarh,New Tinsukia Jn,1200,7,Monsoon,0.8,668,0.557,0,Low
+12423,Dibrugarh Rajdhani,Dibrugarh,New Tinsukia Jn,1200,8,Monsoon,0.9,849,0.708,0,Moderate
+12423,Dibrugarh Rajdhani,Dibrugarh,New Tinsukia Jn,1200,9,Post-Monsoon,1.0,940,0.784,0,Moderate
+12423,Dibrugarh Rajdhani,Dibrugarh,New Tinsukia Jn,1200,10,Post-Monsoon,1.3,1144,0.954,0,High
+12423,Dibrugarh Rajdhani,Dibrugarh,New Tinsukia Jn,1200,11,Post-Monsoon,1.45,1251,1.043,30,High
+12423,Dibrugarh Rajdhani,Dibrugarh,New Tinsukia Jn,1200,12,Winter,1.2,1134,0.945,0,High
+12424,Dibrugarh Rajdhani,Pt Deen Dayal Upadhyay Jn,Danapur,1200,1,Winter,1.05,1238,1.032,23,High
+12424,Dibrugarh Rajdhani,Pt Deen Dayal Upadhyay Jn,Danapur,1200,2,Winter,0.9,1080,0.9,0,High
+12424,Dibrugarh Rajdhani,Pt Deen Dayal Upadhyay Jn,Danapur,1200,3,Summer,1.25,1519,1.266,191,Overcrowded
+12424,Dibrugarh Rajdhani,Pt Deen Dayal Upadhyay Jn,Danapur,1200,4,Summer,1.1,1309,1.091,65,Overcrowded
+12424,Dibrugarh Rajdhani,Pt Deen Dayal Upadhyay Jn,Danapur,1200,5,Summer,1.4,1550,1.292,210,Overcrowded
+12424,Dibrugarh Rajdhani,Pt Deen Dayal Upadhyay Jn,Danapur,1200,6,Monsoon,0.85,909,0.758,0,Moderate
+12424,Dibrugarh Rajdhani,Pt Deen Dayal Upadhyay Jn,Danapur,1200,7,Monsoon,0.8,967,0.806,0,Moderate
+12424,Dibrugarh Rajdhani,Pt Deen Dayal Upadhyay Jn,Danapur,1200,8,Monsoon,0.9,1084,0.904,0,High
+12424,Dibrugarh Rajdhani,Pt Deen Dayal Upadhyay Jn,Danapur,1200,9,Post-Monsoon,1.0,1129,0.941,0,High
+12424,Dibrugarh Rajdhani,Pt Deen Dayal Upadhyay Jn,Danapur,1200,10,Post-Monsoon,1.3,1437,1.198,142,Overcrowded
+12424,Dibrugarh Rajdhani,Pt Deen Dayal Upadhyay Jn,Danapur,1200,11,Post-Monsoon,1.45,1620,1.35,252,Overcrowded
+12424,Dibrugarh Rajdhani,Pt Deen Dayal Upadhyay Jn,Danapur,1200,12,Winter,1.2,1302,1.085,61,Overcrowded
+12433,Rajdhani,Chennai Central,Vijayawada Jn,1200,1,Winter,1.05,1116,0.93,0,High
+12433,Rajdhani,Chennai Central,Vijayawada Jn,1200,2,Winter,0.9,1047,0.873,0,Moderate
+12433,Rajdhani,Chennai Central,Vijayawada Jn,1200,3,Summer,1.25,1303,1.086,61,Overcrowded
+12433,Rajdhani,Chennai Central,Vijayawada Jn,1200,4,Summer,1.1,1204,1.004,2,High
+12433,Rajdhani,Chennai Central,Vijayawada Jn,1200,5,Summer,1.4,1442,1.202,145,Overcrowded
+12433,Rajdhani,Chennai Central,Vijayawada Jn,1200,6,Monsoon,0.85,938,0.782,0,Moderate
+12433,Rajdhani,Chennai Central,Vijayawada Jn,1200,7,Monsoon,0.8,824,0.687,0,Low
+12433,Rajdhani,Chennai Central,Vijayawada Jn,1200,8,Monsoon,0.9,1053,0.878,0,Moderate
+12433,Rajdhani,Chennai Central,Vijayawada Jn,1200,9,Post-Monsoon,1.0,1070,0.892,0,Moderate
+12433,Rajdhani,Chennai Central,Vijayawada Jn,1200,10,Post-Monsoon,1.3,1460,1.217,156,Overcrowded
+12433,Rajdhani,Chennai Central,Vijayawada Jn,1200,11,Post-Monsoon,1.45,1620,1.35,252,Overcrowded
+12433,Rajdhani,Chennai Central,Vijayawada Jn,1200,12,Winter,1.2,1335,1.113,81,Overcrowded
+12434,Rajdhani,V Lakshmibai Jhansi,Bhopal Jn,1200,1,Winter,1.05,1213,1.011,7,High
+12434,Rajdhani,V Lakshmibai Jhansi,Bhopal Jn,1200,2,Winter,0.9,931,0.776,0,Moderate
+12434,Rajdhani,V Lakshmibai Jhansi,Bhopal Jn,1200,3,Summer,1.25,1359,1.133,95,Overcrowded
+12434,Rajdhani,V Lakshmibai Jhansi,Bhopal Jn,1200,4,Summer,1.1,1125,0.938,0,High
+12434,Rajdhani,V Lakshmibai Jhansi,Bhopal Jn,1200,5,Summer,1.4,1534,1.279,200,Overcrowded
+12434,Rajdhani,V Lakshmibai Jhansi,Bhopal Jn,1200,6,Monsoon,0.85,870,0.725,0,Moderate
+12434,Rajdhani,V Lakshmibai Jhansi,Bhopal Jn,1200,7,Monsoon,0.8,930,0.775,0,Moderate
+12434,Rajdhani,V Lakshmibai Jhansi,Bhopal Jn,1200,8,Monsoon,0.9,956,0.797,0,Moderate
+12434,Rajdhani,V Lakshmibai Jhansi,Bhopal Jn,1200,9,Post-Monsoon,1.0,1116,0.93,0,High
+12434,Rajdhani,V Lakshmibai Jhansi,Bhopal Jn,1200,10,Post-Monsoon,1.3,1480,1.234,168,Overcrowded
+12434,Rajdhani,V Lakshmibai Jhansi,Bhopal Jn,1200,11,Post-Monsoon,1.45,1603,1.336,241,Overcrowded
+12434,Rajdhani,V Lakshmibai Jhansi,Bhopal Jn,1200,12,Winter,1.2,1352,1.127,91,Overcrowded
+12509,Guwahati Sbc Express,Bangarapet,Jolarpettai,1800,1,Winter,1.05,1490,0.828,0,Moderate
+12509,Guwahati Sbc Express,Bangarapet,Jolarpettai,1800,2,Winter,0.9,1218,0.677,0,Low
+12509,Guwahati Sbc Express,Bangarapet,Jolarpettai,1800,3,Summer,1.25,1647,0.915,0,High
+12509,Guwahati Sbc Express,Bangarapet,Jolarpettai,1800,4,Summer,1.1,1447,0.804,0,Moderate
+12509,Guwahati Sbc Express,Bangarapet,Jolarpettai,1800,5,Summer,1.4,1962,1.09,97,Overcrowded
+12509,Guwahati Sbc Express,Bangarapet,Jolarpettai,1800,6,Monsoon,0.85,1193,0.663,0,Low
+12509,Guwahati Sbc Express,Bangarapet,Jolarpettai,1800,7,Monsoon,0.8,1180,0.656,0,Low
+12509,Guwahati Sbc Express,Bangarapet,Jolarpettai,1800,8,Monsoon,0.9,1245,0.692,0,Low
+12509,Guwahati Sbc Express,Bangarapet,Jolarpettai,1800,9,Post-Monsoon,1.0,1297,0.721,0,Moderate
+12509,Guwahati Sbc Express,Bangarapet,Jolarpettai,1800,10,Post-Monsoon,1.3,1862,1.035,37,High
+12509,Guwahati Sbc Express,Bangarapet,Jolarpettai,1800,11,Post-Monsoon,1.45,2019,1.122,131,Overcrowded
+12509,Guwahati Sbc Express,Bangarapet,Jolarpettai,1800,12,Winter,1.2,1742,0.968,0,High
+12510,Sbc Guwahati Express,Guwahati,Kamakhya,1800,1,Winter,1.05,1346,0.748,0,Moderate
+12510,Sbc Guwahati Express,Guwahati,Kamakhya,1800,2,Winter,0.9,1123,0.624,0,Low
+12510,Sbc Guwahati Express,Guwahati,Kamakhya,1800,3,Summer,1.25,1557,0.865,0,Moderate
+12510,Sbc Guwahati Express,Guwahati,Kamakhya,1800,4,Summer,1.1,1459,0.811,0,Moderate
+12510,Sbc Guwahati Express,Guwahati,Kamakhya,1800,5,Summer,1.4,1862,1.035,37,High
+12510,Sbc Guwahati Express,Guwahati,Kamakhya,1800,6,Monsoon,0.85,1188,0.66,0,Low
+12510,Sbc Guwahati Express,Guwahati,Kamakhya,1800,7,Monsoon,0.8,1049,0.583,0,Low
+12510,Sbc Guwahati Express,Guwahati,Kamakhya,1800,8,Monsoon,0.9,1105,0.614,0,Low
+12510,Sbc Guwahati Express,Guwahati,Kamakhya,1800,9,Post-Monsoon,1.0,1357,0.754,0,Moderate
+12510,Sbc Guwahati Express,Guwahati,Kamakhya,1800,10,Post-Monsoon,1.3,1715,0.953,0,High
+12510,Sbc Guwahati Express,Guwahati,Kamakhya,1800,11,Post-Monsoon,1.45,1994,1.108,116,Overcrowded
+12510,Sbc Guwahati Express,Guwahati,Kamakhya,1800,12,Winter,1.2,1535,0.853,0,Moderate
+12621,Tamil Nadu Exp,Nagpur,Itarsi Jn,1500,1,Winter,1.05,1368,0.912,0,High
+12621,Tamil Nadu Exp,Nagpur,Itarsi Jn,1500,2,Winter,0.9,1180,0.787,0,Moderate
+12621,Tamil Nadu Exp,Nagpur,Itarsi Jn,1500,3,Summer,1.25,1488,0.992,0,High
+12621,Tamil Nadu Exp,Nagpur,Itarsi Jn,1500,4,Summer,1.1,1344,0.896,0,Moderate
+12621,Tamil Nadu Exp,Nagpur,Itarsi Jn,1500,5,Summer,1.4,1641,1.094,84,Overcrowded
+12621,Tamil Nadu Exp,Nagpur,Itarsi Jn,1500,6,Monsoon,0.85,1030,0.687,0,Low
+12621,Tamil Nadu Exp,Nagpur,Itarsi Jn,1500,7,Monsoon,0.8,948,0.632,0,Low
+12621,Tamil Nadu Exp,Nagpur,Itarsi Jn,1500,8,Monsoon,0.9,1225,0.817,0,Moderate
+12621,Tamil Nadu Exp,Nagpur,Itarsi Jn,1500,9,Post-Monsoon,1.0,1179,0.786,0,Moderate
+12621,Tamil Nadu Exp,Nagpur,Itarsi Jn,1500,10,Post-Monsoon,1.3,1684,1.123,110,Overcrowded
+12621,Tamil Nadu Exp,Nagpur,Itarsi Jn,1500,11,Post-Monsoon,1.45,1939,1.293,263,Overcrowded
+12621,Tamil Nadu Exp,Nagpur,Itarsi Jn,1500,12,Winter,1.2,1452,0.968,0,High
+12622,Tamil Nadu Exp,New Delhi,Agra Cantt,1500,1,Winter,1.05,1545,1.03,27,High
+12622,Tamil Nadu Exp,New Delhi,Agra Cantt,1500,2,Winter,0.9,1201,0.801,0,Moderate
+12622,Tamil Nadu Exp,New Delhi,Agra Cantt,1500,3,Summer,1.25,1712,1.142,127,Overcrowded
+12622,Tamil Nadu Exp,New Delhi,Agra Cantt,1500,4,Summer,1.1,1446,0.964,0,High
+12622,Tamil Nadu Exp,New Delhi,Agra Cantt,1500,5,Summer,1.4,1903,1.269,242,Overcrowded
+12622,Tamil Nadu Exp,New Delhi,Agra Cantt,1500,6,Monsoon,0.85,1129,0.753,0,Moderate
+12622,Tamil Nadu Exp,New Delhi,Agra Cantt,1500,7,Monsoon,0.8,1222,0.815,0,Moderate
+12622,Tamil Nadu Exp,New Delhi,Agra Cantt,1500,8,Monsoon,0.9,1191,0.794,0,Moderate
+12622,Tamil Nadu Exp,New Delhi,Agra Cantt,1500,9,Post-Monsoon,1.0,1453,0.969,0,High
+12622,Tamil Nadu Exp,New Delhi,Agra Cantt,1500,10,Post-Monsoon,1.3,1951,1.301,270,Overcrowded
+12622,Tamil Nadu Exp,New Delhi,Agra Cantt,1500,11,Post-Monsoon,1.45,1968,1.312,280,Overcrowded
+12622,Tamil Nadu Exp,New Delhi,Agra Cantt,1500,12,Winter,1.2,1815,1.21,188,Overcrowded
+12625,Kerala Express,Trivandrum Cntl,Varkala,1800,1,Winter,1.05,1249,0.694,0,Low
+12625,Kerala Express,Trivandrum Cntl,Varkala,1800,2,Winter,0.9,1107,0.615,0,Low
+12625,Kerala Express,Trivandrum Cntl,Varkala,1800,3,Summer,1.25,1503,0.835,0,Moderate
+12625,Kerala Express,Trivandrum Cntl,Varkala,1800,4,Summer,1.1,1521,0.845,0,Moderate
+12625,Kerala Express,Trivandrum Cntl,Varkala,1800,5,Summer,1.4,1675,0.931,0,High
+12625,Kerala Express,Trivandrum Cntl,Varkala,1800,6,Monsoon,0.85,1117,0.621,0,Low
+12625,Kerala Express,Trivandrum Cntl,Varkala,1800,7,Monsoon,0.8,1087,0.604,0,Low
+12625,Kerala Express,Trivandrum Cntl,Varkala,1800,8,Monsoon,0.9,1105,0.614,0,Low
+12625,Kerala Express,Trivandrum Cntl,Varkala,1800,9,Post-Monsoon,1.0,1369,0.761,0,Moderate
+12625,Kerala Express,Trivandrum Cntl,Varkala,1800,10,Post-Monsoon,1.3,1773,0.985,0,High
+12625,Kerala Express,Trivandrum Cntl,Varkala,1800,11,Post-Monsoon,1.45,1854,1.03,32,High
+12625,Kerala Express,Trivandrum Cntl,Varkala,1800,12,Winter,1.2,1535,0.853,0,Moderate
+12626,Kerala Express,V Lakshmibai Jhansi,Bina Jn,1800,1,Winter,1.05,1540,0.856,0,Moderate
+12626,Kerala Express,V Lakshmibai Jhansi,Bina Jn,1800,2,Winter,0.9,1290,0.717,0,Moderate
+12626,Kerala Express,V Lakshmibai Jhansi,Bina Jn,1800,3,Summer,1.25,2061,1.145,156,Overcrowded
+12626,Kerala Express,V Lakshmibai Jhansi,Bina Jn,1800,4,Summer,1.1,1571,0.873,0,Moderate
+12626,Kerala Express,V Lakshmibai Jhansi,Bina Jn,1800,5,Summer,1.4,2196,1.22,237,Overcrowded
+12626,Kerala Express,V Lakshmibai Jhansi,Bina Jn,1800,6,Monsoon,0.85,1377,0.765,0,Moderate
+12626,Kerala Express,V Lakshmibai Jhansi,Bina Jn,1800,7,Monsoon,0.8,1171,0.651,0,Low
+12626,Kerala Express,V Lakshmibai Jhansi,Bina Jn,1800,8,Monsoon,0.9,1468,0.816,0,Moderate
+12626,Kerala Express,V Lakshmibai Jhansi,Bina Jn,1800,9,Post-Monsoon,1.0,1627,0.904,0,High
+12626,Kerala Express,V Lakshmibai Jhansi,Bina Jn,1800,10,Post-Monsoon,1.3,1981,1.101,109,Overcrowded
+12626,Kerala Express,V Lakshmibai Jhansi,Bina Jn,1800,11,Post-Monsoon,1.45,2212,1.229,247,Overcrowded
+12626,Kerala Express,V Lakshmibai Jhansi,Bina Jn,1800,12,Winter,1.2,1826,1.015,16,High
+12631,Nellai Express,Chennai Egmore,Tambaram,1800,1,Winter,1.05,1450,0.806,0,Moderate
+12631,Nellai Express,Chennai Egmore,Tambaram,1800,2,Winter,0.9,1125,0.625,0,Low
+12631,Nellai Express,Chennai Egmore,Tambaram,1800,3,Summer,1.25,1740,0.967,0,High
+12631,Nellai Express,Chennai Egmore,Tambaram,1800,4,Summer,1.1,1526,0.848,0,Moderate
+12631,Nellai Express,Chennai Egmore,Tambaram,1800,5,Summer,1.4,1819,1.011,11,High
+12631,Nellai Express,Chennai Egmore,Tambaram,1800,6,Monsoon,0.85,1105,0.614,0,Low
+12631,Nellai Express,Chennai Egmore,Tambaram,1800,7,Monsoon,0.8,1038,0.577,0,Low
+12631,Nellai Express,Chennai Egmore,Tambaram,1800,8,Monsoon,0.9,1164,0.647,0,Low
+12631,Nellai Express,Chennai Egmore,Tambaram,1800,9,Post-Monsoon,1.0,1308,0.727,0,Moderate
+12631,Nellai Express,Chennai Egmore,Tambaram,1800,10,Post-Monsoon,1.3,1616,0.898,0,Moderate
+12631,Nellai Express,Chennai Egmore,Tambaram,1800,11,Post-Monsoon,1.45,1911,1.062,66,Overcrowded
+12631,Nellai Express,Chennai Egmore,Tambaram,1800,12,Winter,1.2,1587,0.882,0,Moderate
+12632,Nellai Express,Tirunelveli Jn,Kovilpatti,1800,1,Winter,1.05,1350,0.75,0,Moderate
+12632,Nellai Express,Tirunelveli Jn,Kovilpatti,1800,2,Winter,0.9,1290,0.717,0,Moderate
+12632,Nellai Express,Tirunelveli Jn,Kovilpatti,1800,3,Summer,1.25,1785,0.992,0,High
+12632,Nellai Express,Tirunelveli Jn,Kovilpatti,1800,4,Summer,1.1,1472,0.818,0,Moderate
+12632,Nellai Express,Tirunelveli Jn,Kovilpatti,1800,5,Summer,1.4,1875,1.042,45,High
+12632,Nellai Express,Tirunelveli Jn,Kovilpatti,1800,6,Monsoon,0.85,1137,0.632,0,Low
+12632,Nellai Express,Tirunelveli Jn,Kovilpatti,1800,7,Monsoon,0.8,1065,0.592,0,Low
+12632,Nellai Express,Tirunelveli Jn,Kovilpatti,1800,8,Monsoon,0.9,1213,0.674,0,Low
+12632,Nellai Express,Tirunelveli Jn,Kovilpatti,1800,9,Post-Monsoon,1.0,1279,0.711,0,Moderate
+12632,Nellai Express,Tirunelveli Jn,Kovilpatti,1800,10,Post-Monsoon,1.3,1765,0.981,0,High
+12632,Nellai Express,Tirunelveli Jn,Kovilpatti,1800,11,Post-Monsoon,1.45,1974,1.097,104,Overcrowded
+12632,Nellai Express,Tirunelveli Jn,Kovilpatti,1800,12,Winter,1.2,1634,0.908,0,High
+12637,Pandian Exp,Melmaruvattur,Villupuram Jn,1500,1,Winter,1.05,1185,0.79,0,Moderate
+12637,Pandian Exp,Melmaruvattur,Villupuram Jn,1500,2,Winter,0.9,1011,0.674,0,Low
+12637,Pandian Exp,Melmaruvattur,Villupuram Jn,1500,3,Summer,1.25,1420,0.947,0,High
+12637,Pandian Exp,Melmaruvattur,Villupuram Jn,1500,4,Summer,1.1,1186,0.791,0,Moderate
+12637,Pandian Exp,Melmaruvattur,Villupuram Jn,1500,5,Summer,1.4,1603,1.069,62,Overcrowded
+12637,Pandian Exp,Melmaruvattur,Villupuram Jn,1500,6,Monsoon,0.85,976,0.651,0,Low
+12637,Pandian Exp,Melmaruvattur,Villupuram Jn,1500,7,Monsoon,0.8,919,0.613,0,Low
+12637,Pandian Exp,Melmaruvattur,Villupuram Jn,1500,8,Monsoon,0.9,1075,0.717,0,Moderate
+12637,Pandian Exp,Melmaruvattur,Villupuram Jn,1500,9,Post-Monsoon,1.0,1224,0.816,0,Moderate
+12637,Pandian Exp,Melmaruvattur,Villupuram Jn,1500,10,Post-Monsoon,1.3,1462,0.975,0,High
+12637,Pandian Exp,Melmaruvattur,Villupuram Jn,1500,11,Post-Monsoon,1.45,1624,1.083,74,Overcrowded
+12637,Pandian Exp,Melmaruvattur,Villupuram Jn,1500,12,Winter,1.2,1269,0.846,0,Moderate
+12638,Pandian Exp,Madurai Jn,Kodaikanal Road,1500,1,Winter,1.05,1185,0.79,0,Moderate
+12638,Pandian Exp,Madurai Jn,Kodaikanal Road,1500,2,Winter,0.9,1029,0.686,0,Low
+12638,Pandian Exp,Madurai Jn,Kodaikanal Road,1500,3,Summer,1.25,1356,0.904,0,High
+12638,Pandian Exp,Madurai Jn,Kodaikanal Road,1500,4,Summer,1.1,1266,0.844,0,Moderate
+12638,Pandian Exp,Madurai Jn,Kodaikanal Road,1500,5,Summer,1.4,1617,1.078,70,Overcrowded
+12638,Pandian Exp,Madurai Jn,Kodaikanal Road,1500,6,Monsoon,0.85,981,0.654,0,Low
+12638,Pandian Exp,Madurai Jn,Kodaikanal Road,1500,7,Monsoon,0.8,961,0.641,0,Low
+12638,Pandian Exp,Madurai Jn,Kodaikanal Road,1500,8,Monsoon,0.9,1107,0.738,0,Moderate
+12638,Pandian Exp,Madurai Jn,Kodaikanal Road,1500,9,Post-Monsoon,1.0,1131,0.754,0,Moderate
+12638,Pandian Exp,Madurai Jn,Kodaikanal Road,1500,10,Post-Monsoon,1.3,1464,0.976,0,High
+12638,Pandian Exp,Madurai Jn,Kodaikanal Road,1500,11,Post-Monsoon,1.45,1542,1.028,25,High
+12638,Pandian Exp,Madurai Jn,Kodaikanal Road,1500,12,Winter,1.2,1456,0.971,0,High
+12673,Cheran Express,Chennai Central,Avadi,1800,1,Winter,1.05,1369,0.761,0,Moderate
+12673,Cheran Express,Chennai Central,Avadi,1800,2,Winter,0.9,1218,0.677,0,Low
+12673,Cheran Express,Chennai Central,Avadi,1800,3,Summer,1.25,1823,1.013,14,High
+12673,Cheran Express,Chennai Central,Avadi,1800,4,Summer,1.1,1429,0.794,0,Moderate
+12673,Cheran Express,Chennai Central,Avadi,1800,5,Summer,1.4,1899,1.055,59,Overcrowded
+12673,Cheran Express,Chennai Central,Avadi,1800,6,Monsoon,0.85,1236,0.687,0,Low
+12673,Cheran Express,Chennai Central,Avadi,1800,7,Monsoon,0.8,1074,0.597,0,Low
+12673,Cheran Express,Chennai Central,Avadi,1800,8,Monsoon,0.9,1143,0.635,0,Low
+12673,Cheran Express,Chennai Central,Avadi,1800,9,Post-Monsoon,1.0,1333,0.741,0,Moderate
+12673,Cheran Express,Chennai Central,Avadi,1800,10,Post-Monsoon,1.3,1683,0.935,0,High
+12673,Cheran Express,Chennai Central,Avadi,1800,11,Post-Monsoon,1.45,2033,1.13,140,Overcrowded
+12673,Cheran Express,Chennai Central,Avadi,1800,12,Winter,1.2,1643,0.913,0,High
+12679,Coimbatore Intercity,Katpadi Jn,Ambur,1500,1,Winter,1.05,1177,0.785,0,Moderate
+12679,Coimbatore Intercity,Katpadi Jn,Ambur,1500,2,Winter,0.9,954,0.636,0,Low
+12679,Coimbatore Intercity,Katpadi Jn,Ambur,1500,3,Summer,1.25,1390,0.927,0,High
+12679,Coimbatore Intercity,Katpadi Jn,Ambur,1500,4,Summer,1.1,1188,0.792,0,Moderate
+12679,Coimbatore Intercity,Katpadi Jn,Ambur,1500,5,Summer,1.4,1639,1.093,83,Overcrowded
+12679,Coimbatore Intercity,Katpadi Jn,Ambur,1500,6,Monsoon,0.85,970,0.647,0,Low
+12679,Coimbatore Intercity,Katpadi Jn,Ambur,1500,7,Monsoon,0.8,877,0.585,0,Low
+12679,Coimbatore Intercity,Katpadi Jn,Ambur,1500,8,Monsoon,0.9,951,0.634,0,Low
+12679,Coimbatore Intercity,Katpadi Jn,Ambur,1500,9,Post-Monsoon,1.0,1161,0.774,0,Moderate
+12679,Coimbatore Intercity,Katpadi Jn,Ambur,1500,10,Post-Monsoon,1.3,1414,0.943,0,High
+12679,Coimbatore Intercity,Katpadi Jn,Ambur,1500,11,Post-Monsoon,1.45,1665,1.11,99,Overcrowded
+12679,Coimbatore Intercity,Katpadi Jn,Ambur,1500,12,Winter,1.2,1255,0.837,0,Moderate
+12680,Coimbatore Intercity,Salem Jn,Bommidi,1500,1,Winter,1.05,1218,0.812,0,Moderate
+12680,Coimbatore Intercity,Salem Jn,Bommidi,1500,2,Winter,0.9,1095,0.73,0,Moderate
+12680,Coimbatore Intercity,Salem Jn,Bommidi,1500,3,Summer,1.25,1477,0.985,0,High
+12680,Coimbatore Intercity,Salem Jn,Bommidi,1500,4,Summer,1.1,1408,0.939,0,High
+12680,Coimbatore Intercity,Salem Jn,Bommidi,1500,5,Summer,1.4,1749,1.166,149,Overcrowded
+12680,Coimbatore Intercity,Salem Jn,Bommidi,1500,6,Monsoon,0.85,1018,0.679,0,Low
+12680,Coimbatore Intercity,Salem Jn,Bommidi,1500,7,Monsoon,0.8,925,0.617,0,Low
+12680,Coimbatore Intercity,Salem Jn,Bommidi,1500,8,Monsoon,0.9,1143,0.762,0,Moderate
+12680,Coimbatore Intercity,Salem Jn,Bommidi,1500,9,Post-Monsoon,1.0,1189,0.793,0,Moderate
+12680,Coimbatore Intercity,Salem Jn,Bommidi,1500,10,Post-Monsoon,1.3,1633,1.089,80,Overcrowded
+12680,Coimbatore Intercity,Salem Jn,Bommidi,1500,11,Post-Monsoon,1.45,1659,1.106,95,Overcrowded
+12680,Coimbatore Intercity,Salem Jn,Bommidi,1500,12,Winter,1.2,1371,0.914,0,High
+12681,Kovai Express,Katpadi Jn,Salem Jn,1800,1,Winter,1.05,1674,0.93,0,High
+12681,Kovai Express,Katpadi Jn,Salem Jn,1800,2,Winter,0.9,1393,0.774,0,Moderate
+12681,Kovai Express,Katpadi Jn,Salem Jn,1800,3,Summer,1.25,2097,1.165,178,Overcrowded
+12681,Kovai Express,Katpadi Jn,Salem Jn,1800,4,Summer,1.1,1800,1.0,0,High
+12681,Kovai Express,Katpadi Jn,Salem Jn,1800,5,Summer,1.4,2197,1.221,238,Overcrowded
+12681,Kovai Express,Katpadi Jn,Salem Jn,1800,6,Monsoon,0.85,1287,0.715,0,Moderate
+12681,Kovai Express,Katpadi Jn,Salem Jn,1800,7,Monsoon,0.8,1330,0.739,0,Moderate
+12681,Kovai Express,Katpadi Jn,Salem Jn,1800,8,Monsoon,0.9,1402,0.779,0,Moderate
+12681,Kovai Express,Katpadi Jn,Salem Jn,1800,9,Post-Monsoon,1.0,1645,0.914,0,High
+12681,Kovai Express,Katpadi Jn,Salem Jn,1800,10,Post-Monsoon,1.3,1947,1.082,88,Overcrowded
+12681,Kovai Express,Katpadi Jn,Salem Jn,1800,11,Post-Monsoon,1.45,2169,1.205,221,Overcrowded
+12681,Kovai Express,Katpadi Jn,Salem Jn,1800,12,Winter,1.2,2052,1.14,151,Overcrowded
+12682,Kovai Express,Salem Jn,Katpadi Jn,1800,1,Winter,1.05,1625,0.903,0,High
+12682,Kovai Express,Salem Jn,Katpadi Jn,1800,2,Winter,0.9,1510,0.839,0,Moderate
+12682,Kovai Express,Salem Jn,Katpadi Jn,1800,3,Summer,1.25,2044,1.136,146,Overcrowded
+12682,Kovai Express,Salem Jn,Katpadi Jn,1800,4,Summer,1.1,1726,0.959,0,High
+12682,Kovai Express,Salem Jn,Katpadi Jn,1800,5,Summer,1.4,2120,1.178,192,Overcrowded
+12682,Kovai Express,Salem Jn,Katpadi Jn,1800,6,Monsoon,0.85,1414,0.786,0,Moderate
+12682,Kovai Express,Salem Jn,Katpadi Jn,1800,7,Monsoon,0.8,1245,0.692,0,Low
+12682,Kovai Express,Salem Jn,Katpadi Jn,1800,8,Monsoon,0.9,1479,0.822,0,Moderate
+12682,Kovai Express,Salem Jn,Katpadi Jn,1800,9,Post-Monsoon,1.0,1497,0.832,0,Moderate
+12682,Kovai Express,Salem Jn,Katpadi Jn,1800,10,Post-Monsoon,1.3,1945,1.081,87,Overcrowded
+12682,Kovai Express,Salem Jn,Katpadi Jn,1800,11,Post-Monsoon,1.45,2430,1.35,378,Overcrowded
+12682,Kovai Express,Salem Jn,Katpadi Jn,1800,12,Winter,1.2,2066,1.148,159,Overcrowded
+12839,Howrah Mail,Howrah Jn,Kharagpur Jn,1500,1,Winter,1.05,1344,0.896,0,Moderate
+12839,Howrah Mail,Howrah Jn,Kharagpur Jn,1500,2,Winter,0.9,1165,0.777,0,Moderate
+12839,Howrah Mail,Howrah Jn,Kharagpur Jn,1500,3,Summer,1.25,1675,1.117,105,Overcrowded
+12839,Howrah Mail,Howrah Jn,Kharagpur Jn,1500,4,Summer,1.1,1407,0.938,0,High
+12839,Howrah Mail,Howrah Jn,Kharagpur Jn,1500,5,Summer,1.4,1888,1.259,233,Overcrowded
+12839,Howrah Mail,Howrah Jn,Kharagpur Jn,1500,6,Monsoon,0.85,1071,0.714,0,Moderate
+12839,Howrah Mail,Howrah Jn,Kharagpur Jn,1500,7,Monsoon,0.8,975,0.65,0,Low
+12839,Howrah Mail,Howrah Jn,Kharagpur Jn,1500,8,Monsoon,0.9,1264,0.843,0,Moderate
+12839,Howrah Mail,Howrah Jn,Kharagpur Jn,1500,9,Post-Monsoon,1.0,1302,0.868,0,Moderate
+12839,Howrah Mail,Howrah Jn,Kharagpur Jn,1500,10,Post-Monsoon,1.3,1836,1.224,201,Overcrowded
+12839,Howrah Mail,Howrah Jn,Kharagpur Jn,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12839,Howrah Mail,Howrah Jn,Kharagpur Jn,1500,12,Winter,1.2,1531,1.021,18,High
+12840,Howrah Mail,Chennai Central,Gudur Jn,1500,1,Winter,1.05,1188,0.792,0,Moderate
+12840,Howrah Mail,Chennai Central,Gudur Jn,1500,2,Winter,0.9,1053,0.702,0,Moderate
+12840,Howrah Mail,Chennai Central,Gudur Jn,1500,3,Summer,1.25,1395,0.93,0,High
+12840,Howrah Mail,Chennai Central,Gudur Jn,1500,4,Summer,1.1,1294,0.863,0,Moderate
+12840,Howrah Mail,Chennai Central,Gudur Jn,1500,5,Summer,1.4,1539,1.026,23,High
+12840,Howrah Mail,Chennai Central,Gudur Jn,1500,6,Monsoon,0.85,903,0.602,0,Low
+12840,Howrah Mail,Chennai Central,Gudur Jn,1500,7,Monsoon,0.8,981,0.654,0,Low
+12840,Howrah Mail,Chennai Central,Gudur Jn,1500,8,Monsoon,0.9,1023,0.682,0,Low
+12840,Howrah Mail,Chennai Central,Gudur Jn,1500,9,Post-Monsoon,1.0,1233,0.822,0,Moderate
+12840,Howrah Mail,Chennai Central,Gudur Jn,1500,10,Post-Monsoon,1.3,1608,1.072,64,Overcrowded
+12840,Howrah Mail,Chennai Central,Gudur Jn,1500,11,Post-Monsoon,1.45,1615,1.077,69,Overcrowded
+12840,Howrah Mail,Chennai Central,Gudur Jn,1500,12,Winter,1.2,1315,0.877,0,Moderate
+12841,Coromandel Express,Howrah Jn,Shalimar,1800,1,Winter,1.05,1704,0.947,0,High
+12841,Coromandel Express,Howrah Jn,Shalimar,1800,2,Winter,0.9,1393,0.774,0,Moderate
+12841,Coromandel Express,Howrah Jn,Shalimar,1800,3,Summer,1.25,2041,1.134,144,Overcrowded
+12841,Coromandel Express,Howrah Jn,Shalimar,1800,4,Summer,1.1,1677,0.932,0,High
+12841,Coromandel Express,Howrah Jn,Shalimar,1800,5,Summer,1.4,2064,1.147,158,Overcrowded
+12841,Coromandel Express,Howrah Jn,Shalimar,1800,6,Monsoon,0.85,1445,0.803,0,Moderate
+12841,Coromandel Express,Howrah Jn,Shalimar,1800,7,Monsoon,0.8,1261,0.701,0,Moderate
+12841,Coromandel Express,Howrah Jn,Shalimar,1800,8,Monsoon,0.9,1539,0.855,0,Moderate
+12841,Coromandel Express,Howrah Jn,Shalimar,1800,9,Post-Monsoon,1.0,1715,0.953,0,High
+12841,Coromandel Express,Howrah Jn,Shalimar,1800,10,Post-Monsoon,1.3,2008,1.116,125,Overcrowded
+12841,Coromandel Express,Howrah Jn,Shalimar,1800,11,Post-Monsoon,1.45,2203,1.224,241,Overcrowded
+12841,Coromandel Express,Howrah Jn,Shalimar,1800,12,Winter,1.2,1870,1.039,42,High
+12842,Coromandel Express,Chennai Central,Ongole,1800,1,Winter,1.05,1389,0.772,0,Moderate
+12842,Coromandel Express,Chennai Central,Ongole,1800,2,Winter,0.9,1254,0.697,0,Low
+12842,Coromandel Express,Chennai Central,Ongole,1800,3,Summer,1.25,1629,0.905,0,High
+12842,Coromandel Express,Chennai Central,Ongole,1800,4,Summer,1.1,1386,0.77,0,Moderate
+12842,Coromandel Express,Chennai Central,Ongole,1800,5,Summer,1.4,2033,1.13,140,Overcrowded
+12842,Coromandel Express,Chennai Central,Ongole,1800,6,Monsoon,0.85,1144,0.636,0,Low
+12842,Coromandel Express,Chennai Central,Ongole,1800,7,Monsoon,0.8,1168,0.649,0,Low
+12842,Coromandel Express,Chennai Central,Ongole,1800,8,Monsoon,0.9,1319,0.733,0,Moderate
+12842,Coromandel Express,Chennai Central,Ongole,1800,9,Post-Monsoon,1.0,1319,0.733,0,Moderate
+12842,Coromandel Express,Chennai Central,Ongole,1800,10,Post-Monsoon,1.3,1688,0.938,0,High
+12842,Coromandel Express,Chennai Central,Ongole,1800,11,Post-Monsoon,1.45,1931,1.073,78,Overcrowded
+12842,Coromandel Express,Chennai Central,Ongole,1800,12,Winter,1.2,1634,0.908,0,High
+12903,Golden Temple Mail,Bandra Terminus,Borivali,1500,1,Winter,1.05,1092,0.728,0,Moderate
+12903,Golden Temple Mail,Bandra Terminus,Borivali,1500,2,Winter,0.9,919,0.613,0,Low
+12903,Golden Temple Mail,Bandra Terminus,Borivali,1500,3,Summer,1.25,1389,0.926,0,High
+12903,Golden Temple Mail,Bandra Terminus,Borivali,1500,4,Summer,1.1,1128,0.752,0,Moderate
+12903,Golden Temple Mail,Bandra Terminus,Borivali,1500,5,Summer,1.4,1476,0.984,0,High
+12903,Golden Temple Mail,Bandra Terminus,Borivali,1500,6,Monsoon,0.85,922,0.615,0,Low
+12903,Golden Temple Mail,Bandra Terminus,Borivali,1500,7,Monsoon,0.8,822,0.548,0,Low
+12903,Golden Temple Mail,Bandra Terminus,Borivali,1500,8,Monsoon,0.9,918,0.612,0,Low
+12903,Golden Temple Mail,Bandra Terminus,Borivali,1500,9,Post-Monsoon,1.0,1126,0.751,0,Moderate
+12903,Golden Temple Mail,Bandra Terminus,Borivali,1500,10,Post-Monsoon,1.3,1498,0.999,0,High
+12903,Golden Temple Mail,Bandra Terminus,Borivali,1500,11,Post-Monsoon,1.45,1536,1.024,21,High
+12903,Golden Temple Mail,Bandra Terminus,Borivali,1500,12,Winter,1.2,1396,0.931,0,High
+12904,Golden Temple Mail,Amritsar Jn,Beas,1500,1,Winter,1.05,991,0.661,0,Low
+12904,Golden Temple Mail,Amritsar Jn,Beas,1500,2,Winter,0.9,924,0.616,0,Low
+12904,Golden Temple Mail,Amritsar Jn,Beas,1500,3,Summer,1.25,1185,0.79,0,Moderate
+12904,Golden Temple Mail,Amritsar Jn,Beas,1500,4,Summer,1.1,1072,0.715,0,Moderate
+12904,Golden Temple Mail,Amritsar Jn,Beas,1500,5,Summer,1.4,1404,0.936,0,High
+12904,Golden Temple Mail,Amritsar Jn,Beas,1500,6,Monsoon,0.85,807,0.538,0,Low
+12904,Golden Temple Mail,Amritsar Jn,Beas,1500,7,Monsoon,0.8,754,0.503,0,Low
+12904,Golden Temple Mail,Amritsar Jn,Beas,1500,8,Monsoon,0.9,937,0.625,0,Low
+12904,Golden Temple Mail,Amritsar Jn,Beas,1500,9,Post-Monsoon,1.0,1066,0.711,0,Moderate
+12904,Golden Temple Mail,Amritsar Jn,Beas,1500,10,Post-Monsoon,1.3,1273,0.849,0,Moderate
+12904,Golden Temple Mail,Amritsar Jn,Beas,1500,11,Post-Monsoon,1.45,1560,1.04,36,High
+12904,Golden Temple Mail,Amritsar Jn,Beas,1500,12,Winter,1.2,1267,0.845,0,Moderate
+12925,Paschim Express,Bandra Terminus,Mumbai Central,1800,1,Winter,1.05,1301,0.723,0,Moderate
+12925,Paschim Express,Bandra Terminus,Mumbai Central,1800,2,Winter,0.9,1139,0.633,0,Low
+12925,Paschim Express,Bandra Terminus,Mumbai Central,1800,3,Summer,1.25,1569,0.872,0,Moderate
+12925,Paschim Express,Bandra Terminus,Mumbai Central,1800,4,Summer,1.1,1373,0.763,0,Moderate
+12925,Paschim Express,Bandra Terminus,Mumbai Central,1800,5,Summer,1.4,1785,0.992,0,High
+12925,Paschim Express,Bandra Terminus,Mumbai Central,1800,6,Monsoon,0.85,1114,0.619,0,Low
+12925,Paschim Express,Bandra Terminus,Mumbai Central,1800,7,Monsoon,0.8,988,0.549,0,Low
+12925,Paschim Express,Bandra Terminus,Mumbai Central,1800,8,Monsoon,0.9,1180,0.656,0,Low
+12925,Paschim Express,Bandra Terminus,Mumbai Central,1800,9,Post-Monsoon,1.0,1184,0.658,0,Low
+12925,Paschim Express,Bandra Terminus,Mumbai Central,1800,10,Post-Monsoon,1.3,1666,0.926,0,High
+12925,Paschim Express,Bandra Terminus,Mumbai Central,1800,11,Post-Monsoon,1.45,1861,1.034,36,High
+12925,Paschim Express,Bandra Terminus,Mumbai Central,1800,12,Winter,1.2,1431,0.795,0,Moderate
+12926,Paschim Express,Jalandhar City,Jalandhar Cant,1800,1,Winter,1.05,1350,0.75,0,Moderate
+12926,Paschim Express,Jalandhar City,Jalandhar Cant,1800,2,Winter,0.9,1148,0.638,0,Low
+12926,Paschim Express,Jalandhar City,Jalandhar Cant,1800,3,Summer,1.25,1585,0.881,0,Moderate
+12926,Paschim Express,Jalandhar City,Jalandhar Cant,1800,4,Summer,1.1,1425,0.792,0,Moderate
+12926,Paschim Express,Jalandhar City,Jalandhar Cant,1800,5,Summer,1.4,1862,1.035,37,High
+12926,Paschim Express,Jalandhar City,Jalandhar Cant,1800,6,Monsoon,0.85,1065,0.592,0,Low
+12926,Paschim Express,Jalandhar City,Jalandhar Cant,1800,7,Monsoon,0.8,1067,0.593,0,Low
+12926,Paschim Express,Jalandhar City,Jalandhar Cant,1800,8,Monsoon,0.9,1083,0.602,0,Low
+12926,Paschim Express,Jalandhar City,Jalandhar Cant,1800,9,Post-Monsoon,1.0,1303,0.724,0,Moderate
+12926,Paschim Express,Jalandhar City,Jalandhar Cant,1800,10,Post-Monsoon,1.3,1695,0.942,0,High
+12926,Paschim Express,Jalandhar City,Jalandhar Cant,1800,11,Post-Monsoon,1.45,1756,0.976,0,High
+12926,Paschim Express,Jalandhar City,Jalandhar Cant,1800,12,Winter,1.2,1575,0.875,0,Moderate
+12951,Mumbai Rajdhani,Vadodara Jn,Ratlam Jn,1200,1,Winter,1.05,1015,0.846,0,Moderate
+12951,Mumbai Rajdhani,Vadodara Jn,Ratlam Jn,1200,2,Winter,0.9,960,0.8,0,Moderate
+12951,Mumbai Rajdhani,Vadodara Jn,Ratlam Jn,1200,3,Summer,1.25,1149,0.958,0,High
+12951,Mumbai Rajdhani,Vadodara Jn,Ratlam Jn,1200,4,Summer,1.1,1070,0.892,0,Moderate
+12951,Mumbai Rajdhani,Vadodara Jn,Ratlam Jn,1200,5,Summer,1.4,1324,1.104,74,Overcrowded
+12951,Mumbai Rajdhani,Vadodara Jn,Ratlam Jn,1200,6,Monsoon,0.85,903,0.753,0,Moderate
+12951,Mumbai Rajdhani,Vadodara Jn,Ratlam Jn,1200,7,Monsoon,0.8,738,0.615,0,Low
+12951,Mumbai Rajdhani,Vadodara Jn,Ratlam Jn,1200,8,Monsoon,0.9,894,0.745,0,Moderate
+12951,Mumbai Rajdhani,Vadodara Jn,Ratlam Jn,1200,9,Post-Monsoon,1.0,1051,0.876,0,Moderate
+12951,Mumbai Rajdhani,Vadodara Jn,Ratlam Jn,1200,10,Post-Monsoon,1.3,1290,1.075,53,Overcrowded
+12951,Mumbai Rajdhani,Vadodara Jn,Ratlam Jn,1200,11,Post-Monsoon,1.45,1491,1.243,174,Overcrowded
+12951,Mumbai Rajdhani,Vadodara Jn,Ratlam Jn,1200,12,Winter,1.2,1124,0.937,0,High
+12952,Mumbai Rajdhani,New Delhi,Kota Jn,1200,1,Winter,1.05,1274,1.062,44,Overcrowded
+12952,Mumbai Rajdhani,New Delhi,Kota Jn,1200,2,Winter,0.9,940,0.784,0,Moderate
+12952,Mumbai Rajdhani,New Delhi,Kota Jn,1200,3,Summer,1.25,1382,1.152,109,Overcrowded
+12952,Mumbai Rajdhani,New Delhi,Kota Jn,1200,4,Summer,1.1,1183,0.986,0,High
+12952,Mumbai Rajdhani,New Delhi,Kota Jn,1200,5,Summer,1.4,1620,1.35,252,Overcrowded
+12952,Mumbai Rajdhani,New Delhi,Kota Jn,1200,6,Monsoon,0.85,890,0.742,0,Moderate
+12952,Mumbai Rajdhani,New Delhi,Kota Jn,1200,7,Monsoon,0.8,902,0.752,0,Moderate
+12952,Mumbai Rajdhani,New Delhi,Kota Jn,1200,8,Monsoon,0.9,1075,0.896,0,Moderate
+12952,Mumbai Rajdhani,New Delhi,Kota Jn,1200,9,Post-Monsoon,1.0,1128,0.94,0,High
+12952,Mumbai Rajdhani,New Delhi,Kota Jn,1200,10,Post-Monsoon,1.3,1520,1.267,192,Overcrowded
+12952,Mumbai Rajdhani,New Delhi,Kota Jn,1200,11,Post-Monsoon,1.45,1544,1.287,206,Overcrowded
+12952,Mumbai Rajdhani,New Delhi,Kota Jn,1200,12,Winter,1.2,1366,1.139,100,Overcrowded
+12953,August Kranti Rajdhani,Valsad,Surat,1200,1,Winter,1.05,888,0.74,0,Moderate
+12953,August Kranti Rajdhani,Valsad,Surat,1200,2,Winter,0.9,805,0.671,0,Low
+12953,August Kranti Rajdhani,Valsad,Surat,1200,3,Summer,1.25,1087,0.906,0,High
+12953,August Kranti Rajdhani,Valsad,Surat,1200,4,Summer,1.1,1075,0.896,0,Moderate
+12953,August Kranti Rajdhani,Valsad,Surat,1200,5,Summer,1.4,1186,0.989,0,High
+12953,August Kranti Rajdhani,Valsad,Surat,1200,6,Monsoon,0.85,775,0.646,0,Low
+12953,August Kranti Rajdhani,Valsad,Surat,1200,7,Monsoon,0.8,772,0.644,0,Low
+12953,August Kranti Rajdhani,Valsad,Surat,1200,8,Monsoon,0.9,820,0.684,0,Low
+12953,August Kranti Rajdhani,Valsad,Surat,1200,9,Post-Monsoon,1.0,945,0.788,0,Moderate
+12953,August Kranti Rajdhani,Valsad,Surat,1200,10,Post-Monsoon,1.3,1119,0.933,0,High
+12953,August Kranti Rajdhani,Valsad,Surat,1200,11,Post-Monsoon,1.45,1335,1.113,81,Overcrowded
+12953,August Kranti Rajdhani,Valsad,Surat,1200,12,Winter,1.2,1153,0.961,0,High
+12954,August Kranti Rajdhani,H Nizamuddin,Mathura Jn,1200,1,Winter,1.05,1042,0.869,0,Moderate
+12954,August Kranti Rajdhani,H Nizamuddin,Mathura Jn,1200,2,Winter,0.9,870,0.725,0,Moderate
+12954,August Kranti Rajdhani,H Nizamuddin,Mathura Jn,1200,3,Summer,1.25,1357,1.131,94,Overcrowded
+12954,August Kranti Rajdhani,H Nizamuddin,Mathura Jn,1200,4,Summer,1.1,1035,0.863,0,Moderate
+12954,August Kranti Rajdhani,H Nizamuddin,Mathura Jn,1200,5,Summer,1.4,1419,1.183,131,Overcrowded
+12954,August Kranti Rajdhani,H Nizamuddin,Mathura Jn,1200,6,Monsoon,0.85,913,0.761,0,Moderate
+12954,August Kranti Rajdhani,H Nizamuddin,Mathura Jn,1200,7,Monsoon,0.8,810,0.675,0,Low
+12954,August Kranti Rajdhani,H Nizamuddin,Mathura Jn,1200,8,Monsoon,0.9,945,0.788,0,Moderate
+12954,August Kranti Rajdhani,H Nizamuddin,Mathura Jn,1200,9,Post-Monsoon,1.0,957,0.798,0,Moderate
+12954,August Kranti Rajdhani,H Nizamuddin,Mathura Jn,1200,10,Post-Monsoon,1.3,1329,1.108,77,Overcrowded
+12954,August Kranti Rajdhani,H Nizamuddin,Mathura Jn,1200,11,Post-Monsoon,1.45,1549,1.291,209,Overcrowded
+12954,August Kranti Rajdhani,H Nizamuddin,Mathura Jn,1200,12,Winter,1.2,1140,0.95,0,High
+12957,Swarna Jayanti Rajdhani,Sabarmati Bg,Mahesana Jn,1200,1,Winter,1.05,801,0.668,0,Low
+12957,Swarna Jayanti Rajdhani,Sabarmati Bg,Mahesana Jn,1200,2,Winter,0.9,739,0.616,0,Low
+12957,Swarna Jayanti Rajdhani,Sabarmati Bg,Mahesana Jn,1200,3,Summer,1.25,1088,0.907,0,High
+12957,Swarna Jayanti Rajdhani,Sabarmati Bg,Mahesana Jn,1200,4,Summer,1.1,903,0.753,0,Moderate
+12957,Swarna Jayanti Rajdhani,Sabarmati Bg,Mahesana Jn,1200,5,Summer,1.4,1192,0.994,0,High
+12957,Swarna Jayanti Rajdhani,Sabarmati Bg,Mahesana Jn,1200,6,Monsoon,0.85,660,0.55,0,Low
+12957,Swarna Jayanti Rajdhani,Sabarmati Bg,Mahesana Jn,1200,7,Monsoon,0.8,663,0.553,0,Low
+12957,Swarna Jayanti Rajdhani,Sabarmati Bg,Mahesana Jn,1200,8,Monsoon,0.9,778,0.649,0,Low
+12957,Swarna Jayanti Rajdhani,Sabarmati Bg,Mahesana Jn,1200,9,Post-Monsoon,1.0,770,0.642,0,Low
+12957,Swarna Jayanti Rajdhani,Sabarmati Bg,Mahesana Jn,1200,10,Post-Monsoon,1.3,1003,0.836,0,Moderate
+12957,Swarna Jayanti Rajdhani,Sabarmati Bg,Mahesana Jn,1200,11,Post-Monsoon,1.45,1122,0.935,0,High
+12957,Swarna Jayanti Rajdhani,Sabarmati Bg,Mahesana Jn,1200,12,Winter,1.2,957,0.798,0,Moderate
+12958,Swarna Jayanti Rajdhani,New Delhi,Delhi Cantt,1200,1,Winter,1.05,1130,0.942,0,High
+12958,Swarna Jayanti Rajdhani,New Delhi,Delhi Cantt,1200,2,Winter,0.9,1026,0.855,0,Moderate
+12958,Swarna Jayanti Rajdhani,New Delhi,Delhi Cantt,1200,3,Summer,1.25,1344,1.12,86,Overcrowded
+12958,Swarna Jayanti Rajdhani,New Delhi,Delhi Cantt,1200,4,Summer,1.1,1226,1.022,15,High
+12958,Swarna Jayanti Rajdhani,New Delhi,Delhi Cantt,1200,5,Summer,1.4,1422,1.185,133,Overcrowded
+12958,Swarna Jayanti Rajdhani,New Delhi,Delhi Cantt,1200,6,Monsoon,0.85,922,0.769,0,Moderate
+12958,Swarna Jayanti Rajdhani,New Delhi,Delhi Cantt,1200,7,Monsoon,0.8,907,0.756,0,Moderate
+12958,Swarna Jayanti Rajdhani,New Delhi,Delhi Cantt,1200,8,Monsoon,0.9,908,0.757,0,Moderate
+12958,Swarna Jayanti Rajdhani,New Delhi,Delhi Cantt,1200,9,Post-Monsoon,1.0,1010,0.842,0,Moderate
+12958,Swarna Jayanti Rajdhani,New Delhi,Delhi Cantt,1200,10,Post-Monsoon,1.3,1317,1.098,70,Overcrowded
+12958,Swarna Jayanti Rajdhani,New Delhi,Delhi Cantt,1200,11,Post-Monsoon,1.45,1514,1.262,188,Overcrowded
+12958,Swarna Jayanti Rajdhani,New Delhi,Delhi Cantt,1200,12,Winter,1.2,1365,1.138,99,Overcrowded
+15959,Kamrup Express,Howrah Jn,Bandel Jn,1800,1,Winter,1.05,1783,0.991,0,High
+15959,Kamrup Express,Howrah Jn,Bandel Jn,1800,2,Winter,0.9,1441,0.801,0,Moderate
+15959,Kamrup Express,Howrah Jn,Bandel Jn,1800,3,Summer,1.25,2077,1.154,166,Overcrowded
+15959,Kamrup Express,Howrah Jn,Bandel Jn,1800,4,Summer,1.1,1665,0.925,0,High
+15959,Kamrup Express,Howrah Jn,Bandel Jn,1800,5,Summer,1.4,2266,1.259,279,Overcrowded
+15959,Kamrup Express,Howrah Jn,Bandel Jn,1800,6,Monsoon,0.85,1436,0.798,0,Moderate
+15959,Kamrup Express,Howrah Jn,Bandel Jn,1800,7,Monsoon,0.8,1202,0.668,0,Low
+15959,Kamrup Express,Howrah Jn,Bandel Jn,1800,8,Monsoon,0.9,1355,0.753,0,Moderate
+15959,Kamrup Express,Howrah Jn,Bandel Jn,1800,9,Post-Monsoon,1.0,1510,0.839,0,Moderate
+15959,Kamrup Express,Howrah Jn,Bandel Jn,1800,10,Post-Monsoon,1.3,2023,1.124,133,Overcrowded
+15959,Kamrup Express,Howrah Jn,Bandel Jn,1800,11,Post-Monsoon,1.45,2430,1.35,378,Overcrowded
+15959,Kamrup Express,Howrah Jn,Bandel Jn,1800,12,Winter,1.2,1980,1.1,108,Overcrowded
+15960,Kamrup Express,New Tinsukia Jn,Duliajan,1800,1,Winter,1.05,1285,0.714,0,Moderate
+15960,Kamrup Express,New Tinsukia Jn,Duliajan,1800,2,Winter,0.9,1143,0.635,0,Low
+15960,Kamrup Express,New Tinsukia Jn,Duliajan,1800,3,Summer,1.25,1445,0.803,0,Moderate
+15960,Kamrup Express,New Tinsukia Jn,Duliajan,1800,4,Summer,1.1,1360,0.756,0,Moderate
+15960,Kamrup Express,New Tinsukia Jn,Duliajan,1800,5,Summer,1.4,1807,1.004,4,High
+15960,Kamrup Express,New Tinsukia Jn,Duliajan,1800,6,Monsoon,0.85,975,0.542,0,Low
+15960,Kamrup Express,New Tinsukia Jn,Duliajan,1800,7,Monsoon,0.8,919,0.511,0,Low
+15960,Kamrup Express,New Tinsukia Jn,Duliajan,1800,8,Monsoon,0.9,1038,0.577,0,Low
+15960,Kamrup Express,New Tinsukia Jn,Duliajan,1800,9,Post-Monsoon,1.0,1189,0.661,0,Low
+15960,Kamrup Express,New Tinsukia Jn,Duliajan,1800,10,Post-Monsoon,1.3,1684,0.936,0,High
+15960,Kamrup Express,New Tinsukia Jn,Duliajan,1800,11,Post-Monsoon,1.45,1828,1.016,17,High
+15960,Kamrup Express,New Tinsukia Jn,Duliajan,1800,12,Winter,1.2,1596,0.887,0,Moderate
+16127,Guruvayur Express,Vridhachalam Jn,Pennadam,1800,1,Winter,1.05,1391,0.773,0,Moderate
+16127,Guruvayur Express,Vridhachalam Jn,Pennadam,1800,2,Winter,0.9,1139,0.633,0,Low
+16127,Guruvayur Express,Vridhachalam Jn,Pennadam,1800,3,Summer,1.25,1474,0.819,0,Moderate
+16127,Guruvayur Express,Vridhachalam Jn,Pennadam,1800,4,Summer,1.1,1409,0.783,0,Moderate
+16127,Guruvayur Express,Vridhachalam Jn,Pennadam,1800,5,Summer,1.4,1830,1.017,18,High
+16127,Guruvayur Express,Vridhachalam Jn,Pennadam,1800,6,Monsoon,0.85,1049,0.583,0,Low
+16127,Guruvayur Express,Vridhachalam Jn,Pennadam,1800,7,Monsoon,0.8,1051,0.584,0,Low
+16127,Guruvayur Express,Vridhachalam Jn,Pennadam,1800,8,Monsoon,0.9,1155,0.642,0,Low
+16127,Guruvayur Express,Vridhachalam Jn,Pennadam,1800,9,Post-Monsoon,1.0,1182,0.657,0,Low
+16127,Guruvayur Express,Vridhachalam Jn,Pennadam,1800,10,Post-Monsoon,1.3,1742,0.968,0,High
+16127,Guruvayur Express,Vridhachalam Jn,Pennadam,1800,11,Post-Monsoon,1.45,1886,1.048,51,High
+16127,Guruvayur Express,Vridhachalam Jn,Pennadam,1800,12,Winter,1.2,1499,0.833,0,Moderate
+16128,Guruvayur Express,Guruvayur,Punkunnam,1800,1,Winter,1.05,1279,0.711,0,Moderate
+16128,Guruvayur Express,Guruvayur,Punkunnam,1800,2,Winter,0.9,1022,0.568,0,Low
+16128,Guruvayur Express,Guruvayur,Punkunnam,1800,3,Summer,1.25,1544,0.858,0,Moderate
+16128,Guruvayur Express,Guruvayur,Punkunnam,1800,4,Summer,1.1,1386,0.77,0,Moderate
+16128,Guruvayur Express,Guruvayur,Punkunnam,1800,5,Summer,1.4,1666,0.926,0,High
+16128,Guruvayur Express,Guruvayur,Punkunnam,1800,6,Monsoon,0.85,1076,0.598,0,Low
+16128,Guruvayur Express,Guruvayur,Punkunnam,1800,7,Monsoon,0.8,990,0.55,0,Low
+16128,Guruvayur Express,Guruvayur,Punkunnam,1800,8,Monsoon,0.9,1026,0.57,0,Low
+16128,Guruvayur Express,Guruvayur,Punkunnam,1800,9,Post-Monsoon,1.0,1292,0.718,0,Moderate
+16128,Guruvayur Express,Guruvayur,Punkunnam,1800,10,Post-Monsoon,1.3,1630,0.906,0,High
+16128,Guruvayur Express,Guruvayur,Punkunnam,1800,11,Post-Monsoon,1.45,1746,0.97,0,High
+16128,Guruvayur Express,Guruvayur,Punkunnam,1800,12,Winter,1.2,1504,0.836,0,Moderate
+16339,Nagercoil Express,Kalyan Jn,Karjat,1800,1,Winter,1.05,1508,0.838,0,Moderate
+16339,Nagercoil Express,Kalyan Jn,Karjat,1800,2,Winter,0.9,1288,0.716,0,Moderate
+16339,Nagercoil Express,Kalyan Jn,Karjat,1800,3,Summer,1.25,1731,0.962,0,High
+16339,Nagercoil Express,Kalyan Jn,Karjat,1800,4,Summer,1.1,1526,0.848,0,Moderate
+16339,Nagercoil Express,Kalyan Jn,Karjat,1800,5,Summer,1.4,2023,1.124,133,Overcrowded
+16339,Nagercoil Express,Kalyan Jn,Karjat,1800,6,Monsoon,0.85,1240,0.689,0,Low
+16339,Nagercoil Express,Kalyan Jn,Karjat,1800,7,Monsoon,0.8,1209,0.672,0,Low
+16339,Nagercoil Express,Kalyan Jn,Karjat,1800,8,Monsoon,0.9,1290,0.717,0,Moderate
+16339,Nagercoil Express,Kalyan Jn,Karjat,1800,9,Post-Monsoon,1.0,1434,0.797,0,Moderate
+16339,Nagercoil Express,Kalyan Jn,Karjat,1800,10,Post-Monsoon,1.3,1846,1.026,28,High
+16339,Nagercoil Express,Kalyan Jn,Karjat,1800,11,Post-Monsoon,1.45,2134,1.186,200,Overcrowded
+16339,Nagercoil Express,Kalyan Jn,Karjat,1800,12,Winter,1.2,1647,0.915,0,High
+16340,Nagercoil Express,Nagercoil Jn,Valliyur,1800,1,Winter,1.05,1278,0.71,0,Moderate
+16340,Nagercoil Express,Nagercoil Jn,Valliyur,1800,2,Winter,0.9,1060,0.589,0,Low
+16340,Nagercoil Express,Nagercoil Jn,Valliyur,1800,3,Summer,1.25,1474,0.819,0,Moderate
+16340,Nagercoil Express,Nagercoil Jn,Valliyur,1800,4,Summer,1.1,1350,0.75,0,Moderate
+16340,Nagercoil Express,Nagercoil Jn,Valliyur,1800,5,Summer,1.4,1735,0.964,0,High
+16340,Nagercoil Express,Nagercoil Jn,Valliyur,1800,6,Monsoon,0.85,1090,0.606,0,Low
+16340,Nagercoil Express,Nagercoil Jn,Valliyur,1800,7,Monsoon,0.8,973,0.541,0,Low
+16340,Nagercoil Express,Nagercoil Jn,Valliyur,1800,8,Monsoon,0.9,1098,0.61,0,Low
+16340,Nagercoil Express,Nagercoil Jn,Valliyur,1800,9,Post-Monsoon,1.0,1207,0.671,0,Low
+16340,Nagercoil Express,Nagercoil Jn,Valliyur,1800,10,Post-Monsoon,1.3,1627,0.904,0,High
+16340,Nagercoil Express,Nagercoil Jn,Valliyur,1800,11,Post-Monsoon,1.45,1690,0.939,0,High
+16340,Nagercoil Express,Nagercoil Jn,Valliyur,1800,12,Winter,1.2,1609,0.894,0,Moderate
+17057,Devagiri Express,Kasara,Igatpuri,1800,1,Winter,1.05,1231,0.684,0,Low
+17057,Devagiri Express,Kasara,Igatpuri,1800,2,Winter,0.9,1152,0.64,0,Low
+17057,Devagiri Express,Kasara,Igatpuri,1800,3,Summer,1.25,1450,0.806,0,Moderate
+17057,Devagiri Express,Kasara,Igatpuri,1800,4,Summer,1.1,1387,0.771,0,Moderate
+17057,Devagiri Express,Kasara,Igatpuri,1800,5,Summer,1.4,1553,0.863,0,Moderate
+17057,Devagiri Express,Kasara,Igatpuri,1800,6,Monsoon,0.85,1027,0.571,0,Low
+17057,Devagiri Express,Kasara,Igatpuri,1800,7,Monsoon,0.8,939,0.522,0,Low
+17057,Devagiri Express,Kasara,Igatpuri,1800,8,Monsoon,0.9,1029,0.572,0,Low
+17057,Devagiri Express,Kasara,Igatpuri,1800,9,Post-Monsoon,1.0,1132,0.629,0,Low
+17057,Devagiri Express,Kasara,Igatpuri,1800,10,Post-Monsoon,1.3,1569,0.872,0,Moderate
+17057,Devagiri Express,Kasara,Igatpuri,1800,11,Post-Monsoon,1.45,1670,0.928,0,High
+17057,Devagiri Express,Kasara,Igatpuri,1800,12,Winter,1.2,1391,0.773,0,Moderate
+17058,Devagiri Express,Lingampalli,Begumpet,1800,1,Winter,1.05,1368,0.76,0,Moderate
+17058,Devagiri Express,Lingampalli,Begumpet,1800,2,Winter,0.9,1063,0.591,0,Low
+17058,Devagiri Express,Lingampalli,Begumpet,1800,3,Summer,1.25,1605,0.892,0,Moderate
+17058,Devagiri Express,Lingampalli,Begumpet,1800,4,Summer,1.1,1242,0.69,0,Low
+17058,Devagiri Express,Lingampalli,Begumpet,1800,5,Summer,1.4,1724,0.958,0,High
+17058,Devagiri Express,Lingampalli,Begumpet,1800,6,Monsoon,0.85,1016,0.565,0,Low
+17058,Devagiri Express,Lingampalli,Begumpet,1800,7,Monsoon,0.8,932,0.518,0,Low
+17058,Devagiri Express,Lingampalli,Begumpet,1800,8,Monsoon,0.9,1038,0.577,0,Low
+17058,Devagiri Express,Lingampalli,Begumpet,1800,9,Post-Monsoon,1.0,1229,0.683,0,Low
+17058,Devagiri Express,Lingampalli,Begumpet,1800,10,Post-Monsoon,1.3,1526,0.848,0,Moderate
+17058,Devagiri Express,Lingampalli,Begumpet,1800,11,Post-Monsoon,1.45,1711,0.951,0,High
+17058,Devagiri Express,Lingampalli,Begumpet,1800,12,Winter,1.2,1564,0.869,0,Moderate
+20665,Vande Bharat,Tambaram,Villupuram Jn,1128,1,Winter,1.05,955,0.847,0,Moderate
+20665,Vande Bharat,Tambaram,Villupuram Jn,1128,2,Winter,0.9,791,0.702,0,Moderate
+20665,Vande Bharat,Tambaram,Villupuram Jn,1128,3,Summer,1.25,1142,1.013,8,High
+20665,Vande Bharat,Tambaram,Villupuram Jn,1128,4,Summer,1.1,984,0.873,0,Moderate
+20665,Vande Bharat,Tambaram,Villupuram Jn,1128,5,Summer,1.4,1147,1.017,11,High
+20665,Vande Bharat,Tambaram,Villupuram Jn,1128,6,Monsoon,0.85,778,0.69,0,Low
+20665,Vande Bharat,Tambaram,Villupuram Jn,1128,7,Monsoon,0.8,742,0.658,0,Low
+20665,Vande Bharat,Tambaram,Villupuram Jn,1128,8,Monsoon,0.9,753,0.668,0,Low
+20665,Vande Bharat,Tambaram,Villupuram Jn,1128,9,Post-Monsoon,1.0,851,0.755,0,Moderate
+20665,Vande Bharat,Tambaram,Villupuram Jn,1128,10,Post-Monsoon,1.3,1148,1.018,12,High
+20665,Vande Bharat,Tambaram,Villupuram Jn,1128,11,Post-Monsoon,1.45,1379,1.223,150,Overcrowded
+20665,Vande Bharat,Tambaram,Villupuram Jn,1128,12,Winter,1.2,1016,0.901,0,High
+20666,Vande Bharat,Tirunelveli Jn,Virudunagar Jn,1128,1,Winter,1.05,902,0.8,0,Moderate
+20666,Vande Bharat,Tirunelveli Jn,Virudunagar Jn,1128,2,Winter,0.9,804,0.713,0,Moderate
+20666,Vande Bharat,Tirunelveli Jn,Virudunagar Jn,1128,3,Summer,1.25,1093,0.969,0,High
+20666,Vande Bharat,Tirunelveli Jn,Virudunagar Jn,1128,4,Summer,1.1,880,0.781,0,Moderate
+20666,Vande Bharat,Tirunelveli Jn,Virudunagar Jn,1128,5,Summer,1.4,1253,1.111,75,Overcrowded
+20666,Vande Bharat,Tirunelveli Jn,Virudunagar Jn,1128,6,Monsoon,0.85,770,0.683,0,Low
+20666,Vande Bharat,Tirunelveli Jn,Virudunagar Jn,1128,7,Monsoon,0.8,655,0.581,0,Low
+20666,Vande Bharat,Tirunelveli Jn,Virudunagar Jn,1128,8,Monsoon,0.9,748,0.664,0,Low
+20666,Vande Bharat,Tirunelveli Jn,Virudunagar Jn,1128,9,Post-Monsoon,1.0,864,0.766,0,Moderate
+20666,Vande Bharat,Tirunelveli Jn,Virudunagar Jn,1128,10,Post-Monsoon,1.3,1209,1.072,48,Overcrowded
+20666,Vande Bharat,Tirunelveli Jn,Virudunagar Jn,1128,11,Post-Monsoon,1.45,1200,1.064,43,Overcrowded
+20666,Vande Bharat,Tirunelveli Jn,Virudunagar Jn,1128,12,Winter,1.2,1037,0.92,0,High
+22221,Mumbai Vande Bharat,Kalyan Jn,Nasik Road,1128,1,Winter,1.05,1056,0.937,0,High
+22221,Mumbai Vande Bharat,Kalyan Jn,Nasik Road,1128,2,Winter,0.9,947,0.84,0,Moderate
+22221,Mumbai Vande Bharat,Kalyan Jn,Nasik Road,1128,3,Summer,1.25,1248,1.107,72,Overcrowded
+22221,Mumbai Vande Bharat,Kalyan Jn,Nasik Road,1128,4,Summer,1.1,1065,0.945,0,High
+22221,Mumbai Vande Bharat,Kalyan Jn,Nasik Road,1128,5,Summer,1.4,1491,1.322,217,Overcrowded
+22221,Mumbai Vande Bharat,Kalyan Jn,Nasik Road,1128,6,Monsoon,0.85,800,0.71,0,Moderate
+22221,Mumbai Vande Bharat,Kalyan Jn,Nasik Road,1128,7,Monsoon,0.8,791,0.702,0,Moderate
+22221,Mumbai Vande Bharat,Kalyan Jn,Nasik Road,1128,8,Monsoon,0.9,843,0.748,0,Moderate
+22221,Mumbai Vande Bharat,Kalyan Jn,Nasik Road,1128,9,Post-Monsoon,1.0,1023,0.907,0,High
+22221,Mumbai Vande Bharat,Kalyan Jn,Nasik Road,1128,10,Post-Monsoon,1.3,1361,1.207,140,Overcrowded
+22221,Mumbai Vande Bharat,Kalyan Jn,Nasik Road,1128,11,Post-Monsoon,1.45,1413,1.253,171,Overcrowded
+22221,Mumbai Vande Bharat,Kalyan Jn,Nasik Road,1128,12,Winter,1.2,1134,1.006,4,High
+22222,Mumbai Vande Bharat,Bhopal Jn,Bhusaval Jn,1128,1,Winter,1.05,1133,1.005,3,High
+22222,Mumbai Vande Bharat,Bhopal Jn,Bhusaval Jn,1128,2,Winter,0.9,922,0.818,0,Moderate
+22222,Mumbai Vande Bharat,Bhopal Jn,Bhusaval Jn,1128,3,Summer,1.25,1241,1.101,68,Overcrowded
+22222,Mumbai Vande Bharat,Bhopal Jn,Bhusaval Jn,1128,4,Summer,1.1,1202,1.066,44,Overcrowded
+22222,Mumbai Vande Bharat,Bhopal Jn,Bhusaval Jn,1128,5,Summer,1.4,1353,1.2,135,Overcrowded
+22222,Mumbai Vande Bharat,Bhopal Jn,Bhusaval Jn,1128,6,Monsoon,0.85,862,0.765,0,Moderate
+22222,Mumbai Vande Bharat,Bhopal Jn,Bhusaval Jn,1128,7,Monsoon,0.8,769,0.682,0,Low
+22222,Mumbai Vande Bharat,Bhopal Jn,Bhusaval Jn,1128,8,Monsoon,0.9,944,0.837,0,Moderate
+22222,Mumbai Vande Bharat,Bhopal Jn,Bhusaval Jn,1128,9,Post-Monsoon,1.0,1073,0.952,0,High
+22222,Mumbai Vande Bharat,Bhopal Jn,Bhusaval Jn,1128,10,Post-Monsoon,1.3,1299,1.152,102,Overcrowded
+22222,Mumbai Vande Bharat,Bhopal Jn,Bhusaval Jn,1128,11,Post-Monsoon,1.45,1406,1.247,167,Overcrowded
+22222,Mumbai Vande Bharat,Bhopal Jn,Bhusaval Jn,1128,12,Winter,1.2,1141,1.012,8,High
+22226,Chennai Vande Bharat,Kurduvadi,Pune Jn,1128,1,Winter,1.05,946,0.839,0,Moderate
+22226,Chennai Vande Bharat,Kurduvadi,Pune Jn,1128,2,Winter,0.9,851,0.755,0,Moderate
+22226,Chennai Vande Bharat,Kurduvadi,Pune Jn,1128,3,Summer,1.25,1120,0.993,0,High
+22226,Chennai Vande Bharat,Kurduvadi,Pune Jn,1128,4,Summer,1.1,1076,0.954,0,High
+22226,Chennai Vande Bharat,Kurduvadi,Pune Jn,1128,5,Summer,1.4,1402,1.243,164,Overcrowded
+22226,Chennai Vande Bharat,Kurduvadi,Pune Jn,1128,6,Monsoon,0.85,791,0.702,0,Moderate
+22226,Chennai Vande Bharat,Kurduvadi,Pune Jn,1128,7,Monsoon,0.8,723,0.641,0,Low
+22226,Chennai Vande Bharat,Kurduvadi,Pune Jn,1128,8,Monsoon,0.9,797,0.707,0,Moderate
+22226,Chennai Vande Bharat,Kurduvadi,Pune Jn,1128,9,Post-Monsoon,1.0,1024,0.908,0,High
+22226,Chennai Vande Bharat,Kurduvadi,Pune Jn,1128,10,Post-Monsoon,1.3,1161,1.03,20,High
+22226,Chennai Vande Bharat,Kurduvadi,Pune Jn,1128,11,Post-Monsoon,1.45,1497,1.328,221,Overcrowded
+22226,Chennai Vande Bharat,Kurduvadi,Pune Jn,1128,12,Winter,1.2,1069,0.948,0,High
+22301,Vande Bharat,Howrah Jn,Bolpur S Niktn,1128,1,Winter,1.05,1091,0.968,0,High
+22301,Vande Bharat,Howrah Jn,Bolpur S Niktn,1128,2,Winter,0.9,953,0.845,0,Moderate
+22301,Vande Bharat,Howrah Jn,Bolpur S Niktn,1128,3,Summer,1.25,1255,1.113,76,Overcrowded
+22301,Vande Bharat,Howrah Jn,Bolpur S Niktn,1128,4,Summer,1.1,1058,0.938,0,High
+22301,Vande Bharat,Howrah Jn,Bolpur S Niktn,1128,5,Summer,1.4,1377,1.221,149,Overcrowded
+22301,Vande Bharat,Howrah Jn,Bolpur S Niktn,1128,6,Monsoon,0.85,840,0.745,0,Moderate
+22301,Vande Bharat,Howrah Jn,Bolpur S Niktn,1128,7,Monsoon,0.8,851,0.755,0,Moderate
+22301,Vande Bharat,Howrah Jn,Bolpur S Niktn,1128,8,Monsoon,0.9,958,0.85,0,Moderate
+22301,Vande Bharat,Howrah Jn,Bolpur S Niktn,1128,9,Post-Monsoon,1.0,1070,0.949,0,High
+22301,Vande Bharat,Howrah Jn,Bolpur S Niktn,1128,10,Post-Monsoon,1.3,1314,1.165,111,Overcrowded
+22301,Vande Bharat,Howrah Jn,Bolpur S Niktn,1128,11,Post-Monsoon,1.45,1410,1.25,169,Overcrowded
+22301,Vande Bharat,Howrah Jn,Bolpur S Niktn,1128,12,Winter,1.2,1156,1.025,16,High
+22302,Vande Bharat,Malda Town,Bolpur S Niktn,1128,1,Winter,1.05,889,0.789,0,Moderate
+22302,Vande Bharat,Malda Town,Bolpur S Niktn,1128,2,Winter,0.9,724,0.642,0,Low
+22302,Vande Bharat,Malda Town,Bolpur S Niktn,1128,3,Summer,1.25,962,0.853,0,Moderate
+22302,Vande Bharat,Malda Town,Bolpur S Niktn,1128,4,Summer,1.1,866,0.768,0,Moderate
+22302,Vande Bharat,Malda Town,Bolpur S Niktn,1128,5,Summer,1.4,1107,0.982,0,High
+22302,Vande Bharat,Malda Town,Bolpur S Niktn,1128,6,Monsoon,0.85,724,0.642,0,Low
+22302,Vande Bharat,Malda Town,Bolpur S Niktn,1128,7,Monsoon,0.8,682,0.605,0,Low
+22302,Vande Bharat,Malda Town,Bolpur S Niktn,1128,8,Monsoon,0.9,770,0.683,0,Low
+22302,Vande Bharat,Malda Town,Bolpur S Niktn,1128,9,Post-Monsoon,1.0,808,0.717,0,Moderate
+22302,Vande Bharat,Malda Town,Bolpur S Niktn,1128,10,Post-Monsoon,1.3,1011,0.897,0,Moderate
+22302,Vande Bharat,Malda Town,Bolpur S Niktn,1128,11,Post-Monsoon,1.45,1118,0.992,0,High
+22302,Vande Bharat,Malda Town,Bolpur S Niktn,1128,12,Winter,1.2,1043,0.925,0,High
+22601,Chennai Intercity,Bangarapet,Malur,1500,1,Winter,1.05,1089,0.726,0,Moderate
+22601,Chennai Intercity,Bangarapet,Malur,1500,2,Winter,0.9,871,0.581,0,Low
+22601,Chennai Intercity,Bangarapet,Malur,1500,3,Summer,1.25,1258,0.839,0,Moderate
+22601,Chennai Intercity,Bangarapet,Malur,1500,4,Summer,1.1,1120,0.747,0,Moderate
+22601,Chennai Intercity,Bangarapet,Malur,1500,5,Summer,1.4,1398,0.932,0,High
+22601,Chennai Intercity,Bangarapet,Malur,1500,6,Monsoon,0.85,945,0.63,0,Low
+22601,Chennai Intercity,Bangarapet,Malur,1500,7,Monsoon,0.8,860,0.574,0,Low
+22601,Chennai Intercity,Bangarapet,Malur,1500,8,Monsoon,0.9,973,0.649,0,Low
+22601,Chennai Intercity,Bangarapet,Malur,1500,9,Post-Monsoon,1.0,1015,0.677,0,Low
+22601,Chennai Intercity,Bangarapet,Malur,1500,10,Post-Monsoon,1.3,1312,0.875,0,Moderate
+22601,Chennai Intercity,Bangarapet,Malur,1500,11,Post-Monsoon,1.45,1425,0.95,0,High
+22601,Chennai Intercity,Bangarapet,Malur,1500,12,Winter,1.2,1308,0.872,0,Moderate
+22602,Chennai Intercity,Sainagar Shirdi,Ahmadnagar,1500,1,Winter,1.05,945,0.63,0,Low
+22602,Chennai Intercity,Sainagar Shirdi,Ahmadnagar,1500,2,Winter,0.9,841,0.561,0,Low
+22602,Chennai Intercity,Sainagar Shirdi,Ahmadnagar,1500,3,Summer,1.25,1183,0.789,0,Moderate
+22602,Chennai Intercity,Sainagar Shirdi,Ahmadnagar,1500,4,Summer,1.1,1020,0.68,0,Low
+22602,Chennai Intercity,Sainagar Shirdi,Ahmadnagar,1500,5,Summer,1.4,1446,0.964,0,High
+22602,Chennai Intercity,Sainagar Shirdi,Ahmadnagar,1500,6,Monsoon,0.85,850,0.567,0,Low
+22602,Chennai Intercity,Sainagar Shirdi,Ahmadnagar,1500,7,Monsoon,0.8,804,0.536,0,Low
+22602,Chennai Intercity,Sainagar Shirdi,Ahmadnagar,1500,8,Monsoon,0.9,848,0.566,0,Low
+22602,Chennai Intercity,Sainagar Shirdi,Ahmadnagar,1500,9,Post-Monsoon,1.0,937,0.625,0,Low
+22602,Chennai Intercity,Sainagar Shirdi,Ahmadnagar,1500,10,Post-Monsoon,1.3,1186,0.791,0,Moderate
+22602,Chennai Intercity,Sainagar Shirdi,Ahmadnagar,1500,11,Post-Monsoon,1.45,1467,0.978,0,High
+22602,Chennai Intercity,Sainagar Shirdi,Ahmadnagar,1500,12,Winter,1.2,1224,0.816,0,Moderate
+22651,Palakkad Superfast,Chennai Central,Tiruvallur,1500,1,Winter,1.05,1180,0.787,0,Moderate
+22651,Palakkad Superfast,Chennai Central,Tiruvallur,1500,2,Winter,0.9,1023,0.682,0,Low
+22651,Palakkad Superfast,Chennai Central,Tiruvallur,1500,3,Summer,1.25,1399,0.933,0,High
+22651,Palakkad Superfast,Chennai Central,Tiruvallur,1500,4,Summer,1.1,1191,0.794,0,Moderate
+22651,Palakkad Superfast,Chennai Central,Tiruvallur,1500,5,Summer,1.4,1545,1.03,27,High
+22651,Palakkad Superfast,Chennai Central,Tiruvallur,1500,6,Monsoon,0.85,948,0.632,0,Low
+22651,Palakkad Superfast,Chennai Central,Tiruvallur,1500,7,Monsoon,0.8,933,0.622,0,Low
+22651,Palakkad Superfast,Chennai Central,Tiruvallur,1500,8,Monsoon,0.9,1035,0.69,0,Low
+22651,Palakkad Superfast,Chennai Central,Tiruvallur,1500,9,Post-Monsoon,1.0,1173,0.782,0,Moderate
+22651,Palakkad Superfast,Chennai Central,Tiruvallur,1500,10,Post-Monsoon,1.3,1437,0.958,0,High
+22651,Palakkad Superfast,Chennai Central,Tiruvallur,1500,11,Post-Monsoon,1.45,1527,1.018,16,High
+22651,Palakkad Superfast,Chennai Central,Tiruvallur,1500,12,Winter,1.2,1366,0.911,0,High
+22652,Palakkad Superfast,Palakkad Jn,Palghat Town,1500,1,Winter,1.05,1116,0.744,0,Moderate
+22652,Palakkad Superfast,Palakkad Jn,Palghat Town,1500,2,Winter,0.9,942,0.628,0,Low
+22652,Palakkad Superfast,Palakkad Jn,Palghat Town,1500,3,Summer,1.25,1266,0.844,0,Moderate
+22652,Palakkad Superfast,Palakkad Jn,Palghat Town,1500,4,Summer,1.1,1135,0.757,0,Moderate
+22652,Palakkad Superfast,Palakkad Jn,Palghat Town,1500,5,Summer,1.4,1461,0.974,0,High
+22652,Palakkad Superfast,Palakkad Jn,Palghat Town,1500,6,Monsoon,0.85,927,0.618,0,Low
+22652,Palakkad Superfast,Palakkad Jn,Palghat Town,1500,7,Monsoon,0.8,859,0.573,0,Low
+22652,Palakkad Superfast,Palakkad Jn,Palghat Town,1500,8,Monsoon,0.9,987,0.658,0,Low
+22652,Palakkad Superfast,Palakkad Jn,Palghat Town,1500,9,Post-Monsoon,1.0,1033,0.689,0,Low
+22652,Palakkad Superfast,Palakkad Jn,Palghat Town,1500,10,Post-Monsoon,1.3,1281,0.854,0,Moderate
+22652,Palakkad Superfast,Palakkad Jn,Palghat Town,1500,11,Post-Monsoon,1.45,1545,1.03,27,High
+22652,Palakkad Superfast,Palakkad Jn,Palghat Town,1500,12,Winter,1.2,1240,0.827,0,Moderate
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,Dibrugarh,Kanyakumari,1500,1,Winter,1.05,1579,1.053,47,Overcrowded
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,Dibrugarh,Kanyakumari,1500,2,Winter,0.9,1354,0.903,0,High
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,Dibrugarh,Kanyakumari,1500,3,Summer,1.25,1642,1.095,85,Overcrowded
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,Dibrugarh,Kanyakumari,1500,4,Summer,1.1,1524,1.016,14,High
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,Dibrugarh,Kanyakumari,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,Dibrugarh,Kanyakumari,1500,6,Monsoon,0.85,1222,0.815,0,Moderate
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,Dibrugarh,Kanyakumari,1500,7,Monsoon,0.8,1098,0.732,0,Moderate
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,Dibrugarh,Kanyakumari,1500,8,Monsoon,0.9,1201,0.801,0,Moderate
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,Dibrugarh,Kanyakumari,1500,9,Post-Monsoon,1.0,1333,0.889,0,Moderate
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,Dibrugarh,Kanyakumari,1500,10,Post-Monsoon,1.3,1846,1.231,207,Overcrowded
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,Dibrugarh,Kanyakumari,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+22504,Dibrugarh Kanniyakumari Vivek SF Exp,Dibrugarh,Kanyakumari,1500,12,Winter,1.2,1795,1.197,177,Overcrowded
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,Kanyakumari,Dibrugarh,1500,1,Winter,1.05,1570,1.047,42,High
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,Kanyakumari,Dibrugarh,1500,2,Winter,0.9,1354,0.903,0,High
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,Kanyakumari,Dibrugarh,1500,3,Summer,1.25,1881,1.254,228,Overcrowded
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,Kanyakumari,Dibrugarh,1500,4,Summer,1.1,1446,0.964,0,High
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,Kanyakumari,Dibrugarh,1500,5,Summer,1.4,1939,1.293,263,Overcrowded
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,Kanyakumari,Dibrugarh,1500,6,Monsoon,0.85,1261,0.841,0,Moderate
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,Kanyakumari,Dibrugarh,1500,7,Monsoon,0.8,1150,0.767,0,Moderate
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,Kanyakumari,Dibrugarh,1500,8,Monsoon,0.9,1234,0.823,0,Moderate
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,Kanyakumari,Dibrugarh,1500,9,Post-Monsoon,1.0,1335,0.89,0,Moderate
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,Kanyakumari,Dibrugarh,1500,10,Post-Monsoon,1.3,1733,1.156,140,Overcrowded
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,Kanyakumari,Dibrugarh,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+22503,Kanniyakumari Dibrugarh Vivek SF Exp,Kanyakumari,Dibrugarh,1500,12,Winter,1.2,1708,1.139,125,Overcrowded
+12508,Aronai Exp,Silchar,Thiruvananthapuram,1500,1,Winter,1.05,1557,1.038,34,High
+12508,Aronai Exp,Silchar,Thiruvananthapuram,1500,2,Winter,0.9,1294,0.863,0,Moderate
+12508,Aronai Exp,Silchar,Thiruvananthapuram,1500,3,Summer,1.25,1715,1.144,129,Overcrowded
+12508,Aronai Exp,Silchar,Thiruvananthapuram,1500,4,Summer,1.1,1468,0.979,0,High
+12508,Aronai Exp,Silchar,Thiruvananthapuram,1500,5,Summer,1.4,1867,1.245,220,Overcrowded
+12508,Aronai Exp,Silchar,Thiruvananthapuram,1500,6,Monsoon,0.85,1207,0.805,0,Moderate
+12508,Aronai Exp,Silchar,Thiruvananthapuram,1500,7,Monsoon,0.8,1138,0.759,0,Moderate
+12508,Aronai Exp,Silchar,Thiruvananthapuram,1500,8,Monsoon,0.9,1347,0.898,0,Moderate
+12508,Aronai Exp,Silchar,Thiruvananthapuram,1500,9,Post-Monsoon,1.0,1404,0.936,0,High
+12508,Aronai Exp,Silchar,Thiruvananthapuram,1500,10,Post-Monsoon,1.3,1708,1.139,125,Overcrowded
+12508,Aronai Exp,Silchar,Thiruvananthapuram,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12508,Aronai Exp,Silchar,Thiruvananthapuram,1500,12,Winter,1.2,1693,1.129,116,Overcrowded
+12507,Aronai Exp,Thiruvananthapuram,Silchar,1500,1,Winter,1.05,1455,0.97,0,High
+12507,Aronai Exp,Thiruvananthapuram,Silchar,1500,2,Winter,0.9,1335,0.89,0,Moderate
+12507,Aronai Exp,Thiruvananthapuram,Silchar,1500,3,Summer,1.25,1798,1.199,179,Overcrowded
+12507,Aronai Exp,Thiruvananthapuram,Silchar,1500,4,Summer,1.1,1509,1.006,5,High
+12507,Aronai Exp,Thiruvananthapuram,Silchar,1500,5,Summer,1.4,1869,1.246,221,Overcrowded
+12507,Aronai Exp,Thiruvananthapuram,Silchar,1500,6,Monsoon,0.85,1134,0.756,0,Moderate
+12507,Aronai Exp,Thiruvananthapuram,Silchar,1500,7,Monsoon,0.8,1135,0.757,0,Moderate
+12507,Aronai Exp,Thiruvananthapuram,Silchar,1500,8,Monsoon,0.9,1281,0.854,0,Moderate
+12507,Aronai Exp,Thiruvananthapuram,Silchar,1500,9,Post-Monsoon,1.0,1495,0.997,0,High
+12507,Aronai Exp,Thiruvananthapuram,Silchar,1500,10,Post-Monsoon,1.3,1824,1.216,194,Overcrowded
+12507,Aronai Exp,Thiruvananthapuram,Silchar,1500,11,Post-Monsoon,1.45,1906,1.271,243,Overcrowded
+12507,Aronai Exp,Thiruvananthapuram,Silchar,1500,12,Winter,1.2,1742,1.162,145,Overcrowded
+16317,Himsagar Exp,Kanyakumari,Shri Mata Vaishno Devi Katra,1500,1,Winter,1.05,1516,1.011,9,High
+16317,Himsagar Exp,Kanyakumari,Shri Mata Vaishno Devi Katra,1500,2,Winter,0.9,1384,0.923,0,High
+16317,Himsagar Exp,Kanyakumari,Shri Mata Vaishno Devi Katra,1500,3,Summer,1.25,1842,1.228,205,Overcrowded
+16317,Himsagar Exp,Kanyakumari,Shri Mata Vaishno Devi Katra,1500,4,Summer,1.1,1665,1.11,99,Overcrowded
+16317,Himsagar Exp,Kanyakumari,Shri Mata Vaishno Devi Katra,1500,5,Summer,1.4,1966,1.311,279,Overcrowded
+16317,Himsagar Exp,Kanyakumari,Shri Mata Vaishno Devi Katra,1500,6,Monsoon,0.85,1303,0.869,0,Moderate
+16317,Himsagar Exp,Kanyakumari,Shri Mata Vaishno Devi Katra,1500,7,Monsoon,0.8,1060,0.707,0,Moderate
+16317,Himsagar Exp,Kanyakumari,Shri Mata Vaishno Devi Katra,1500,8,Monsoon,0.9,1371,0.914,0,High
+16317,Himsagar Exp,Kanyakumari,Shri Mata Vaishno Devi Katra,1500,9,Post-Monsoon,1.0,1429,0.953,0,High
+16317,Himsagar Exp,Kanyakumari,Shri Mata Vaishno Devi Katra,1500,10,Post-Monsoon,1.3,1837,1.225,202,Overcrowded
+16317,Himsagar Exp,Kanyakumari,Shri Mata Vaishno Devi Katra,1500,11,Post-Monsoon,1.45,1981,1.321,288,Overcrowded
+16317,Himsagar Exp,Kanyakumari,Shri Mata Vaishno Devi Katra,1500,12,Winter,1.2,1729,1.153,137,Overcrowded
+16318,Himsagar Exp,Shri Mata Vaishno Devi Katra,Kanyakumari,1500,1,Winter,1.05,1615,1.077,69,Overcrowded
+16318,Himsagar Exp,Shri Mata Vaishno Devi Katra,Kanyakumari,1500,2,Winter,0.9,1326,0.884,0,Moderate
+16318,Himsagar Exp,Shri Mata Vaishno Devi Katra,Kanyakumari,1500,3,Summer,1.25,1891,1.261,234,Overcrowded
+16318,Himsagar Exp,Shri Mata Vaishno Devi Katra,Kanyakumari,1500,4,Summer,1.1,1545,1.03,27,High
+16318,Himsagar Exp,Shri Mata Vaishno Devi Katra,Kanyakumari,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+16318,Himsagar Exp,Shri Mata Vaishno Devi Katra,Kanyakumari,1500,6,Monsoon,0.85,1126,0.751,0,Moderate
+16318,Himsagar Exp,Shri Mata Vaishno Devi Katra,Kanyakumari,1500,7,Monsoon,0.8,1218,0.812,0,Moderate
+16318,Himsagar Exp,Shri Mata Vaishno Devi Katra,Kanyakumari,1500,8,Monsoon,0.9,1287,0.858,0,Moderate
+16318,Himsagar Exp,Shri Mata Vaishno Devi Katra,Kanyakumari,1500,9,Post-Monsoon,1.0,1413,0.942,0,High
+16318,Himsagar Exp,Shri Mata Vaishno Devi Katra,Kanyakumari,1500,10,Post-Monsoon,1.3,1776,1.184,165,Overcrowded
+16318,Himsagar Exp,Shri Mata Vaishno Devi Katra,Kanyakumari,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+16318,Himsagar Exp,Shri Mata Vaishno Devi Katra,Kanyakumari,1500,12,Winter,1.2,1708,1.139,125,Overcrowded
+16788,Vaishno Devi Katra Tirunelveli Exp,Shri Mata Vaishno Devi Katra,Tirunelveli,1500,1,Winter,1.05,1453,0.969,0,High
+16788,Vaishno Devi Katra Tirunelveli Exp,Shri Mata Vaishno Devi Katra,Tirunelveli,1500,2,Winter,0.9,1290,0.86,0,Moderate
+16788,Vaishno Devi Katra Tirunelveli Exp,Shri Mata Vaishno Devi Katra,Tirunelveli,1500,3,Summer,1.25,1840,1.227,204,Overcrowded
+16788,Vaishno Devi Katra Tirunelveli Exp,Shri Mata Vaishno Devi Katra,Tirunelveli,1500,4,Summer,1.1,1680,1.12,108,Overcrowded
+16788,Vaishno Devi Katra Tirunelveli Exp,Shri Mata Vaishno Devi Katra,Tirunelveli,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+16788,Vaishno Devi Katra Tirunelveli Exp,Shri Mata Vaishno Devi Katra,Tirunelveli,1500,6,Monsoon,0.85,1276,0.851,0,Moderate
+16788,Vaishno Devi Katra Tirunelveli Exp,Shri Mata Vaishno Devi Katra,Tirunelveli,1500,7,Monsoon,0.8,1204,0.803,0,Moderate
+16788,Vaishno Devi Katra Tirunelveli Exp,Shri Mata Vaishno Devi Katra,Tirunelveli,1500,8,Monsoon,0.9,1245,0.83,0,Moderate
+16788,Vaishno Devi Katra Tirunelveli Exp,Shri Mata Vaishno Devi Katra,Tirunelveli,1500,9,Post-Monsoon,1.0,1371,0.914,0,High
+16788,Vaishno Devi Katra Tirunelveli Exp,Shri Mata Vaishno Devi Katra,Tirunelveli,1500,10,Post-Monsoon,1.3,1900,1.267,240,Overcrowded
+16788,Vaishno Devi Katra Tirunelveli Exp,Shri Mata Vaishno Devi Katra,Tirunelveli,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+16788,Vaishno Devi Katra Tirunelveli Exp,Shri Mata Vaishno Devi Katra,Tirunelveli,1500,12,Winter,1.2,1596,1.064,57,Overcrowded
+16787,Tirunelveli Vaishno Devi Katra Exp,Tirunelveli,Shri Mata Vaishno Devi Katra,1500,1,Winter,1.05,1419,0.946,0,High
+16787,Tirunelveli Vaishno Devi Katra Exp,Tirunelveli,Shri Mata Vaishno Devi Katra,1500,2,Winter,0.9,1246,0.831,0,Moderate
+16787,Tirunelveli Vaishno Devi Katra Exp,Tirunelveli,Shri Mata Vaishno Devi Katra,1500,3,Summer,1.25,1792,1.195,175,Overcrowded
+16787,Tirunelveli Vaishno Devi Katra Exp,Tirunelveli,Shri Mata Vaishno Devi Katra,1500,4,Summer,1.1,1620,1.08,72,Overcrowded
+16787,Tirunelveli Vaishno Devi Katra Exp,Tirunelveli,Shri Mata Vaishno Devi Katra,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+16787,Tirunelveli Vaishno Devi Katra Exp,Tirunelveli,Shri Mata Vaishno Devi Katra,1500,6,Monsoon,0.85,1266,0.844,0,Moderate
+16787,Tirunelveli Vaishno Devi Katra Exp,Tirunelveli,Shri Mata Vaishno Devi Katra,1500,7,Monsoon,0.8,1201,0.801,0,Moderate
+16787,Tirunelveli Vaishno Devi Katra Exp,Tirunelveli,Shri Mata Vaishno Devi Katra,1500,8,Monsoon,0.9,1354,0.903,0,High
+16787,Tirunelveli Vaishno Devi Katra Exp,Tirunelveli,Shri Mata Vaishno Devi Katra,1500,9,Post-Monsoon,1.0,1383,0.922,0,High
+16787,Tirunelveli Vaishno Devi Katra Exp,Tirunelveli,Shri Mata Vaishno Devi Katra,1500,10,Post-Monsoon,1.3,1783,1.189,170,Overcrowded
+16787,Tirunelveli Vaishno Devi Katra Exp,Tirunelveli,Shri Mata Vaishno Devi Katra,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+16787,Tirunelveli Vaishno Devi Katra Exp,Tirunelveli,Shri Mata Vaishno Devi Katra,1500,12,Winter,1.2,1846,1.231,207,Overcrowded
+12504,Agartala SMVT Bengaluru Humsafar Exp,Agartala,Bengaluru Cant,1500,1,Winter,1.05,1579,1.053,47,Overcrowded
+12504,Agartala SMVT Bengaluru Humsafar Exp,Agartala,Bengaluru Cant,1500,2,Winter,0.9,1354,0.903,0,High
+12504,Agartala SMVT Bengaluru Humsafar Exp,Agartala,Bengaluru Cant,1500,3,Summer,1.25,1642,1.095,85,Overcrowded
+12504,Agartala SMVT Bengaluru Humsafar Exp,Agartala,Bengaluru Cant,1500,4,Summer,1.1,1524,1.016,14,High
+12504,Agartala SMVT Bengaluru Humsafar Exp,Agartala,Bengaluru Cant,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+12504,Agartala SMVT Bengaluru Humsafar Exp,Agartala,Bengaluru Cant,1500,6,Monsoon,0.85,1222,0.815,0,Moderate
+12504,Agartala SMVT Bengaluru Humsafar Exp,Agartala,Bengaluru Cant,1500,7,Monsoon,0.8,1098,0.732,0,Moderate
+12504,Agartala SMVT Bengaluru Humsafar Exp,Agartala,Bengaluru Cant,1500,8,Monsoon,0.9,1201,0.801,0,Moderate
+12504,Agartala SMVT Bengaluru Humsafar Exp,Agartala,Bengaluru Cant,1500,9,Post-Monsoon,1.0,1333,0.889,0,Moderate
+12504,Agartala SMVT Bengaluru Humsafar Exp,Agartala,Bengaluru Cant,1500,10,Post-Monsoon,1.3,1846,1.231,207,Overcrowded
+12504,Agartala SMVT Bengaluru Humsafar Exp,Agartala,Bengaluru Cant,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12504,Agartala SMVT Bengaluru Humsafar Exp,Agartala,Bengaluru Cant,1500,12,Winter,1.2,1795,1.197,177,Overcrowded
+12503,SMVT Bengaluru Agartala Humsafar Exp,Bengaluru Cant,Agartala,1500,1,Winter,1.05,1570,1.047,42,High
+12503,SMVT Bengaluru Agartala Humsafar Exp,Bengaluru Cant,Agartala,1500,2,Winter,0.9,1354,0.903,0,High
+12503,SMVT Bengaluru Agartala Humsafar Exp,Bengaluru Cant,Agartala,1500,3,Summer,1.25,1881,1.254,228,Overcrowded
+12503,SMVT Bengaluru Agartala Humsafar Exp,Bengaluru Cant,Agartala,1500,4,Summer,1.1,1446,0.964,0,High
+12503,SMVT Bengaluru Agartala Humsafar Exp,Bengaluru Cant,Agartala,1500,5,Summer,1.4,1939,1.293,263,Overcrowded
+12503,SMVT Bengaluru Agartala Humsafar Exp,Bengaluru Cant,Agartala,1500,6,Monsoon,0.85,1261,0.841,0,Moderate
+12503,SMVT Bengaluru Agartala Humsafar Exp,Bengaluru Cant,Agartala,1500,7,Monsoon,0.8,1150,0.767,0,Moderate
+12503,SMVT Bengaluru Agartala Humsafar Exp,Bengaluru Cant,Agartala,1500,8,Monsoon,0.9,1234,0.823,0,Moderate
+12503,SMVT Bengaluru Agartala Humsafar Exp,Bengaluru Cant,Agartala,1500,9,Post-Monsoon,1.0,1335,0.89,0,Moderate
+12503,SMVT Bengaluru Agartala Humsafar Exp,Bengaluru Cant,Agartala,1500,10,Post-Monsoon,1.3,1733,1.156,140,Overcrowded
+12503,SMVT Bengaluru Agartala Humsafar Exp,Bengaluru Cant,Agartala,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12503,SMVT Bengaluru Agartala Humsafar Exp,Bengaluru Cant,Agartala,1500,12,Winter,1.2,1708,1.139,125,Overcrowded
+22502,New Tinsukia SMVT Bengaluru SF Exp,New Tinsukia,Bengaluru Cant,1500,1,Winter,1.05,1381,0.921,0,High
+22502,New Tinsukia SMVT Bengaluru SF Exp,New Tinsukia,Bengaluru Cant,1500,2,Winter,0.9,1347,0.898,0,Moderate
+22502,New Tinsukia SMVT Bengaluru SF Exp,New Tinsukia,Bengaluru Cant,1500,3,Summer,1.25,1881,1.254,228,Overcrowded
+22502,New Tinsukia SMVT Bengaluru SF Exp,New Tinsukia,Bengaluru Cant,1500,4,Summer,1.1,1654,1.103,92,Overcrowded
+22502,New Tinsukia SMVT Bengaluru SF Exp,New Tinsukia,Bengaluru Cant,1500,5,Summer,1.4,1840,1.227,204,Overcrowded
+22502,New Tinsukia SMVT Bengaluru SF Exp,New Tinsukia,Bengaluru Cant,1500,6,Monsoon,0.85,1177,0.785,0,Moderate
+22502,New Tinsukia SMVT Bengaluru SF Exp,New Tinsukia,Bengaluru Cant,1500,7,Monsoon,0.8,1186,0.791,0,Moderate
+22502,New Tinsukia SMVT Bengaluru SF Exp,New Tinsukia,Bengaluru Cant,1500,8,Monsoon,0.9,1294,0.863,0,Moderate
+22502,New Tinsukia SMVT Bengaluru SF Exp,New Tinsukia,Bengaluru Cant,1500,9,Post-Monsoon,1.0,1372,0.915,0,High
+22502,New Tinsukia SMVT Bengaluru SF Exp,New Tinsukia,Bengaluru Cant,1500,10,Post-Monsoon,1.3,1735,1.157,141,Overcrowded
+22502,New Tinsukia SMVT Bengaluru SF Exp,New Tinsukia,Bengaluru Cant,1500,11,Post-Monsoon,1.45,1933,1.289,260,Overcrowded
+22502,New Tinsukia SMVT Bengaluru SF Exp,New Tinsukia,Bengaluru Cant,1500,12,Winter,1.2,1703,1.136,122,Overcrowded
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,Rameswaram,Firozpur Cantt,1500,1,Winter,1.05,1426,0.951,0,High
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,Rameswaram,Firozpur Cantt,1500,2,Winter,0.9,1375,0.917,0,High
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,Rameswaram,Firozpur Cantt,1500,3,Summer,1.25,1836,1.224,201,Overcrowded
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,Rameswaram,Firozpur Cantt,1500,4,Summer,1.1,1494,0.996,0,High
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,Rameswaram,Firozpur Cantt,1500,5,Summer,1.4,1864,1.243,218,Overcrowded
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,Rameswaram,Firozpur Cantt,1500,6,Monsoon,0.85,1119,0.746,0,Moderate
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,Rameswaram,Firozpur Cantt,1500,7,Monsoon,0.8,1197,0.798,0,Moderate
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,Rameswaram,Firozpur Cantt,1500,8,Monsoon,0.9,1354,0.903,0,High
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,Rameswaram,Firozpur Cantt,1500,9,Post-Monsoon,1.0,1504,1.003,2,High
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,Rameswaram,Firozpur Cantt,1500,10,Post-Monsoon,1.3,1708,1.139,125,Overcrowded
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,Rameswaram,Firozpur Cantt,1500,11,Post-Monsoon,1.45,2008,1.339,305,Overcrowded
+20497,Rameswaram Firozpur Cantt Humsafar SF Exp,Rameswaram,Firozpur Cantt,1500,12,Winter,1.2,1780,1.187,168,Overcrowded
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,Firozpur Cantt,Rameswaram,1500,1,Winter,1.05,1605,1.07,63,Overcrowded
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,Firozpur Cantt,Rameswaram,1500,2,Winter,0.9,1321,0.881,0,Moderate
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,Firozpur Cantt,Rameswaram,1500,3,Summer,1.25,1697,1.132,118,Overcrowded
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,Firozpur Cantt,Rameswaram,1500,4,Summer,1.1,1464,0.976,0,High
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,Firozpur Cantt,Rameswaram,1500,5,Summer,1.4,1842,1.228,205,Overcrowded
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,Firozpur Cantt,Rameswaram,1500,6,Monsoon,0.85,1272,0.848,0,Moderate
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,Firozpur Cantt,Rameswaram,1500,7,Monsoon,0.8,1204,0.803,0,Moderate
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,Firozpur Cantt,Rameswaram,1500,8,Monsoon,0.9,1354,0.903,0,High
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,Firozpur Cantt,Rameswaram,1500,9,Post-Monsoon,1.0,1314,0.876,0,Moderate
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,Firozpur Cantt,Rameswaram,1500,10,Post-Monsoon,1.3,1801,1.201,180,Overcrowded
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,Firozpur Cantt,Rameswaram,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+20498,Firozpur Cantt Rameswaram Humsafar SF Exp,Firozpur Cantt,Rameswaram,1500,12,Winter,1.2,1726,1.151,135,Overcrowded
+22501,SMVT Bengaluru New Tinsukia SF Exp,Bengaluru Cant,New Tinsukia,1500,1,Winter,1.05,1398,0.932,0,High
+22501,SMVT Bengaluru New Tinsukia SF Exp,Bengaluru Cant,New Tinsukia,1500,2,Winter,0.9,1183,0.789,0,Moderate
+22501,SMVT Bengaluru New Tinsukia SF Exp,Bengaluru Cant,New Tinsukia,1500,3,Summer,1.25,1870,1.247,222,Overcrowded
+22501,SMVT Bengaluru New Tinsukia SF Exp,Bengaluru Cant,New Tinsukia,1500,4,Summer,1.1,1656,1.104,93,Overcrowded
+22501,SMVT Bengaluru New Tinsukia SF Exp,Bengaluru Cant,New Tinsukia,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+22501,SMVT Bengaluru New Tinsukia SF Exp,Bengaluru Cant,New Tinsukia,1500,6,Monsoon,0.85,1117,0.745,0,Moderate
+22501,SMVT Bengaluru New Tinsukia SF Exp,Bengaluru Cant,New Tinsukia,1500,7,Monsoon,0.8,1108,0.739,0,Moderate
+22501,SMVT Bengaluru New Tinsukia SF Exp,Bengaluru Cant,New Tinsukia,1500,8,Monsoon,0.9,1335,0.89,0,Moderate
+22501,SMVT Bengaluru New Tinsukia SF Exp,Bengaluru Cant,New Tinsukia,1500,9,Post-Monsoon,1.0,1438,0.959,0,High
+22501,SMVT Bengaluru New Tinsukia SF Exp,Bengaluru Cant,New Tinsukia,1500,10,Post-Monsoon,1.3,1783,1.189,170,Overcrowded
+22501,SMVT Bengaluru New Tinsukia SF Exp,Bengaluru Cant,New Tinsukia,1500,11,Post-Monsoon,1.45,1936,1.291,261,Overcrowded
+22501,SMVT Bengaluru New Tinsukia SF Exp,Bengaluru Cant,New Tinsukia,1500,12,Winter,1.2,1600,1.067,60,Overcrowded
+12515,Coimbatore Silchar SF Exp,Coimbatore,Silchar,1500,1,Winter,1.05,1570,1.047,42,High
+12515,Coimbatore Silchar SF Exp,Coimbatore,Silchar,1500,2,Winter,0.9,1263,0.842,0,Moderate
+12515,Coimbatore Silchar SF Exp,Coimbatore,Silchar,1500,3,Summer,1.25,1642,1.095,85,Overcrowded
+12515,Coimbatore Silchar SF Exp,Coimbatore,Silchar,1500,4,Summer,1.1,1597,1.065,58,Overcrowded
+12515,Coimbatore Silchar SF Exp,Coimbatore,Silchar,1500,5,Summer,1.4,1977,1.318,286,Overcrowded
+12515,Coimbatore Silchar SF Exp,Coimbatore,Silchar,1500,6,Monsoon,0.85,1251,0.834,0,Moderate
+12515,Coimbatore Silchar SF Exp,Coimbatore,Silchar,1500,7,Monsoon,0.8,1095,0.73,0,Moderate
+12515,Coimbatore Silchar SF Exp,Coimbatore,Silchar,1500,8,Monsoon,0.9,1186,0.791,0,Moderate
+12515,Coimbatore Silchar SF Exp,Coimbatore,Silchar,1500,9,Post-Monsoon,1.0,1452,0.968,0,High
+12515,Coimbatore Silchar SF Exp,Coimbatore,Silchar,1500,10,Post-Monsoon,1.3,1926,1.284,255,Overcrowded
+12515,Coimbatore Silchar SF Exp,Coimbatore,Silchar,1500,11,Post-Monsoon,1.45,1926,1.284,255,Overcrowded
+12515,Coimbatore Silchar SF Exp,Coimbatore,Silchar,1500,12,Winter,1.2,1845,1.23,207,Overcrowded
+12516,Silchar Coimbatore SF Exp,Silchar,Coimbatore,1500,1,Winter,1.05,1473,0.982,0,High
+12516,Silchar Coimbatore SF Exp,Silchar,Coimbatore,1500,2,Winter,0.9,1183,0.789,0,Moderate
+12516,Silchar Coimbatore SF Exp,Silchar,Coimbatore,1500,3,Summer,1.25,1815,1.21,188,Overcrowded
+12516,Silchar Coimbatore SF Exp,Silchar,Coimbatore,1500,4,Summer,1.1,1552,1.035,31,High
+12516,Silchar Coimbatore SF Exp,Silchar,Coimbatore,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+12516,Silchar Coimbatore SF Exp,Silchar,Coimbatore,1500,6,Monsoon,0.85,1164,0.776,0,Moderate
+12516,Silchar Coimbatore SF Exp,Silchar,Coimbatore,1500,7,Monsoon,0.8,1054,0.703,0,Moderate
+12516,Silchar Coimbatore SF Exp,Silchar,Coimbatore,1500,8,Monsoon,0.9,1306,0.871,0,Moderate
+12516,Silchar Coimbatore SF Exp,Silchar,Coimbatore,1500,9,Post-Monsoon,1.0,1482,0.988,0,High
+12516,Silchar Coimbatore SF Exp,Silchar,Coimbatore,1500,10,Post-Monsoon,1.3,1726,1.151,135,Overcrowded
+12516,Silchar Coimbatore SF Exp,Silchar,Coimbatore,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12516,Silchar Coimbatore SF Exp,Silchar,Coimbatore,1500,12,Winter,1.2,1651,1.101,90,Overcrowded
+12521,Barauni Ernakulam Rapti Sagar Exp,Barauni,Ernakulam Jn,1500,1,Winter,1.05,1438,0.959,0,High
+12521,Barauni Ernakulam Rapti Sagar Exp,Barauni,Ernakulam Jn,1500,2,Winter,0.9,1186,0.791,0,Moderate
+12521,Barauni Ernakulam Rapti Sagar Exp,Barauni,Ernakulam Jn,1500,3,Summer,1.25,1815,1.21,188,Overcrowded
+12521,Barauni Ernakulam Rapti Sagar Exp,Barauni,Ernakulam Jn,1500,4,Summer,1.1,1630,1.087,78,Overcrowded
+12521,Barauni Ernakulam Rapti Sagar Exp,Barauni,Ernakulam Jn,1500,5,Summer,1.4,1860,1.24,216,Overcrowded
+12521,Barauni Ernakulam Rapti Sagar Exp,Barauni,Ernakulam Jn,1500,6,Monsoon,0.85,1306,0.871,0,Moderate
+12521,Barauni Ernakulam Rapti Sagar Exp,Barauni,Ernakulam Jn,1500,7,Monsoon,0.8,1101,0.734,0,Moderate
+12521,Barauni Ernakulam Rapti Sagar Exp,Barauni,Ernakulam Jn,1500,8,Monsoon,0.9,1225,0.817,0,Moderate
+12521,Barauni Ernakulam Rapti Sagar Exp,Barauni,Ernakulam Jn,1500,9,Post-Monsoon,1.0,1495,0.997,0,High
+12521,Barauni Ernakulam Rapti Sagar Exp,Barauni,Ernakulam Jn,1500,10,Post-Monsoon,1.3,1909,1.273,245,Overcrowded
+12521,Barauni Ernakulam Rapti Sagar Exp,Barauni,Ernakulam Jn,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12521,Barauni Ernakulam Rapti Sagar Exp,Barauni,Ernakulam Jn,1500,12,Winter,1.2,1816,1.211,189,Overcrowded
+12522,Ernakulam Barauni Rapti Sagar Exp,Ernakulam Jn,Barauni,1500,1,Winter,1.05,1384,0.923,0,High
+12522,Ernakulam Barauni Rapti Sagar Exp,Ernakulam Jn,Barauni,1500,2,Winter,0.9,1306,0.871,0,Moderate
+12522,Ernakulam Barauni Rapti Sagar Exp,Ernakulam Jn,Barauni,1500,3,Summer,1.25,1852,1.235,211,Overcrowded
+12522,Ernakulam Barauni Rapti Sagar Exp,Ernakulam Jn,Barauni,1500,4,Summer,1.1,1461,0.974,0,High
+12522,Ernakulam Barauni Rapti Sagar Exp,Ernakulam Jn,Barauni,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+12522,Ernakulam Barauni Rapti Sagar Exp,Ernakulam Jn,Barauni,1500,6,Monsoon,0.85,1170,0.78,0,Moderate
+12522,Ernakulam Barauni Rapti Sagar Exp,Ernakulam Jn,Barauni,1500,7,Monsoon,0.8,1090,0.727,0,Moderate
+12522,Ernakulam Barauni Rapti Sagar Exp,Ernakulam Jn,Barauni,1500,8,Monsoon,0.9,1345,0.897,0,Moderate
+12522,Ernakulam Barauni Rapti Sagar Exp,Ernakulam Jn,Barauni,1500,9,Post-Monsoon,1.0,1468,0.979,0,High
+12522,Ernakulam Barauni Rapti Sagar Exp,Ernakulam Jn,Barauni,1500,10,Post-Monsoon,1.3,1825,1.217,195,Overcrowded
+12522,Ernakulam Barauni Rapti Sagar Exp,Ernakulam Jn,Barauni,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12522,Ernakulam Barauni Rapti Sagar Exp,Ernakulam Jn,Barauni,1500,12,Winter,1.2,1620,1.08,72,Overcrowded
+12483,Thiruvananthapuram North Amritsar SF Exp,Thiruvananthapuram North,Amritsar,1500,1,Winter,1.05,1501,1.001,0,High
+12483,Thiruvananthapuram North Amritsar SF Exp,Thiruvananthapuram North,Amritsar,1500,2,Winter,0.9,1354,0.903,0,High
+12483,Thiruvananthapuram North Amritsar SF Exp,Thiruvananthapuram North,Amritsar,1500,3,Summer,1.25,1797,1.198,178,Overcrowded
+12483,Thiruvananthapuram North Amritsar SF Exp,Thiruvananthapuram North,Amritsar,1500,4,Summer,1.1,1531,1.021,18,High
+12483,Thiruvananthapuram North Amritsar SF Exp,Thiruvananthapuram North,Amritsar,1500,5,Summer,1.4,1984,1.323,290,Overcrowded
+12483,Thiruvananthapuram North Amritsar SF Exp,Thiruvananthapuram North,Amritsar,1500,6,Monsoon,0.85,1303,0.869,0,Moderate
+12483,Thiruvananthapuram North Amritsar SF Exp,Thiruvananthapuram North,Amritsar,1500,7,Monsoon,0.8,1159,0.773,0,Moderate
+12483,Thiruvananthapuram North Amritsar SF Exp,Thiruvananthapuram North,Amritsar,1500,8,Monsoon,0.9,1254,0.836,0,Moderate
+12483,Thiruvananthapuram North Amritsar SF Exp,Thiruvananthapuram North,Amritsar,1500,9,Post-Monsoon,1.0,1414,0.943,0,High
+12483,Thiruvananthapuram North Amritsar SF Exp,Thiruvananthapuram North,Amritsar,1500,10,Post-Monsoon,1.3,1978,1.319,287,Overcrowded
+12483,Thiruvananthapuram North Amritsar SF Exp,Thiruvananthapuram North,Amritsar,1500,11,Post-Monsoon,1.45,1926,1.284,255,Overcrowded
+12483,Thiruvananthapuram North Amritsar SF Exp,Thiruvananthapuram North,Amritsar,1500,12,Winter,1.2,1651,1.101,90,Overcrowded
+12484,Amritsar Thiruvananthapuram North SF,Amritsar,Thiruvananthapuram North,1500,1,Winter,1.05,1581,1.054,48,Overcrowded
+12484,Amritsar Thiruvananthapuram North SF,Amritsar,Thiruvananthapuram North,1500,2,Winter,0.9,1293,0.862,0,Moderate
+12484,Amritsar Thiruvananthapuram North SF,Amritsar,Thiruvananthapuram North,1500,3,Summer,1.25,1739,1.16,143,Overcrowded
+12484,Amritsar Thiruvananthapuram North SF,Amritsar,Thiruvananthapuram North,1500,4,Summer,1.1,1558,1.039,35,High
+12484,Amritsar Thiruvananthapuram North SF,Amritsar,Thiruvananthapuram North,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+12484,Amritsar Thiruvananthapuram North SF,Amritsar,Thiruvananthapuram North,1500,6,Monsoon,0.85,1231,0.821,0,Moderate
+12484,Amritsar Thiruvananthapuram North SF,Amritsar,Thiruvananthapuram North,1500,7,Monsoon,0.8,1114,0.743,0,Moderate
+12484,Amritsar Thiruvananthapuram North SF,Amritsar,Thiruvananthapuram North,1500,8,Monsoon,0.9,1273,0.849,0,Moderate
+12484,Amritsar Thiruvananthapuram North SF,Amritsar,Thiruvananthapuram North,1500,9,Post-Monsoon,1.0,1521,1.014,12,High
+12484,Amritsar Thiruvananthapuram North SF,Amritsar,Thiruvananthapuram North,1500,10,Post-Monsoon,1.3,1726,1.151,135,Overcrowded
+12484,Amritsar Thiruvananthapuram North SF,Amritsar,Thiruvananthapuram North,1500,11,Post-Monsoon,1.45,1996,1.331,297,Overcrowded
+12484,Amritsar Thiruvananthapuram North SF,Amritsar,Thiruvananthapuram North,1500,12,Winter,1.2,1599,1.066,59,Overcrowded
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,Thiruvananthapuram North,Gorakhpur,1500,1,Winter,1.05,1399,0.933,0,High
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,Thiruvananthapuram North,Gorakhpur,1500,2,Winter,0.9,1278,0.852,0,Moderate
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,Thiruvananthapuram North,Gorakhpur,1500,3,Summer,1.25,1779,1.186,167,Overcrowded
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,Thiruvananthapuram North,Gorakhpur,1500,4,Summer,1.1,1645,1.097,87,Overcrowded
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,Thiruvananthapuram North,Gorakhpur,1500,5,Summer,1.4,1965,1.31,279,Overcrowded
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,Thiruvananthapuram North,Gorakhpur,1500,6,Monsoon,0.85,1117,0.745,0,Moderate
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,Thiruvananthapuram North,Gorakhpur,1500,7,Monsoon,0.8,1161,0.774,0,Moderate
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,Thiruvananthapuram North,Gorakhpur,1500,8,Monsoon,0.9,1270,0.847,0,Moderate
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,Thiruvananthapuram North,Gorakhpur,1500,9,Post-Monsoon,1.0,1471,0.981,0,High
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,Thiruvananthapuram North,Gorakhpur,1500,10,Post-Monsoon,1.3,1780,1.187,168,Overcrowded
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,Thiruvananthapuram North,Gorakhpur,1500,11,Post-Monsoon,1.45,1912,1.275,247,Overcrowded
+12512,Thiruvananthapuram North Gorakhpur Rapti Sa,Thiruvananthapuram North,Gorakhpur,1500,12,Winter,1.2,1742,1.162,145,Overcrowded
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,Gorakhpur,Thiruvananthapuram North,1500,1,Winter,1.05,1402,0.935,0,High
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,Gorakhpur,Thiruvananthapuram North,1500,2,Winter,0.9,1200,0.8,0,Moderate
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,Gorakhpur,Thiruvananthapuram North,1500,3,Summer,1.25,1774,1.183,164,Overcrowded
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,Gorakhpur,Thiruvananthapuram North,1500,4,Summer,1.1,1566,1.044,39,High
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,Gorakhpur,Thiruvananthapuram North,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,Gorakhpur,Thiruvananthapuram North,1500,6,Monsoon,0.85,1192,0.795,0,Moderate
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,Gorakhpur,Thiruvananthapuram North,1500,7,Monsoon,0.8,1051,0.701,0,Moderate
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,Gorakhpur,Thiruvananthapuram North,1500,8,Monsoon,0.9,1306,0.871,0,Moderate
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,Gorakhpur,Thiruvananthapuram North,1500,9,Post-Monsoon,1.0,1411,0.941,0,High
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,Gorakhpur,Thiruvananthapuram North,1500,10,Post-Monsoon,1.3,1914,1.276,248,Overcrowded
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,Gorakhpur,Thiruvananthapuram North,1500,11,Post-Monsoon,1.45,1986,1.324,291,Overcrowded
+12511,Gorakhpur Thiruvananthapuram North Rapti Sa,Gorakhpur,Thiruvananthapuram North,1500,12,Winter,1.2,1582,1.055,49,Overcrowded
+15636,Guwahati Okha Dwarka Exp,Guwahati,Okha,1500,1,Winter,1.05,1485,0.99,0,High
+15636,Guwahati Okha Dwarka Exp,Guwahati,Okha,1500,2,Winter,0.9,1270,0.847,0,Moderate
+15636,Guwahati Okha Dwarka Exp,Guwahati,Okha,1500,3,Summer,1.25,1756,1.171,153,Overcrowded
+15636,Guwahati Okha Dwarka Exp,Guwahati,Okha,1500,4,Summer,1.1,1564,1.043,38,High
+15636,Guwahati Okha Dwarka Exp,Guwahati,Okha,1500,5,Summer,1.4,1890,1.26,234,Overcrowded
+15636,Guwahati Okha Dwarka Exp,Guwahati,Okha,1500,6,Monsoon,0.85,1218,0.812,0,Moderate
+15636,Guwahati Okha Dwarka Exp,Guwahati,Okha,1500,7,Monsoon,0.8,1150,0.767,0,Moderate
+15636,Guwahati Okha Dwarka Exp,Guwahati,Okha,1500,8,Monsoon,0.9,1294,0.863,0,Moderate
+15636,Guwahati Okha Dwarka Exp,Guwahati,Okha,1500,9,Post-Monsoon,1.0,1495,0.997,0,High
+15636,Guwahati Okha Dwarka Exp,Guwahati,Okha,1500,10,Post-Monsoon,1.3,1992,1.328,295,Overcrowded
+15636,Guwahati Okha Dwarka Exp,Guwahati,Okha,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+15636,Guwahati Okha Dwarka Exp,Guwahati,Okha,1500,12,Winter,1.2,1683,1.122,109,Overcrowded
+15635,Okha Guwahati Dwarka Exp,Okha,Guwahati,1500,1,Winter,1.05,1483,0.989,0,High
+15635,Okha Guwahati Dwarka Exp,Okha,Guwahati,1500,2,Winter,0.9,1272,0.848,0,Moderate
+15635,Okha Guwahati Dwarka Exp,Okha,Guwahati,1500,3,Summer,1.25,1764,1.176,158,Overcrowded
+15635,Okha Guwahati Dwarka Exp,Okha,Guwahati,1500,4,Summer,1.1,1546,1.031,27,High
+15635,Okha Guwahati Dwarka Exp,Okha,Guwahati,1500,5,Summer,1.4,1992,1.328,295,Overcrowded
+15635,Okha Guwahati Dwarka Exp,Okha,Guwahati,1500,6,Monsoon,0.85,1147,0.765,0,Moderate
+15635,Okha Guwahati Dwarka Exp,Okha,Guwahati,1500,7,Monsoon,0.8,1146,0.764,0,Moderate
+15635,Okha Guwahati Dwarka Exp,Okha,Guwahati,1500,8,Monsoon,0.9,1294,0.863,0,Moderate
+15635,Okha Guwahati Dwarka Exp,Okha,Guwahati,1500,9,Post-Monsoon,1.0,1437,0.958,0,High
+15635,Okha Guwahati Dwarka Exp,Okha,Guwahati,1500,10,Post-Monsoon,1.3,1944,1.296,266,Overcrowded
+15635,Okha Guwahati Dwarka Exp,Okha,Guwahati,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+15635,Okha Guwahati Dwarka Exp,Okha,Guwahati,1500,12,Winter,1.2,1690,1.127,114,Overcrowded
+15929,Tambaram New Tinsukia Exp,Tambaram,New Tinsukia,1500,1,Winter,1.05,1542,1.028,25,High
+15929,Tambaram New Tinsukia Exp,Tambaram,New Tinsukia,1500,2,Winter,0.9,1357,0.905,0,High
+15929,Tambaram New Tinsukia Exp,Tambaram,New Tinsukia,1500,3,Summer,1.25,1776,1.184,165,Overcrowded
+15929,Tambaram New Tinsukia Exp,Tambaram,New Tinsukia,1500,4,Summer,1.1,1662,1.108,97,Overcrowded
+15929,Tambaram New Tinsukia Exp,Tambaram,New Tinsukia,1500,5,Summer,1.4,1908,1.272,244,Overcrowded
+15929,Tambaram New Tinsukia Exp,Tambaram,New Tinsukia,1500,6,Monsoon,0.85,1254,0.836,0,Moderate
+15929,Tambaram New Tinsukia Exp,Tambaram,New Tinsukia,1500,7,Monsoon,0.8,1182,0.788,0,Moderate
+15929,Tambaram New Tinsukia Exp,Tambaram,New Tinsukia,1500,8,Monsoon,0.9,1234,0.823,0,Moderate
+15929,Tambaram New Tinsukia Exp,Tambaram,New Tinsukia,1500,9,Post-Monsoon,1.0,1486,0.991,0,High
+15929,Tambaram New Tinsukia Exp,Tambaram,New Tinsukia,1500,10,Post-Monsoon,1.3,1978,1.319,287,Overcrowded
+15929,Tambaram New Tinsukia Exp,Tambaram,New Tinsukia,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+15929,Tambaram New Tinsukia Exp,Tambaram,New Tinsukia,1500,12,Winter,1.2,1800,1.2,179,Overcrowded
+15930,New Tinsukia Tambaram Exp,New Tinsukia,Tambaram,1500,1,Winter,1.05,1582,1.055,49,Overcrowded
+15930,New Tinsukia Tambaram Exp,New Tinsukia,Tambaram,1500,2,Winter,0.9,1278,0.852,0,Moderate
+15930,New Tinsukia Tambaram Exp,New Tinsukia,Tambaram,1500,3,Summer,1.25,1888,1.259,233,Overcrowded
+15930,New Tinsukia Tambaram Exp,New Tinsukia,Tambaram,1500,4,Summer,1.1,1500,1.0,0,High
+15930,New Tinsukia Tambaram Exp,New Tinsukia,Tambaram,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+15930,New Tinsukia Tambaram Exp,New Tinsukia,Tambaram,1500,6,Monsoon,0.85,1255,0.837,0,Moderate
+15930,New Tinsukia Tambaram Exp,New Tinsukia,Tambaram,1500,7,Monsoon,0.8,1098,0.732,0,Moderate
+15930,New Tinsukia Tambaram Exp,New Tinsukia,Tambaram,1500,8,Monsoon,0.9,1338,0.892,0,Moderate
+15930,New Tinsukia Tambaram Exp,New Tinsukia,Tambaram,1500,9,Post-Monsoon,1.0,1521,1.014,12,High
+15930,New Tinsukia Tambaram Exp,New Tinsukia,Tambaram,1500,10,Post-Monsoon,1.3,1833,1.222,199,Overcrowded
+15930,New Tinsukia Tambaram Exp,New Tinsukia,Tambaram,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+15930,New Tinsukia Tambaram Exp,New Tinsukia,Tambaram,1500,12,Winter,1.2,1792,1.195,175,Overcrowded
+16734,Okha Rameswaram Exp,Okha,Rameswaram,1500,1,Winter,1.05,1539,1.026,23,High
+16734,Okha Rameswaram Exp,Okha,Rameswaram,1500,2,Winter,0.9,1264,0.843,0,Moderate
+16734,Okha Rameswaram Exp,Okha,Rameswaram,1500,3,Summer,1.25,1735,1.157,141,Overcrowded
+16734,Okha Rameswaram Exp,Okha,Rameswaram,1500,4,Summer,1.1,1528,1.019,17,High
+16734,Okha Rameswaram Exp,Okha,Rameswaram,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+16734,Okha Rameswaram Exp,Okha,Rameswaram,1500,6,Monsoon,0.85,1227,0.818,0,Moderate
+16734,Okha Rameswaram Exp,Okha,Rameswaram,1500,7,Monsoon,0.8,1156,0.771,0,Moderate
+16734,Okha Rameswaram Exp,Okha,Rameswaram,1500,8,Monsoon,0.9,1180,0.787,0,Moderate
+16734,Okha Rameswaram Exp,Okha,Rameswaram,1500,9,Post-Monsoon,1.0,1501,1.001,0,High
+16734,Okha Rameswaram Exp,Okha,Rameswaram,1500,10,Post-Monsoon,1.3,1785,1.19,170,Overcrowded
+16734,Okha Rameswaram Exp,Okha,Rameswaram,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+16734,Okha Rameswaram Exp,Okha,Rameswaram,1500,12,Winter,1.2,1801,1.201,180,Overcrowded
+16733,Rameswaram Okha Weekly Exp,Rameswaram,Okha,1500,1,Winter,1.05,1566,1.044,39,High
+16733,Rameswaram Okha Weekly Exp,Rameswaram,Okha,1500,2,Winter,0.9,1318,0.879,0,Moderate
+16733,Rameswaram Okha Weekly Exp,Rameswaram,Okha,1500,3,Summer,1.25,1755,1.17,152,Overcrowded
+16733,Rameswaram Okha Weekly Exp,Rameswaram,Okha,1500,4,Summer,1.1,1527,1.018,16,High
+16733,Rameswaram Okha Weekly Exp,Rameswaram,Okha,1500,5,Summer,1.4,1945,1.297,267,Overcrowded
+16733,Rameswaram Okha Weekly Exp,Rameswaram,Okha,1500,6,Monsoon,0.85,1285,0.857,0,Moderate
+16733,Rameswaram Okha Weekly Exp,Rameswaram,Okha,1500,7,Monsoon,0.8,1155,0.77,0,Moderate
+16733,Rameswaram Okha Weekly Exp,Rameswaram,Okha,1500,8,Monsoon,0.9,1300,0.867,0,Moderate
+16733,Rameswaram Okha Weekly Exp,Rameswaram,Okha,1500,9,Post-Monsoon,1.0,1311,0.874,0,Moderate
+16733,Rameswaram Okha Weekly Exp,Rameswaram,Okha,1500,10,Post-Monsoon,1.3,1951,1.301,270,Overcrowded
+16733,Rameswaram Okha Weekly Exp,Rameswaram,Okha,1500,11,Post-Monsoon,1.45,1992,1.328,295,Overcrowded
+16733,Rameswaram Okha Weekly Exp,Rameswaram,Okha,1500,12,Winter,1.2,1834,1.223,200,Overcrowded
+16601,Erode Jogbani Amrit Bharat Exp,Erode,Jogbani,1500,1,Winter,1.05,1489,0.993,0,High
+16601,Erode Jogbani Amrit Bharat Exp,Erode,Jogbani,1500,2,Winter,0.9,1192,0.795,0,Moderate
+16601,Erode Jogbani Amrit Bharat Exp,Erode,Jogbani,1500,3,Summer,1.25,1721,1.148,133,Overcrowded
+16601,Erode Jogbani Amrit Bharat Exp,Erode,Jogbani,1500,4,Summer,1.1,1534,1.023,20,High
+16601,Erode Jogbani Amrit Bharat Exp,Erode,Jogbani,1500,5,Summer,1.4,1911,1.274,246,Overcrowded
+16601,Erode Jogbani Amrit Bharat Exp,Erode,Jogbani,1500,6,Monsoon,0.85,1293,0.862,0,Moderate
+16601,Erode Jogbani Amrit Bharat Exp,Erode,Jogbani,1500,7,Monsoon,0.8,1179,0.786,0,Moderate
+16601,Erode Jogbani Amrit Bharat Exp,Erode,Jogbani,1500,8,Monsoon,0.9,1332,0.888,0,Moderate
+16601,Erode Jogbani Amrit Bharat Exp,Erode,Jogbani,1500,9,Post-Monsoon,1.0,1387,0.925,0,High
+16601,Erode Jogbani Amrit Bharat Exp,Erode,Jogbani,1500,10,Post-Monsoon,1.3,1795,1.197,177,Overcrowded
+16601,Erode Jogbani Amrit Bharat Exp,Erode,Jogbani,1500,11,Post-Monsoon,1.45,1948,1.299,269,Overcrowded
+16601,Erode Jogbani Amrit Bharat Exp,Erode,Jogbani,1500,12,Winter,1.2,1789,1.193,173,Overcrowded
+16602,Jogbani Erode Amrit Bharat Exp,Jogbani,Erode,1500,1,Winter,1.05,1392,0.928,0,High
+16602,Jogbani Erode Amrit Bharat Exp,Jogbani,Erode,1500,2,Winter,0.9,1240,0.827,0,Moderate
+16602,Jogbani Erode Amrit Bharat Exp,Jogbani,Erode,1500,3,Summer,1.25,1742,1.162,145,Overcrowded
+16602,Jogbani Erode Amrit Bharat Exp,Jogbani,Erode,1500,4,Summer,1.1,1501,1.001,0,High
+16602,Jogbani Erode Amrit Bharat Exp,Jogbani,Erode,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+16602,Jogbani Erode Amrit Bharat Exp,Jogbani,Erode,1500,6,Monsoon,0.85,1252,0.835,0,Moderate
+16602,Jogbani Erode Amrit Bharat Exp,Jogbani,Erode,1500,7,Monsoon,0.8,1183,0.789,0,Moderate
+16602,Jogbani Erode Amrit Bharat Exp,Jogbani,Erode,1500,8,Monsoon,0.9,1249,0.833,0,Moderate
+16602,Jogbani Erode Amrit Bharat Exp,Jogbani,Erode,1500,9,Post-Monsoon,1.0,1381,0.921,0,High
+16602,Jogbani Erode Amrit Bharat Exp,Jogbani,Erode,1500,10,Post-Monsoon,1.3,1747,1.165,148,Overcrowded
+16602,Jogbani Erode Amrit Bharat Exp,Jogbani,Erode,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+16602,Jogbani Erode Amrit Bharat Exp,Jogbani,Erode,1500,12,Winter,1.2,1803,1.202,181,Overcrowded
+15946,Dibrugarh Mumbai LTT Exp,Dibrugarh,Mumbai LTT,1500,1,Winter,1.05,1591,1.061,54,Overcrowded
+15946,Dibrugarh Mumbai LTT Exp,Dibrugarh,Mumbai LTT,1500,2,Winter,0.9,1233,0.822,0,Moderate
+15946,Dibrugarh Mumbai LTT Exp,Dibrugarh,Mumbai LTT,1500,3,Summer,1.25,1653,1.102,91,Overcrowded
+15946,Dibrugarh Mumbai LTT Exp,Dibrugarh,Mumbai LTT,1500,4,Summer,1.1,1648,1.099,89,Overcrowded
+15946,Dibrugarh Mumbai LTT Exp,Dibrugarh,Mumbai LTT,1500,5,Summer,1.4,2020,1.347,312,Overcrowded
+15946,Dibrugarh Mumbai LTT Exp,Dibrugarh,Mumbai LTT,1500,6,Monsoon,0.85,1173,0.782,0,Moderate
+15946,Dibrugarh Mumbai LTT Exp,Dibrugarh,Mumbai LTT,1500,7,Monsoon,0.8,1218,0.812,0,Moderate
+15946,Dibrugarh Mumbai LTT Exp,Dibrugarh,Mumbai LTT,1500,8,Monsoon,0.9,1180,0.787,0,Moderate
+15946,Dibrugarh Mumbai LTT Exp,Dibrugarh,Mumbai LTT,1500,9,Post-Monsoon,1.0,1387,0.925,0,High
+15946,Dibrugarh Mumbai LTT Exp,Dibrugarh,Mumbai LTT,1500,10,Post-Monsoon,1.3,1755,1.17,152,Overcrowded
+15946,Dibrugarh Mumbai LTT Exp,Dibrugarh,Mumbai LTT,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+15946,Dibrugarh Mumbai LTT Exp,Dibrugarh,Mumbai LTT,1500,12,Winter,1.2,1578,1.052,46,Overcrowded
+12520,Agartala Mumbai LTT AC SF Exp,Agartala,Mumbai LTT,1500,1,Winter,1.05,1545,1.03,27,High
+12520,Agartala Mumbai LTT AC SF Exp,Agartala,Mumbai LTT,1500,2,Winter,0.9,1233,0.822,0,Moderate
+12520,Agartala Mumbai LTT AC SF Exp,Agartala,Mumbai LTT,1500,3,Summer,1.25,1648,1.099,89,Overcrowded
+12520,Agartala Mumbai LTT AC SF Exp,Agartala,Mumbai LTT,1500,4,Summer,1.1,1597,1.065,58,Overcrowded
+12520,Agartala Mumbai LTT AC SF Exp,Agartala,Mumbai LTT,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+12520,Agartala Mumbai LTT AC SF Exp,Agartala,Mumbai LTT,1500,6,Monsoon,0.85,1129,0.753,0,Moderate
+12520,Agartala Mumbai LTT AC SF Exp,Agartala,Mumbai LTT,1500,7,Monsoon,0.8,1230,0.82,0,Moderate
+12520,Agartala Mumbai LTT AC SF Exp,Agartala,Mumbai LTT,1500,8,Monsoon,0.9,1237,0.825,0,Moderate
+12520,Agartala Mumbai LTT AC SF Exp,Agartala,Mumbai LTT,1500,9,Post-Monsoon,1.0,1362,0.908,0,High
+12520,Agartala Mumbai LTT AC SF Exp,Agartala,Mumbai LTT,1500,10,Post-Monsoon,1.3,1944,1.296,266,Overcrowded
+12520,Agartala Mumbai LTT AC SF Exp,Agartala,Mumbai LTT,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12520,Agartala Mumbai LTT AC SF Exp,Agartala,Mumbai LTT,1500,12,Winter,1.2,1684,1.123,110,Overcrowded
+12519,Mumbai LTT Agartala AC SF Exp,Mumbai LTT,Agartala,1500,1,Winter,1.05,1482,0.988,0,High
+12519,Mumbai LTT Agartala AC SF Exp,Mumbai LTT,Agartala,1500,2,Winter,0.9,1324,0.883,0,Moderate
+12519,Mumbai LTT Agartala AC SF Exp,Mumbai LTT,Agartala,1500,3,Summer,1.25,1711,1.141,126,Overcrowded
+12519,Mumbai LTT Agartala AC SF Exp,Mumbai LTT,Agartala,1500,4,Summer,1.1,1450,0.967,0,High
+12519,Mumbai LTT Agartala AC SF Exp,Mumbai LTT,Agartala,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+12519,Mumbai LTT Agartala AC SF Exp,Mumbai LTT,Agartala,1500,6,Monsoon,0.85,1260,0.84,0,Moderate
+12519,Mumbai LTT Agartala AC SF Exp,Mumbai LTT,Agartala,1500,7,Monsoon,0.8,1063,0.709,0,Moderate
+12519,Mumbai LTT Agartala AC SF Exp,Mumbai LTT,Agartala,1500,8,Monsoon,0.9,1383,0.922,0,High
+12519,Mumbai LTT Agartala AC SF Exp,Mumbai LTT,Agartala,1500,9,Post-Monsoon,1.0,1375,0.917,0,High
+12519,Mumbai LTT Agartala AC SF Exp,Mumbai LTT,Agartala,1500,10,Post-Monsoon,1.3,1771,1.181,162,Overcrowded
+12519,Mumbai LTT Agartala AC SF Exp,Mumbai LTT,Agartala,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12519,Mumbai LTT Agartala AC SF Exp,Mumbai LTT,Agartala,1500,12,Winter,1.2,1762,1.175,157,Overcrowded
+15945,Mumbai LTT Dibrugarh Exp,Mumbai LTT,Dibrugarh,1500,1,Winter,1.05,1570,1.047,42,High
+15945,Mumbai LTT Dibrugarh Exp,Mumbai LTT,Dibrugarh,1500,2,Winter,0.9,1363,0.909,0,High
+15945,Mumbai LTT Dibrugarh Exp,Mumbai LTT,Dibrugarh,1500,3,Summer,1.25,1712,1.142,127,Overcrowded
+15945,Mumbai LTT Dibrugarh Exp,Mumbai LTT,Dibrugarh,1500,4,Summer,1.1,1455,0.97,0,High
+15945,Mumbai LTT Dibrugarh Exp,Mumbai LTT,Dibrugarh,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+15945,Mumbai LTT Dibrugarh Exp,Mumbai LTT,Dibrugarh,1500,6,Monsoon,0.85,1227,0.818,0,Moderate
+15945,Mumbai LTT Dibrugarh Exp,Mumbai LTT,Dibrugarh,1500,7,Monsoon,0.8,1104,0.736,0,Moderate
+15945,Mumbai LTT Dibrugarh Exp,Mumbai LTT,Dibrugarh,1500,8,Monsoon,0.9,1371,0.914,0,High
+15945,Mumbai LTT Dibrugarh Exp,Mumbai LTT,Dibrugarh,1500,9,Post-Monsoon,1.0,1312,0.875,0,Moderate
+15945,Mumbai LTT Dibrugarh Exp,Mumbai LTT,Dibrugarh,1500,10,Post-Monsoon,1.3,1804,1.203,182,Overcrowded
+15945,Mumbai LTT Dibrugarh Exp,Mumbai LTT,Dibrugarh,1500,11,Post-Monsoon,1.45,1957,1.305,274,Overcrowded
+15945,Mumbai LTT Dibrugarh Exp,Mumbai LTT,Dibrugarh,1500,12,Winter,1.2,1821,1.214,192,Overcrowded
+15668,Kamakhya Gandhidham Exp,Kamakhya,Gandhidham,1500,1,Winter,1.05,1518,1.012,10,High
+15668,Kamakhya Gandhidham Exp,Kamakhya,Gandhidham,1500,2,Winter,0.9,1191,0.794,0,Moderate
+15668,Kamakhya Gandhidham Exp,Kamakhya,Gandhidham,1500,3,Summer,1.25,1851,1.234,210,Overcrowded
+15668,Kamakhya Gandhidham Exp,Kamakhya,Gandhidham,1500,4,Summer,1.1,1650,1.1,90,Overcrowded
+15668,Kamakhya Gandhidham Exp,Kamakhya,Gandhidham,1500,5,Summer,1.4,1896,1.264,237,Overcrowded
+15668,Kamakhya Gandhidham Exp,Kamakhya,Gandhidham,1500,6,Monsoon,0.85,1170,0.78,0,Moderate
+15668,Kamakhya Gandhidham Exp,Kamakhya,Gandhidham,1500,7,Monsoon,0.8,1143,0.762,0,Moderate
+15668,Kamakhya Gandhidham Exp,Kamakhya,Gandhidham,1500,8,Monsoon,0.9,1384,0.923,0,High
+15668,Kamakhya Gandhidham Exp,Kamakhya,Gandhidham,1500,9,Post-Monsoon,1.0,1369,0.913,0,High
+15668,Kamakhya Gandhidham Exp,Kamakhya,Gandhidham,1500,10,Post-Monsoon,1.3,1858,1.239,215,Overcrowded
+15668,Kamakhya Gandhidham Exp,Kamakhya,Gandhidham,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+15668,Kamakhya Gandhidham Exp,Kamakhya,Gandhidham,1500,12,Winter,1.2,1700,1.134,120,Overcrowded
+15667,Gandhidham Kamakhya Exp,Gandhidham,Kamakhya,1500,1,Winter,1.05,1552,1.035,31,High
+15667,Gandhidham Kamakhya Exp,Gandhidham,Kamakhya,1500,2,Winter,0.9,1302,0.868,0,Moderate
+15667,Gandhidham Kamakhya Exp,Gandhidham,Kamakhya,1500,3,Summer,1.25,1654,1.103,92,Overcrowded
+15667,Gandhidham Kamakhya Exp,Gandhidham,Kamakhya,1500,4,Summer,1.1,1629,1.086,77,Overcrowded
+15667,Gandhidham Kamakhya Exp,Gandhidham,Kamakhya,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+15667,Gandhidham Kamakhya Exp,Gandhidham,Kamakhya,1500,6,Monsoon,0.85,1150,0.767,0,Moderate
+15667,Gandhidham Kamakhya Exp,Gandhidham,Kamakhya,1500,7,Monsoon,0.8,1101,0.734,0,Moderate
+15667,Gandhidham Kamakhya Exp,Gandhidham,Kamakhya,1500,8,Monsoon,0.9,1285,0.857,0,Moderate
+15667,Gandhidham Kamakhya Exp,Gandhidham,Kamakhya,1500,9,Post-Monsoon,1.0,1539,1.026,23,High
+15667,Gandhidham Kamakhya Exp,Gandhidham,Kamakhya,1500,10,Post-Monsoon,1.3,1780,1.187,168,Overcrowded
+15667,Gandhidham Kamakhya Exp,Gandhidham,Kamakhya,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+15667,Gandhidham Kamakhya Exp,Gandhidham,Kamakhya,1500,12,Winter,1.2,1839,1.226,203,Overcrowded
+15909,Avadh Assam Exp,Dibrugarh,Lalganj,1500,1,Winter,1.05,1407,0.938,0,High
+15909,Avadh Assam Exp,Dibrugarh,Lalganj,1500,2,Winter,0.9,1198,0.799,0,Moderate
+15909,Avadh Assam Exp,Dibrugarh,Lalganj,1500,3,Summer,1.25,1839,1.226,203,Overcrowded
+15909,Avadh Assam Exp,Dibrugarh,Lalganj,1500,4,Summer,1.1,1654,1.103,92,Overcrowded
+15909,Avadh Assam Exp,Dibrugarh,Lalganj,1500,5,Summer,1.4,1935,1.29,261,Overcrowded
+15909,Avadh Assam Exp,Dibrugarh,Lalganj,1500,6,Monsoon,0.85,1290,0.86,0,Moderate
+15909,Avadh Assam Exp,Dibrugarh,Lalganj,1500,7,Monsoon,0.8,1192,0.795,0,Moderate
+15909,Avadh Assam Exp,Dibrugarh,Lalganj,1500,8,Monsoon,0.9,1219,0.813,0,Moderate
+15909,Avadh Assam Exp,Dibrugarh,Lalganj,1500,9,Post-Monsoon,1.0,1482,0.988,0,High
+15909,Avadh Assam Exp,Dibrugarh,Lalganj,1500,10,Post-Monsoon,1.3,1806,1.204,183,Overcrowded
+15909,Avadh Assam Exp,Dibrugarh,Lalganj,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+15909,Avadh Assam Exp,Dibrugarh,Lalganj,1500,12,Winter,1.2,1837,1.225,202,Overcrowded
+15910,Avadh Assam Exp,Lalganj,Dibrugarh,1500,1,Winter,1.05,1398,0.932,0,High
+15910,Avadh Assam Exp,Lalganj,Dibrugarh,1500,2,Winter,0.9,1324,0.883,0,Moderate
+15910,Avadh Assam Exp,Lalganj,Dibrugarh,1500,3,Summer,1.25,1881,1.254,228,Overcrowded
+15910,Avadh Assam Exp,Lalganj,Dibrugarh,1500,4,Summer,1.1,1521,1.014,12,High
+15910,Avadh Assam Exp,Lalganj,Dibrugarh,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+15910,Avadh Assam Exp,Lalganj,Dibrugarh,1500,6,Monsoon,0.85,1266,0.844,0,Moderate
+15910,Avadh Assam Exp,Lalganj,Dibrugarh,1500,7,Monsoon,0.8,1084,0.723,0,Moderate
+15910,Avadh Assam Exp,Lalganj,Dibrugarh,1500,8,Monsoon,0.9,1333,0.889,0,Moderate
+15910,Avadh Assam Exp,Lalganj,Dibrugarh,1500,9,Post-Monsoon,1.0,1389,0.926,0,High
+15910,Avadh Assam Exp,Lalganj,Dibrugarh,1500,10,Post-Monsoon,1.3,1906,1.271,243,Overcrowded
+15910,Avadh Assam Exp,Lalganj,Dibrugarh,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+15910,Avadh Assam Exp,Lalganj,Dibrugarh,1500,12,Winter,1.2,1671,1.114,102,Overcrowded
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,New Jalpaiguri,Nagercoil,1500,1,Winter,1.05,1446,0.964,0,High
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,New Jalpaiguri,Nagercoil,1500,2,Winter,0.9,1255,0.837,0,Moderate
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,New Jalpaiguri,Nagercoil,1500,3,Summer,1.25,1706,1.138,124,Overcrowded
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,New Jalpaiguri,Nagercoil,1500,4,Summer,1.1,1674,1.116,104,Overcrowded
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,New Jalpaiguri,Nagercoil,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,New Jalpaiguri,Nagercoil,1500,6,Monsoon,0.85,1258,0.839,0,Moderate
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,New Jalpaiguri,Nagercoil,1500,7,Monsoon,0.8,1110,0.74,0,Moderate
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,New Jalpaiguri,Nagercoil,1500,8,Monsoon,0.9,1243,0.829,0,Moderate
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,New Jalpaiguri,Nagercoil,1500,9,Post-Monsoon,1.0,1344,0.896,0,Moderate
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,New Jalpaiguri,Nagercoil,1500,10,Post-Monsoon,1.3,1938,1.292,262,Overcrowded
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,New Jalpaiguri,Nagercoil,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,New Jalpaiguri,Nagercoil,1500,12,Winter,1.2,1834,1.223,200,Overcrowded
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,Nagercoil,New Jalpaiguri,1500,1,Winter,1.05,1464,0.976,0,High
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,Nagercoil,New Jalpaiguri,1500,2,Winter,0.9,1228,0.819,0,Moderate
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,Nagercoil,New Jalpaiguri,1500,3,Summer,1.25,1902,1.268,241,Overcrowded
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,Nagercoil,New Jalpaiguri,1500,4,Summer,1.1,1620,1.08,72,Overcrowded
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,Nagercoil,New Jalpaiguri,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,Nagercoil,New Jalpaiguri,1500,6,Monsoon,0.85,1180,0.787,0,Moderate
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,Nagercoil,New Jalpaiguri,1500,7,Monsoon,0.8,1104,0.736,0,Moderate
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,Nagercoil,New Jalpaiguri,1500,8,Monsoon,0.9,1209,0.806,0,Moderate
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,Nagercoil,New Jalpaiguri,1500,9,Post-Monsoon,1.0,1491,0.994,0,High
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,Nagercoil,New Jalpaiguri,1500,10,Post-Monsoon,1.3,1953,1.302,271,Overcrowded
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,Nagercoil,New Jalpaiguri,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,Nagercoil,New Jalpaiguri,1500,12,Winter,1.2,1783,1.189,170,Overcrowded
+22660,Rishikesh Thiruvananthapuram North SF,Rishikesh,Thiruvananthapuram North,1500,1,Winter,1.05,1453,0.969,0,High
+22660,Rishikesh Thiruvananthapuram North SF,Rishikesh,Thiruvananthapuram North,1500,2,Winter,0.9,1186,0.791,0,Moderate
+22660,Rishikesh Thiruvananthapuram North SF,Rishikesh,Thiruvananthapuram North,1500,3,Summer,1.25,1783,1.189,170,Overcrowded
+22660,Rishikesh Thiruvananthapuram North SF,Rishikesh,Thiruvananthapuram North,1500,4,Summer,1.1,1522,1.015,13,High
+22660,Rishikesh Thiruvananthapuram North SF,Rishikesh,Thiruvananthapuram North,1500,5,Summer,1.4,2014,1.343,308,Overcrowded
+22660,Rishikesh Thiruvananthapuram North SF,Rishikesh,Thiruvananthapuram North,1500,6,Monsoon,0.85,1249,0.833,0,Moderate
+22660,Rishikesh Thiruvananthapuram North SF,Rishikesh,Thiruvananthapuram North,1500,7,Monsoon,0.8,1137,0.758,0,Moderate
+22660,Rishikesh Thiruvananthapuram North SF,Rishikesh,Thiruvananthapuram North,1500,8,Monsoon,0.9,1330,0.887,0,Moderate
+22660,Rishikesh Thiruvananthapuram North SF,Rishikesh,Thiruvananthapuram North,1500,9,Post-Monsoon,1.0,1446,0.964,0,High
+22660,Rishikesh Thiruvananthapuram North SF,Rishikesh,Thiruvananthapuram North,1500,10,Post-Monsoon,1.3,1720,1.147,132,Overcrowded
+22660,Rishikesh Thiruvananthapuram North SF,Rishikesh,Thiruvananthapuram North,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+22660,Rishikesh Thiruvananthapuram North SF,Rishikesh,Thiruvananthapuram North,1500,12,Winter,1.2,1800,1.2,179,Overcrowded
+22659,Thiruvananthapuram North Rishikesh SF,Thiruvananthapuram North,Rishikesh,1500,1,Winter,1.05,1543,1.029,26,High
+22659,Thiruvananthapuram North Rishikesh SF,Thiruvananthapuram North,Rishikesh,1500,2,Winter,0.9,1246,0.831,0,Moderate
+22659,Thiruvananthapuram North Rishikesh SF,Thiruvananthapuram North,Rishikesh,1500,3,Summer,1.25,1648,1.099,89,Overcrowded
+22659,Thiruvananthapuram North Rishikesh SF,Thiruvananthapuram North,Rishikesh,1500,4,Summer,1.1,1569,1.046,41,High
+22659,Thiruvananthapuram North Rishikesh SF,Thiruvananthapuram North,Rishikesh,1500,5,Summer,1.4,1936,1.291,261,Overcrowded
+22659,Thiruvananthapuram North Rishikesh SF,Thiruvananthapuram North,Rishikesh,1500,6,Monsoon,0.85,1222,0.815,0,Moderate
+22659,Thiruvananthapuram North Rishikesh SF,Thiruvananthapuram North,Rishikesh,1500,7,Monsoon,0.8,1176,0.784,0,Moderate
+22659,Thiruvananthapuram North Rishikesh SF,Thiruvananthapuram North,Rishikesh,1500,8,Monsoon,0.9,1279,0.853,0,Moderate
+22659,Thiruvananthapuram North Rishikesh SF,Thiruvananthapuram North,Rishikesh,1500,9,Post-Monsoon,1.0,1477,0.985,0,High
+22659,Thiruvananthapuram North Rishikesh SF,Thiruvananthapuram North,Rishikesh,1500,10,Post-Monsoon,1.3,1879,1.253,227,Overcrowded
+22659,Thiruvananthapuram North Rishikesh SF,Thiruvananthapuram North,Rishikesh,1500,11,Post-Monsoon,1.45,1920,1.28,252,Overcrowded
+22659,Thiruvananthapuram North Rishikesh SF,Thiruvananthapuram North,Rishikesh,1500,12,Winter,1.2,1776,1.184,165,Overcrowded
+22497,Sri Ganganagar Tiruchirappalli Humsafar,Sri Ganganagar,Tiruchirappalli,1500,1,Winter,1.05,1426,0.951,0,High
+22497,Sri Ganganagar Tiruchirappalli Humsafar,Sri Ganganagar,Tiruchirappalli,1500,2,Winter,0.9,1375,0.917,0,High
+22497,Sri Ganganagar Tiruchirappalli Humsafar,Sri Ganganagar,Tiruchirappalli,1500,3,Summer,1.25,1836,1.224,201,Overcrowded
+22497,Sri Ganganagar Tiruchirappalli Humsafar,Sri Ganganagar,Tiruchirappalli,1500,4,Summer,1.1,1494,0.996,0,High
+22497,Sri Ganganagar Tiruchirappalli Humsafar,Sri Ganganagar,Tiruchirappalli,1500,5,Summer,1.4,1864,1.243,218,Overcrowded
+22497,Sri Ganganagar Tiruchirappalli Humsafar,Sri Ganganagar,Tiruchirappalli,1500,6,Monsoon,0.85,1119,0.746,0,Moderate
+22497,Sri Ganganagar Tiruchirappalli Humsafar,Sri Ganganagar,Tiruchirappalli,1500,7,Monsoon,0.8,1197,0.798,0,Moderate
+22497,Sri Ganganagar Tiruchirappalli Humsafar,Sri Ganganagar,Tiruchirappalli,1500,8,Monsoon,0.9,1354,0.903,0,High
+22497,Sri Ganganagar Tiruchirappalli Humsafar,Sri Ganganagar,Tiruchirappalli,1500,9,Post-Monsoon,1.0,1504,1.003,2,High
+22497,Sri Ganganagar Tiruchirappalli Humsafar,Sri Ganganagar,Tiruchirappalli,1500,10,Post-Monsoon,1.3,1708,1.139,125,Overcrowded
+22497,Sri Ganganagar Tiruchirappalli Humsafar,Sri Ganganagar,Tiruchirappalli,1500,11,Post-Monsoon,1.45,2008,1.339,305,Overcrowded
+22497,Sri Ganganagar Tiruchirappalli Humsafar,Sri Ganganagar,Tiruchirappalli,1500,12,Winter,1.2,1780,1.187,168,Overcrowded
+22498,Tiruchirappalli Sri Ganganagar Humsafar,Tiruchirappalli,Sri Ganganagar,1500,1,Winter,1.05,1605,1.07,63,Overcrowded
+22498,Tiruchirappalli Sri Ganganagar Humsafar,Tiruchirappalli,Sri Ganganagar,1500,2,Winter,0.9,1321,0.881,0,Moderate
+22498,Tiruchirappalli Sri Ganganagar Humsafar,Tiruchirappalli,Sri Ganganagar,1500,3,Summer,1.25,1697,1.132,118,Overcrowded
+22498,Tiruchirappalli Sri Ganganagar Humsafar,Tiruchirappalli,Sri Ganganagar,1500,4,Summer,1.1,1464,0.976,0,High
+22498,Tiruchirappalli Sri Ganganagar Humsafar,Tiruchirappalli,Sri Ganganagar,1500,5,Summer,1.4,1842,1.228,205,Overcrowded
+22498,Tiruchirappalli Sri Ganganagar Humsafar,Tiruchirappalli,Sri Ganganagar,1500,6,Monsoon,0.85,1272,0.848,0,Moderate
+22498,Tiruchirappalli Sri Ganganagar Humsafar,Tiruchirappalli,Sri Ganganagar,1500,7,Monsoon,0.8,1204,0.803,0,Moderate
+22498,Tiruchirappalli Sri Ganganagar Humsafar,Tiruchirappalli,Sri Ganganagar,1500,8,Monsoon,0.9,1354,0.903,0,High
+22498,Tiruchirappalli Sri Ganganagar Humsafar,Tiruchirappalli,Sri Ganganagar,1500,9,Post-Monsoon,1.0,1314,0.876,0,Moderate
+22498,Tiruchirappalli Sri Ganganagar Humsafar,Tiruchirappalli,Sri Ganganagar,1500,10,Post-Monsoon,1.3,1801,1.201,180,Overcrowded
+22498,Tiruchirappalli Sri Ganganagar Humsafar,Tiruchirappalli,Sri Ganganagar,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+22498,Tiruchirappalli Sri Ganganagar Humsafar,Tiruchirappalli,Sri Ganganagar,1500,12,Winter,1.2,1726,1.151,135,Overcrowded
+12218,Kerala Sampark Kranti Exp,Chandigarh,Thiruvananthapuram North,1500,1,Winter,1.05,1380,0.92,0,High
+12218,Kerala Sampark Kranti Exp,Chandigarh,Thiruvananthapuram North,1500,2,Winter,0.9,1254,0.836,0,Moderate
+12218,Kerala Sampark Kranti Exp,Chandigarh,Thiruvananthapuram North,1500,3,Summer,1.25,1794,1.196,176,Overcrowded
+12218,Kerala Sampark Kranti Exp,Chandigarh,Thiruvananthapuram North,1500,4,Summer,1.1,1573,1.049,44,High
+12218,Kerala Sampark Kranti Exp,Chandigarh,Thiruvananthapuram North,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+12218,Kerala Sampark Kranti Exp,Chandigarh,Thiruvananthapuram North,1500,6,Monsoon,0.85,1207,0.805,0,Moderate
+12218,Kerala Sampark Kranti Exp,Chandigarh,Thiruvananthapuram North,1500,7,Monsoon,0.8,1102,0.735,0,Moderate
+12218,Kerala Sampark Kranti Exp,Chandigarh,Thiruvananthapuram North,1500,8,Monsoon,0.9,1363,0.909,0,High
+12218,Kerala Sampark Kranti Exp,Chandigarh,Thiruvananthapuram North,1500,9,Post-Monsoon,1.0,1339,0.893,0,Moderate
+12218,Kerala Sampark Kranti Exp,Chandigarh,Thiruvananthapuram North,1500,10,Post-Monsoon,1.3,1830,1.22,197,Overcrowded
+12218,Kerala Sampark Kranti Exp,Chandigarh,Thiruvananthapuram North,1500,11,Post-Monsoon,1.45,1933,1.289,260,Overcrowded
+12218,Kerala Sampark Kranti Exp,Chandigarh,Thiruvananthapuram North,1500,12,Winter,1.2,1745,1.164,147,Overcrowded
+12217,Kerala Sampark Kranti Exp,Thiruvananthapuram North,Chandigarh,1500,1,Winter,1.05,1456,0.971,0,High
+12217,Kerala Sampark Kranti Exp,Thiruvananthapuram North,Chandigarh,1500,2,Winter,0.9,1182,0.788,0,Moderate
+12217,Kerala Sampark Kranti Exp,Thiruvananthapuram North,Chandigarh,1500,3,Summer,1.25,1741,1.161,144,Overcrowded
+12217,Kerala Sampark Kranti Exp,Thiruvananthapuram North,Chandigarh,1500,4,Summer,1.1,1579,1.053,47,Overcrowded
+12217,Kerala Sampark Kranti Exp,Thiruvananthapuram North,Chandigarh,1500,5,Summer,1.4,2004,1.336,302,Overcrowded
+12217,Kerala Sampark Kranti Exp,Thiruvananthapuram North,Chandigarh,1500,6,Monsoon,0.85,1272,0.848,0,Moderate
+12217,Kerala Sampark Kranti Exp,Thiruvananthapuram North,Chandigarh,1500,7,Monsoon,0.8,1137,0.758,0,Moderate
+12217,Kerala Sampark Kranti Exp,Thiruvananthapuram North,Chandigarh,1500,8,Monsoon,0.9,1240,0.827,0,Moderate
+12217,Kerala Sampark Kranti Exp,Thiruvananthapuram North,Chandigarh,1500,9,Post-Monsoon,1.0,1515,1.01,9,High
+12217,Kerala Sampark Kranti Exp,Thiruvananthapuram North,Chandigarh,1500,10,Post-Monsoon,1.3,1741,1.161,144,Overcrowded
+12217,Kerala Sampark Kranti Exp,Thiruvananthapuram North,Chandigarh,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12217,Kerala Sampark Kranti Exp,Thiruvananthapuram North,Chandigarh,1500,12,Winter,1.2,1599,1.066,59,Overcrowded
+20493,Madurai Chandigarh SF Exp,Madurai,Chandigarh,1500,1,Winter,1.05,1395,0.93,0,High
+20493,Madurai Chandigarh SF Exp,Madurai,Chandigarh,1500,2,Winter,0.9,1239,0.826,0,Moderate
+20493,Madurai Chandigarh SF Exp,Madurai,Chandigarh,1500,3,Summer,1.25,1665,1.11,99,Overcrowded
+20493,Madurai Chandigarh SF Exp,Madurai,Chandigarh,1500,4,Summer,1.1,1672,1.115,103,Overcrowded
+20493,Madurai Chandigarh SF Exp,Madurai,Chandigarh,1500,5,Summer,1.4,1902,1.268,241,Overcrowded
+20493,Madurai Chandigarh SF Exp,Madurai,Chandigarh,1500,6,Monsoon,0.85,1299,0.866,0,Moderate
+20493,Madurai Chandigarh SF Exp,Madurai,Chandigarh,1500,7,Monsoon,0.8,1176,0.784,0,Moderate
+20493,Madurai Chandigarh SF Exp,Madurai,Chandigarh,1500,8,Monsoon,0.9,1222,0.815,0,Moderate
+20493,Madurai Chandigarh SF Exp,Madurai,Chandigarh,1500,9,Post-Monsoon,1.0,1332,0.888,0,Moderate
+20493,Madurai Chandigarh SF Exp,Madurai,Chandigarh,1500,10,Post-Monsoon,1.3,1709,1.14,125,Overcrowded
+20493,Madurai Chandigarh SF Exp,Madurai,Chandigarh,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+20493,Madurai Chandigarh SF Exp,Madurai,Chandigarh,1500,12,Winter,1.2,1806,1.204,183,Overcrowded
+20494,Chandigarh Madurai SF Exp,Chandigarh,Madurai,1500,1,Winter,1.05,1446,0.964,0,High
+20494,Chandigarh Madurai SF Exp,Chandigarh,Madurai,1500,2,Winter,0.9,1198,0.799,0,Moderate
+20494,Chandigarh Madurai SF Exp,Chandigarh,Madurai,1500,3,Summer,1.25,1900,1.267,240,Overcrowded
+20494,Chandigarh Madurai SF Exp,Chandigarh,Madurai,1500,4,Summer,1.1,1494,0.996,0,High
+20494,Chandigarh Madurai SF Exp,Chandigarh,Madurai,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+20494,Chandigarh Madurai SF Exp,Chandigarh,Madurai,1500,6,Monsoon,0.85,1249,0.833,0,Moderate
+20494,Chandigarh Madurai SF Exp,Chandigarh,Madurai,1500,7,Monsoon,0.8,1086,0.724,0,Moderate
+20494,Chandigarh Madurai SF Exp,Chandigarh,Madurai,1500,8,Monsoon,0.9,1198,0.799,0,Moderate
+20494,Chandigarh Madurai SF Exp,Chandigarh,Madurai,1500,9,Post-Monsoon,1.0,1315,0.877,0,Moderate
+20494,Chandigarh Madurai SF Exp,Chandigarh,Madurai,1500,10,Post-Monsoon,1.3,1945,1.297,267,Overcrowded
+20494,Chandigarh Madurai SF Exp,Chandigarh,Madurai,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+20494,Chandigarh Madurai SF Exp,Chandigarh,Madurai,1500,12,Winter,1.2,1804,1.203,182,Overcrowded
+22631,Anuvrat AC SF Exp,Madurai,Bikaner,1500,1,Winter,1.05,1575,1.05,45,Overcrowded
+22631,Anuvrat AC SF Exp,Madurai,Bikaner,1500,2,Winter,0.9,1222,0.815,0,Moderate
+22631,Anuvrat AC SF Exp,Madurai,Bikaner,1500,3,Summer,1.25,1891,1.261,234,Overcrowded
+22631,Anuvrat AC SF Exp,Madurai,Bikaner,1500,4,Summer,1.1,1657,1.105,94,Overcrowded
+22631,Anuvrat AC SF Exp,Madurai,Bikaner,1500,5,Summer,1.4,1977,1.318,286,Overcrowded
+22631,Anuvrat AC SF Exp,Madurai,Bikaner,1500,6,Monsoon,0.85,1201,0.801,0,Moderate
+22631,Anuvrat AC SF Exp,Madurai,Bikaner,1500,7,Monsoon,0.8,1129,0.753,0,Moderate
+22631,Anuvrat AC SF Exp,Madurai,Bikaner,1500,8,Monsoon,0.9,1264,0.843,0,Moderate
+22631,Anuvrat AC SF Exp,Madurai,Bikaner,1500,9,Post-Monsoon,1.0,1423,0.949,0,High
+22631,Anuvrat AC SF Exp,Madurai,Bikaner,1500,10,Post-Monsoon,1.3,1755,1.17,152,Overcrowded
+22631,Anuvrat AC SF Exp,Madurai,Bikaner,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+22631,Anuvrat AC SF Exp,Madurai,Bikaner,1500,12,Winter,1.2,1724,1.15,134,Overcrowded
+22632,Anuvrat AC SF Exp,Bikaner,Madurai,1500,1,Winter,1.05,1425,0.95,0,High
+22632,Anuvrat AC SF Exp,Bikaner,Madurai,1500,2,Winter,0.9,1362,0.908,0,High
+22632,Anuvrat AC SF Exp,Bikaner,Madurai,1500,3,Summer,1.25,1884,1.256,230,Overcrowded
+22632,Anuvrat AC SF Exp,Bikaner,Madurai,1500,4,Summer,1.1,1554,1.036,32,High
+22632,Anuvrat AC SF Exp,Bikaner,Madurai,1500,5,Summer,1.4,1978,1.319,287,Overcrowded
+22632,Anuvrat AC SF Exp,Bikaner,Madurai,1500,6,Monsoon,0.85,1200,0.8,0,Moderate
+22632,Anuvrat AC SF Exp,Bikaner,Madurai,1500,7,Monsoon,0.8,1125,0.75,0,Moderate
+22632,Anuvrat AC SF Exp,Bikaner,Madurai,1500,8,Monsoon,0.9,1281,0.854,0,Moderate
+22632,Anuvrat AC SF Exp,Bikaner,Madurai,1500,9,Post-Monsoon,1.0,1350,0.9,0,High
+22632,Anuvrat AC SF Exp,Bikaner,Madurai,1500,10,Post-Monsoon,1.3,1863,1.242,217,Overcrowded
+22632,Anuvrat AC SF Exp,Bikaner,Madurai,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+22632,Anuvrat AC SF Exp,Bikaner,Madurai,1500,12,Winter,1.2,1724,1.15,134,Overcrowded
+22669,Ernakulam Patna SF Exp,Ernakulam Jn,Patna,1500,1,Winter,1.05,1390,0.927,0,High
+22669,Ernakulam Patna SF Exp,Ernakulam Jn,Patna,1500,2,Winter,0.9,1332,0.888,0,Moderate
+22669,Ernakulam Patna SF Exp,Ernakulam Jn,Patna,1500,3,Summer,1.25,1875,1.25,225,Overcrowded
+22669,Ernakulam Patna SF Exp,Ernakulam Jn,Patna,1500,4,Summer,1.1,1489,0.993,0,High
+22669,Ernakulam Patna SF Exp,Ernakulam Jn,Patna,1500,5,Summer,1.4,1926,1.284,255,Overcrowded
+22669,Ernakulam Patna SF Exp,Ernakulam Jn,Patna,1500,6,Monsoon,0.85,1213,0.809,0,Moderate
+22669,Ernakulam Patna SF Exp,Ernakulam Jn,Patna,1500,7,Monsoon,0.8,1230,0.82,0,Moderate
+22669,Ernakulam Patna SF Exp,Ernakulam Jn,Patna,1500,8,Monsoon,0.9,1233,0.822,0,Moderate
+22669,Ernakulam Patna SF Exp,Ernakulam Jn,Patna,1500,9,Post-Monsoon,1.0,1429,0.953,0,High
+22669,Ernakulam Patna SF Exp,Ernakulam Jn,Patna,1500,10,Post-Monsoon,1.3,1993,1.329,296,Overcrowded
+22669,Ernakulam Patna SF Exp,Ernakulam Jn,Patna,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+22669,Ernakulam Patna SF Exp,Ernakulam Jn,Patna,1500,12,Winter,1.2,1608,1.072,64,Overcrowded
+22670,Patna Ernakulam SF Exp,Patna,Ernakulam Jn,1500,1,Winter,1.05,1554,1.036,32,High
+22670,Patna Ernakulam SF Exp,Patna,Ernakulam Jn,1500,2,Winter,0.9,1350,0.9,0,High
+22670,Patna Ernakulam SF Exp,Patna,Ernakulam Jn,1500,3,Summer,1.25,1691,1.128,115,Overcrowded
+22670,Patna Ernakulam SF Exp,Patna,Ernakulam Jn,1500,4,Summer,1.1,1513,1.009,8,High
+22670,Patna Ernakulam SF Exp,Patna,Ernakulam Jn,1500,5,Summer,1.4,1999,1.333,299,Overcrowded
+22670,Patna Ernakulam SF Exp,Patna,Ernakulam Jn,1500,6,Monsoon,0.85,1308,0.872,0,Moderate
+22670,Patna Ernakulam SF Exp,Patna,Ernakulam Jn,1500,7,Monsoon,0.8,1095,0.73,0,Moderate
+22670,Patna Ernakulam SF Exp,Patna,Ernakulam Jn,1500,8,Monsoon,0.9,1287,0.858,0,Moderate
+22670,Patna Ernakulam SF Exp,Patna,Ernakulam Jn,1500,9,Post-Monsoon,1.0,1533,1.022,19,High
+22670,Patna Ernakulam SF Exp,Patna,Ernakulam Jn,1500,10,Post-Monsoon,1.3,1842,1.228,205,Overcrowded
+22670,Patna Ernakulam SF Exp,Patna,Ernakulam Jn,1500,11,Post-Monsoon,1.45,1942,1.295,265,Overcrowded
+22670,Patna Ernakulam SF Exp,Patna,Ernakulam Jn,1500,12,Winter,1.2,1686,1.124,111,Overcrowded
+12577,Bagmati Exp,Darbhanga,Mysuru,1500,1,Winter,1.05,1587,1.058,52,Overcrowded
+12577,Bagmati Exp,Darbhanga,Mysuru,1500,2,Winter,0.9,1264,0.843,0,Moderate
+12577,Bagmati Exp,Darbhanga,Mysuru,1500,3,Summer,1.25,1857,1.238,214,Overcrowded
+12577,Bagmati Exp,Darbhanga,Mysuru,1500,4,Summer,1.1,1471,0.981,0,High
+12577,Bagmati Exp,Darbhanga,Mysuru,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+12577,Bagmati Exp,Darbhanga,Mysuru,1500,6,Monsoon,0.85,1140,0.76,0,Moderate
+12577,Bagmati Exp,Darbhanga,Mysuru,1500,7,Monsoon,0.8,1113,0.742,0,Moderate
+12577,Bagmati Exp,Darbhanga,Mysuru,1500,8,Monsoon,0.9,1239,0.826,0,Moderate
+12577,Bagmati Exp,Darbhanga,Mysuru,1500,9,Post-Monsoon,1.0,1353,0.902,0,High
+12577,Bagmati Exp,Darbhanga,Mysuru,1500,10,Post-Monsoon,1.3,1839,1.226,203,Overcrowded
+12577,Bagmati Exp,Darbhanga,Mysuru,1500,11,Post-Monsoon,1.45,1974,1.316,284,Overcrowded
+12577,Bagmati Exp,Darbhanga,Mysuru,1500,12,Winter,1.2,1599,1.066,59,Overcrowded
+12578,Bagmati Exp,Mysuru,Darbhanga,1500,1,Winter,1.05,1476,0.984,0,High
+12578,Bagmati Exp,Mysuru,Darbhanga,1500,2,Winter,0.9,1336,0.891,0,Moderate
+12578,Bagmati Exp,Mysuru,Darbhanga,1500,3,Summer,1.25,1672,1.115,103,Overcrowded
+12578,Bagmati Exp,Mysuru,Darbhanga,1500,4,Summer,1.1,1656,1.104,93,Overcrowded
+12578,Bagmati Exp,Mysuru,Darbhanga,1500,5,Summer,1.4,1876,1.251,225,Overcrowded
+12578,Bagmati Exp,Mysuru,Darbhanga,1500,6,Monsoon,0.85,1182,0.788,0,Moderate
+12578,Bagmati Exp,Mysuru,Darbhanga,1500,7,Monsoon,0.8,1101,0.734,0,Moderate
+12578,Bagmati Exp,Mysuru,Darbhanga,1500,8,Monsoon,0.9,1218,0.812,0,Moderate
+12578,Bagmati Exp,Mysuru,Darbhanga,1500,9,Post-Monsoon,1.0,1414,0.943,0,High
+12578,Bagmati Exp,Mysuru,Darbhanga,1500,10,Post-Monsoon,1.3,1770,1.18,161,Overcrowded
+12578,Bagmati Exp,Mysuru,Darbhanga,1500,11,Post-Monsoon,1.45,1932,1.288,259,Overcrowded
+12578,Bagmati Exp,Mysuru,Darbhanga,1500,12,Winter,1.2,1797,1.198,178,Overcrowded
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,Hazrat Nizamuddin,Thiruvananthapuram,1500,1,Winter,1.05,1570,1.047,42,High
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,Hazrat Nizamuddin,Thiruvananthapuram,1500,2,Winter,0.9,1378,0.919,0,High
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,Hazrat Nizamuddin,Thiruvananthapuram,1500,3,Summer,1.25,1759,1.173,155,Overcrowded
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,Hazrat Nizamuddin,Thiruvananthapuram,1500,4,Summer,1.1,1542,1.028,25,High
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,Hazrat Nizamuddin,Thiruvananthapuram,1500,5,Summer,1.4,1854,1.236,212,Overcrowded
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,Hazrat Nizamuddin,Thiruvananthapuram,1500,6,Monsoon,0.85,1285,0.857,0,Moderate
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,Hazrat Nizamuddin,Thiruvananthapuram,1500,7,Monsoon,0.8,1108,0.739,0,Moderate
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,Hazrat Nizamuddin,Thiruvananthapuram,1500,8,Monsoon,0.9,1266,0.844,0,Moderate
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,Hazrat Nizamuddin,Thiruvananthapuram,1500,9,Post-Monsoon,1.0,1423,0.949,0,High
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,Hazrat Nizamuddin,Thiruvananthapuram,1500,10,Post-Monsoon,1.3,1822,1.215,193,Overcrowded
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,Hazrat Nizamuddin,Thiruvananthapuram,1500,11,Post-Monsoon,1.45,1966,1.311,279,Overcrowded
+12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,Hazrat Nizamuddin,Thiruvananthapuram,1500,12,Winter,1.2,1657,1.105,94,Overcrowded
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,Thiruvananthapuram,Hazrat Nizamuddin,1500,1,Winter,1.05,1509,1.006,5,High
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,Thiruvananthapuram,Hazrat Nizamuddin,1500,2,Winter,0.9,1347,0.898,0,Moderate
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,Thiruvananthapuram,Hazrat Nizamuddin,1500,3,Summer,1.25,1915,1.277,249,Overcrowded
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,Thiruvananthapuram,Hazrat Nizamuddin,1500,4,Summer,1.1,1549,1.033,29,High
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,Thiruvananthapuram,Hazrat Nizamuddin,1500,5,Summer,1.4,1963,1.309,278,Overcrowded
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,Thiruvananthapuram,Hazrat Nizamuddin,1500,6,Monsoon,0.85,1125,0.75,0,Moderate
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,Thiruvananthapuram,Hazrat Nizamuddin,1500,7,Monsoon,0.8,1209,0.806,0,Moderate
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,Thiruvananthapuram,Hazrat Nizamuddin,1500,8,Monsoon,0.9,1246,0.831,0,Moderate
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,Thiruvananthapuram,Hazrat Nizamuddin,1500,9,Post-Monsoon,1.0,1407,0.938,0,High
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,Thiruvananthapuram,Hazrat Nizamuddin,1500,10,Post-Monsoon,1.3,1849,1.233,209,Overcrowded
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,Thiruvananthapuram,Hazrat Nizamuddin,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,Thiruvananthapuram,Hazrat Nizamuddin,1500,12,Winter,1.2,1627,1.085,76,Overcrowded
+22705,Tirupati Jammu Tawi Humsafar Exp,Tirupati,Jammu Tawi,1500,1,Winter,1.05,1489,0.993,0,High
+22705,Tirupati Jammu Tawi Humsafar Exp,Tirupati,Jammu Tawi,1500,2,Winter,0.9,1224,0.816,0,Moderate
+22705,Tirupati Jammu Tawi Humsafar Exp,Tirupati,Jammu Tawi,1500,3,Summer,1.25,1642,1.095,85,Overcrowded
+22705,Tirupati Jammu Tawi Humsafar Exp,Tirupati,Jammu Tawi,1500,4,Summer,1.1,1630,1.087,78,Overcrowded
+22705,Tirupati Jammu Tawi Humsafar Exp,Tirupati,Jammu Tawi,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+22705,Tirupati Jammu Tawi Humsafar Exp,Tirupati,Jammu Tawi,1500,6,Monsoon,0.85,1222,0.815,0,Moderate
+22705,Tirupati Jammu Tawi Humsafar Exp,Tirupati,Jammu Tawi,1500,7,Monsoon,0.8,1171,0.781,0,Moderate
+22705,Tirupati Jammu Tawi Humsafar Exp,Tirupati,Jammu Tawi,1500,8,Monsoon,0.9,1381,0.921,0,High
+22705,Tirupati Jammu Tawi Humsafar Exp,Tirupati,Jammu Tawi,1500,9,Post-Monsoon,1.0,1429,0.953,0,High
+22705,Tirupati Jammu Tawi Humsafar Exp,Tirupati,Jammu Tawi,1500,10,Post-Monsoon,1.3,1821,1.214,192,Overcrowded
+22705,Tirupati Jammu Tawi Humsafar Exp,Tirupati,Jammu Tawi,1500,11,Post-Monsoon,1.45,2014,1.343,308,Overcrowded
+22705,Tirupati Jammu Tawi Humsafar Exp,Tirupati,Jammu Tawi,1500,12,Winter,1.2,1752,1.168,151,Overcrowded
+22706,Jammu Tawi Tirupati Humsafar Exp,Jammu Tawi,Tirupati,1500,1,Winter,1.05,1428,0.952,0,High
+22706,Jammu Tawi Tirupati Humsafar Exp,Jammu Tawi,Tirupati,1500,2,Winter,0.9,1183,0.789,0,Moderate
+22706,Jammu Tawi Tirupati Humsafar Exp,Jammu Tawi,Tirupati,1500,3,Summer,1.25,1852,1.235,211,Overcrowded
+22706,Jammu Tawi Tirupati Humsafar Exp,Jammu Tawi,Tirupati,1500,4,Summer,1.1,1656,1.104,93,Overcrowded
+22706,Jammu Tawi Tirupati Humsafar Exp,Jammu Tawi,Tirupati,1500,5,Summer,1.4,2013,1.342,307,Overcrowded
+22706,Jammu Tawi Tirupati Humsafar Exp,Jammu Tawi,Tirupati,1500,6,Monsoon,0.85,1243,0.829,0,Moderate
+22706,Jammu Tawi Tirupati Humsafar Exp,Jammu Tawi,Tirupati,1500,7,Monsoon,0.8,1228,0.819,0,Moderate
+22706,Jammu Tawi Tirupati Humsafar Exp,Jammu Tawi,Tirupati,1500,8,Monsoon,0.9,1285,0.857,0,Moderate
+22706,Jammu Tawi Tirupati Humsafar Exp,Jammu Tawi,Tirupati,1500,9,Post-Monsoon,1.0,1401,0.934,0,High
+22706,Jammu Tawi Tirupati Humsafar Exp,Jammu Tawi,Tirupati,1500,10,Post-Monsoon,1.3,1806,1.204,183,Overcrowded
+22706,Jammu Tawi Tirupati Humsafar Exp,Jammu Tawi,Tirupati,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+22706,Jammu Tawi Tirupati Humsafar Exp,Jammu Tawi,Tirupati,1500,12,Winter,1.2,1611,1.074,66,Overcrowded
+12641,Thirukkural SF Exp,Kanyakumari,Hazrat Nizamuddin,1500,1,Winter,1.05,1504,1.003,2,High
+12641,Thirukkural SF Exp,Kanyakumari,Hazrat Nizamuddin,1500,2,Winter,0.9,1294,0.863,0,Moderate
+12641,Thirukkural SF Exp,Kanyakumari,Hazrat Nizamuddin,1500,3,Summer,1.25,1797,1.198,178,Overcrowded
+12641,Thirukkural SF Exp,Kanyakumari,Hazrat Nizamuddin,1500,4,Summer,1.1,1645,1.097,87,Overcrowded
+12641,Thirukkural SF Exp,Kanyakumari,Hazrat Nizamuddin,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+12641,Thirukkural SF Exp,Kanyakumari,Hazrat Nizamuddin,1500,6,Monsoon,0.85,1197,0.798,0,Moderate
+12641,Thirukkural SF Exp,Kanyakumari,Hazrat Nizamuddin,1500,7,Monsoon,0.8,1122,0.748,0,Moderate
+12641,Thirukkural SF Exp,Kanyakumari,Hazrat Nizamuddin,1500,8,Monsoon,0.9,1192,0.795,0,Moderate
+12641,Thirukkural SF Exp,Kanyakumari,Hazrat Nizamuddin,1500,9,Post-Monsoon,1.0,1512,1.008,7,High
+12641,Thirukkural SF Exp,Kanyakumari,Hazrat Nizamuddin,1500,10,Post-Monsoon,1.3,1800,1.2,179,Overcrowded
+12641,Thirukkural SF Exp,Kanyakumari,Hazrat Nizamuddin,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12641,Thirukkural SF Exp,Kanyakumari,Hazrat Nizamuddin,1500,12,Winter,1.2,1708,1.139,125,Overcrowded
+12642,Thirukkural SF Exp,Hazrat Nizamuddin,Kanyakumari,1500,1,Winter,1.05,1509,1.006,5,High
+12642,Thirukkural SF Exp,Hazrat Nizamuddin,Kanyakumari,1500,2,Winter,0.9,1294,0.863,0,Moderate
+12642,Thirukkural SF Exp,Hazrat Nizamuddin,Kanyakumari,1500,3,Summer,1.25,1870,1.247,222,Overcrowded
+12642,Thirukkural SF Exp,Hazrat Nizamuddin,Kanyakumari,1500,4,Summer,1.1,1686,1.124,111,Overcrowded
+12642,Thirukkural SF Exp,Hazrat Nizamuddin,Kanyakumari,1500,5,Summer,1.4,1971,1.314,282,Overcrowded
+12642,Thirukkural SF Exp,Hazrat Nizamuddin,Kanyakumari,1500,6,Monsoon,0.85,1192,0.795,0,Moderate
+12642,Thirukkural SF Exp,Hazrat Nizamuddin,Kanyakumari,1500,7,Monsoon,0.8,1059,0.706,0,Moderate
+12642,Thirukkural SF Exp,Hazrat Nizamuddin,Kanyakumari,1500,8,Monsoon,0.9,1360,0.907,0,High
+12642,Thirukkural SF Exp,Hazrat Nizamuddin,Kanyakumari,1500,9,Post-Monsoon,1.0,1384,0.923,0,High
+12642,Thirukkural SF Exp,Hazrat Nizamuddin,Kanyakumari,1500,10,Post-Monsoon,1.3,1830,1.22,197,Overcrowded
+12642,Thirukkural SF Exp,Hazrat Nizamuddin,Kanyakumari,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+12642,Thirukkural SF Exp,Hazrat Nizamuddin,Kanyakumari,1500,12,Winter,1.2,1681,1.121,108,Overcrowded
+15934,Amritsar New Tinsukia Exp,Amritsar,New Tinsukia,1500,1,Winter,1.05,1549,1.033,29,High
+15934,Amritsar New Tinsukia Exp,Amritsar,New Tinsukia,1500,2,Winter,0.9,1329,0.886,0,Moderate
+15934,Amritsar New Tinsukia Exp,Amritsar,New Tinsukia,1500,3,Summer,1.25,1715,1.144,129,Overcrowded
+15934,Amritsar New Tinsukia Exp,Amritsar,New Tinsukia,1500,4,Summer,1.1,1635,1.09,81,Overcrowded
+15934,Amritsar New Tinsukia Exp,Amritsar,New Tinsukia,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+15934,Amritsar New Tinsukia Exp,Amritsar,New Tinsukia,1500,6,Monsoon,0.85,1198,0.799,0,Moderate
+15934,Amritsar New Tinsukia Exp,Amritsar,New Tinsukia,1500,7,Monsoon,0.8,1200,0.8,0,Moderate
+15934,Amritsar New Tinsukia Exp,Amritsar,New Tinsukia,1500,8,Monsoon,0.9,1344,0.896,0,Moderate
+15934,Amritsar New Tinsukia Exp,Amritsar,New Tinsukia,1500,9,Post-Monsoon,1.0,1479,0.986,0,High
+15934,Amritsar New Tinsukia Exp,Amritsar,New Tinsukia,1500,10,Post-Monsoon,1.3,1962,1.308,277,Overcrowded
+15934,Amritsar New Tinsukia Exp,Amritsar,New Tinsukia,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+15934,Amritsar New Tinsukia Exp,Amritsar,New Tinsukia,1500,12,Winter,1.2,1795,1.197,177,Overcrowded
+15933,New Tinsukia Amritsar Exp,New Tinsukia,Amritsar,1500,1,Winter,1.05,1431,0.954,0,High
+15933,New Tinsukia Amritsar Exp,New Tinsukia,Amritsar,1500,2,Winter,0.9,1329,0.886,0,Moderate
+15933,New Tinsukia Amritsar Exp,New Tinsukia,Amritsar,1500,3,Summer,1.25,1846,1.231,207,Overcrowded
+15933,New Tinsukia Amritsar Exp,New Tinsukia,Amritsar,1500,4,Summer,1.1,1509,1.006,5,High
+15933,New Tinsukia Amritsar Exp,New Tinsukia,Amritsar,1500,5,Summer,1.4,2025,1.35,315,Overcrowded
+15933,New Tinsukia Amritsar Exp,New Tinsukia,Amritsar,1500,6,Monsoon,0.85,1293,0.862,0,Moderate
+15933,New Tinsukia Amritsar Exp,New Tinsukia,Amritsar,1500,7,Monsoon,0.8,1128,0.752,0,Moderate
+15933,New Tinsukia Amritsar Exp,New Tinsukia,Amritsar,1500,8,Monsoon,0.9,1350,0.9,0,High
+15933,New Tinsukia Amritsar Exp,New Tinsukia,Amritsar,1500,9,Post-Monsoon,1.0,1494,0.996,0,High
+15933,New Tinsukia Amritsar Exp,New Tinsukia,Amritsar,1500,10,Post-Monsoon,1.3,1923,1.282,253,Overcrowded
+15933,New Tinsukia Amritsar Exp,New Tinsukia,Amritsar,1500,11,Post-Monsoon,1.45,2025,1.35,315,Overcrowded
+15933,New Tinsukia Amritsar Exp,New Tinsukia,Amritsar,1500,12,Winter,1.2,1703,1.136,122,Overcrowded

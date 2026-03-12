@@ -1,0 +1,73 @@
+source_code,destination_code,source_station,destination_station,distance_km,travel_time_min
+NDLS,MMCT,New Delhi,Mumbai Central,1384,960
+NDLS,MAS,New Delhi,Chennai Central,2175,1680
+NDLS,HWH,New Delhi,Howrah,1454,1020
+NDLS,SBC,New Delhi,Bangalore City,2367,1920
+NDLS,ADI,New Delhi,Ahmedabad,935,630
+NDLS,JP,New Delhi,Jaipur,304,210
+NDLS,LKO,New Delhi,Lucknow,512,360
+NDLS,AGC,New Delhi,Agra Cantt,195,120
+NDLS,CNB,New Delhi,Kanpur Central,440,300
+NDLS,GWL,New Delhi,Gwalior,321,240
+NDLS,BPL,New Delhi,Bhopal,704,480
+NDLS,JAT,New Delhi,Jammu Tawi,584,480
+MMCT,PUNE,Mumbai Central,Pune,192,180
+MMCT,ST,Mumbai Central,Surat,263,150
+MMCT,ADI,Mumbai Central,Ahmedabad,491,330
+MMCT,SBC,Mumbai Central,Bangalore City,1211,960
+MMCT,MAS,Mumbai Central,Chennai Central,1279,960
+MMCT,NGP,Mumbai Central,Nagpur,847,600
+MMCT,CSTM,Mumbai Central,Mumbai CSMT,3,15
+CSTM,PUNE,Mumbai CSMT,Pune,193,180
+MAS,SBC,Chennai Central,Bangalore City,360,270
+MAS,TPTY,Chennai Central,Tirupati,148,120
+MAS,CBE,Chennai Central,Coimbatore,497,360
+MAS,MDU,Chennai Central,Madurai,571,420
+MAS,ERS,Chennai Central,Ernakulam Jn,647,540
+MAS,VSKP,Chennai Central,Visakhapatnam,788,600
+MAS,HWH,Chennai Central,Howrah,1662,1200
+HWH,PNBE,Howrah,Patna,531,420
+HWH,BBS,Howrah,Bhubaneswar,441,360
+HWH,GUH,Howrah,Guwahati,1007,840
+HWH,DHN,Howrah,Dhanbad,259,210
+SBC,CBE,Bangalore City,Coimbatore,499,360
+SBC,MDU,Bangalore City,Madurai,459,360
+SBC,ERS,Bangalore City,Ernakulam Jn,600,480
+SBC,SC,Bangalore City,Secunderabad,571,420
+SBC,TPTY,Bangalore City,Tirupati,253,210
+SC,NGP,Secunderabad,Nagpur,503,420
+SC,VSKP,Secunderabad,Visakhapatnam,718,540
+ADI,BRC,Ahmedabad,Vadodara,100,60
+ADI,ST,Ahmedabad,Surat,259,180
+ADI,RJT,Ahmedabad,Rajkot,218,180
+ADI,UDZ,Ahmedabad,Udaipur City,262,210
+BRC,ST,Vadodara,Surat,148,90
+BRC,BPL,Vadodara,Bhopal,480,360
+BRC,RTM,Vadodara,Ratlam,207,150
+JP,AII,Jaipur,Ajmer,131,90
+JP,JU,Jaipur,Jodhpur,301,240
+JP,UDZ,Jaipur,Udaipur City,399,300
+JP,AGC,Jaipur,Agra Cantt,242,180
+LKO,CNB,Lucknow,Kanpur Central,86,60
+LKO,PNBE,Lucknow,Patna,573,480
+CNB,PNBE,Kanpur Central,Patna,497,420
+BPL,NGP,Bhopal,Nagpur,356,270
+BPL,INDB,Bhopal,Indore,194,150
+BPL,RTM,Bhopal,Ratlam,280,210
+NGP,R,Nagpur,Raipur,296,240
+NGP,DHN,Nagpur,Dhanbad,481,390
+PNBE,RNCL,Patna,Ranchi,321,270
+PNBE,DHN,Patna,Dhanbad,261,210
+DHN,RNCL,Dhanbad,Ranchi,135,120
+R,BSP,Raipur,Bilaspur,116,90
+BSP,RNCL,Bilaspur,Ranchi,191,150
+ERS,TVC,Ernakulam Jn,Thiruvananthapuram,220,150
+CBE,MDU,Coimbatore,Madurai,219,150
+GWL,AGC,Gwalior,Agra Cantt,120,90
+GWL,BPL,Gwalior,Bhopal,408,300
+JU,BKN,Jodhpur,Bikaner,208,180
+BKN,AII,Bikaner,Ajmer,322,270
+JSME,PNBE,Jasidih,Patna,281,210
+JSME,DHN,Jasidih,Dhanbad,120,90
+BBS,VSKP,Bhubaneswar,Visakhapatnam,444,360
+VSKP,SC,Visakhapatnam,Secunderabad,671,540

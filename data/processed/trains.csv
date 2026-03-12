@@ -1,0 +1,31 @@
+train_no,train_name,source_station,destination_station
+12951,Rajdhani Express,Mumbai Central,New Delhi
+12952,Rajdhani Express,New Delhi,Mumbai Central
+12001,Shatabdi Express,New Delhi,Bhopal
+12002,Shatabdi Express,Bhopal,New Delhi
+12621,Tamil Nadu Express,New Delhi,Chennai Central
+12622,Tamil Nadu Express,Chennai Central,New Delhi
+12301,Howrah Rajdhani,New Delhi,Howrah
+12302,Howrah Rajdhani,Howrah,New Delhi
+12269,Duronto Express,New Delhi,Chennai Central
+12270,Duronto Express,Chennai Central,New Delhi
+12431,Rajdhani Express,New Delhi,Tirupati
+12432,Rajdhani Express,Tirupati,New Delhi
+12649,Karnataka Sampark,New Delhi,Bangalore City
+12650,Karnataka Sampark,Bangalore City,New Delhi
+11057,Amritsar Exp,Mumbai Central,Jammu Tawi
+11058,Amritsar Exp,Jammu Tawi,Mumbai Central
+12009,Shatabdi,Mumbai Central,Ahmedabad
+12010,Shatabdi,Ahmedabad,Mumbai Central
+12019,Shatabdi,New Delhi,Ahmedabad
+12020,Shatabdi,Ahmedabad,New Delhi
+12723,Telangana Exp,Howrah,Secunderabad
+12724,Telangana Exp,Secunderabad,Howrah
+12637,Pandian Exp,Chennai Central,Madurai
+12638,Pandian Exp,Madurai,Chennai Central
+12677,Ernakulam Exp,Chennai Central,Ernakulam Jn
+12678,Ernakulam Exp,Ernakulam Jn,Chennai Central
+22120,Tejas Exp,Mumbai Central,Lucknow
+22119,Tejas Exp,Lucknow,Mumbai Central
+12859,Gitanjali Exp,Mumbai Central,Howrah
+12860,Gitanjali Exp,Howrah,Mumbai Central

@@ -1,0 +1,1325 @@
+source_code,source_station,destination_code,destination_station,train_number,train_name,distance_km,travel_time_min,avg_delay_on_edge,pct_right_time_src,pct_significant_delay_src
+LTT,Lokmanyatilak T,TNA,Thane,11013,Coimbatore Express,,,26.0,80.0,13.33
+TNA,Thane,KYN,Kalyan Jn,11013,Coimbatore Express,,,28.0,76.67,13.33
+KYN,Kalyan Jn,PUNE,Pune Jn,11013,Coimbatore Express,,,30.0,60.0,13.33
+PUNE,Pune Jn,KWV,Kurduvadi,11013,Coimbatore Express,,,60.0,0.0,20.0
+KWV,Kurduvadi,SUR,Solapur Jn,11013,Coimbatore Express,,,55.5,3.33,26.67
+SUR,Solapur Jn,DUD,Dudhani,11013,Coimbatore Express,,,57.0,20.0,16.67
+DUD,Dudhani,GUR,Ganagapur Road,11013,Coimbatore Express,,,65.0,10.0,30.0
+GUR,Ganagapur Road,KLBG,Kalaburagi Jn,11013,Coimbatore Express,,,66.5,6.67,36.67
+KLBG,Kalaburagi Jn,SDB,Shahabad,11013,Coimbatore Express,,,60.0,6.67,36.67
+SDB,Shahabad,WADI,Wadi,11013,Coimbatore Express,,,40.0,13.33,16.67
+WADI,Wadi,YG,Yadgir,11013,Coimbatore Express,,,28.5,70.0,13.33
+YG,Yadgir,KSN,Krishna,11013,Coimbatore Express,,,30.0,60.0,13.33
+KSN,Krishna,RC,Raichur,11013,Coimbatore Express,,,28.5,63.33,13.33
+RC,Raichur,MALM,Manthralayam Rd,11013,Coimbatore Express,,,29.5,63.33,13.33
+MALM,Manthralayam Rd,AD,Adoni,11013,Coimbatore Express,,,33.5,60.0,13.33
+AD,Adoni,GTL,Guntakal Jn,11013,Coimbatore Express,,,32.5,43.33,13.33
+GTL,Guntakal Jn,ATP,Anantapur,11013,Coimbatore Express,,,28.5,56.67,10.0
+ATP,Anantapur,DMM,Dharmavaram Jn,11013,Coimbatore Express,,,23.0,56.67,10.0
+DMM,Dharmavaram Jn,SSPN,Sai P Nilayam,11013,Coimbatore Express,,,18.0,83.33,10.0
+SSPN,Sai P Nilayam,HUP,Hindupur,11013,Coimbatore Express,,,,46.67,10.0
+HUP,Hindupur,GBD,Gauribidanur,11013,Coimbatore Express,,,,36.67,13.33
+GBD,Gauribidanur,BNC,Bangalore Cant,11013,Coimbatore Express,,,30.0,36.67,10.0
+BNC,Bangalore Cant,SBC,Ksr Bangalore Cy Jn,11013,Coimbatore Express,,,22.0,26.67,10.0
+SBC,Ksr Bangalore Cy Jn,HSRA,Hosur,11013,Coimbatore Express,,,14.0,83.33,6.67
+HSRA,Hosur,DPJ,Dharmapuri,11013,Coimbatore Express,,,61.0,10.0,20.0
+DPJ,Dharmapuri,SA,Salem Jn,11013,Coimbatore Express,,,61.0,3.33,43.33
+SA,Salem Jn,ED,Erode Jn,11013,Coimbatore Express,,,26.0,43.33,16.67
+ED,Erode Jn,TUP,Tiruppur,11013,Coimbatore Express,,,28.5,40.0,16.67
+TUP,Tiruppur,CBE,Coimbatore Jn,11013,Coimbatore Express,,,31.0,23.33,13.33
+CBE,Coimbatore Jn,TUP,Tiruppur,11014,Coimbatore Express,,,1.0,100.0,0.0
+TUP,Tiruppur,ED,Erode Jn,11014,Coimbatore Express,,,9.0,83.33,0.0
+ED,Erode Jn,SA,Salem Jn,11014,Coimbatore Express,,,11.5,93.33,0.0
+SA,Salem Jn,DPJ,Dharmapuri,11014,Coimbatore Express,,,18.5,83.33,3.33
+DPJ,Dharmapuri,HSRA,Hosur,11014,Coimbatore Express,,,27.0,43.33,3.33
+HSRA,Hosur,BNC,Bangalore Cant,11014,Coimbatore Express,,,32.5,23.33,3.33
+SBC,Ksr Bangalore Cy Jn,GBD,Gauribidanur,11014,Coimbatore Express,,,43.0,23.33,13.33
+GBD,Gauribidanur,HUP,Hindupur,11014,Coimbatore Express,,,45.0,3.33,20.0
+HUP,Hindupur,SSPN,Sai P Nilayam,11014,Coimbatore Express,,,32.0,16.67,13.33
+SSPN,Sai P Nilayam,DMM,Dharmavaram Jn,11014,Coimbatore Express,,,24.0,60.0,6.67
+DMM,Dharmavaram Jn,ATP,Anantapur,11014,Coimbatore Express,,,19.0,80.0,3.33
+ATP,Anantapur,GTL,Guntakal Jn,11014,Coimbatore Express,,,29.0,70.0,3.33
+GTL,Guntakal Jn,AD,Adoni,11014,Coimbatore Express,,,39.5,10.0,10.0
+AD,Adoni,MALM,Manthralayam Rd,11014,Coimbatore Express,,,36.0,20.0,10.0
+MALM,Manthralayam Rd,RC,Raichur,11014,Coimbatore Express,,,32.0,43.33,6.67
+RC,Raichur,KSN,Krishna,11014,Coimbatore Express,,,45.0,43.33,6.67
+KSN,Krishna,YG,Yadgir,11014,Coimbatore Express,,,42.0,16.67,6.67
+YG,Yadgir,WADI,Wadi,11014,Coimbatore Express,,,26.0,16.67,10.0
+WADI,Wadi,SDB,Shahabad,11014,Coimbatore Express,,,13.5,76.67,3.33
+SDB,Shahabad,KLBG,Kalaburagi Jn,11014,Coimbatore Express,,,16.5,73.33,3.33
+KLBG,Kalaburagi Jn,GUR,Ganagapur Road,11014,Coimbatore Express,,,19.5,66.67,3.33
+GUR,Ganagapur Road,DUD,Dudhani,11014,Coimbatore Express,,,20.0,56.67,3.33
+DUD,Dudhani,SUR,Solapur Jn,11014,Coimbatore Express,,,27.0,33.33,3.33
+SUR,Solapur Jn,KWV,Kurduvadi,11014,Coimbatore Express,,,32.0,50.0,3.33
+KWV,Kurduvadi,DD,Daund Jn,11014,Coimbatore Express,,,22.5,20.0,3.33
+DD,Daund Jn,PUNE,Pune Jn,11014,Coimbatore Express,,,14.0,93.33,3.33
+PUNE,Pune Jn,KYN,Kalyan Jn,11014,Coimbatore Express,,,40.0,43.33,3.33
+KYN,Kalyan Jn,TNA,Thane,11014,Coimbatore Express,,,60.5,10.0,26.67
+TNA,Thane,LTT,Lokmanyatilak T,11014,Coimbatore Express,,,52.5,6.67,26.67
+DR,Dadar,TNA,Thane,11027,Mumbai Chennai Mail,,,2.0,100.0,0.0
+KYN,Kalyan Jn,LNL,Lonavala,11027,Mumbai Chennai Mail,,,15.5,61.54,0.0
+LNL,Lonavala,TGN,Talegaon,11027,Mumbai Chennai Mail,,,18.5,53.85,0.0
+TGN,Talegaon,CCH,Chinchvad,11027,Mumbai Chennai Mail,,,19.0,30.77,0.0
+CCH,Chinchvad,PUNE,Pune Jn,11027,Mumbai Chennai Mail,,,19.5,38.46,0.0
+PUNE,Pune Jn,URI,Uruli,11027,Mumbai Chennai Mail,,,24.5,61.54,7.69
+URI,Uruli,KDG,Kedgaon,11027,Mumbai Chennai Mail,,,29.5,15.38,7.69
+KDG,Kedgaon,DD,Daund Jn,11027,Mumbai Chennai Mail,,,29.0,7.69,7.69
+DD,Daund Jn,BGVN,Bhigwan,11027,Mumbai Chennai Mail,,,28.0,23.08,7.69
+BGVN,Bhigwan,JEUR,Jeur,11027,Mumbai Chennai Mail,,,35.0,15.38,7.69
+JEUR,Jeur,KEM,Kem,11027,Mumbai Chennai Mail,,,42.5,0.0,15.38
+KEM,Kem,KWV,Kurduvadi,11027,Mumbai Chennai Mail,,,45.0,0.0,15.38
+KWV,Kurduvadi,PVR,Pandharpur,11027,Mumbai Chennai Mail,,,46.0,0.0,15.38
+PVR,Pandharpur,SGLA,Sangola,11027,Mumbai Chennai Mail,,,35.0,23.08,7.69
+SGLA,Sangola,MSDG,Mhasoda Dongar,11027,Mumbai Chennai Mail,,,34.5,7.69,15.38
+MSDG,Mhasoda Dongar,JTRD,Jath Road,11027,Mumbai Chennai Mail,,,39.0,15.38,15.38
+JTRD,Jath Road,DLGN,Dhalgaon,11027,Mumbai Chennai Mail,,,47.5,0.0,15.38
+DLGN,Dhalgaon,KVK,Kavathe Mahankl,11027,Mumbai Chennai Mail,,,53.0,0.0,15.38
+KVK,Kavathe Mahankl,MRJ,Miraj Jn,11027,Mumbai Chennai Mail,,,33.5,0.0,23.08
+MRJ,Miraj Jn,SLI,Sangli,11027,Mumbai Chennai Mail,,,14.0,76.92,0.0
+SLI,Sangli,BVQ,Bhilavdi,11027,Mumbai Chennai Mail,,,17.0,69.23,0.0
+BVQ,Bhilavdi,KOV,Kirloskarvadi,11027,Mumbai Chennai Mail,,,18.5,61.54,0.0
+KOV,Kirloskarvadi,TKR,Takari,11027,Mumbai Chennai Mail,,,20.0,61.54,0.0
+TKR,Takari,KRD,Karad,11027,Mumbai Chennai Mail,,,23.5,61.54,0.0
+KRD,Karad,MSR,Masur,11027,Mumbai Chennai Mail,,,27.5,46.15,7.69
+MSR,Masur,KRG,Koregaon,11027,Mumbai Chennai Mail,,,33.5,15.38,7.69
+KRG,Koregaon,STR,Satara,11027,Mumbai Chennai Mail,,,20.0,0.0,15.38
+STR,Satara,KRG,Koregaon,11028,Mumbai Chennai Mail,,,6.5,100.0,0.0
+KRG,Koregaon,MSR,Masur,11028,Mumbai Chennai Mail,,,17.0,76.92,0.0
+MSR,Masur,KRD,Karad,11028,Mumbai Chennai Mail,,,20.0,30.77,0.0
+KRD,Karad,TKR,Takari,11028,Mumbai Chennai Mail,,,15.0,46.15,0.0
+TKR,Takari,KOV,Kirloskarvadi,11028,Mumbai Chennai Mail,,,9.5,76.92,0.0
+KOV,Kirloskarvadi,BVQ,Bhilavdi,11028,Mumbai Chennai Mail,,,7.5,76.92,0.0
+BVQ,Bhilavdi,SLI,Sangli,11028,Mumbai Chennai Mail,,,6.5,76.92,0.0
+SLI,Sangli,MRJ,Miraj Jn,11028,Mumbai Chennai Mail,,,6.0,92.31,0.0
+MRJ,Miraj Jn,KVK,Kavathe Mahankl,11028,Mumbai Chennai Mail,,,8.0,100.0,0.0
+KVK,Kavathe Mahankl,DLGN,Dhalgaon,11028,Mumbai Chennai Mail,,,8.0,100.0,0.0
+DLGN,Dhalgaon,JTRD,Jath Road,11028,Mumbai Chennai Mail,,,20.0,61.54,0.0
+JTRD,Jath Road,MSDG,Mhasoda Dongar,11028,Mumbai Chennai Mail,,,20.0,30.77,0.0
+MSDG,Mhasoda Dongar,SGLA,Sangola,11028,Mumbai Chennai Mail,,,26.0,30.77,0.0
+SGLA,Sangola,PVR,Pandharpur,11028,Mumbai Chennai Mail,,,15.5,7.69,0.0
+PVR,Pandharpur,KWV,Kurduvadi,11028,Mumbai Chennai Mail,,,19.0,100.0,0.0
+KWV,Kurduvadi,KEM,Kem,11028,Mumbai Chennai Mail,,,29.5,23.08,0.0
+KEM,Kem,JEUR,Jeur,11028,Mumbai Chennai Mail,,,28.0,38.46,0.0
+JEUR,Jeur,BGVN,Bhigwan,11028,Mumbai Chennai Mail,,,21.5,30.77,0.0
+BGVN,Bhigwan,DD,Daund Jn,11028,Mumbai Chennai Mail,,,9.5,46.15,0.0
+DD,Daund Jn,KDG,Kedgaon,11028,Mumbai Chennai Mail,,,8.0,84.62,0.0
+KDG,Kedgaon,URI,Uruli,11028,Mumbai Chennai Mail,,,12.5,76.92,0.0
+URI,Uruli,PUNE,Pune Jn,11028,Mumbai Chennai Mail,,,16.5,61.54,0.0
+PUNE,Pune Jn,CCH,Chinchvad,11028,Mumbai Chennai Mail,,,18.0,53.85,0.0
+CCH,Chinchvad,TGN,Talegaon,11028,Mumbai Chennai Mail,,,29.0,7.69,0.0
+TGN,Talegaon,LNL,Lonavala,11028,Mumbai Chennai Mail,,,19.5,7.69,0.0
+LNL,Lonavala,KYN,Kalyan Jn,11028,Mumbai Chennai Mail,,,19.5,69.23,0.0
+TNA,Thane,DR,Dadar,11028,Mumbai Chennai Mail,,,22.0,15.38,0.0
+RKMP,Rani Kamlapati,BPL,Bhopal Jn,12001,Shatabdi,,,3.0,93.33,0.0
+BPL,Bhopal Jn,BINA,Bina Jn,12001,Shatabdi,,,6.0,93.33,0.0
+BINA,Bina Jn,LAR,Lalitpur,12001,Shatabdi,,,11.5,90.0,3.33
+LAR,Lalitpur,VGLJ,V Lakshmibai Jhansi,12001,Shatabdi,,,17.5,70.0,3.33
+VGLJ,V Lakshmibai Jhansi,GWL,Gwalior,12001,Shatabdi,,,21.5,80.0,6.67
+GWL,Gwalior,MRA,Morena,12001,Shatabdi,,,26.5,60.0,6.67
+MRA,Morena,DHO,Dhaulpur,12001,Shatabdi,,,22.0,43.33,6.67
+DHO,Dhaulpur,AGC,Agra Cantt,12001,Shatabdi,,,16.5,80.0,6.67
+AGC,Agra Cantt,MTJ,Mathura Jn,12001,Shatabdi,,,19.5,80.0,6.67
+MTJ,Mathura Jn,NDLS,New Delhi,12001,Shatabdi,,,16.5,73.33,6.67
+NDLS,New Delhi,MTJ,Mathura Jn,12002,Shatabdi,,,9.0,100.0,0.0
+MTJ,Mathura Jn,AGC,Agra Cantt,12002,Shatabdi,,,19.5,40.0,0.0
+AGC,Agra Cantt,DHO,Dhaulpur,12002,Shatabdi,,,18.0,3.33,0.0
+DHO,Dhaulpur,MRA,Morena,12002,Shatabdi,,,15.5,66.67,0.0
+MRA,Morena,GWL,Gwalior,12002,Shatabdi,,,17.0,46.67,0.0
+GWL,Gwalior,VGLJ,V Lakshmibai Jhansi,12002,Shatabdi,,,,36.67,0.0
+VGLJ,V Lakshmibai Jhansi,LAR,Lalitpur,12002,Shatabdi,,,,80.0,0.0
+LAR,Lalitpur,BINA,Bina Jn,12002,Shatabdi,,,9.0,53.33,0.0
+BINA,Bina Jn,BPL,Bhopal Jn,12002,Shatabdi,,,11.0,83.33,0.0
+BPL,Bhopal Jn,RKMP,Rani Kamlapati,12002,Shatabdi,,,8.0,66.67,0.0
+MMCT,Mumbai Central,BVI,Borivali,12009,Shatabdi,,,7.0,100.0,0.0
+BVI,Borivali,VAPI,Vapi,12009,Shatabdi,,,16.0,72.0,0.0
+VAPI,Vapi,ST,Surat,12009,Shatabdi,,,14.5,16.0,0.0
+ST,Surat,BH,Bharuch Jn,12009,Shatabdi,,,11.5,84.0,0.0
+BH,Bharuch Jn,BRC,Vadodara Jn,12009,Shatabdi,,,10.0,72.0,0.0
+BRC,Vadodara Jn,ANND,Anand Jn,12009,Shatabdi,,,7.5,96.0,0.0
+ANND,Anand Jn,ND,Nadiad Jn,12009,Shatabdi,,,7.5,92.0,0.0
+ND,Nadiad Jn,ADI,Ahmedabad Jn,12009,Shatabdi,,,7.0,96.0,0.0
+ADI,Ahmedabad Jn,ND,Nadiad Jn,12010,Shatabdi,,,4.5,100.0,0.0
+ND,Nadiad Jn,ANND,Anand Jn,12010,Shatabdi,,,7.0,84.0,0.0
+ANND,Anand Jn,BRC,Vadodara Jn,12010,Shatabdi,,,5.0,96.0,0.0
+BRC,Vadodara Jn,BH,Bharuch Jn,12010,Shatabdi,,,5.0,96.0,0.0
+BH,Bharuch Jn,ST,Surat,12010,Shatabdi,,,3.0,100.0,0.0
+ST,Surat,VAPI,Vapi,12010,Shatabdi,,,3.0,100.0,0.0
+VAPI,Vapi,BVI,Borivali,12010,Shatabdi,,,21.0,100.0,0.0
+BVI,Borivali,MMCT,Mumbai Central,12010,Shatabdi,,,11.5,12.0,0.0
+HWH,Howrah Jn,DGR,Durgapur,12019,Shatabdi,,,6.5,100.0,0.0
+DGR,Durgapur,RNG,Raniganj,12019,Shatabdi,,,13.0,80.0,0.0
+RNG,Raniganj,ASN,Asansol Jn,12019,Shatabdi,,,15.0,72.0,0.0
+ASN,Asansol Jn,DHN,Dhanbad Jn,12019,Shatabdi,,,9.5,64.0,0.0
+DHN,Dhanbad Jn,CRP,Chandrapura,12019,Shatabdi,,,3.5,100.0,0.0
+CRP,Chandrapura,BKSC,Bokaro Stl City,12019,Shatabdi,,,2.5,96.0,0.0
+BKSC,Bokaro Stl City,MURI,Muri,12019,Shatabdi,,,3.5,100.0,0.0
+MURI,Muri,RNC,Ranchi,12019,Shatabdi,,,6.0,92.0,0.0
+RNC,Ranchi,MURI,Muri,12020,Shatabdi,,,2.0,96.0,0.0
+MURI,Muri,BKSC,Bokaro Stl City,12020,Shatabdi,,,,100.0,0.0
+BKSC,Bokaro Stl City,CRP,Chandrapura,12020,Shatabdi,,,6.0,88.0,0.0
+CRP,Chandrapura,DHN,Dhanbad Jn,12020,Shatabdi,,,6.0,88.0,0.0
+DHN,Dhanbad Jn,ASN,Asansol Jn,12020,Shatabdi,,,12.0,92.0,0.0
+ASN,Asansol Jn,RNG,Raniganj,12020,Shatabdi,,,16.5,72.0,4.0
+RNG,Raniganj,DGR,Durgapur,12020,Shatabdi,,,15.0,60.0,4.0
+DGR,Durgapur,HWH,Howrah Jn,12020,Shatabdi,,,7.0,72.0,4.0
+GWL,Gwalior,AGC,Agra Cantt,12049,Gatimaan Express,,,1.5,96.15,0.0
+AGC,Agra Cantt,NZM,H Nizamuddin,12049,Gatimaan Express,,,1.0,100.0,0.0
+NZM,H Nizamuddin,AGC,Agra Cantt,12050,Gatimaan Express,,,15.0,100.0,0.0
+AGC,Agra Cantt,GWL,Gwalior,12050,Gatimaan Express,,,17.0,76.92,0.0
+CSMT,C Shivaji Term Mumbai,DR,Dadar,12137,Punjab Mail,,,14.5,96.16,3.01
+DR,Dadar,KYN,Kalyan Jn,12137,Punjab Mail,,,23.0,94.52,3.01
+KYN,Kalyan Jn,KSRA,Kasara,12137,Punjab Mail,,,28.0,22.19,3.56
+KSRA,Kasara,NK,Nasik Road,12137,Punjab Mail,,,27.0,39.73,3.84
+NK,Nasik Road,MMR,Manmad Jn,12137,Punjab Mail,,,33.0,26.3,5.48
+MMR,Manmad Jn,CSN,Chalisgaon Jn,12137,Punjab Mail,,,36.5,28.49,5.21
+CSN,Chalisgaon Jn,JL,Jalgaon Jn,12137,Punjab Mail,,,40.0,12.6,6.03
+JL,Jalgaon Jn,BSL,Bhusaval Jn,12137,Punjab Mail,,,37.5,16.71,6.85
+BSL,Bhusaval Jn,BAU,Burhanpur,12137,Punjab Mail,,,35.0,29.04,6.58
+BAU,Burhanpur,KNW,Khandwa,12137,Punjab Mail,,,25.5,26.3,6.58
+KNW,Khandwa,KKN,Khirkiya,12137,Punjab Mail,,,18.0,89.32,3.84
+KKN,Khirkiya,HD,Harda,12137,Punjab Mail,,,24.0,74.25,4.38
+HD,Harda,BPF,Banapura,12137,Punjab Mail,,,32.5,44.93,5.75
+BPF,Banapura,ET,Itarsi Jn,12137,Punjab Mail,,,26.5,12.6,7.12
+ET,Itarsi Jn,NDPM,Narmadapuram,12137,Punjab Mail,,,17.5,86.03,4.66
+NDPM,Narmadapuram,RKMP,Rani Kamlapati,12137,Punjab Mail,,,19.0,78.9,4.66
+BPL,Bhopal Jn,BHS,Vidisha,12137,Punjab Mail,,,31.5,53.15,4.66
+BHS,Vidisha,BAQ,Ganj Basoda,12137,Punjab Mail,,,39.5,17.81,8.49
+BAQ,Ganj Basoda,BINA,Bina Jn,12137,Punjab Mail,,,30.0,7.12,9.86
+LAR,Lalitpur,BAB,Babina,12137,Punjab Mail,,,31.5,53.15,8.22
+BAB,Babina,VGLJ,V Lakshmibai Jhansi,12137,Punjab Mail,,,32.5,38.08,9.04
+VGLJ,V Lakshmibai Jhansi,DAA,Datia,12137,Punjab Mail,,,32.5,55.07,7.95
+DAA,Datia,DBA,Dabra,12137,Punjab Mail,,,35.0,40.27,10.14
+DBA,Dabra,GWL,Gwalior,12137,Punjab Mail,,,55.0,24.93,11.51
+AGC,Agra Cantt,RKM,Raja Ki Mandi,12137,Punjab Mail,,,27.0,69.04,9.32
+RKM,Raja Ki Mandi,MTJ,Mathura Jn,12137,Punjab Mail,,,34.5,64.11,9.59
+MTJ,Mathura Jn,KSV,Kosi Kalan,12137,Punjab Mail,,,44.5,21.37,12.88
+KSV,Kosi Kalan,FDB,Faridabad,12137,Punjab Mail,,,37.0,4.93,13.97
+FDB,Faridabad,NZM,H Nizamuddin,12137,Punjab Mail,,,31.0,75.89,9.59
+NZM,H Nizamuddin,NDLS,New Delhi,12137,Punjab Mail,,,39.5,50.41,11.23
+NDLS,New Delhi,DKZ,Delhi Kishangnj,12137,Punjab Mail,,,46.0,35.07,13.42
+DKZ,Delhi Kishangnj,SSB,Shakurbasti,12137,Punjab Mail,,,52.0,21.64,16.16
+SSB,Shakurbasti,BGZ,Bahadurgarh,12137,Punjab Mail,,,58.0,14.52,22.74
+BGZ,Bahadurgarh,ROK,Rohtak Jn,12137,Punjab Mail,,,62.5,4.93,27.12
+ROK,Rohtak Jn,JIND,Jind Jn,12137,Punjab Mail,,,64.0,3.84,30.14
+JIND,Jind Jn,NRW,Narwana Jn,12137,Punjab Mail,,,64.5,7.67,30.14
+NRW,Narwana Jn,TUN,Tohana,12137,Punjab Mail,,,65.0,7.12,32.05
+TUN,Tohana,JHL,Jakhal Jn,12137,Punjab Mail,,,62.0,7.12,33.15
+JHL,Jakhal Jn,BRZ,Bareta,12137,Punjab Mail,,,63.0,13.42,31.51
+BRZ,Bareta,BLZ,Budhlada,12137,Punjab Mail,,,64.0,10.41,33.42
+BLZ,Budhlada,MSZ,Mansa,12137,Punjab Mail,,,68.0,10.14,34.52
+MSZ,Mansa,MAUR,Maur,12137,Punjab Mail,,,69.0,7.95,36.44
+MAUR,Maur,BTI,Bhatinda Jn,12137,Punjab Mail,,,59.5,6.58,38.36
+BTI,Bhatinda Jn,GNA,Goneana Bhai Jagta,12137,Punjab Mail,,,53.0,40.55,20.0
+GNA,Goneana Bhai Jagta,GJUT,Gangsar Jaitu,12137,Punjab Mail,,,57.0,30.14,24.66
+GJUT,Gangsar Jaitu,KKP,Kot Kapura,12137,Punjab Mail,,,,27.67,26.58
+KKP,Kot Kapura,FDK,Faridkot,12137,Punjab Mail,,,66.0,25.75,30.68
+FDK,Faridkot,FZR,Firozpur Cant,12137,Punjab Mail,,,52.5,25.21,34.52
+FZR,Firozpur Cant,FDK,Faridkot,12138,Punjab Mail,,,12.0,98.08,0.27
+FDK,Faridkot,KKP,Kot Kapura,12138,Punjab Mail,,,14.0,93.15,0.27
+KKP,Kot Kapura,GJUT,Gangsar Jaitu,12138,Punjab Mail,,,15.0,69.04,0.55
+GJUT,Gangsar Jaitu,GNA,Goneana Bhai Jagta,12138,Punjab Mail,,,13.5,86.03,0.82
+GNA,Goneana Bhai Jagta,BTI,Bhatinda Jn,12138,Punjab Mail,,,9.5,86.3,1.1
+BTI,Bhatinda Jn,MAUR,Maur,12138,Punjab Mail,,,9.5,96.71,0.55
+MAUR,Maur,MSZ,Mansa,12138,Punjab Mail,,,14.0,90.96,0.82
+MSZ,Mansa,BLZ,Budhlada,12138,Punjab Mail,,,15.5,86.58,0.82
+BLZ,Budhlada,BRZ,Bareta,12138,Punjab Mail,,,17.0,84.93,1.64
+BRZ,Bareta,JHL,Jakhal Jn,12138,Punjab Mail,,,16.5,79.45,1.64
+JHL,Jakhal Jn,TUN,Tohana,12138,Punjab Mail,,,15.0,85.75,1.92
+TUN,Tohana,NRW,Narwana Jn,12138,Punjab Mail,,,18.0,84.66,2.47
+NRW,Narwana Jn,JIND,Jind Jn,12138,Punjab Mail,,,21.0,57.81,3.29
+JIND,Jind Jn,ROK,Rohtak Jn,12138,Punjab Mail,,,15.0,73.15,3.84
+ROK,Rohtak Jn,BGZ,Bahadurgarh,12138,Punjab Mail,,,16.5,75.34,4.38
+BGZ,Bahadurgarh,SSB,Shakurbasti,12138,Punjab Mail,,,16.0,67.4,5.21
+SSB,Shakurbasti,DKZ,Delhi Kishangnj,12138,Punjab Mail,,,15.5,81.92,4.11
+DKZ,Delhi Kishangnj,NDLS,New Delhi,12138,Punjab Mail,,,16.0,76.44,5.21
+NDLS,New Delhi,FDB,Faridabad,12138,Punjab Mail,,,20.0,81.64,5.48
+FDB,Faridabad,KSV,Kosi Kalan,12138,Punjab Mail,,,27.0,64.38,13.42
+KSV,Kosi Kalan,MTJ,Mathura Jn,12138,Punjab Mail,,,35.5,63.56,16.44
+MTJ,Mathura Jn,RKM,Raja Ki Mandi,12138,Punjab Mail,,,48.0,14.52,18.08
+RKM,Raja Ki Mandi,AGC,Agra Cantt,12138,Punjab Mail,,,51.0,0.55,21.37
+GWL,Gwalior,DBA,Dabra,12138,Punjab Mail,,,37.0,52.05,11.51
+DBA,Dabra,DAA,Datia,12138,Punjab Mail,,,42.5,38.63,13.15
+DAA,Datia,VGLJ,V Lakshmibai Jhansi,12138,Punjab Mail,,,37.5,6.85,16.99
+VGLJ,V Lakshmibai Jhansi,BAB,Babina,12138,Punjab Mail,,,30.0,63.56,10.96
+BAB,Babina,LAR,Lalitpur,12138,Punjab Mail,,,38.0,48.77,12.6
+BINA,Bina Jn,BAQ,Ganj Basoda,12138,Punjab Mail,,,38.5,63.01,15.34
+BAQ,Ganj Basoda,BHS,Vidisha,12138,Punjab Mail,,,47.0,35.89,18.36
+BHS,Vidisha,BPL,Bhopal Jn,12138,Punjab Mail,,,51.0,14.79,20.82
+RKMP,Rani Kamlapati,NDPM,Narmadapuram,12138,Punjab Mail,,,47.5,37.26,22.74
+NDPM,Narmadapuram,ET,Itarsi Jn,12138,Punjab Mail,,,49.5,32.88,24.93
+ET,Itarsi Jn,BPF,Banapura,12138,Punjab Mail,,,55.5,29.86,23.84
+BPF,Banapura,HD,Harda,12138,Punjab Mail,,,65.5,5.21,27.4
+HD,Harda,KKN,Khirkiya,12138,Punjab Mail,,,72.5,1.1,32.05
+KKN,Khirkiya,KNW,Khandwa,12138,Punjab Mail,,,57.0,0.0,36.71
+KNW,Khandwa,BAU,Burhanpur,12138,Punjab Mail,,,39.0,61.37,21.1
+BAU,Burhanpur,BSL,Bhusaval Jn,12138,Punjab Mail,,,52.0,56.44,21.64
+BSL,Bhusaval Jn,JL,Jalgaon Jn,12138,Punjab Mail,,,50.5,28.49,22.19
+JL,Jalgaon Jn,CSN,Chalisgaon Jn,12138,Punjab Mail,,,53.0,35.62,21.1
+CSN,Chalisgaon Jn,MMR,Manmad Jn,12138,Punjab Mail,,,61.0,20.0,24.11
+MMR,Manmad Jn,NK,Nasik Road,12138,Punjab Mail,,,63.5,8.77,26.58
+NK,Nasik Road,KYN,Kalyan Jn,12138,Punjab Mail,,,54.5,10.41,26.03
+KYN,Kalyan Jn,DR,Dadar,12138,Punjab Mail,,,49.0,41.92,20.55
+DR,Dadar,CSMT,C Shivaji Term Mumbai,12138,Punjab Mail,,,43.5,29.86,21.37
+LNL,Lonavala,PUNE,Pune Jn,12163,Chennai Express,,,36.5,3.01,5.21
+PUNE,Pune Jn,SUR,Solapur Jn,12163,Chennai Express,,,34.5,3.56,8.77
+SUR,Solapur Jn,KLBG,Kalaburagi Jn,12163,Chennai Express,,,31.0,32.88,8.49
+KLBG,Kalaburagi Jn,WADI,Wadi,12163,Chennai Express,,,18.0,17.26,11.78
+YG,Yadgir,SADP,Saidapur,12163,Chennai Express,,,23.5,59.18,6.85
+SADP,Saidapur,RC,Raichur,12163,Chennai Express,,,24.0,55.62,6.58
+GTL,Guntakal Jn,GY,Gooty Jn,12163,Chennai Express,,,24.5,53.97,8.77
+GY,Gooty Jn,TU,Tadipatri,12163,Chennai Express,,,24.0,56.99,8.22
+TU,Tadipatri,YA,Yerraguntla,12163,Chennai Express,,,23.5,59.18,7.12
+YA,Yerraguntla,HX,Cuddapah,12163,Chennai Express,,,23.0,54.25,7.12
+HX,Cuddapah,RJP,Razampeta,12163,Chennai Express,,,25.0,60.0,6.85
+RJP,Razampeta,KOU,Koduru,12163,Chennai Express,,,36.5,45.21,7.67
+KOU,Koduru,RU,Renigunta Jn,12163,Chennai Express,,,31.5,0.0,0.0
+RU,Renigunta Jn,PUT,Puttur,12163,Chennai Express,,,18.5,73.97,5.75
+PUT,Puttur,TRT,Tiruttani,12163,Chennai Express,,,18.5,70.14,5.75
+TRT,Tiruttani,AJJ,Arakkonam,12163,Chennai Express,,,25.5,69.86,6.03
+AJJ,Arakkonam,PER,Perambur,12163,Chennai Express,,,38.5,26.58,7.12
+PER,Perambur,MAS,Chennai Central,12163,Chennai Express,,,25.0,17.81,14.52
+MAS,Chennai Central,AJJ,Arakkonam,12164,Chennai Express,,,7.0,100.0,0.0
+AJJ,Arakkonam,TRT,Tiruttani,12164,Chennai Express,,,12.5,73.33,0.0
+TRT,Tiruttani,PUT,Puttur,12164,Chennai Express,,,15.5,76.67,0.0
+PUT,Puttur,RU,Renigunta Jn,12164,Chennai Express,,,21.0,36.67,0.0
+RU,Renigunta Jn,KOU,Koduru,12164,Chennai Express,,,24.5,26.67,0.0
+KOU,Koduru,RJP,Razampeta,12164,Chennai Express,,,30.0,26.67,0.0
+RJP,Razampeta,HX,Cuddapah,12164,Chennai Express,,,34.0,0.0,0.0
+HX,Cuddapah,YA,Yerraguntla,12164,Chennai Express,,,32.0,16.67,0.0
+YA,Yerraguntla,TU,Tadipatri,12164,Chennai Express,,,31.0,16.67,0.0
+TU,Tadipatri,GY,Gooty Jn,12164,Chennai Express,,,28.5,13.33,0.0
+GY,Gooty Jn,GTL,Guntakal Jn,12164,Chennai Express,,,33.5,16.67,0.0
+RC,Raichur,SADP,Saidapur,12164,Chennai Express,,,28.0,10.0,6.67
+SADP,Saidapur,YG,Yadgir,12164,Chennai Express,,,25.0,33.33,3.33
+WADI,Wadi,KLBG,Kalaburagi Jn,12164,Chennai Express,,,7.0,90.0,3.33
+KLBG,Kalaburagi Jn,SUR,Solapur Jn,12164,Chennai Express,,,13.0,93.33,0.0
+SUR,Solapur Jn,PUNE,Pune Jn,12164,Chennai Express,,,20.0,43.33,3.33
+PUNE,Pune Jn,LNL,Lonavala,12164,Chennai Express,,,34.0,46.67,3.33
+TNA,Thane,PNVL,Panvel,12201,Garib Rath,,,12.0,87.5,0.0
+PNVL,Panvel,RN,Ratnagiri,12201,Garib Rath,,,35.5,62.5,0.0
+RN,Ratnagiri,MAO,Madgaon,12201,Garib Rath,,,49.5,12.5,50.0
+MAO,Madgaon,KAWR,Karwar,12201,Garib Rath,,,46.0,37.5,25.0
+KAWR,Karwar,ANKL,Ankola,12201,Garib Rath,,,52.0,37.5,37.5
+ANKL,Ankola,BYNR,Mookambika Road,12201,Garib Rath,,,36.5,37.5,37.5
+BYNR,Mookambika Road,UD,Udupi,12201,Garib Rath,,,22.0,50.0,12.5
+UD,Udupi,MAJN,Mangalore Jn,12201,Garib Rath,,,24.0,50.0,12.5
+MAJN,Mangalore Jn,KGQ,Kasaragod,12201,Garib Rath,,,23.0,75.0,12.5
+KGQ,Kasaragod,CAN,Kannur,12201,Garib Rath,,,24.5,75.0,12.5
+CAN,Kannur,CLT,Kozhikode,12201,Garib Rath,,,22.0,50.0,12.5
+CLT,Kozhikode,TIR,Tirur,12201,Garib Rath,,,20.5,75.0,12.5
+TIR,Tirur,SRR,Shoranur Jn,12201,Garib Rath,,,22.0,50.0,12.5
+SRR,Shoranur Jn,TCR,Thrisur,12201,Garib Rath,,,21.0,75.0,12.5
+TCR,Thrisur,ERN,Ernakulam Town,12201,Garib Rath,,,21.0,75.0,12.5
+ERN,Ernakulam Town,KTYM,Kottayam,12201,Garib Rath,,,20.0,62.5,12.5
+KTYM,Kottayam,CGY,Changanaseri,12201,Garib Rath,,,20.0,75.0,12.5
+CGY,Changanaseri,TRVL,Tiruvalla,12201,Garib Rath,,,20.0,75.0,12.5
+TRVL,Tiruvalla,CNGR,Chengannur,12201,Garib Rath,,,,75.0,12.5
+CNGR,Chengannur,KYJ,Kayankulam Jn,12201,Garib Rath,,,22.0,75.0,12.5
+KYJ,Kayankulam Jn,QLN,Kollam Jn,12201,Garib Rath,,,22.0,75.0,12.5
+QLN,Kollam Jn,TVCN,Trivandrum North,12201,Garib Rath,,,,62.5,12.5
+TVCN,Trivandrum North,QLN,Kollam Jn,12202,Garib Rath,,,4.5,100.0,0.0
+QLN,Kollam Jn,KYJ,Kayankulam Jn,12202,Garib Rath,,,10.0,88.89,0.0
+KYJ,Kayankulam Jn,CNGR,Chengannur,12202,Garib Rath,,,13.0,77.78,0.0
+CNGR,Chengannur,TRVL,Tiruvalla,12202,Garib Rath,,,14.0,66.67,0.0
+TRVL,Tiruvalla,CGY,Changanaseri,12202,Garib Rath,,,14.5,55.56,0.0
+CGY,Changanaseri,KTYM,Kottayam,12202,Garib Rath,,,16.5,55.56,0.0
+KTYM,Kottayam,ERN,Ernakulam Town,12202,Garib Rath,,,14.5,33.33,0.0
+ERN,Ernakulam Town,TCR,Thrisur,12202,Garib Rath,,,15.5,66.67,0.0
+TCR,Thrisur,SRR,Shoranur Jn,12202,Garib Rath,,,16.5,44.44,0.0
+SRR,Shoranur Jn,TIR,Tirur,12202,Garib Rath,,,17.5,55.56,0.0
+TIR,Tirur,CLT,Kozhikode,12202,Garib Rath,,,23.5,22.22,0.0
+CLT,Kozhikode,CAN,Kannur,12202,Garib Rath,,,37.5,11.11,0.0
+CAN,Kannur,KGQ,Kasaragod,12202,Garib Rath,,,52.5,0.0,11.11
+KGQ,Kasaragod,MAJN,Mangalore Jn,12202,Garib Rath,,,44.5,0.0,22.22
+MAJN,Mangalore Jn,UD,Udupi,12202,Garib Rath,,,39.0,0.0,11.11
+UD,Udupi,BYNR,Mookambika Road,12202,Garib Rath,,,44.0,0.0,11.11
+BYNR,Mookambika Road,ANKL,Ankola,12202,Garib Rath,,,45.0,0.0,11.11
+ANKL,Ankola,KAWR,Karwar,12202,Garib Rath,,,46.5,0.0,33.33
+KAWR,Karwar,MAO,Madgaon,12202,Garib Rath,,,41.5,0.0,22.22
+MAO,Madgaon,RN,Ratnagiri,12202,Garib Rath,,,50.5,11.11,11.11
+RN,Ratnagiri,PNVL,Panvel,12202,Garib Rath,,,53.5,11.11,66.67
+PNVL,Panvel,TNA,Thane,12202,Garib Rath,,,43.0,11.11,11.11
+MDP,Madhupur Jn,JSME,Jasidih Jn,12235,Duronto Express,,,9.0,75.0,0.0
+JSME,Jasidih Jn,JAJ,Jhajha,12235,Duronto Express,,,7.5,75.0,0.0
+JAJ,Jhajha,KIUL,Kiul Jn,12235,Duronto Express,,,3.0,100.0,0.0
+KIUL,Kiul Jn,MKA,Mokameh Jn,12235,Duronto Express,,,35.0,25.0,0.0
+MKA,Mokameh Jn,PNBE,Patna Jn,12235,Duronto Express,,,26.5,0.0,0.0
+PNBE,Patna Jn,ARA,Ara,12235,Duronto Express,,,28.0,50.0,0.0
+ARA,Ara,BXR,Buxar,12235,Duronto Express,,,44.5,0.0,0.0
+BXR,Buxar,DDU,Pt Deen Dayal Upadhyay Jn,12235,Duronto Express,,,26.0,0.0,25.0
+DDU,Pt Deen Dayal Upadhyay Jn,PRYJ,Prayagraj Jn,12235,Duronto Express,,,3.5,100.0,0.0
+PRYJ,Prayagraj Jn,CNB,Kanpur Central,12235,Duronto Express,,,9.5,100.0,0.0
+CNB,Kanpur Central,ANVT,Anand Vihar Trm,12235,Duronto Express,,,13.0,50.0,0.0
+ANVT,Anand Vihar Trm,CNB,Kanpur Central,12236,Duronto Express,,,,25.0,50.0
+CNB,Kanpur Central,PRYJ,Prayagraj Jn,12236,Duronto Express,,,159.0,25.0,50.0
+PRYJ,Prayagraj Jn,DDU,Pt Deen Dayal Upadhyay Jn,12236,Duronto Express,,,153.0,25.0,50.0
+DDU,Pt Deen Dayal Upadhyay Jn,BXR,Buxar,12236,Duronto Express,,,149.5,25.0,50.0
+BXR,Buxar,ARA,Ara,12236,Duronto Express,,,154.5,25.0,50.0
+ARA,Ara,PNBE,Patna Jn,12236,Duronto Express,,,157.0,25.0,50.0
+PNBE,Patna Jn,MKA,Mokameh Jn,12236,Duronto Express,,,,0.0,50.0
+MKA,Mokameh Jn,KIUL,Kiul Jn,12236,Duronto Express,,,,0.0,75.0
+KIUL,Kiul Jn,JAJ,Jhajha,12236,Duronto Express,,,143.0,0.0,75.0
+JAJ,Jhajha,JSME,Jasidih Jn,12236,Duronto Express,,,147.5,50.0,50.0
+JSME,Jasidih Jn,MDP,Madhupur Jn,12236,Duronto Express,,,139.0,50.0,50.0
+HWH,Howrah Jn,BBS,Bhubaneswar,12245,Duronto Express,,,62.0,86.36,4.55
+BBS,Bhubaneswar,VZM,Vizianagram Jn,12245,Duronto Express,,,102.0,0.0,81.82
+VZM,Vizianagram Jn,BZA,Vijayawada Jn,12245,Duronto Express,,,93.0,13.64,54.55
+BZA,Vijayawada Jn,RU,Renigunta Jn,12245,Duronto Express,,,97.0,4.55,63.64
+RU,Renigunta Jn,SMVB,Smvt Bengaluru,12245,Duronto Express,,,87.0,18.18,54.55
+SMVB,Smvt Bengaluru,RU,Renigunta Jn,12246,Duronto Express,,,13.0,93.87,0.77
+RU,Renigunta Jn,BZA,Vijayawada Jn,12246,Duronto Express,,,17.5,69.35,1.92
+BZA,Vijayawada Jn,VZM,Vizianagram Jn,12246,Duronto Express,,,18.5,43.68,5.75
+VZM,Vizianagram Jn,BBS,Bhubaneswar,12246,Duronto Express,,,28.0,72.41,3.07
+BBS,Bhubaneswar,HWH,Howrah Jn,12246,Duronto Express,,,41.0,12.26,11.11
+SDAH,Sealdah,DHN,Dhanbad Jn,12259,Sealdah Duronto,,,2.0,100.0,0.0
+DHN,Dhanbad Jn,KQR,Koderma,12259,Sealdah Duronto,,,7.5,94.12,0.0
+KQR,Koderma,DDU,Pt Deen Dayal Upadhyay Jn,12259,Sealdah Duronto,,,7.5,82.35,0.0
+DDU,Pt Deen Dayal Upadhyay Jn,CNB,Kanpur Central,12259,Sealdah Duronto,,,7.5,94.12,0.0
+CNB,Kanpur Central,NDLS,New Delhi,12259,Sealdah Duronto,,,12.5,76.47,0.0
+NDLS,New Delhi,LHU,Loharu,12259,Sealdah Duronto,,,19.0,64.71,5.88
+LHU,Loharu,SDLP,Sadulpur Jn,12259,Sealdah Duronto,,,26.0,64.71,5.88
+SDLP,Sadulpur Jn,CUR,Churu,12259,Sealdah Duronto,,,34.5,64.71,23.53
+CUR,Churu,RTGH,Ratangarh Jn,12259,Sealdah Duronto,,,41.0,29.41,23.53
+RTGH,Ratangarh Jn,SDGH,Sri Dungargarh,12259,Sealdah Duronto,,,57.0,5.88,29.41
+SDGH,Sri Dungargarh,BKN,Bikaner Jn,12259,Sealdah Duronto,,,32.0,0.0,29.41
+BKN,Bikaner Jn,SDGH,Sri Dungargarh,12260,Sealdah Duronto,,,15.0,100.0,0.0
+SDGH,Sri Dungargarh,RTGH,Ratangarh Jn,12260,Sealdah Duronto,,,15.0,68.75,6.25
+RTGH,Ratangarh Jn,CUR,Churu,12260,Sealdah Duronto,,,,62.5,6.25
+CUR,Churu,SDLP,Sadulpur Jn,12260,Sealdah Duronto,,,24.0,81.25,6.25
+SDLP,Sadulpur Jn,LHU,Loharu,12260,Sealdah Duronto,,,24.0,31.25,6.25
+LHU,Loharu,NDLS,New Delhi,12260,Sealdah Duronto,,,16.0,37.5,6.25
+NDLS,New Delhi,CNB,Kanpur Central,12260,Sealdah Duronto,,,16.5,93.75,6.25
+CNB,Kanpur Central,DDU,Pt Deen Dayal Upadhyay Jn,12260,Sealdah Duronto,,,24.0,50.0,6.25
+DDU,Pt Deen Dayal Upadhyay Jn,KQR,Koderma,12260,Sealdah Duronto,,,23.0,68.75,12.5
+KQR,Koderma,DHN,Dhanbad Jn,12260,Sealdah Duronto,,,33.0,56.25,12.5
+DHN,Dhanbad Jn,SDAH,Sealdah,12260,Sealdah Duronto,,,44.0,43.75,12.5
+CSMT,C Shivaji Term Mumbai,KYN,Kalyan Jn,12261,Howrah Duronto,,,246.0,46.41,47.37
+KYN,Kalyan Jn,BSL,Bhusaval Jn,12261,Howrah Duronto,,,283.0,36.36,52.63
+BSL,Bhusaval Jn,AK,Akola Jn,12261,Howrah Duronto,,,376.5,11.48,57.42
+AK,Akola Jn,NGP,Nagpur,12261,Howrah Duronto,,,376.5,0.96,4.31
+NGP,Nagpur,BSP,Bilaspur Jn,12261,Howrah Duronto,,,301.5,27.75,55.5
+BSP,Bilaspur Jn,TATA,Tatanagar Jn,12261,Howrah Duronto,,,414.0,25.36,54.55
+TATA,Tatanagar Jn,HWH,Howrah Jn,12261,Howrah Duronto,,,558.0,0.48,99.04
+HWH,Howrah Jn,TATA,Tatanagar Jn,12262,Howrah Duronto,,,119.5,62.5,31.25
+TATA,Tatanagar Jn,BSP,Bilaspur Jn,12262,Howrah Duronto,,,224.0,6.25,50.0
+BSP,Bilaspur Jn,NGP,Nagpur,12262,Howrah Duronto,,,301.0,18.75,81.25
+NGP,Nagpur,AK,Akola Jn,12262,Howrah Duronto,,,411.0,6.25,93.75
+AK,Akola Jn,BSL,Bhusaval Jn,12262,Howrah Duronto,,,411.0,6.25,68.75
+BSL,Bhusaval Jn,KYN,Kalyan Jn,12262,Howrah Duronto,,,482.0,6.25,93.75
+KYN,Kalyan Jn,CSMT,C Shivaji Term Mumbai,12262,Howrah Duronto,,,475.0,6.25,93.75
+SMVB,Smvt Bengaluru,KJM,Krishnarajapurm,12295,Sanghamitra Express,70.3,78.9,19.0,76.67,6.67
+KJM,Krishnarajapurm,BWT,Bangarapet,12295,Sanghamitra Express,70.3,78.9,31.0,70.0,6.67
+BWT,Bangarapet,KPN,Kuppam,12295,Sanghamitra Express,70.3,78.9,30.5,43.33,10.0
+KPN,Kuppam,JTJ,Jolarpettai,12295,Sanghamitra Express,70.3,78.9,30.0,63.33,10.0
+JTJ,Jolarpettai,KPD,Katpadi Jn,12295,Sanghamitra Express,70.3,78.9,27.0,60.0,13.33
+KPD,Katpadi Jn,AJJ,Arakkonam,12295,Sanghamitra Express,70.3,78.9,26.5,80.0,13.33
+PER,Perambur,GDR,Gudur Jn,12295,Sanghamitra Express,70.3,78.9,39.5,60.0,13.33
+GDR,Gudur Jn,NLR,Nellore,12295,Sanghamitra Express,70.3,78.9,53.0,10.0,20.0
+NLR,Nellore,OGL,Ongole,12295,Sanghamitra Express,70.3,78.9,60.5,0.0,20.0
+OGL,Ongole,BZA,Vijayawada Jn,12295,Sanghamitra Express,70.3,78.9,57.5,3.33,23.33
+BZA,Vijayawada Jn,KMT,Khammam,12295,Sanghamitra Express,70.3,78.9,46.0,3.33,20.0
+KMT,Khammam,WL,Warangal,12295,Sanghamitra Express,70.3,78.9,50.0,60.0,20.0
+WL,Warangal,RDM,Ramgundam,12295,Sanghamitra Express,70.3,78.9,59.5,0.0,20.0
+RDM,Ramgundam,SKZR,Sirpur Kagazngr,12295,Sanghamitra Express,70.3,78.9,47.5,13.33,23.33
+SKZR,Sirpur Kagazngr,BPQ,Balharshah,12295,Sanghamitra Express,70.3,78.9,35.0,3.33,3.33
+BPQ,Balharshah,CD,Chandrapur,12295,Sanghamitra Express,70.3,78.9,33.5,70.0,16.67
+CD,Chandrapur,SEGM,Sevagram,12295,Sanghamitra Express,70.3,78.9,39.5,60.0,16.67
+SEGM,Sevagram,NGP,Nagpur,12295,Sanghamitra Express,70.3,78.9,37.5,36.67,16.67
+NGP,Nagpur,BZU,Betul,12295,Sanghamitra Express,70.3,78.9,47.5,63.33,16.67
+BZU,Betul,GDYA,Ghoradongri,12295,Sanghamitra Express,70.3,78.9,68.5,6.67,30.0
+GDYA,Ghoradongri,ET,Itarsi Jn,12295,Sanghamitra Express,70.3,78.9,49.5,0.0,46.67
+ET,Itarsi Jn,PPI,Pipariya,12295,Sanghamitra Express,70.3,78.9,26.0,80.0,13.33
+PPI,Pipariya,NU,Narsinghpur,12295,Sanghamitra Express,70.3,78.9,54.0,50.0,13.33
+NU,Narsinghpur,JBP,Jabalpur,12295,Sanghamitra Express,70.3,78.9,48.5,6.67,16.67
+JBP,Jabalpur,KTE,Katni,12295,Sanghamitra Express,70.3,78.9,51.5,36.67,16.67
+KTE,Katni,MYR,Maihar,12295,Sanghamitra Express,70.3,78.9,65.0,0.0,16.67
+MYR,Maihar,STA,Satna,12295,Sanghamitra Express,70.3,78.9,66.0,0.0,16.67
+STA,Satna,PCOI,Prayagraj Chheoki,12295,Sanghamitra Express,70.3,78.9,66.0,0.0,16.67
+PCOI,Prayagraj Chheoki,MZP,Mirzapur,12295,Sanghamitra Express,70.3,78.9,49.5,10.0,50.0
+MZP,Mirzapur,DDU,Pt Deen Dayal Upadhyay Jn,12295,Sanghamitra Express,70.3,78.9,20.5,43.33,6.67
+DDU,Pt Deen Dayal Upadhyay Jn,DLN,Dildarnagar Jn,12295,Sanghamitra Express,70.3,78.9,12.0,96.67,3.33
+DLN,Dildarnagar Jn,BXR,Buxar,12295,Sanghamitra Express,70.3,78.9,19.0,90.0,3.33
+ARA,Ara,DNR,Danapur,12295,Sanghamitra Express,70.3,78.9,13.5,56.67,6.67
+DNR,Danapur,ARA,Ara,12296,Sanghamitra Express,70.3,79.7,14.0,90.0,0.0
+BXR,Buxar,DLN,Dildarnagar Jn,12296,Sanghamitra Express,70.3,79.7,39.5,16.67,10.0
+DLN,Dildarnagar Jn,DDU,Pt Deen Dayal Upadhyay Jn,12296,Sanghamitra Express,70.3,79.7,33.0,3.33,20.0
+DDU,Pt Deen Dayal Upadhyay Jn,MZP,Mirzapur,12296,Sanghamitra Express,70.3,79.7,21.0,66.67,10.0
+MZP,Mirzapur,PCOI,Prayagraj Chheoki,12296,Sanghamitra Express,70.3,79.7,24.5,60.0,10.0
+PCOI,Prayagraj Chheoki,STA,Satna,12296,Sanghamitra Express,70.3,79.7,24.0,43.33,10.0
+STA,Satna,MYR,Maihar,12296,Sanghamitra Express,70.3,79.7,24.5,56.67,6.67
+MYR,Maihar,KTE,Katni,12296,Sanghamitra Express,70.3,79.7,38.0,30.0,10.0
+KTE,Katni,JBP,Jabalpur,12296,Sanghamitra Express,70.3,79.7,42.5,3.33,20.0
+JBP,Jabalpur,NU,Narsinghpur,12296,Sanghamitra Express,70.3,79.7,38.0,23.33,13.33
+NU,Narsinghpur,PPI,Pipariya,12296,Sanghamitra Express,70.3,79.7,,13.33,16.67
+PPI,Pipariya,ET,Itarsi Jn,12296,Sanghamitra Express,70.3,79.7,8.0,10.0,16.67
+ET,Itarsi Jn,GDYA,Ghoradongri,12296,Sanghamitra Express,70.3,79.7,10.5,83.33,3.33
+GDYA,Ghoradongri,BZU,Betul,12296,Sanghamitra Express,70.3,79.7,20.0,80.0,6.67
+BZU,Betul,NGP,Nagpur,12296,Sanghamitra Express,70.3,79.7,24.5,36.67,10.0
+NGP,Nagpur,SEGM,Sevagram,12296,Sanghamitra Express,70.3,79.7,31.5,53.33,10.0
+SEGM,Sevagram,CD,Chandrapur,12296,Sanghamitra Express,70.3,79.7,41.0,13.33,23.33
+CD,Chandrapur,BPQ,Balharshah,12296,Sanghamitra Express,70.3,79.7,10.0,6.67,23.33
+BPQ,Balharshah,SKZR,Sirpur Kagazngr,12296,Sanghamitra Express,70.3,79.7,24.5,83.33,0.0
+SKZR,Sirpur Kagazngr,RDM,Ramgundam,12296,Sanghamitra Express,70.3,79.7,41.0,3.33,10.0
+RDM,Ramgundam,WL,Warangal,12296,Sanghamitra Express,70.3,79.7,47.0,0.0,13.33
+WL,Warangal,KMT,Khammam,12296,Sanghamitra Express,70.3,79.7,54.0,6.67,20.0
+KMT,Khammam,BZA,Vijayawada Jn,12296,Sanghamitra Express,70.3,79.7,40.0,3.33,33.33
+BZA,Vijayawada Jn,OGL,Ongole,12296,Sanghamitra Express,70.3,79.7,26.0,46.67,6.67
+OGL,Ongole,NLR,Nellore,12296,Sanghamitra Express,70.3,79.7,27.0,36.67,10.0
+NLR,Nellore,GDR,Gudur Jn,12296,Sanghamitra Express,70.3,79.7,19.5,46.67,6.67
+GDR,Gudur Jn,PER,Perambur,12296,Sanghamitra Express,70.3,79.7,14.0,80.0,6.67
+PER,Perambur,AJJ,Arakkonam,12296,Sanghamitra Express,70.3,79.7,32.0,26.67,6.67
+AJJ,Arakkonam,KPD,Katpadi Jn,12296,Sanghamitra Express,70.3,79.7,34.5,26.67,6.67
+KPD,Katpadi Jn,JTJ,Jolarpettai,12296,Sanghamitra Express,70.3,79.7,34.0,46.67,13.33
+JTJ,Jolarpettai,KPN,Kuppam,12296,Sanghamitra Express,70.3,79.7,38.5,56.67,13.33
+KPN,Kuppam,BWT,Bangarapet,12296,Sanghamitra Express,70.3,79.7,47.5,30.0,13.33
+BWT,Bangarapet,KJM,Krishnarajapurm,12296,Sanghamitra Express,70.3,79.7,47.0,20.0,13.33
+KJM,Krishnarajapurm,SMVB,Smvt Bengaluru,12296,Sanghamitra Express,70.3,79.7,27.5,20.0,13.33
+HWH,Howrah Jn,ASN,Asansol Jn,12301,Howrah Rajdhani,,,16.0,100.0,0.0
+DHN,Dhanbad Jn,PNME,Parasnath,12301,Howrah Rajdhani,,,4.5,100.0,0.0
+PNME,Parasnath,GAYA,Gaya Jn,12301,Howrah Rajdhani,,,6.0,100.0,0.0
+GAYA,Gaya Jn,DDU,Pt Deen Dayal Upadhyay Jn,12301,Howrah Rajdhani,,,15.0,92.0,4.0
+DDU,Pt Deen Dayal Upadhyay Jn,GAYA,Gaya Jn,12302,Howrah Rajdhani,,,21.5,84.62,7.69
+GAYA,Gaya Jn,PNME,Parasnath,12302,Howrah Rajdhani,,,28.5,73.08,7.69
+PNME,Parasnath,DHN,Dhanbad Jn,12302,Howrah Rajdhani,,,27.0,46.15,7.69
+ASN,Asansol Jn,HWH,Howrah Jn,12302,Howrah Rajdhani,,,35.0,50.0,11.54
+HWH,Howrah Jn,BWN,Barddhaman Jn,12305,Kolkata Rajdhani,,,10.5,100.0,0.0
+BWN,Barddhaman Jn,MDP,Madhupur Jn,12305,Kolkata Rajdhani,,,22.5,0.0,0.0
+JSME,Jasidih Jn,PNBE,Patna Jn,12305,Kolkata Rajdhani,,,2.0,20.0,0.0
+PNBE,Patna Jn,DDU,Pt Deen Dayal Upadhyay Jn,12305,Kolkata Rajdhani,,,6.5,100.0,0.0
+DDU,Pt Deen Dayal Upadhyay Jn,PNBE,Patna Jn,12306,Kolkata Rajdhani,,,0.5,100.0,0.0
+PNBE,Patna Jn,JSME,Jasidih Jn,12306,Kolkata Rajdhani,,,1.0,100.0,0.0
+MDP,Madhupur Jn,BWN,Barddhaman Jn,12306,Kolkata Rajdhani,,,1.0,100.0,0.0
+BWN,Barddhaman Jn,HWH,Howrah Jn,12306,Kolkata Rajdhani,,,0.0,100.0,0.0
+SDAH,Sealdah,DGR,Durgapur,12313,Sealdah Rajdhani,,,4.0,100.0,0.0
+DGR,Durgapur,ASN,Asansol Jn,12313,Sealdah Rajdhani,,,11.0,93.33,0.0
+DHN,Dhanbad Jn,GAYA,Gaya Jn,12313,Sealdah Rajdhani,,,5.5,96.67,0.0
+GAYA,Gaya Jn,DHN,Dhanbad Jn,12314,Sealdah Rajdhani,,,24.0,83.33,6.67
+ASN,Asansol Jn,DGR,Durgapur,12314,Sealdah Rajdhani,,,40.0,26.67,10.0
+DGR,Durgapur,SDAH,Sealdah,12314,Sealdah Rajdhani,,,29.5,13.33,10.0
+BGP,Bhagalpur,SGG,Sultanganj,12367,Vikramshila Express,,,10.0,93.42,1.64
+SGG,Sultanganj,BUP,Bariarpur,12367,Vikramshila Express,,,11.5,81.64,1.37
+BUP,Bariarpur,JMP,Jamalpur Jn,12367,Vikramshila Express,,,13.5,85.75,1.37
+JMP,Jamalpur Jn,DRH,Dharhara,12367,Vikramshila Express,,,17.0,65.21,1.37
+DRH,Dharhara,AHA,Abhaipur,12367,Vikramshila Express,,,18.0,48.49,1.37
+AHA,Abhaipur,KJH,Kajra,12367,Vikramshila Express,,,19.0,52.6,1.37
+KJH,Kajra,KIUL,Kiul Jn,12367,Vikramshila Express,,,17.0,44.66,1.37
+KIUL,Kiul Jn,LKR,Luckeesarai Jn,12367,Vikramshila Express,,,14.0,79.18,2.47
+LKR,Luckeesarai Jn,BRYA,Barhiya,12367,Vikramshila Express,,,21.0,74.52,2.19
+BRYA,Barhiya,HTZ,Hathidah Jn,12367,Vikramshila Express,,,22.5,59.73,2.74
+HTZ,Hathidah Jn,MKA,Mokameh Jn,12367,Vikramshila Express,,,27.0,43.84,3.01
+MKA,Mokameh Jn,BARH,Barh,12367,Vikramshila Express,,,34.0,21.92,3.84
+BARH,Barh,BKP,Bakhtiyarpur Jn,12367,Vikramshila Express,,,39.5,7.4,4.93
+BKP,Bakhtiyarpur Jn,KOO,Khusropur,12367,Vikramshila Express,,,41.0,6.85,7.4
+KOO,Khusropur,FUT,Fatuha Jn,12367,Vikramshila Express,,,48.0,3.29,10.41
+FUT,Fatuha Jn,PNC,Patna Saheb,12367,Vikramshila Express,,,48.0,2.47,13.97
+PNC,Patna Saheb,PNBE,Patna Jn,12367,Vikramshila Express,,,43.0,3.29,15.34
+PNBE,Patna Jn,PNC,Patna Saheb,12368,Vikramshila Express,,,55.0,10.0,26.67
+PNC,Patna Saheb,FUT,Fatuha Jn,12368,Vikramshila Express,,,59.5,10.0,26.67
+FUT,Fatuha Jn,KOO,Khusropur,12368,Vikramshila Express,,,63.5,0.0,33.33
+KOO,Khusropur,BKP,Bakhtiyarpur Jn,12368,Vikramshila Express,,,64.0,0.0,30.0
+BKP,Bakhtiyarpur Jn,BARH,Barh,12368,Vikramshila Express,,,67.0,0.0,33.33
+BARH,Barh,MKA,Mokameh Jn,12368,Vikramshila Express,,,69.0,0.0,30.0
+MKA,Mokameh Jn,HTZ,Hathidah Jn,12368,Vikramshila Express,,,71.0,0.0,36.67
+HTZ,Hathidah Jn,BRYA,Barhiya,12368,Vikramshila Express,,,75.0,0.0,43.33
+BRYA,Barhiya,LKR,Luckeesarai Jn,12368,Vikramshila Express,,,71.0,0.0,43.33
+LKR,Luckeesarai Jn,KIUL,Kiul Jn,12368,Vikramshila Express,,,45.5,3.33,30.0
+KIUL,Kiul Jn,KJH,Kajra,12368,Vikramshila Express,,,24.0,73.33,13.33
+KJH,Kajra,AHA,Abhaipur,12368,Vikramshila Express,,,26.0,73.33,13.33
+AHA,Abhaipur,DRH,Dharhara,12368,Vikramshila Express,,,26.0,73.33,13.33
+DRH,Dharhara,JMP,Jamalpur Jn,12368,Vikramshila Express,,,30.0,73.33,13.33
+JMP,Jamalpur Jn,BUP,Bariarpur,12368,Vikramshila Express,,,37.5,53.33,16.67
+BUP,Bariarpur,SGG,Sultanganj,12368,Vikramshila Express,,,37.5,23.33,16.67
+SGG,Sultanganj,BGP,Bhagalpur,12368,Vikramshila Express,,,22.0,50.0,16.67
+DBRG,Dibrugarh,NTSK,New Tinsukia Jn,12423,Dibrugarh Rajdhani,,,7.5,96.67,0.0
+NTSK,New Tinsukia Jn,MXN,Mariani Jn,12423,Dibrugarh Rajdhani,,,17.0,73.33,3.33
+MXN,Mariani Jn,DMV,Dimapur,12423,Dibrugarh Rajdhani,,,21.5,50.0,3.33
+DMV,Dimapur,DPU,Diphu,12423,Dibrugarh Rajdhani,,,22.0,50.0,3.33
+DPU,Diphu,LMG,Lumding Jn,12423,Dibrugarh Rajdhani,,,33.0,50.0,6.67
+LMG,Lumding Jn,CPK,Chaparmukh Jn,12423,Dibrugarh Rajdhani,,,33.0,30.0,10.0
+CPK,Chaparmukh Jn,GHY,Guwahati,12423,Dibrugarh Rajdhani,,,25.0,26.67,10.0
+GHY,Guwahati,RNY,Rangiya Jn,12423,Dibrugarh Rajdhani,,,25.0,43.33,3.33
+RNY,Rangiya Jn,NBQ,New Bongaigaon,12423,Dibrugarh Rajdhani,,,13.0,53.33,3.33
+NBQ,New Bongaigaon,KOJ,Kokrajhar,12423,Dibrugarh Rajdhani,,,16.0,70.0,3.33
+KOJ,Kokrajhar,NCB,New Cooch Behar,12423,Dibrugarh Rajdhani,,,24.5,63.33,6.67
+NCB,New Cooch Behar,NJP,New Jalpaiguri,12423,Dibrugarh Rajdhani,,,23.5,30.0,6.67
+NJP,New Jalpaiguri,KNE,Kishanganj,12423,Dibrugarh Rajdhani,,,17.0,63.33,6.67
+KNE,Kishanganj,KIR,Katihar Jn,12423,Dibrugarh Rajdhani,,,5.0,63.33,6.67
+KIR,Katihar Jn,NNA,Naugachia,12423,Dibrugarh Rajdhani,,,6.5,90.0,3.33
+NNA,Naugachia,MNE,Mansi Jn,12423,Dibrugarh Rajdhani,,,11.5,90.0,3.33
+MNE,Mansi Jn,BJU,Barauni Jn,12423,Dibrugarh Rajdhani,,,15.0,66.67,3.33
+BJU,Barauni Jn,PPTA,Patliputra,12423,Dibrugarh Rajdhani,,,7.0,20.0,6.67
+PPTA,Patliputra,DNR,Danapur,12423,Dibrugarh Rajdhani,,,9.0,90.0,3.33
+DNR,Danapur,DDU,Pt Deen Dayal Upadhyay Jn,12423,Dibrugarh Rajdhani,,,10.5,86.67,6.67
+DDU,Pt Deen Dayal Upadhyay Jn,DNR,Danapur,12424,Dibrugarh Rajdhani,,,8.0,96.67,3.33
+DNR,Danapur,PPTA,Patliputra,12424,Dibrugarh Rajdhani,,,9.0,96.67,3.33
+PPTA,Patliputra,BJU,Barauni Jn,12424,Dibrugarh Rajdhani,,,8.0,96.67,3.33
+BJU,Barauni Jn,MNE,Mansi Jn,12424,Dibrugarh Rajdhani,,,12.0,93.33,3.33
+MNE,Mansi Jn,NNA,Naugachia,12424,Dibrugarh Rajdhani,,,19.0,83.33,3.33
+NNA,Naugachia,KIR,Katihar Jn,12424,Dibrugarh Rajdhani,,,18.0,56.67,3.33
+KIR,Katihar Jn,KNE,Kishanganj,12424,Dibrugarh Rajdhani,,,15.0,83.33,3.33
+KNE,Kishanganj,NJP,New Jalpaiguri,12424,Dibrugarh Rajdhani,,,24.0,6.67,3.33
+NJP,New Jalpaiguri,NCB,New Cooch Behar,12424,Dibrugarh Rajdhani,,,19.5,56.67,3.33
+NCB,New Cooch Behar,KOJ,Kokrajhar,12424,Dibrugarh Rajdhani,,,22.5,83.33,3.33
+KOJ,Kokrajhar,NBQ,New Bongaigaon,12424,Dibrugarh Rajdhani,,,24.5,33.33,3.33
+NBQ,New Bongaigaon,RNY,Rangiya Jn,12424,Dibrugarh Rajdhani,,,26.5,80.0,3.33
+RNY,Rangiya Jn,GHY,Guwahati,12424,Dibrugarh Rajdhani,,,32.0,36.67,6.67
+GHY,Guwahati,CPK,Chaparmukh Jn,12424,Dibrugarh Rajdhani,,,30.0,53.33,6.67
+CPK,Chaparmukh Jn,LMG,Lumding Jn,12424,Dibrugarh Rajdhani,,,23.0,60.0,6.67
+LMG,Lumding Jn,DPU,Diphu,12424,Dibrugarh Rajdhani,,,24.5,70.0,6.67
+DPU,Diphu,DMV,Dimapur,12424,Dibrugarh Rajdhani,,,26.0,70.0,10.0
+DMV,Dimapur,MXN,Mariani Jn,12424,Dibrugarh Rajdhani,,,27.0,53.33,10.0
+MXN,Mariani Jn,NTSK,New Tinsukia Jn,12424,Dibrugarh Rajdhani,,,38.0,66.67,10.0
+NTSK,New Tinsukia Jn,DBRG,Dibrugarh,12424,Dibrugarh Rajdhani,,,32.0,23.33,13.33
+MAS,Chennai Central,BZA,Vijayawada Jn,12433,Rajdhani,316.2,275.4,8.0,100.0,0.0
+BZA,Vijayawada Jn,WL,Warangal,12433,Rajdhani,316.2,275.4,16.0,44.44,0.0
+WL,Warangal,BPQ,Balharshah,12433,Rajdhani,316.2,275.4,15.5,33.33,0.0
+BPQ,Balharshah,NGP,Nagpur,12433,Rajdhani,316.2,275.4,14.5,66.67,0.0
+NGP,Nagpur,BPL,Bhopal Jn,12433,Rajdhani,316.2,275.4,11.5,77.78,0.0
+BPL,Bhopal Jn,VGLJ,V Lakshmibai Jhansi,12433,Rajdhani,316.2,275.4,6.0,77.78,0.0
+VGLJ,V Lakshmibai Jhansi,BPL,Bhopal Jn,12434,Rajdhani,316.2,275.0,7.0,100.0,0.0
+BPL,Bhopal Jn,NGP,Nagpur,12434,Rajdhani,316.2,275.0,8.0,100.0,0.0
+NGP,Nagpur,BPQ,Balharshah,12434,Rajdhani,316.2,275.0,3.5,77.78,0.0
+BPQ,Balharshah,WL,Warangal,12434,Rajdhani,316.2,275.0,4.0,100.0,0.0
+WL,Warangal,BZA,Vijayawada Jn,12434,Rajdhani,316.2,275.0,11.5,88.89,0.0
+BZA,Vijayawada Jn,MAS,Chennai Central,12434,Rajdhani,316.2,275.0,16.0,66.67,0.0
+BWT,Bangarapet,JTJ,Jolarpettai,12509,Guwahati Sbc Express,74.2,79.8,19.0,41.67,8.33
+PER,Perambur,OGL,Ongole,12509,Guwahati Sbc Express,74.2,79.8,31.0,25.0,16.67
+BZA,Vijayawada Jn,RJY,Rajamundry,12509,Guwahati Sbc Express,74.2,79.8,62.5,8.33,41.67
+RJY,Rajamundry,VSKP,Visakhapatnam,12509,Guwahati Sbc Express,74.2,79.8,59.0,8.33,41.67
+VSKP,Visakhapatnam,VZM,Vizianagram Jn,12509,Guwahati Sbc Express,74.2,79.8,55.0,33.33,25.0
+VZM,Vizianagram Jn,CHE,Srikakulam Road,12509,Guwahati Sbc Express,74.2,79.8,66.5,25.0,50.0
+CHE,Srikakulam Road,PSA,Palasa,12509,Guwahati Sbc Express,74.2,79.8,68.0,8.33,66.67
+PSA,Palasa,BAM,Brahmapur,12509,Guwahati Sbc Express,74.2,79.8,71.0,8.33,50.0
+BAM,Brahmapur,BALU,Balugan,12509,Guwahati Sbc Express,74.2,79.8,79.5,0.0,75.0
+BALU,Balugan,KUR,Khurda Road Jn,12509,Guwahati Sbc Express,74.2,79.8,80.5,0.0,83.33
+KUR,Khurda Road Jn,BBS,Bhubaneswar,12509,Guwahati Sbc Express,74.2,79.8,79.0,8.33,75.0
+BBS,Bhubaneswar,CTC,Cuttack,12509,Guwahati Sbc Express,74.2,79.8,39.5,0.0,75.0
+CTC,Cuttack,JJKR,Jajpur K Road,12509,Guwahati Sbc Express,74.2,79.8,0.0,100.0,0.0
+JJKR,Jajpur K Road,BHC,Bhadrakh,12509,Guwahati Sbc Express,74.2,79.8,,0.0,100.0
+BHC,Bhadrakh,BLS,Balasore,12509,Guwahati Sbc Express,74.2,79.8,174.0,0.0,100.0
+BLS,Balasore,KGP,Kharagpur Jn,12509,Guwahati Sbc Express,74.2,79.8,189.5,0.0,100.0
+KGP,Kharagpur Jn,DKAE,Dankuni,12509,Guwahati Sbc Express,74.2,79.8,222.5,0.0,100.0
+DKAE,Dankuni,BHP,Bolpur S Niktn,12509,Guwahati Sbc Express,74.2,79.8,244.5,0.0,100.0
+BHP,Bolpur S Niktn,RPH,Rampur Hat,12509,Guwahati Sbc Express,74.2,79.8,247.0,0.0,100.0
+RPH,Rampur Hat,NFK,New Farakka Jn,12509,Guwahati Sbc Express,74.2,79.8,226.5,0.0,100.0
+NFK,New Farakka Jn,MLDT,Malda Town,12509,Guwahati Sbc Express,74.2,79.8,202.5,0.0,100.0
+MLDT,Malda Town,BOE,Barsoi Jn,12509,Guwahati Sbc Express,74.2,79.8,209.5,0.0,100.0
+BOE,Barsoi Jn,KNE,Kishanganj,12509,Guwahati Sbc Express,74.2,79.8,230.0,0.0,100.0
+NJP,New Jalpaiguri,JPE,Jalpaiguri Road,12509,Guwahati Sbc Express,74.2,79.8,230.0,0.0,100.0
+JPE,Jalpaiguri Road,DQG,Dhupguri,12509,Guwahati Sbc Express,74.2,79.8,220.0,0.0,100.0
+DQG,Dhupguri,NCB,New Cooch Behar,12509,Guwahati Sbc Express,74.2,79.8,223.0,0.0,100.0
+NCB,New Cooch Behar,NOQ,New Alipurdaur,12509,Guwahati Sbc Express,74.2,79.8,228.5,0.0,100.0
+NOQ,New Alipurdaur,KOJ,Kokrajhar,12509,Guwahati Sbc Express,74.2,79.8,242.0,0.0,100.0
+NBQ,New Bongaigaon,BPRD,Barpeta Road,12509,Guwahati Sbc Express,74.2,79.8,226.0,0.0,100.0
+BPRD,Barpeta Road,RNY,Rangiya Jn,12509,Guwahati Sbc Express,74.2,79.8,239.0,0.0,100.0
+RNY,Rangiya Jn,KYQ,Kamakhya,12509,Guwahati Sbc Express,74.2,79.8,236.5,0.0,100.0
+KYQ,Kamakhya,GHY,Guwahati,12509,Guwahati Sbc Express,74.2,79.8,216.5,0.0,100.0
+GHY,Guwahati,KYQ,Kamakhya,12510,Sbc Guwahati Express,76.1,79.6,2.0,100.0,0.0
+KYQ,Kamakhya,RNY,Rangiya Jn,12510,Sbc Guwahati Express,76.1,79.6,8.0,100.0,0.0
+RNY,Rangiya Jn,BPRD,Barpeta Road,12510,Sbc Guwahati Express,76.1,79.6,11.0,92.31,0.0
+BPRD,Barpeta Road,NBQ,New Bongaigaon,12510,Sbc Guwahati Express,76.1,79.6,8.5,61.54,0.0
+KOJ,Kokrajhar,NOQ,New Alipurdaur,12510,Sbc Guwahati Express,76.1,79.6,12.5,92.31,0.0
+NOQ,New Alipurdaur,NCB,New Cooch Behar,12510,Sbc Guwahati Express,76.1,79.6,19.5,30.77,0.0
+NCB,New Cooch Behar,DQG,Dhupguri,12510,Sbc Guwahati Express,76.1,79.6,25.0,23.08,0.0
+DQG,Dhupguri,JPE,Jalpaiguri Road,12510,Sbc Guwahati Express,76.1,79.6,25.5,7.69,0.0
+JPE,Jalpaiguri Road,NJP,New Jalpaiguri,12510,Sbc Guwahati Express,76.1,79.6,15.0,38.46,0.0
+KNE,Kishanganj,BOE,Barsoi Jn,12510,Sbc Guwahati Express,76.1,79.6,19.5,69.23,0.0
+BOE,Barsoi Jn,MLDT,Malda Town,12510,Sbc Guwahati Express,76.1,79.6,15.5,38.46,0.0
+MLDT,Malda Town,NFK,New Farakka Jn,12510,Sbc Guwahati Express,76.1,79.6,16.5,76.92,7.69
+NFK,New Farakka Jn,RPH,Rampur Hat,12510,Sbc Guwahati Express,76.1,79.6,20.0,69.23,15.38
+RPH,Rampur Hat,BHP,Bolpur S Niktn,12510,Sbc Guwahati Express,76.1,79.6,21.5,69.23,15.38
+BHP,Bolpur S Niktn,DKAE,Dankuni,12510,Sbc Guwahati Express,76.1,79.6,41.0,53.85,15.38
+DKAE,Dankuni,KGP,Kharagpur Jn,12510,Sbc Guwahati Express,76.1,79.6,68.0,0.0,46.15
+KGP,Kharagpur Jn,BLS,Balasore,12510,Sbc Guwahati Express,76.1,79.6,78.0,0.0,53.85
+BLS,Balasore,BHC,Bhadrakh,12510,Sbc Guwahati Express,76.1,79.6,97.0,0.0,76.92
+BHC,Bhadrakh,JJKR,Jajpur K Road,12510,Sbc Guwahati Express,76.1,79.6,97.0,0.0,76.92
+JJKR,Jajpur K Road,CTC,Cuttack,12510,Sbc Guwahati Express,76.1,79.6,114.0,0.0,76.92
+CTC,Cuttack,BBS,Bhubaneswar,12510,Sbc Guwahati Express,76.1,79.6,127.5,0.0,84.62
+BBS,Bhubaneswar,KUR,Khurda Road Jn,12510,Sbc Guwahati Express,76.1,79.6,121.5,0.0,92.31
+KUR,Khurda Road Jn,BALU,Balugan,12510,Sbc Guwahati Express,76.1,79.6,122.5,0.0,84.62
+BALU,Balugan,BAM,Brahmapur,12510,Sbc Guwahati Express,76.1,79.6,124.5,0.0,92.31
+BAM,Brahmapur,PSA,Palasa,12510,Sbc Guwahati Express,76.1,79.6,116.5,0.0,92.31
+PSA,Palasa,CHE,Srikakulam Road,12510,Sbc Guwahati Express,76.1,79.6,111.0,0.0,84.62
+CHE,Srikakulam Road,VZM,Vizianagram Jn,12510,Sbc Guwahati Express,76.1,79.6,118.0,0.0,84.62
+VZM,Vizianagram Jn,VSKP,Visakhapatnam,12510,Sbc Guwahati Express,76.1,79.6,128.5,0.0,92.31
+VSKP,Visakhapatnam,RJY,Rajamundry,12510,Sbc Guwahati Express,76.1,79.6,147.0,0.0,84.62
+RJY,Rajamundry,BZA,Vijayawada Jn,12510,Sbc Guwahati Express,76.1,79.6,159.5,0.0,84.62
+BZA,Vijayawada Jn,PER,Perambur,12510,Sbc Guwahati Express,76.1,79.6,179.0,0.0,84.62
+JTJ,Jolarpettai,BWT,Bangarapet,12510,Sbc Guwahati Express,76.1,79.6,190.0,7.69,84.62
+NGP,Nagpur,ET,Itarsi Jn,12621,Tamil Nadu Exp,181.2,162.5,33.0,26.58,9.59
+ET,Itarsi Jn,BPL,Bhopal Jn,12621,Tamil Nadu Exp,181.2,162.5,29.0,67.95,11.78
+NDLS,New Delhi,AGC,Agra Cantt,12622,Tamil Nadu Exp,197.7,180.0,26.5,93.97,4.66
+BPL,Bhopal Jn,ET,Itarsi Jn,12622,Tamil Nadu Exp,197.7,180.0,37.0,59.18,13.42
+ET,Itarsi Jn,NGP,Nagpur,12622,Tamil Nadu Exp,197.7,180.0,40.0,78.36,13.7
+TVC,Trivandrum Cntl,VAK,Varkala,12625,Kerala Express,72.2,70.4,7.5,94.52,0.55
+VAK,Varkala,QLN,Kollam Jn,12625,Kerala Express,72.2,70.4,9.0,89.59,0.82
+KYJ,Kayankulam Jn,MVLK,Mavelikara,12625,Kerala Express,72.2,70.4,17.0,64.93,1.1
+MVLK,Mavelikara,CNGR,Chengannur,12625,Kerala Express,72.2,70.4,17.0,58.36,1.1
+KTYM,Kottayam,VARD,Vaikam Road,12625,Kerala Express,72.2,70.4,23.0,33.7,2.47
+VARD,Vaikam Road,ERN,Ernakulam Town,12625,Kerala Express,72.2,70.4,24.0,36.71,2.47
+ERN,Ernakulam Town,AWY,Aluva,12625,Kerala Express,72.2,70.4,26.0,31.23,3.29
+AWY,Aluva,TCR,Thrisur,12625,Kerala Express,72.2,70.4,28.5,24.93,4.11
+TCR,Thrisur,OTP,Ottappalam,12625,Kerala Express,72.2,70.4,23.5,10.14,4.38
+OTP,Ottappalam,PGT,Palakkad Jn,12625,Kerala Express,72.2,70.4,21.5,70.14,3.01
+PGT,Palakkad Jn,CBE,Coimbatore Jn,12625,Kerala Express,72.2,70.4,21.5,25.48,3.29
+SA,Salem Jn,JTJ,Jolarpettai,12625,Kerala Express,72.2,70.4,15.0,58.36,3.29
+KPD,Katpadi Jn,CTO,Chittoor,12625,Kerala Express,72.2,70.4,13.0,93.7,2.19
+CTO,Chittoor,TPTY,Tirupati,12625,Kerala Express,72.2,70.4,18.5,65.21,3.01
+TPTY,Tirupati,RU,Renigunta Jn,12625,Kerala Express,72.2,70.4,25.5,56.16,3.01
+RU,Renigunta Jn,GDR,Gudur Jn,12625,Kerala Express,72.2,70.4,25.0,15.34,3.84
+NLR,Nellore,BZA,Vijayawada Jn,12625,Kerala Express,72.2,70.4,23.5,26.85,3.84
+RDM,Ramgundam,BPQ,Balharshah,12625,Kerala Express,72.2,70.4,33.0,18.9,27.67
+BINA,Bina Jn,VGLJ,V Lakshmibai Jhansi,12625,Kerala Express,72.2,70.4,31.5,70.96,8.77
+MTJ,Mathura Jn,FDB,Faridabad,12625,Kerala Express,72.2,70.4,52.5,13.15,23.56
+VGLJ,V Lakshmibai Jhansi,BINA,Bina Jn,12626,Kerala Express,73.9,72.7,66.0,53.15,17.53
+BPQ,Balharshah,RDM,Ramgundam,12626,Kerala Express,73.9,72.7,118.0,46.58,23.29
+BZA,Vijayawada Jn,NLR,Nellore,12626,Kerala Express,73.9,72.7,100.5,26.85,29.04
+GDR,Gudur Jn,RU,Renigunta Jn,12626,Kerala Express,73.9,72.7,107.0,23.56,36.44
+RU,Renigunta Jn,TPTY,Tirupati,12626,Kerala Express,73.9,72.7,110.5,33.15,35.62
+TPTY,Tirupati,CTO,Chittoor,12626,Kerala Express,73.9,72.7,109.5,13.7,36.71
+CTO,Chittoor,KPD,Katpadi Jn,12626,Kerala Express,73.9,72.7,101.5,36.99,34.79
+JTJ,Jolarpettai,SA,Salem Jn,12626,Kerala Express,73.9,72.7,105.0,57.26,33.42
+CBE,Coimbatore Jn,PGT,Palakkad Jn,12626,Kerala Express,73.9,72.7,109.0,37.81,34.25
+PGT,Palakkad Jn,OTP,Ottappalam,12626,Kerala Express,73.9,72.7,112.5,44.66,32.33
+OTP,Ottappalam,TCR,Thrisur,12626,Kerala Express,73.9,72.7,113.5,16.71,33.97
+TCR,Thrisur,AWY,Aluva,12626,Kerala Express,73.9,72.7,115.5,20.0,30.96
+AWY,Aluva,ERN,Ernakulam Town,12626,Kerala Express,73.9,72.7,118.5,5.75,33.7
+ERN,Ernakulam Town,VARD,Vaikam Road,12626,Kerala Express,73.9,72.7,114.0,18.08,32.88
+VARD,Vaikam Road,KTYM,Kottayam,12626,Kerala Express,73.9,72.7,112.5,38.63,31.51
+CNGR,Chengannur,MVLK,Mavelikara,12626,Kerala Express,73.9,72.7,114.5,39.45,31.51
+MVLK,Mavelikara,KYJ,Kayankulam Jn,12626,Kerala Express,73.9,72.7,116.0,38.36,31.23
+QLN,Kollam Jn,VAK,Varkala,12626,Kerala Express,73.9,72.7,124.5,16.99,31.23
+VAK,Varkala,TVP,Trivandrum Pett,12626,Kerala Express,73.9,72.7,116.5,13.15,33.42
+TVP,Trivandrum Pett,TVC,Trivandrum Cntl,12626,Kerala Express,73.9,72.7,100.0,55.89,26.85
+MS,Chennai Egmore,TBM,Tambaram,12631,Nellai Express,,,4.5,99.45,0.27
+TBM,Tambaram,CGL,Chengalpattu,12631,Nellai Express,,,6.5,97.26,0.55
+CGL,Chengalpattu,MLMR,Melmaruvattur,12631,Nellai Express,,,9.0,96.16,0.55
+MLMR,Melmaruvattur,TMV,Tindivanam,12631,Nellai Express,,,14.0,82.47,0.55
+TMV,Tindivanam,VM,Villupuram Jn,12631,Nellai Express,,,13.5,59.45,0.55
+VM,Villupuram Jn,VRI,Vridhachalam Jn,12631,Nellai Express,,,11.0,82.74,0.55
+VRI,Vridhachalam Jn,TPJ,Tiruchchirapali,12631,Nellai Express,,,11.5,75.62,0.82
+TPJ,Tiruchchirapali,DG,Dindigul Jn,12631,Nellai Express,,,12.0,78.36,1.1
+DG,Dindigul Jn,SDN,Sholavandan,12631,Nellai Express,,,14.5,72.05,1.37
+SDN,Sholavandan,MDU,Madurai Jn,12631,Nellai Express,,,14.5,58.36,1.37
+MDU,Madurai Jn,VPT,Virudunagar Jn,12631,Nellai Express,,,14.5,68.22,1.1
+VPT,Virudunagar Jn,SRT,Satur,12631,Nellai Express,,,15.5,61.64,0.82
+SRT,Satur,CVP,Kovilpatti,12631,Nellai Express,,,16.0,60.55,1.1
+CVP,Kovilpatti,TEN,Tirunelveli Jn,12631,Nellai Express,,,17.0,56.44,1.1
+TEN,Tirunelveli Jn,CVP,Kovilpatti,12632,Nellai Express,,,5.5,99.18,0.0
+CVP,Kovilpatti,SRT,Satur,12632,Nellai Express,,,8.5,96.16,0.0
+SRT,Satur,VPT,Virudunagar Jn,12632,Nellai Express,,,8.0,90.96,0.0
+VPT,Virudunagar Jn,MDU,Madurai Jn,12632,Nellai Express,,,9.0,96.16,0.0
+MDU,Madurai Jn,SDN,Sholavandan,12632,Nellai Express,,,12.0,78.9,0.0
+SDN,Sholavandan,DG,Dindigul Jn,12632,Nellai Express,,,11.0,71.23,0.0
+DG,Dindigul Jn,TPJ,Tiruchchirapali,12632,Nellai Express,,,8.0,85.21,0.0
+TPJ,Tiruchchirapali,VRI,Vridhachalam Jn,12632,Nellai Express,,,14.5,91.78,0.0
+VRI,Vridhachalam Jn,VM,Villupuram Jn,12632,Nellai Express,,,19.0,36.16,1.1
+VM,Villupuram Jn,TMV,Tindivanam,12632,Nellai Express,,,17.5,54.79,1.64
+TMV,Tindivanam,MLMR,Melmaruvattur,12632,Nellai Express,,,19.5,39.18,1.64
+MLMR,Melmaruvattur,CGL,Chengalpattu,12632,Nellai Express,,,19.5,37.53,1.64
+CGL,Chengalpattu,TBM,Tambaram,12632,Nellai Express,,,21.5,44.38,1.92
+TBM,Tambaram,MBM,Mambalam,12632,Nellai Express,,,16.5,27.12,2.74
+MBM,Mambalam,MS,Chennai Egmore,12632,Nellai Express,,,9.0,89.32,1.1
+MLMR,Melmaruvattur,VM,Villupuram Jn,12637,Pandian Exp,,,6.0,16.16,0.0
+TPJ,Tiruchchirapali,MPA,Manaparai,12637,Pandian Exp,,,11.0,84.93,0.27
+MPA,Manaparai,DG,Dindigul Jn,12637,Pandian Exp,,,15.5,63.29,0.27
+DG,Dindigul Jn,ABI,Ambaturai,12637,Pandian Exp,,,18.0,55.62,0.82
+ABI,Ambaturai,KQN,Kodaikanal Road,12637,Pandian Exp,,,20.0,44.66,0.82
+KQN,Kodaikanal Road,MDU,Madurai Jn,12637,Pandian Exp,,,21.0,33.7,1.1
+MDU,Madurai Jn,KQN,Kodaikanal Road,12638,Pandian Exp,,,3.5,100.0,0.0
+KQN,Kodaikanal Road,ABI,Ambaturai,12638,Pandian Exp,,,8.0,95.89,0.0
+ABI,Ambaturai,DG,Dindigul Jn,12638,Pandian Exp,,,8.5,91.78,0.0
+DG,Dindigul Jn,MPA,Manaparai,12638,Pandian Exp,,,7.5,96.44,0.0
+MPA,Manaparai,TPJ,Tiruchchirapali,12638,Pandian Exp,,,7.0,93.7,0.0
+VM,Villupuram Jn,MLMR,Melmaruvattur,12638,Pandian Exp,,,14.0,84.38,0.82
+MAS,Chennai Central,AVD,Avadi,12673,Cheran Express,,,1.0,98.9,0.0
+AVD,Avadi,AJJ,Arakkonam,12673,Cheran Express,,,8.0,0.27,0.0
+TUP,Tiruppur,CBF,Coimbatore Nrth,12673,Cheran Express,,,18.5,22.74,1.92
+CBF,Coimbatore Nrth,CBE,Coimbatore Jn,12673,Cheran Express,,,13.0,70.68,0.82
+KPD,Katpadi Jn,AB,Ambur,12679,Coimbatore Intercity,,,23.0,16.67,0.0
+AB,Ambur,JTJ,Jolarpettai,12679,Coimbatore Intercity,,,20.5,6.67,0.0
+JTJ,Jolarpettai,SLY,Samalpatti,12679,Coimbatore Intercity,,,19.5,63.33,0.0
+SLY,Samalpatti,MAP,Morappur,12679,Coimbatore Intercity,,,26.0,33.33,3.33
+MAP,Morappur,BQI,Bommidi,12679,Coimbatore Intercity,,,28.5,16.67,6.67
+BQI,Bommidi,SA,Salem Jn,12679,Coimbatore Intercity,,,25.5,16.67,6.67
+SA,Salem Jn,BQI,Bommidi,12680,Coimbatore Intercity,,,6.0,86.67,0.0
+BQI,Bommidi,MAP,Morappur,12680,Coimbatore Intercity,,,4.5,93.33,0.0
+MAP,Morappur,SLY,Samalpatti,12680,Coimbatore Intercity,,,5.0,93.33,0.0
+SLY,Samalpatti,JTJ,Jolarpettai,12680,Coimbatore Intercity,,,5.0,93.33,0.0
+JTJ,Jolarpettai,AB,Ambur,12680,Coimbatore Intercity,,,5.5,93.33,0.0
+AB,Ambur,KPD,Katpadi Jn,12680,Coimbatore Intercity,,,6.5,90.0,0.0
+KPD,Katpadi Jn,SA,Salem Jn,12681,Kovai Express,,,11.0,80.0,0.0
+SA,Salem Jn,KPD,Katpadi Jn,12682,Kovai Express,,,21.0,0.0,0.0
+HWH,Howrah Jn,KGP,Kharagpur Jn,12839,Howrah Mail,24.1,22.6,56.5,36.67,16.67
+BALU,Balugan,CAP,Chatrapur,12839,Howrah Mail,24.1,22.6,117.0,0.0,83.33
+CAP,Chatrapur,BAM,Brahmapur,12839,Howrah Mail,24.1,22.6,129.0,0.0,80.0
+BAM,Brahmapur,IPM,Ichchpuram,12839,Howrah Mail,24.1,22.6,137.0,0.0,90.0
+IPM,Ichchpuram,SPT,Sompeta,12839,Howrah Mail,24.1,22.6,135.0,0.0,86.67
+SPT,Sompeta,PSA,Palasa,12839,Howrah Mail,24.1,22.6,119.5,0.0,86.67
+PSA,Palasa,NWP,Naupada Jn,12839,Howrah Mail,24.1,22.6,101.5,6.67,60.0
+NWP,Naupada Jn,CHE,Srikakulam Road,12839,Howrah Mail,24.1,22.6,98.5,6.67,60.0
+CHE,Srikakulam Road,CPP,Chipurupalle,12839,Howrah Mail,24.1,22.6,102.0,10.0,56.67
+CPP,Chipurupalle,VZM,Vizianagram Jn,12839,Howrah Mail,24.1,22.6,102.0,6.67,66.67
+VSKP,Visakhapatnam,AKP,Anakapalle,12839,Howrah Mail,24.1,22.6,104.5,13.33,56.67
+AKP,Anakapalle,TUNI,Tuni,12839,Howrah Mail,24.1,22.6,109.0,10.0,60.0
+TUNI,Tuni,ANV,Annavaram,12839,Howrah Mail,24.1,22.6,113.0,3.33,63.33
+ANV,Annavaram,SLO,Samalkot Jn,12839,Howrah Mail,24.1,22.6,123.0,0.0,66.67
+SLO,Samalkot Jn,RJY,Rajamundry,12839,Howrah Mail,24.1,22.6,136.0,0.0,86.67
+RJY,Rajamundry,NDD,Nidadavolu Jn,12839,Howrah Mail,24.1,22.6,142.5,0.0,86.67
+NDD,Nidadavolu Jn,TDD,Tadepalligudem,12839,Howrah Mail,24.1,22.6,144.5,0.0,86.67
+TDD,Tadepalligudem,EE,Eluru,12839,Howrah Mail,24.1,22.6,145.5,0.0,86.67
+EE,Eluru,BZA,Vijayawada Jn,12839,Howrah Mail,24.1,22.6,126.5,3.33,86.67
+BZA,Vijayawada Jn,TEL,Tenali Jn,12839,Howrah Mail,24.1,22.6,116.5,3.33,53.33
+TEL,Tenali Jn,BPP,Bapatla,12839,Howrah Mail,24.1,22.6,130.0,0.0,73.33
+BPP,Bapatla,CLX,Chirala,12839,Howrah Mail,24.1,22.6,133.0,0.0,80.0
+CLX,Chirala,OGL,Ongole,12839,Howrah Mail,24.1,22.6,133.0,0.0,80.0
+GDR,Gudur Jn,MAS,Chennai Central,12839,Howrah Mail,24.1,22.6,81.5,30.0,43.33
+MAS,Chennai Central,HWH,Howrah Jn,12839,Howrah Mail,24.1,22.6,59.0,40.0,46.67
+MAS,Chennai Central,GDR,Gudur Jn,12840,Howrah Mail,23.4,22.0,64.5,61.92,26.3
+OGL,Ongole,CLX,Chirala,12840,Howrah Mail,23.4,22.0,83.0,17.53,33.97
+CLX,Chirala,BPP,Bapatla,12840,Howrah Mail,23.4,22.0,84.5,17.53,34.25
+BPP,Bapatla,TEL,Tenali Jn,12840,Howrah Mail,23.4,22.0,81.0,18.08,36.16
+TEL,Tenali Jn,BZA,Vijayawada Jn,12840,Howrah Mail,23.4,22.0,80.5,31.78,34.52
+BZA,Vijayawada Jn,EE,Eluru,12840,Howrah Mail,23.4,22.0,89.0,23.84,36.16
+EE,Eluru,TDD,Tadepalligudem,12840,Howrah Mail,23.4,22.0,96.5,16.44,44.93
+TDD,Tadepalligudem,NDD,Nidadavolu Jn,12840,Howrah Mail,23.4,22.0,101.0,14.79,48.77
+NDD,Nidadavolu Jn,RJY,Rajamundry,12840,Howrah Mail,23.4,22.0,103.0,13.97,55.07
+RJY,Rajamundry,SLO,Samalkot Jn,12840,Howrah Mail,23.4,22.0,121.0,8.22,70.68
+SLO,Samalkot Jn,ANV,Annavaram,12840,Howrah Mail,23.4,22.0,122.5,16.44,73.15
+ANV,Annavaram,TUNI,Tuni,12840,Howrah Mail,23.4,22.0,124.0,13.97,73.7
+TUNI,Tuni,AKP,Anakapalle,12840,Howrah Mail,23.4,22.0,126.0,14.25,73.7
+AKP,Anakapalle,VSKP,Visakhapatnam,12840,Howrah Mail,23.4,22.0,103.5,14.25,76.16
+VZM,Vizianagram Jn,CPP,Chipurupalle,12840,Howrah Mail,23.4,22.0,90.0,21.64,38.36
+CPP,Chipurupalle,CHE,Srikakulam Road,12840,Howrah Mail,23.4,22.0,91.0,17.81,39.45
+CHE,Srikakulam Road,NWP,Naupada Jn,12840,Howrah Mail,23.4,22.0,93.5,20.27,38.9
+NWP,Naupada Jn,PSA,Palasa,12840,Howrah Mail,23.4,22.0,86.5,15.62,41.37
+PSA,Palasa,SPT,Sompeta,12840,Howrah Mail,23.4,22.0,80.0,47.4,35.07
+SPT,Sompeta,IPM,Ichchpuram,12840,Howrah Mail,23.4,22.0,85.5,41.64,36.71
+IPM,Ichchpuram,BAM,Brahmapur,12840,Howrah Mail,23.4,22.0,93.5,31.23,37.81
+BAM,Brahmapur,CAP,Chatrapur,12840,Howrah Mail,23.4,22.0,101.0,7.12,40.0
+CAP,Chatrapur,BALU,Balugan,12840,Howrah Mail,23.4,22.0,105.5,2.47,42.74
+KGP,Kharagpur Jn,SRC,Santragachi Jn,12840,Howrah Mail,23.4,22.0,140.5,10.14,58.63
+SRC,Santragachi Jn,HWH,Howrah Jn,12840,Howrah Mail,23.4,22.0,143.5,6.3,80.0
+HWH,Howrah Jn,MAS,Chennai Central,12840,Howrah Mail,23.4,22.0,92.5,18.63,69.59
+HWH,Howrah Jn,SHM,Shalimar,12841,Coromandel Express,103.9,99.4,18.0,53.33,6.67
+SHM,Shalimar,SRC,Santragachi Jn,12841,Coromandel Express,103.9,99.4,20.0,10.0,0.0
+SRC,Santragachi Jn,KGP,Kharagpur Jn,12841,Coromandel Express,103.9,99.4,27.0,63.33,10.0
+KUR,Khurda Road Jn,BAM,Brahmapur,12841,Coromandel Express,103.9,99.4,67.0,3.33,46.67
+BAM,Brahmapur,VSKP,Visakhapatnam,12841,Coromandel Express,103.9,99.4,55.5,6.67,43.33
+RJY,Rajamundry,TDD,Tadepalligudem,12841,Coromandel Express,103.9,99.4,71.0,0.0,36.67
+MAS,Chennai Central,OGL,Ongole,12842,Coromandel Express,97.8,93.5,40.5,76.67,13.33
+TDD,Tadepalligudem,RJY,Rajamundry,12842,Coromandel Express,97.8,93.5,87.5,3.33,40.0
+VSKP,Visakhapatnam,BAM,Brahmapur,12842,Coromandel Express,97.8,93.5,35.0,60.0,16.67
+BAM,Brahmapur,KUR,Khurda Road Jn,12842,Coromandel Express,97.8,93.5,79.0,20.0,26.67
+BDTS,Bandra Terminus,BVI,Borivali,12903,Golden Temple Mail,,,,100.0,0.0
+BVI,Borivali,ST,Surat,12903,Golden Temple Mail,,,25.0,86.67,0.0
+ST,Surat,BRC,Vadodara Jn,12903,Golden Temple Mail,,,27.5,70.0,6.67
+BRC,Vadodara Jn,GDA,Godhra Jn,12903,Golden Temple Mail,,,29.0,80.0,13.33
+GDA,Godhra Jn,DHD,Dahod,12903,Golden Temple Mail,,,30.5,76.67,13.33
+DHD,Dahod,MGN,Meghnagar,12903,Golden Temple Mail,,,33.5,53.33,13.33
+MGN,Meghnagar,RTM,Ratlam Jn,12903,Golden Temple Mail,,,29.5,53.33,13.33
+RTM,Ratlam Jn,NAD,Nagda Jn,12903,Golden Temple Mail,,,22.5,86.67,13.33
+NAD,Nagda Jn,SGZ,Shamgarh,12903,Golden Temple Mail,,,22.0,86.67,13.33
+SGZ,Shamgarh,BWM,Bhawani Mandi,12903,Golden Temple Mail,,,25.0,70.0,13.33
+BWM,Bhawani Mandi,RMA,Ramganj Mandi,12903,Golden Temple Mail,,,28.0,76.67,16.67
+RMA,Ramganj Mandi,KOTA,Kota Jn,12903,Golden Temple Mail,,,32.0,76.67,16.67
+KOTA,Kota Jn,SWM,Sawai Madhopur,12903,Golden Temple Mail,,,38.0,66.67,16.67
+SWM,Sawai Madhopur,GGC,Gangapur City,12903,Golden Temple Mail,,,45.5,56.67,20.0
+GGC,Gangapur City,SMVJ,Shri Mahaveerji,12903,Golden Temple Mail,,,50.0,43.33,20.0
+SMVJ,Shri Mahaveerji,HAN,Hindaun City,12903,Golden Temple Mail,,,49.5,33.33,20.0
+HAN,Hindaun City,BXN,Bayana Jn,12903,Golden Temple Mail,,,47.0,43.33,20.0
+BXN,Bayana Jn,BTE,Bharatpur Jn,12903,Golden Temple Mail,,,48.0,53.33,20.0
+BTE,Bharatpur Jn,MTJ,Mathura Jn,12903,Golden Temple Mail,,,43.5,43.33,20.0
+NZM,H Nizamuddin,GZB,Ghaziabad,12903,Golden Temple Mail,,,53.0,70.0,20.0
+GZB,Ghaziabad,MTC,Meerut City,12903,Golden Temple Mail,,,55.0,63.33,23.33
+MTC,Meerut City,MUT,Meerut Cant,12903,Golden Temple Mail,,,58.5,50.0,20.0
+MUT,Meerut Cant,SKF,Sakhoti Tanda,12903,Golden Temple Mail,,,60.5,50.0,23.33
+SKF,Sakhoti Tanda,MOZ,Muzaffarnagar,12903,Golden Temple Mail,,,62.0,50.0,23.33
+MOZ,Muzaffarnagar,SRE,Saharanpur,12903,Golden Temple Mail,,,53.0,40.0,23.33
+SRE,Saharanpur,YJUD,Yamunanagar Jagadhri,12903,Golden Temple Mail,,,43.5,70.0,20.0
+YJUD,Yamunanagar Jagadhri,UMB,Ambala Cant Jn,12903,Golden Temple Mail,,,46.5,70.0,20.0
+UMB,Ambala Cant Jn,LDH,Ludhiana Jn,12903,Golden Temple Mail,,,50.0,60.0,20.0
+LDH,Ludhiana Jn,JUC,Jalandhar City,12903,Golden Temple Mail,,,47.5,43.33,20.0
+JUC,Jalandhar City,BEAS,Beas,12903,Golden Temple Mail,,,44.5,66.67,20.0
+BEAS,Beas,ASR,Amritsar Jn,12903,Golden Temple Mail,,,42.0,70.0,23.33
+ASR,Amritsar Jn,BEAS,Beas,12904,Golden Temple Mail,,,7.5,100.0,0.0
+BEAS,Beas,JUC,Jalandhar City,12904,Golden Temple Mail,,,11.0,80.0,0.0
+JUC,Jalandhar City,LDH,Ludhiana Jn,12904,Golden Temple Mail,,,11.0,76.67,0.0
+LDH,Ludhiana Jn,UMB,Ambala Cant Jn,12904,Golden Temple Mail,,,11.0,70.0,0.0
+UMB,Ambala Cant Jn,YJUD,Yamunanagar Jagadhri,12904,Golden Temple Mail,,,11.5,76.67,0.0
+YJUD,Yamunanagar Jagadhri,SRE,Saharanpur,12904,Golden Temple Mail,,,11.5,66.67,0.0
+SRE,Saharanpur,MOZ,Muzaffarnagar,12904,Golden Temple Mail,,,9.0,80.0,3.33
+MOZ,Muzaffarnagar,SKF,Sakhoti Tanda,12904,Golden Temple Mail,,,9.0,83.33,6.67
+SKF,Sakhoti Tanda,MUT,Meerut Cant,12904,Golden Temple Mail,,,13.0,80.0,6.67
+MUT,Meerut Cant,MTC,Meerut City,12904,Golden Temple Mail,,,14.5,76.67,6.67
+MTC,Meerut City,GZB,Ghaziabad,12904,Golden Temple Mail,,,19.0,73.33,10.0
+GZB,Ghaziabad,NZM,H Nizamuddin,12904,Golden Temple Mail,,,19.5,56.67,13.33
+NZM,H Nizamuddin,FDB,Faridabad,12904,Golden Temple Mail,,,24.0,80.0,16.67
+FDB,Faridabad,MTJ,Mathura Jn,12904,Golden Temple Mail,,,29.0,73.33,16.67
+MTJ,Mathura Jn,BTE,Bharatpur Jn,12904,Golden Temple Mail,,,27.5,73.33,16.67
+BTE,Bharatpur Jn,BXN,Bayana Jn,12904,Golden Temple Mail,,,31.5,70.0,16.67
+BXN,Bayana Jn,HAN,Hindaun City,12904,Golden Temple Mail,,,35.0,53.33,16.67
+HAN,Hindaun City,SMVJ,Shri Mahaveerji,12904,Golden Temple Mail,,,35.5,50.0,16.67
+SMVJ,Shri Mahaveerji,GGC,Gangapur City,12904,Golden Temple Mail,,,35.0,46.67,16.67
+GGC,Gangapur City,SWM,Sawai Madhopur,12904,Golden Temple Mail,,,34.5,56.67,16.67
+SWM,Sawai Madhopur,KOTA,Kota Jn,12904,Golden Temple Mail,,,33.5,56.67,16.67
+KOTA,Kota Jn,RMA,Ramganj Mandi,12904,Golden Temple Mail,,,33.5,56.67,16.67
+RMA,Ramganj Mandi,BWM,Bhawani Mandi,12904,Golden Temple Mail,,,36.5,60.0,16.67
+BWM,Bhawani Mandi,SGZ,Shamgarh,12904,Golden Temple Mail,,,41.0,56.67,20.0
+SGZ,Shamgarh,NAD,Nagda Jn,12904,Golden Temple Mail,,,44.0,30.0,20.0
+NAD,Nagda Jn,RTM,Ratlam Jn,12904,Golden Temple Mail,,,,73.33,13.33
+RTM,Ratlam Jn,MGN,Meghnagar,12904,Golden Temple Mail,,,37.0,56.67,20.0
+MGN,Meghnagar,DHD,Dahod,12904,Golden Temple Mail,,,38.0,26.67,20.0
+DHD,Dahod,GDA,Godhra Jn,12904,Golden Temple Mail,,,39.0,30.0,20.0
+GDA,Godhra Jn,BRC,Vadodara Jn,12904,Golden Temple Mail,,,23.0,70.0,16.67
+BRC,Vadodara Jn,ST,Surat,12904,Golden Temple Mail,,,22.5,66.67,16.67
+ST,Surat,BVI,Borivali,12904,Golden Temple Mail,,,24.5,73.33,16.67
+BVI,Borivali,BDTS,Bandra Terminus,12904,Golden Temple Mail,,,27.0,40.0,13.33
+BDTS,Bandra Terminus,MMCT,Mumbai Central,12925,Paschim Express,,,2.5,22.74,0.0
+BVI,Borivali,DRD,Dahanu Road,12925,Paschim Express,,,17.5,56.99,0.0
+DRD,Dahanu Road,VAPI,Vapi,12925,Paschim Express,,,21.5,44.11,0.82
+VAPI,Vapi,BL,Valsad,12925,Paschim Express,,,27.0,29.59,1.64
+BL,Valsad,NVS,Navsari,12925,Paschim Express,,,30.0,14.52,3.29
+NVS,Navsari,ST,Surat,12925,Paschim Express,,,10.0,14.79,2.47
+RTM,Ratlam Jn,KUH,Khachrod,12925,Paschim Express,,,13.0,80.27,1.92
+KUH,Khachrod,NAD,Nagda Jn,12925,Paschim Express,,,10.0,73.97,1.37
+SGZ,Shamgarh,RMA,Ramganj Mandi,12925,Paschim Express,,,10.0,93.42,1.64
+NDLS,New Delhi,SZM,Subzi Mandi,12925,Paschim Express,,,13.0,80.0,3.01
+SZM,Subzi Mandi,SNP,Sonipat Jn,12925,Paschim Express,,,21.0,67.12,3.01
+SNP,Sonipat Jn,BDMJ,Bhodwal Majri,12925,Paschim Express,,,28.0,53.97,3.01
+BDMJ,Bhodwal Majri,PNP,Panipat Jn,12925,Paschim Express,,,31.0,2.19,0.55
+PNP,Panipat Jn,KUN,Karnal,12925,Paschim Express,,,30.0,39.45,5.21
+KUN,Karnal,KKDE,Kurukshetra Jn,12925,Paschim Express,,,35.5,24.66,7.95
+KKDE,Kurukshetra Jn,UMB,Ambala Cant Jn,12925,Paschim Express,,,25.5,10.96,9.59
+UMB,Ambala Cant Jn,CDG,Chandigarh,12925,Paschim Express,,,14.0,83.56,3.29
+CDG,Chandigarh,SASN,Sahibzada Asngr,12925,Paschim Express,,,18.5,75.07,3.56
+SASN,Sahibzada Asngr,LDH,Ludhiana Jn,12925,Paschim Express,,,18.0,49.59,4.11
+LDH,Ludhiana Jn,PGW,Phagwara Jn,12925,Paschim Express,,,16.5,84.66,4.11
+PGW,Phagwara Jn,JRC,Jalandhar Cant,12925,Paschim Express,,,19.5,71.23,6.85
+JRC,Jalandhar Cant,JUC,Jalandhar City,12925,Paschim Express,,,19.5,65.21,6.85
+JUC,Jalandhar City,JRC,Jalandhar Cant,12926,Paschim Express,,,18.5,71.23,2.74
+JRC,Jalandhar Cant,PGW,Phagwara Jn,12926,Paschim Express,,,20.0,60.27,3.01
+PGW,Phagwara Jn,LDH,Ludhiana Jn,12926,Paschim Express,,,22.0,46.85,3.29
+LDH,Ludhiana Jn,SASN,Sahibzada Asngr,12926,Paschim Express,,,17.0,55.89,4.38
+SASN,Sahibzada Asngr,CDG,Chandigarh,12926,Paschim Express,,,11.5,91.78,2.47
+CDG,Chandigarh,UMB,Ambala Cant Jn,12926,Paschim Express,,,11.0,94.79,3.01
+UMB,Ambala Cant Jn,KKDE,Kurukshetra Jn,12926,Paschim Express,,,15.5,92.33,3.29
+KKDE,Kurukshetra Jn,KUN,Karnal,12926,Paschim Express,,,21.0,71.78,3.84
+KUN,Karnal,PNP,Panipat Jn,12926,Paschim Express,,,23.5,60.82,3.56
+PNP,Panipat Jn,BDMJ,Bhodwal Majri,12926,Paschim Express,,,22.0,50.41,4.11
+BDMJ,Bhodwal Majri,SNP,Sonipat Jn,12926,Paschim Express,,,23.5,4.11,0.27
+SNP,Sonipat Jn,SZM,Subzi Mandi,12926,Paschim Express,,,31.0,41.92,4.66
+SZM,Subzi Mandi,NDLS,New Delhi,12926,Paschim Express,,,27.5,23.01,6.03
+RMA,Ramganj Mandi,SGZ,Shamgarh,12926,Paschim Express,,,27.5,51.51,9.04
+NAD,Nagda Jn,KUH,Khachrod,12926,Paschim Express,,,15.0,93.7,3.56
+KUH,Khachrod,RTM,Ratlam Jn,12926,Paschim Express,,,16.0,89.04,3.56
+ST,Surat,NVS,Navsari,12926,Paschim Express,,,16.0,86.58,4.11
+NVS,Navsari,BL,Valsad,12926,Paschim Express,,,21.0,81.64,4.66
+BL,Valsad,VAPI,Vapi,12926,Paschim Express,,,24.5,49.59,5.75
+VAPI,Vapi,DRD,Dahanu Road,12926,Paschim Express,,,26.0,58.36,7.12
+DRD,Dahanu Road,BVI,Borivali,12926,Paschim Express,,,28.5,47.95,8.22
+BRC,Vadodara Jn,RTM,Ratlam Jn,12951,Mumbai Rajdhani,,,16.0,74.52,1.64
+NAD,Nagda Jn,KOTA,Kota Jn,12951,Mumbai Rajdhani,,,13.5,92.05,1.64
+KOTA,Kota Jn,NDLS,New Delhi,12951,Mumbai Rajdhani,,,21.5,80.27,1.92
+NDLS,New Delhi,KOTA,Kota Jn,12952,Mumbai Rajdhani,,,14.0,97.26,2.19
+KOTA,Kota Jn,NAD,Nagda Jn,12952,Mumbai Rajdhani,,,17.5,57.81,3.29
+RTM,Ratlam Jn,BRC,Vadodara Jn,12952,Mumbai Rajdhani,,,16.5,64.93,3.56
+BL,Valsad,ST,Surat,12953,August Kranti Rajdhani,,,9.0,80.0,0.0
+BRC,Vadodara Jn,DHD,Dahod,12953,August Kranti Rajdhani,,,11.5,83.33,0.0
+DHD,Dahod,RTM,Ratlam Jn,12953,August Kranti Rajdhani,,,11.5,63.33,0.0
+RTM,Ratlam Jn,KOTA,Kota Jn,12953,August Kranti Rajdhani,,,9.5,80.0,0.0
+SWM,Sawai Madhopur,MTJ,Mathura Jn,12953,August Kranti Rajdhani,,,11.5,66.67,3.33
+MTJ,Mathura Jn,NZM,H Nizamuddin,12953,August Kranti Rajdhani,,,7.5,96.67,3.33
+NZM,H Nizamuddin,MTJ,Mathura Jn,12954,August Kranti Rajdhani,,,3.0,100.0,0.0
+MTJ,Mathura Jn,SWM,Sawai Madhopur,12954,August Kranti Rajdhani,,,9.5,96.67,0.0
+KOTA,Kota Jn,RTM,Ratlam Jn,12954,August Kranti Rajdhani,,,21.5,43.33,6.67
+RTM,Ratlam Jn,DHD,Dahod,12954,August Kranti Rajdhani,,,20.0,66.67,6.67
+DHD,Dahod,BRC,Vadodara Jn,12954,August Kranti Rajdhani,,,,60.0,10.0
+ST,Surat,BL,Valsad,12954,August Kranti Rajdhani,,,14.0,90.0,6.67
+SBIB,Sabarmati Bg,MSH,Mahesana Jn,12957,Swarna Jayanti Rajdhani,,,7.5,96.67,3.33
+MSH,Mahesana Jn,PNU,Palanpur Jn,12957,Swarna Jayanti Rajdhani,,,8.0,93.33,3.33
+PNU,Palanpur Jn,ABR,Abu Road,12957,Swarna Jayanti Rajdhani,,,8.0,96.67,3.33
+ABR,Abu Road,FA,Falna,12957,Swarna Jayanti Rajdhani,,,7.0,96.67,3.33
+FA,Falna,AII,Ajmer Jn,12957,Swarna Jayanti Rajdhani,,,6.0,96.67,3.33
+AII,Ajmer Jn,JP,Jaipur,12957,Swarna Jayanti Rajdhani,,,6.5,96.67,3.33
+JP,Jaipur,GGN,Gurgaon,12957,Swarna Jayanti Rajdhani,,,10.5,96.67,3.33
+GGN,Gurgaon,DEC,Delhi Cantt,12957,Swarna Jayanti Rajdhani,,,14.5,96.67,3.33
+DEC,Delhi Cantt,NDLS,New Delhi,12957,Swarna Jayanti Rajdhani,,,15.0,96.67,3.33
+NDLS,New Delhi,DEC,Delhi Cantt,12958,Swarna Jayanti Rajdhani,,,4.0,100.0,0.0
+DEC,Delhi Cantt,GGN,Gurgaon,12958,Swarna Jayanti Rajdhani,,,5.5,100.0,0.0
+GGN,Gurgaon,JP,Jaipur,12958,Swarna Jayanti Rajdhani,,,7.0,93.33,0.0
+JP,Jaipur,AII,Ajmer Jn,12958,Swarna Jayanti Rajdhani,,,16.0,46.67,0.0
+AII,Ajmer Jn,FA,Falna,12958,Swarna Jayanti Rajdhani,,,16.0,63.33,0.0
+FA,Falna,ABR,Abu Road,12958,Swarna Jayanti Rajdhani,,,13.0,53.33,0.0
+ABR,Abu Road,PNU,Palanpur Jn,12958,Swarna Jayanti Rajdhani,,,7.0,73.33,0.0
+PNU,Palanpur Jn,MSH,Mahesana Jn,12958,Swarna Jayanti Rajdhani,,,5.0,90.0,0.0
+MSH,Mahesana Jn,SBIB,Sabarmati Bg,12958,Swarna Jayanti Rajdhani,,,6.0,86.67,0.0
+HWH,Howrah Jn,BDC,Bandel Jn,15959,Kamrup Express,,,8.0,97.32,0.0
+BDC,Bandel Jn,ABKA,Ambika Kalna,15959,Kamrup Express,,,10.5,90.8,0.38
+ABKA,Ambika Kalna,NDAE,Nabadwip Dham,15959,Kamrup Express,,,13.0,71.65,0.38
+NDAE,Nabadwip Dham,KWAE,Katwa,15959,Kamrup Express,,,10.0,65.13,0.38
+KWAE,Katwa,SALE,Salar,15959,Kamrup Express,,,12.0,79.69,0.38
+SALE,Salar,KGLE,Khagraghat Road,15959,Kamrup Express,,,14.0,62.45,0.38
+KGLE,Khagraghat Road,AZ,Azimganj Jn,15959,Kamrup Express,,,9.0,48.66,1.15
+AZ,Azimganj Jn,JRLE,Jangipur Road,15959,Kamrup Express,,,8.5,85.82,1.15
+JRLE,Jangipur Road,NILE,Nimtita,15959,Kamrup Express,,,10.0,88.12,1.15
+NILE,Nimtita,DGLE,Dhulian Ganga,15959,Kamrup Express,,,12.5,78.16,1.15
+DGLE,Dhulian Ganga,NFK,New Farakka Jn,15959,Kamrup Express,,,11.0,77.39,1.53
+MLDT,Malda Town,SM,Samsi,15959,Kamrup Express,,,9.0,95.02,1.92
+SM,Samsi,HCR,Harischandrpur,15959,Kamrup Express,,,10.5,86.21,2.3
+HCR,Harischandrpur,BOE,Barsoi Jn,15959,Kamrup Express,,,14.0,80.08,2.3
+KNE,Kishanganj,AUB,Aluabari Road,15959,Kamrup Express,,,34.0,32.57,4.98
+AUB,Aluabari Road,NJP,New Jalpaiguri,15959,Kamrup Express,,,25.5,14.18,7.66
+JPE,Jalpaiguri Road,NMX,New Maynaguri,15959,Kamrup Express,,,17.0,68.2,4.98
+NMX,New Maynaguri,DQG,Dhupguri,15959,Kamrup Express,,,20.0,58.62,5.75
+DQG,Dhupguri,FLK,Falakata,15959,Kamrup Express,,,16.0,65.13,5.36
+FLK,Falakata,NCB,New Cooch Behar,15959,Kamrup Express,,,13.0,77.39,3.83
+NOQ,New Alipurdaur,KAMG,Kamakhyaguri,15959,Kamrup Express,,,15.0,82.76,3.45
+KAMG,Kamakhyaguri,GOGH,Gossaigaon Hat,15959,Kamrup Express,,,14.0,74.33,3.83
+GOGH,Gossaigaon Hat,FKM,Fakiragram Jn,15959,Kamrup Express,,,23.5,1.53,0.0
+FKM,Fakiragram Jn,KOJ,Kokrajhar,15959,Kamrup Express,,,36.0,6.9,8.05
+NBQ,New Bongaigaon,BNGN,Bongaigaon,15959,Kamrup Express,,,18.5,72.8,5.75
+BNGN,Bongaigaon,SBE,Sorbhog Jn,15959,Kamrup Express,,,21.5,65.52,6.13
+SBE,Sorbhog Jn,BPRD,Barpeta Road,15959,Kamrup Express,,,23.5,59.39,8.05
+BPRD,Barpeta Road,PBL,Pathsala,15959,Kamrup Express,,,25.5,55.17,8.05
+PBL,Pathsala,TIHU,Tihu,15959,Kamrup Express,,,27.5,48.28,8.05
+TIHU,Tihu,NLV,Nalbari,15959,Kamrup Express,,,29.0,44.44,8.43
+NLV,Nalbari,RNY,Rangiya Jn,15959,Kamrup Express,,,28.0,41.38,8.43
+CPK,Chaparmukh Jn,HJI,Hojai,15959,Kamrup Express,,,36.0,38.31,13.79
+HJI,Hojai,LKA,Lanka,15959,Kamrup Express,,,36.5,36.78,15.71
+LKA,Lanka,LMG,Lumding Jn,15959,Kamrup Express,,,41.5,41.0,16.48
+DMV,Dimapur,SZR,Sarupathar,15959,Kamrup Express,,,48.0,17.62,20.31
+SZR,Sarupathar,BXP,Barpathar,15959,Kamrup Express,,,47.5,20.69,19.16
+BXP,Barpathar,FKG,Furkating Jn,15959,Kamrup Express,,,34.5,19.92,19.54
+FKG,Furkating Jn,MXN,Mariani Jn,15959,Kamrup Express,,,30.0,76.63,9.96
+MXN,Mariani Jn,AGI,Amguri,15959,Kamrup Express,,,42.5,39.46,16.86
+AGI,Amguri,SLGR,Simaluguri Jn,15959,Kamrup Express,,,44.0,11.49,17.62
+SLGR,Simaluguri Jn,BOJ,Bhojo,15959,Kamrup Express,,,46.5,21.46,15.33
+BOJ,Bhojo,NAM,Namrup,15959,Kamrup Express,,,52.5,9.2,18.77
+NAM,Namrup,NHK,Naharkatiya,15959,Kamrup Express,,,55.0,6.9,21.46
+NHK,Naharkatiya,DJG,Duliajan,15959,Kamrup Express,,,56.0,6.51,22.99
+DJG,Duliajan,NTSK,New Tinsukia Jn,15959,Kamrup Express,,,54.5,7.28,23.75
+NTSK,New Tinsukia Jn,DJG,Duliajan,15960,Kamrup Express,,,16.5,65.77,3.85
+DJG,Duliajan,NHK,Naharkatiya,15960,Kamrup Express,,,20.5,57.31,5.0
+NHK,Naharkatiya,NAM,Namrup,15960,Kamrup Express,,,21.5,44.62,6.54
+NAM,Namrup,BOJ,Bhojo,15960,Kamrup Express,,,24.5,50.0,6.92
+BOJ,Bhojo,SLGR,Simaluguri Jn,15960,Kamrup Express,,,36.5,41.15,9.62
+SLGR,Simaluguri Jn,AGI,Amguri,15960,Kamrup Express,,,47.0,19.23,28.85
+AGI,Amguri,MXN,Mariani Jn,15960,Kamrup Express,,,42.0,10.38,36.54
+MXN,Mariani Jn,FKG,Furkating Jn,15960,Kamrup Express,,,21.0,16.15,6.15
+FKG,Furkating Jn,BXP,Barpathar,15960,Kamrup Express,,,9.5,91.15,2.31
+BXP,Barpathar,SZR,Sarupathar,15960,Kamrup Express,,,12.0,85.0,3.08
+SZR,Sarupathar,DMV,Dimapur,15960,Kamrup Express,,,16.5,80.38,3.46
+LMG,Lumding Jn,LKA,Lanka,15960,Kamrup Express,,,21.0,50.0,5.38
+LKA,Lanka,HJI,Hojai,15960,Kamrup Express,,,20.0,56.92,5.77
+HJI,Hojai,CPK,Chaparmukh Jn,15960,Kamrup Express,,,23.0,53.85,6.15
+RNY,Rangiya Jn,NLV,Nalbari,15960,Kamrup Express,,,23.0,65.77,7.31
+NLV,Nalbari,TIHU,Tihu,15960,Kamrup Express,,,24.5,58.08,7.69
+TIHU,Tihu,PBL,Pathsala,15960,Kamrup Express,,,28.0,48.08,10.0
+PBL,Pathsala,BPRD,Barpeta Road,15960,Kamrup Express,,,30.5,36.54,11.92
+BPRD,Barpeta Road,SBE,Sorbhog Jn,15960,Kamrup Express,,,33.0,36.92,12.31
+SBE,Sorbhog Jn,BNGN,Bongaigaon,15960,Kamrup Express,,,38.0,27.69,14.23
+BNGN,Bongaigaon,NBQ,New Bongaigaon,15960,Kamrup Express,,,34.5,17.69,18.08
+KOJ,Kokrajhar,FKM,Fakiragram Jn,15960,Kamrup Express,,,33.5,53.08,16.92
+FKM,Fakiragram Jn,GOGH,Gossaigaon Hat,15960,Kamrup Express,,,23.0,49.23,17.69
+GOGH,Gossaigaon Hat,KAMG,Kamakhyaguri,15960,Kamrup Express,,,25.0,1.15,0.0
+KAMG,Kamakhyaguri,NOQ,New Alipurdaur,15960,Kamrup Express,,,38.0,40.0,18.85
+NCB,New Cooch Behar,FLK,Falakata,15960,Kamrup Express,,,43.0,36.15,21.15
+FLK,Falakata,DQG,Dhupguri,15960,Kamrup Express,,,46.0,16.15,24.62
+DQG,Dhupguri,NMX,New Maynaguri,15960,Kamrup Express,,,46.0,28.46,21.92
+NMX,New Maynaguri,JPE,Jalpaiguri Road,15960,Kamrup Express,,,47.0,27.69,23.85
+NJP,New Jalpaiguri,AUB,Aluabari Road,15960,Kamrup Express,,,32.0,66.54,15.0
+AUB,Aluabari Road,KNE,Kishanganj,15960,Kamrup Express,,,36.5,55.0,18.46
+BOE,Barsoi Jn,HCR,Harischandrpur,15960,Kamrup Express,,,15.0,1.15,0.0
+HCR,Harischandrpur,SM,Samsi,15960,Kamrup Express,,,49.0,33.46,21.92
+SM,Samsi,MLDT,Malda Town,15960,Kamrup Express,,,42.5,28.08,23.46
+NFK,New Farakka Jn,DGLE,Dhulian Ganga,15960,Kamrup Express,,,37.0,64.62,24.62
+DGLE,Dhulian Ganga,NILE,Nimtita,15960,Kamrup Express,,,38.5,64.23,24.62
+NILE,Nimtita,JRLE,Jangipur Road,15960,Kamrup Express,,,40.5,61.15,25.0
+JRLE,Jangipur Road,AZ,Azimganj Jn,15960,Kamrup Express,,,37.0,58.85,24.62
+AZ,Azimganj Jn,KGLE,Khagraghat Road,15960,Kamrup Express,,,35.5,68.46,23.08
+KGLE,Khagraghat Road,SALE,Salar,15960,Kamrup Express,,,41.5,66.15,25.0
+SALE,Salar,KWAE,Katwa,15960,Kamrup Express,,,45.0,50.0,26.15
+KWAE,Katwa,NDAE,Nabadwip Dham,15960,Kamrup Express,,,36.0,65.77,23.85
+NDAE,Nabadwip Dham,ABKA,Ambika Kalna,15960,Kamrup Express,,,37.0,65.38,21.92
+ABKA,Ambika Kalna,BDC,Bandel Jn,15960,Kamrup Express,,,38.0,63.85,23.08
+BDC,Bandel Jn,HWH,Howrah Jn,15960,Kamrup Express,,,21.5,49.62,18.08
+VRI,Vridhachalam Jn,PNDM,Pennadam,16127,Guruvayur Express,,,3.5,93.33,0.0
+PNDM,Pennadam,ALU,Ariyalur,16127,Guruvayur Express,,,11.0,93.33,0.0
+ALU,Ariyalur,SRGM,Srirangam,16127,Guruvayur Express,,,18.5,70.0,3.33
+SRGM,Srirangam,TPJ,Tiruchchirapali,16127,Guruvayur Express,,,13.0,70.0,3.33
+DG,Dindigul Jn,KQN,Kodaikanal Road,16127,Guruvayur Express,,,20.5,46.67,3.33
+KQN,Kodaikanal Road,SDN,Sholavandan,16127,Guruvayur Express,,,24.0,33.33,3.33
+SDN,Sholavandan,KON,Kudalnagar,16127,Guruvayur Express,,,27.0,16.67,3.33
+KON,Kudalnagar,MDU,Madurai Jn,16127,Guruvayur Express,,,21.0,20.0,3.33
+CVP,Kovilpatti,MEJ,Vanchi Maniyachchi,16127,Guruvayur Express,,,24.5,43.33,3.33
+MEJ,Vanchi Maniyachchi,TEN,Tirunelveli Jn,16127,Guruvayur Express,,,24.5,33.33,3.33
+TEN,Tirunelveli Jn,NNN,Nanguneri,16127,Guruvayur Express,,,24.5,40.0,3.33
+NNN,Nanguneri,VLY,Valliyur,16127,Guruvayur Express,,,26.5,33.33,3.33
+VLY,Valliyur,AAY,Aralvaymozhi,16127,Guruvayur Express,,,25.0,33.33,3.33
+AAY,Aralvaymozhi,NJT,Nager Coil Town,16127,Guruvayur Express,,,20.0,36.67,3.33
+NJT,Nager Coil Town,ERL,Eraniel,16127,Guruvayur Express,,,16.0,60.0,3.33
+ERL,Eraniel,KZT,Kulitthurai,16127,Guruvayur Express,,,30.0,26.67,3.33
+KZT,Kulitthurai,NYY,Neyyattinkara,16127,Guruvayur Express,,,30.0,23.33,3.33
+NYY,Neyyattinkara,TVC,Trivandrum Cntl,16127,Guruvayur Express,,,30.0,10.0,6.67
+TVC,Trivandrum Cntl,CRY,Chirayinkil,16127,Guruvayur Express,,,22.0,20.0,6.67
+CRY,Chirayinkil,KVU,Kadakavur,16127,Guruvayur Express,,,33.5,80.0,13.33
+KVU,Kadakavur,VAK,Varkala,16127,Guruvayur Express,,,53.0,6.67,23.33
+VAK,Varkala,PVU,Paravur,16127,Guruvayur Express,,,59.0,10.0,23.33
+PVU,Paravur,QLN,Kollam Jn,16127,Guruvayur Express,,,59.0,6.67,33.33
+KYJ,Kayankulam Jn,HAD,Harippad,16127,Guruvayur Express,,,69.5,0.0,50.0
+HAD,Harippad,ALLP,Alleppey,16127,Guruvayur Express,,,71.5,0.0,53.33
+ALLP,Alleppey,SRTL,Shertalai,16127,Guruvayur Express,,,75.0,0.0,63.33
+SRTL,Shertalai,ERS,Ernakulam Jn,16127,Guruvayur Express,,,60.0,0.0,70.0
+ERS,Ernakulam Jn,ERN,Ernakulam Town,16127,Guruvayur Express,,,44.0,16.67,23.33
+AWY,Aluva,AFK,Angamali,16127,Guruvayur Express,,,44.0,10.0,23.33
+AFK,Angamali,CKI,Chalakudi,16127,Guruvayur Express,,,46.0,6.67,23.33
+CKI,Chalakudi,IJK,Irinjalakuda,16127,Guruvayur Express,,,54.0,6.67,30.0
+IJK,Irinjalakuda,TCR,Thrisur,16127,Guruvayur Express,,,42.0,6.67,30.0
+TCR,Thrisur,PNQ,Punkunnam,16127,Guruvayur Express,,,33.0,53.33,26.67
+PNQ,Punkunnam,GUV,Guruvayur,16127,Guruvayur Express,,,29.0,43.33,30.0
+GUV,Guruvayur,PNQ,Punkunnam,16128,Guruvayur Express,,,8.0,100.0,0.0
+PNQ,Punkunnam,TCR,Thrisur,16128,Guruvayur Express,,,9.5,90.0,0.0
+TCR,Thrisur,IJK,Irinjalakuda,16128,Guruvayur Express,,,14.0,83.33,0.0
+IJK,Irinjalakuda,CKI,Chalakudi,16128,Guruvayur Express,,,17.0,60.0,0.0
+CKI,Chalakudi,AFK,Angamali,16128,Guruvayur Express,,,23.0,50.0,0.0
+AFK,Angamali,AWY,Aluva,16128,Guruvayur Express,,,26.0,26.67,3.33
+ERN,Ernakulam Town,ERS,Ernakulam Jn,16128,Guruvayur Express,,,28.0,6.67,3.33
+ERS,Ernakulam Jn,SRTL,Shertalai,16128,Guruvayur Express,,,28.0,13.33,3.33
+SRTL,Shertalai,ALLP,Alleppey,16128,Guruvayur Express,,,30.0,10.0,3.33
+ALLP,Alleppey,HAD,Harippad,16128,Guruvayur Express,,,32.0,6.67,3.33
+HAD,Harippad,KYJ,Kayankulam Jn,16128,Guruvayur Express,,,33.0,6.67,3.33
+QLN,Kollam Jn,PVU,Paravur,16128,Guruvayur Express,,,33.0,10.0,3.33
+PVU,Paravur,VAK,Varkala,16128,Guruvayur Express,,,35.5,6.67,3.33
+VAK,Varkala,CRY,Chirayinkil,16128,Guruvayur Express,,,23.0,6.67,6.67
+CRY,Chirayinkil,TVC,Trivandrum Cntl,16128,Guruvayur Express,,,18.5,86.67,0.0
+TVC,Trivandrum Cntl,NYY,Neyyattinkara,16128,Guruvayur Express,,,32.5,0.0,3.33
+NYY,Neyyattinkara,KZT,Kulitthurai,16128,Guruvayur Express,,,37.5,0.0,3.33
+KZT,Kulitthurai,ERL,Eraniel,16128,Guruvayur Express,,,44.0,0.0,6.67
+ERL,Eraniel,NJT,Nager Coil Town,16128,Guruvayur Express,,,49.5,0.0,6.67
+NJT,Nager Coil Town,AAY,Aralvaymozhi,16128,Guruvayur Express,,,50.0,0.0,6.67
+AAY,Aralvaymozhi,VLY,Valliyur,16128,Guruvayur Express,,,34.0,3.33,3.33
+VLY,Valliyur,NNN,Nanguneri,16128,Guruvayur Express,,,35.0,0.0,3.33
+NNN,Nanguneri,TEN,Tirunelveli Jn,16128,Guruvayur Express,,,20.5,0.0,3.33
+TEN,Tirunelveli Jn,MEJ,Vanchi Maniyachchi,16128,Guruvayur Express,,,6.5,93.33,0.0
+MEJ,Vanchi Maniyachchi,CVP,Kovilpatti,16128,Guruvayur Express,,,9.5,86.67,0.0
+SDN,Sholavandan,KQN,Kodaikanal Road,16128,Guruvayur Express,,,8.0,76.67,0.0
+KQN,Kodaikanal Road,DG,Dindigul Jn,16128,Guruvayur Express,,,7.5,73.33,0.0
+TPJ,Tiruchchirapali,SRGM,Srirangam,16128,Guruvayur Express,,,37.5,16.67,10.0
+SRGM,Srirangam,ALU,Ariyalur,16128,Guruvayur Express,,,40.5,16.67,16.67
+ALU,Ariyalur,PNDM,Pennadam,16128,Guruvayur Express,,,33.5,6.67,16.67
+PNDM,Pennadam,VRI,Vridhachalam Jn,16128,Guruvayur Express,,,24.0,36.67,3.33
+KYN,Kalyan Jn,KJT,Karjat,16339,Nagercoil Express,,,26.0,5.88,5.88
+KJT,Karjat,PUNE,Pune Jn,16339,Nagercoil Express,,,31.0,41.18,5.88
+PUNE,Pune Jn,DD,Daund Jn,16339,Nagercoil Express,,,31.0,11.76,5.88
+DD,Daund Jn,KWV,Kurduvadi,16339,Nagercoil Express,,,35.0,5.88,11.76
+YG,Yadgir,RC,Raichur,16339,Nagercoil Express,,,16.0,82.35,5.88
+DMM,Dharmavaram Jn,KRY,Kadiri,16339,Nagercoil Express,,,23.0,58.82,5.88
+KRY,Kadiri,MPL,Madanapalle Rd,16339,Nagercoil Express,,,25.5,58.82,5.88
+MPL,Madanapalle Rd,PIL,Piler,16339,Nagercoil Express,,,28.0,35.29,5.88
+PIL,Piler,PAK,Pakala Jn,16339,Nagercoil Express,,,36.0,70.59,5.88
+PAK,Pakala Jn,CTO,Chittoor,16339,Nagercoil Express,,,35.5,11.76,5.88
+KPD,Katpadi Jn,TPT,Tirupattur Jn,16339,Nagercoil Express,,,16.0,47.06,0.0
+TPT,Tirupattur Jn,SLY,Samalpatti,16339,Nagercoil Express,,,13.0,70.59,0.0
+SLY,Samalpatti,SA,Salem Jn,16339,Nagercoil Express,,,23.0,52.94,0.0
+SA,Salem Jn,NMKL,Namakkal,16339,Nagercoil Express,,,23.0,11.76,0.0
+NMKL,Namakkal,KRR,Karur,16339,Nagercoil Express,,,6.0,35.29,0.0
+KRR,Karur,DG,Dindigul Jn,16339,Nagercoil Express,,,6.0,94.12,0.0
+VLY,Valliyur,NCJ,Nagercoil Jn,16339,Nagercoil Express,,,,100.0,0.0
+NCJ,Nagercoil Jn,VLY,Valliyur,16340,Nagercoil Express,,,0.5,100.0,0.0
+DG,Dindigul Jn,KRR,Karur,16340,Nagercoil Express,,,41.0,37.5,31.25
+KRR,Karur,NMKL,Namakkal,16340,Nagercoil Express,,,43.0,12.5,37.5
+NMKL,Namakkal,SA,Salem Jn,16340,Nagercoil Express,,,16.0,25.0,25.0
+SA,Salem Jn,SLY,Samalpatti,16340,Nagercoil Express,,,28.0,56.25,0.0
+SLY,Samalpatti,TPT,Tirupattur Jn,16340,Nagercoil Express,,,40.0,0.0,6.25
+TPT,Tirupattur Jn,KPD,Katpadi Jn,16340,Nagercoil Express,,,,6.25,18.75
+CTO,Chittoor,PAK,Pakala Jn,16340,Nagercoil Express,,,21.5,75.0,0.0
+PAK,Pakala Jn,PIL,Piler,16340,Nagercoil Express,,,29.5,0.0,6.25
+PIL,Piler,MPL,Madanapalle Rd,16340,Nagercoil Express,,,32.5,0.0,6.25
+MPL,Madanapalle Rd,KRY,Kadiri,16340,Nagercoil Express,,,30.5,6.25,6.25
+KRY,Kadiri,DMM,Dharmavaram Jn,16340,Nagercoil Express,,,19.0,37.5,6.25
+RC,Raichur,YG,Yadgir,16340,Nagercoil Express,,,19.0,68.75,0.0
+KSRA,Kasara,IGP,Igatpuri,17057,Devagiri Express,,,21.5,36.67,0.0
+IGP,Igatpuri,NK,Nasik Road,17057,Devagiri Express,,,22.5,33.33,0.0
+MMR,Manmad Jn,RGO,Rotegaon,17057,Devagiri Express,,,18.5,43.33,3.33
+RGO,Rotegaon,LSR,Lasur,17057,Devagiri Express,,,17.0,66.67,3.33
+LSR,Lasur,AWB,Aurangabad,17057,Devagiri Express,,,22.0,50.0,3.33
+AWB,Aurangabad,PTU,Partur,17057,Devagiri Express,,,22.0,60.0,6.67
+PTU,Partur,SELU,Selu,17057,Devagiri Express,,,58.0,3.33,50.0
+SELU,Selu,MVO,Manwath Road,17057,Devagiri Express,,,56.0,6.67,33.33
+MVO,Manwath Road,PBN,Parbhani Jn,17057,Devagiri Express,,,51.0,3.33,26.67
+PBN,Parbhani Jn,PAU,Purna Jn,17057,Devagiri Express,,,48.0,10.0,23.33
+PAU,Purna Jn,NED,H Sahib Nanded,17057,Devagiri Express,,,37.0,26.67,10.0
+NED,H Sahib Nanded,MUE,Mudkhed,17057,Devagiri Express,,,37.0,20.0,13.33
+MUE,Mudkhed,UMRI,Umri,17057,Devagiri Express,,,38.0,33.33,13.33
+UMRI,Umri,DAB,Dharmabad,17057,Devagiri Express,,,41.0,26.67,20.0
+DAB,Dharmabad,BSX,Basar,17057,Devagiri Express,,,47.5,10.0,20.0
+BSX,Basar,NZB,Nizamabad,17057,Devagiri Express,,,53.0,6.67,26.67
+NZB,Nizamabad,KMC,Kamareddi,17057,Devagiri Express,,,56.0,6.67,30.0
+KMC,Kamareddi,AKE,Akanapet,17057,Devagiri Express,,,57.0,13.33,36.67
+AKE,Akanapet,MZL,Mirzapali,17057,Devagiri Express,,,58.5,13.33,40.0
+MZL,Mirzapali,BMO,Bolarum,17057,Devagiri Express,,,47.5,13.33,43.33
+BMO,Bolarum,SC,Secunderabad Jn,17057,Devagiri Express,,,43.5,36.67,16.67
+SC,Secunderabad Jn,BMT,Begumpet,17057,Devagiri Express,,,44.0,36.67,16.67
+BMT,Begumpet,LPI,Lingampalli,17057,Devagiri Express,,,39.0,70.0,16.67
+LPI,Lingampalli,BMT,Begumpet,17058,Devagiri Express,,,3.0,96.67,0.0
+BMT,Begumpet,SC,Secunderabad Jn,17058,Devagiri Express,,,4.0,96.67,3.33
+SC,Secunderabad Jn,BMO,Bolarum,17058,Devagiri Express,,,5.0,86.67,0.0
+BMO,Bolarum,MZL,Mirzapali,17058,Devagiri Express,,,11.0,90.0,0.0
+MZL,Mirzapali,AKE,Akanapet,17058,Devagiri Express,,,19.0,43.33,0.0
+AKE,Akanapet,KMC,Kamareddi,17058,Devagiri Express,,,25.0,33.33,0.0
+KMC,Kamareddi,NZB,Nizamabad,17058,Devagiri Express,,,35.5,16.67,3.33
+NZB,Nizamabad,BSX,Basar,17058,Devagiri Express,,,48.0,13.33,16.67
+BSX,Basar,DAB,Dharmabad,17058,Devagiri Express,,,55.5,6.67,13.33
+DAB,Dharmabad,UMRI,Umri,17058,Devagiri Express,,,55.0,6.67,13.33
+UMRI,Umri,MUE,Mudkhed,17058,Devagiri Express,,,41.0,6.67,10.0
+MUE,Mudkhed,NED,H Sahib Nanded,17058,Devagiri Express,,,29.0,73.33,10.0
+NED,H Sahib Nanded,PAU,Purna Jn,17058,Devagiri Express,,,26.5,66.67,10.0
+PAU,Purna Jn,PBN,Parbhani Jn,17058,Devagiri Express,,,27.0,70.0,6.67
+PBN,Parbhani Jn,MVO,Manwath Road,17058,Devagiri Express,,,33.0,80.0,10.0
+MVO,Manwath Road,SELU,Selu,17058,Devagiri Express,,,35.5,70.0,10.0
+SELU,Selu,PTU,Partur,17058,Devagiri Express,,,40.5,60.0,10.0
+PTU,Partur,AWB,Aurangabad,17058,Devagiri Express,,,47.5,33.33,10.0
+AWB,Aurangabad,LSR,Lasur,17058,Devagiri Express,,,46.0,20.0,10.0
+LSR,Lasur,RGO,Rotegaon,17058,Devagiri Express,,,42.0,50.0,10.0
+RGO,Rotegaon,MMR,Manmad Jn,17058,Devagiri Express,,,47.0,53.33,10.0
+NK,Nasik Road,IGP,Igatpuri,17058,Devagiri Express,,,50.5,16.67,13.33
+IGP,Igatpuri,KYN,Kalyan Jn,17058,Devagiri Express,,,46.0,83.33,13.33
+TBM,Tambaram,VM,Villupuram Jn,20665,Vande Bharat,,,5.0,100.0,0.0
+VM,Villupuram Jn,TPJ,Tiruchchirapali,20665,Vande Bharat,,,7.0,92.31,0.0
+DG,Dindigul Jn,MDU,Madurai Jn,20665,Vande Bharat,,,13.0,88.46,3.85
+VPT,Virudunagar Jn,TEN,Tirunelveli Jn,20665,Vande Bharat,,,17.0,61.54,3.85
+TEN,Tirunelveli Jn,VPT,Virudunagar Jn,20666,Vande Bharat,,,0.0,100.0,0.0
+MDU,Madurai Jn,DG,Dindigul Jn,20666,Vande Bharat,,,5.5,100.0,0.0
+TPJ,Tiruchchirapali,VM,Villupuram Jn,20666,Vande Bharat,,,6.5,100.0,0.0
+VM,Villupuram Jn,TBM,Tambaram,20666,Vande Bharat,,,15.0,92.31,0.0
+TBM,Tambaram,MS,Chennai Egmore,20666,Vande Bharat,,,12.0,19.23,0.0
+KYN,Kalyan Jn,NK,Nasik Road,22221,Mumbai Vande Bharat,,,9.0,86.67,0.0
+NK,Nasik Road,JL,Jalgaon Jn,22221,Mumbai Vande Bharat,,,,13.33,0.0
+BSL,Bhusaval Jn,BPL,Bhopal Jn,22221,Mumbai Vande Bharat,,,12.0,80.0,0.0
+BPL,Bhopal Jn,BSL,Bhusaval Jn,22222,Mumbai Vande Bharat,,,22.5,53.33,3.33
+JL,Jalgaon Jn,NK,Nasik Road,22222,Mumbai Vande Bharat,,,24.0,40.0,3.33
+KWV,Kurduvadi,PUNE,Pune Jn,22226,Chennai Vande Bharat,,,5.5,100.0,0.0
+HWH,Howrah Jn,BHP,Bolpur S Niktn,22301,Vande Bharat,,,9.5,100.0,0.0
+BHP,Bolpur S Niktn,MLDT,Malda Town,22301,Vande Bharat,,,12.0,38.46,0.0
+MLDT,Malda Town,BHP,Bolpur S Niktn,22302,Vande Bharat,,,18.0,61.54,0.0
+BHP,Bolpur S Niktn,HWH,Howrah Jn,22302,Vande Bharat,,,21.0,46.15,0.0
+BWT,Bangarapet,MLO,Malur,22601,Chennai Intercity,,,61.0,50.0,25.0
+MLO,Malur,KJM,Krishnarajapurm,22601,Chennai Intercity,,,66.0,50.0,25.0
+KJM,Krishnarajapurm,YNK,Yelhanka Jn,22601,Chennai Intercity,,,66.0,25.0,25.0
+YNK,Yelhanka Jn,HUP,Hindupur,22601,Chennai Intercity,,,60.5,75.0,25.0
+RC,Raichur,WADI,Wadi,22601,Chennai Intercity,,,57.5,75.0,25.0
+SUR,Solapur Jn,DD,Daund Jn,22601,Chennai Intercity,,,62.5,0.0,25.0
+DD,Daund Jn,ANG,Ahmadnagar,22601,Chennai Intercity,,,74.5,25.0,25.0
+ANG,Ahmadnagar,SNSI,Sainagar Shirdi,22601,Chennai Intercity,,,65.0,0.0,50.0
+SNSI,Sainagar Shirdi,ANG,Ahmadnagar,22602,Chennai Intercity,,,2.0,100.0,0.0
+ANG,Ahmadnagar,DD,Daund Jn,22602,Chennai Intercity,,,18.0,0.0,0.0
+DD,Daund Jn,SUR,Solapur Jn,22602,Chennai Intercity,,,24.0,50.0,0.0
+WADI,Wadi,RC,Raichur,22602,Chennai Intercity,,,13.0,100.0,0.0
+HUP,Hindupur,YNK,Yelhanka Jn,22602,Chennai Intercity,,,15.5,75.0,0.0
+YNK,Yelhanka Jn,KJM,Krishnarajapurm,22602,Chennai Intercity,,,11.5,25.0,0.0
+KJM,Krishnarajapurm,MLO,Malur,22602,Chennai Intercity,,,6.0,75.0,0.0
+MLO,Malur,BWT,Bangarapet,22602,Chennai Intercity,,,8.0,75.0,0.0
+MAS,Chennai Central,TRL,Tiruvallur,22651,Palakkad Superfast,,,5.5,96.67,0.0
+TRL,Tiruvallur,AJJ,Arakkonam,22651,Palakkad Superfast,,,11.5,90.0,0.0
+KPD,Katpadi Jn,GYM,Gudiyattam,22651,Palakkad Superfast,,,21.0,50.0,0.0
+GYM,Gudiyattam,JTJ,Jolarpettai,22651,Palakkad Superfast,,,18.0,16.67,0.0
+JTJ,Jolarpettai,MAP,Morappur,22651,Palakkad Superfast,,,14.5,73.33,0.0
+MAP,Morappur,SA,Salem Jn,22651,Palakkad Superfast,,,15.5,53.33,0.0
+SA,Salem Jn,RASP,Rasipuram,22651,Palakkad Superfast,,,14.0,66.67,0.0
+RASP,Rasipuram,NMKL,Namakkal,22651,Palakkad Superfast,,,13.5,70.0,0.0
+NMKL,Namakkal,MONR,Mohanur,22651,Palakkad Superfast,,,13.0,66.67,0.0
+MONR,Mohanur,KRR,Karur,22651,Palakkad Superfast,,,12.0,66.67,0.0
+DG,Dindigul Jn,ODC,Oddanchatram,22651,Palakkad Superfast,,,15.5,46.67,0.0
+ODC,Oddanchatram,PLNI,Palani,22651,Palakkad Superfast,,,14.0,63.33,0.0
+PLNI,Palani,UDT,Udumalaippettai,22651,Palakkad Superfast,,,13.0,53.33,0.0
+UDT,Udumalaippettai,POY,Pollachi Jn,22651,Palakkad Superfast,,,10.5,60.0,0.0
+POY,Pollachi Jn,PGTN,Palghat Town,22651,Palakkad Superfast,,,4.5,80.0,0.0
+PGTN,Palghat Town,PGT,Palakkad Jn,22651,Palakkad Superfast,,,1.0,100.0,0.0
+PGT,Palakkad Jn,PGTN,Palghat Town,22652,Palakkad Superfast,,,2.0,100.0,0.0
+PGTN,Palghat Town,POY,Pollachi Jn,22652,Palakkad Superfast,,,2.0,100.0,0.0
+POY,Pollachi Jn,UDT,Udumalaippettai,22652,Palakkad Superfast,,,1.5,100.0,0.0
+UDT,Udumalaippettai,PLNI,Palani,22652,Palakkad Superfast,,,4.5,100.0,0.0
+PLNI,Palani,ODC,Oddanchatram,22652,Palakkad Superfast,,,9.0,96.67,0.0
+ODC,Oddanchatram,DG,Dindigul Jn,22652,Palakkad Superfast,,,8.0,73.33,0.0
+KRR,Karur,MONR,Mohanur,22652,Palakkad Superfast,,,9.0,83.33,0.0
+MONR,Mohanur,NMKL,Namakkal,22652,Palakkad Superfast,,,12.0,70.0,0.0
+NMKL,Namakkal,RASP,Rasipuram,22652,Palakkad Superfast,,,13.0,63.33,0.0
+RASP,Rasipuram,SA,Salem Jn,22652,Palakkad Superfast,,,9.0,63.33,0.0
+SA,Salem Jn,MAP,Morappur,22652,Palakkad Superfast,,,5.5,96.67,0.0
+MAP,Morappur,JTJ,Jolarpettai,22652,Palakkad Superfast,,,4.5,86.67,0.0
+JTJ,Jolarpettai,GYM,Gudiyattam,22652,Palakkad Superfast,,,4.0,96.67,0.0
+GYM,Gudiyattam,KPD,Katpadi Jn,22652,Palakkad Superfast,,,6.0,93.33,0.0
+AJJ,Arakkonam,TRL,Tiruvallur,22652,Palakkad Superfast,,,11.0,83.33,0.0
+TRL,Tiruvallur,PER,Perambur,22652,Palakkad Superfast,,,15.0,66.67,0.0
+DBRG,Dibrugarh,CAPE,Kanyakumari,22504,Dibrugarh Kanniyakumari Vivek SF Exp,4155.0,4450.0,,,
+CAPE,Kanyakumari,DBRG,Dibrugarh,22503,Kanniyakumari Dibrugarh Vivek SF Exp,4154.0,4535.0,,,
+SCL,Silchar,TVC,Thiruvananthapuram,12508,Aronai Exp,3916.0,4395.0,,,
+TVC,Thiruvananthapuram,SCL,Silchar,12507,Aronai Exp,3916.0,4280.0,,,
+CAPE,Kanyakumari,SVDK,Shri Mata Vaishno Devi Katra,16317,Himsagar Exp,3789.0,4110.0,,,
+SVDK,Shri Mata Vaishno Devi Katra,CAPE,Kanyakumari,16318,Himsagar Exp,3789.0,4290.0,,,
+SVDK,Shri Mata Vaishno Devi Katra,TEN,Tirunelveli,16788,Vaishno Devi Katra Tirunelveli Exp,3633.0,4095.0,,,
+TEN,Tirunelveli,SVDK,Shri Mata Vaishno Devi Katra,16787,Tirunelveli Vaishno Devi Katra Exp,3633.0,3885.0,,,
+AGTL,Agartala,SMVB,Bengaluru Cant,12504,Agartala SMVT Bengaluru Humsafar Exp,3555.0,3760.0,,,
+SMVB,Bengaluru Cant,AGTL,Agartala,12503,SMVT Bengaluru Agartala Humsafar Exp,3555.0,3880.0,,,
+NTSK,New Tinsukia,SMVB,Bengaluru Cant,22502,New Tinsukia SMVT Bengaluru SF Exp,3543.0,3845.0,,,
+RMM,Rameswaram,FZR,Firozpur Cantt,20497,Rameswaram Firozpur Cantt Humsafar SF Exp,3540.0,3785.0,,,
+FZR,Firozpur Cantt,RMM,Rameswaram,20498,Firozpur Cantt Rameswaram Humsafar SF Exp,3540.0,3760.0,,,
+SMVB,Bengaluru Cant,NTSK,New Tinsukia,22501,SMVT Bengaluru New Tinsukia SF Exp,3544.0,3655.0,,,
+CBE,Coimbatore,SCL,Silchar,12515,Coimbatore Silchar SF Exp,3493.0,3975.0,,,
+SCL,Silchar,CBE,Coimbatore,12516,Silchar Coimbatore SF Exp,3493.0,3875.0,,,
+BJU,Barauni,ERS,Ernakulam Jn,12521,Barauni Ernakulam Rapti Sagar Exp,3434.0,3640.0,,,
+ERS,Ernakulam Jn,BJU,Barauni,12522,Ernakulam Barauni Rapti Sagar Exp,3434.0,3680.0,,,
+TVCN,Thiruvananthapuram North,ASR,Amritsar,12483,Thiruvananthapuram North Amritsar SF Exp,3292.0,3160.0,,,
+ASR,Amritsar,TVCN,Thiruvananthapuram North,12484,Amritsar Thiruvananthapuram North SF,3292.0,3275.0,,,
+TVCN,Thiruvananthapuram North,GKP,Gorakhpur,12512,Thiruvananthapuram North Gorakhpur Rapti Sa,3236.0,3400.0,,,
+GKP,Gorakhpur,TVCN,Thiruvananthapuram North,12511,Gorakhpur Thiruvananthapuram North Rapti Sa,3236.0,3427.0,,,
+GHY,Guwahati,OKHA,Okha,15636,Guwahati Okha Dwarka Exp,3226.0,3620.0,,,
+OKHA,Okha,GHY,Guwahati,15635,Okha Guwahati Dwarka Exp,3226.0,3955.0,,,
+TBM,Tambaram,NTSK,New Tinsukia,15929,Tambaram New Tinsukia Exp,3218.0,3630.0,,,
+NTSK,New Tinsukia,TBM,Tambaram,15930,New Tinsukia Tambaram Exp,3218.0,3725.0,,,
+OKHA,Okha,RMM,Rameswaram,16734,Okha Rameswaram Exp,3153.0,3510.0,,,
+RMM,Rameswaram,OKHA,Okha,16733,Rameswaram Okha Weekly Exp,3153.0,3570.0,,,
+ED,Erode,JBN,Jogbani,16601,Erode Jogbani Amrit Bharat Exp,3129.0,3525.0,,,
+JBN,Jogbani,ED,Erode,16602,Jogbani Erode Amrit Bharat Exp,3129.0,3825.0,,,
+DBRG,Dibrugarh,LTT,Mumbai LTT,15946,Dibrugarh Mumbai LTT Exp,3127.0,3630.0,,,
+AGTL,Agartala,LTT,Mumbai LTT,12520,Agartala Mumbai LTT AC SF Exp,3127.0,3405.0,,,
+LTT,Mumbai LTT,AGTL,Agartala,12519,Mumbai LTT Agartala AC SF Exp,3127.0,3480.0,,,
+LTT,Mumbai LTT,DBRG,Dibrugarh,15945,Mumbai LTT Dibrugarh Exp,3127.0,3615.0,,,
+KYQ,Kamakhya,GIMB,Gandhidham,15668,Kamakhya Gandhidham Exp,3123.0,3500.0,,,
+GIMB,Gandhidham,KYQ,Kamakhya,15667,Gandhidham Kamakhya Exp,3123.0,3795.0,,,
+DBRG,Dibrugarh,LGH,Lalganj,15909,Avadh Assam Exp,3117.0,3975.0,,,
+LGH,Lalganj,DBRG,Dibrugarh,15910,Avadh Assam Exp,3117.0,3975.0,,,
+NJP,New Jalpaiguri,NCJ,Nagercoil,20603,New Jalpaiguri Nagercoil Amrit Bharat Exp,3113.0,3255.0,,,
+NCJ,Nagercoil,NJP,New Jalpaiguri,20604,Nagercoil New Jalpaiguri Amrit Bharat Exp,3112.0,3240.0,,,
+YNRK,Rishikesh,TVCN,Thiruvananthapuram North,22660,Rishikesh Thiruvananthapuram North SF,3111.0,3255.0,,,
+TVCN,Thiruvananthapuram North,YNRK,Rishikesh,22659,Thiruvananthapuram North Rishikesh SF,3111.0,3150.0,,,
+SGNR,Sri Ganganagar,TPJ,Tiruchirappalli,22497,Sri Ganganagar Tiruchirappalli Humsafar,3108.0,3385.0,,,
+TPJ,Tiruchirappalli,SGNR,Sri Ganganagar,22498,Tiruchirappalli Sri Ganganagar Humsafar,3104.0,3335.0,,,
+CDG,Chandigarh,TVCN,Thiruvananthapuram North,12218,Kerala Sampark Kranti Exp,3088.0,3060.0,,,
+TVCN,Thiruvananthapuram North,CDG,Chandigarh,12217,Kerala Sampark Kranti Exp,3088.0,2920.0,,,
+MDU,Madurai,CDG,Chandigarh,20493,Madurai Chandigarh SF Exp,3074.0,3110.0,,,
+CDG,Chandigarh,MDU,Madurai,20494,Chandigarh Madurai SF Exp,3074.0,3215.0,,,
+MDU,Madurai,BKN,Bikaner,22631,Anuvrat AC SF Exp,3060.0,3040.0,,,
+BKN,Bikaner,MDU,Madurai,22632,Anuvrat AC SF Exp,3060.0,3060.0,,,
+ERS,Ernakulam Jn,PNBE,Patna,22669,Ernakulam Patna SF Exp,3047.0,3270.0,,,
+PNBE,Patna,ERS,Ernakulam Jn,22670,Patna Ernakulam SF Exp,3047.0,3190.0,,,
+DBG,Darbhanga,MYS,Mysuru,12577,Bagmati Exp,3036.0,3145.0,,,
+MYS,Mysuru,DBG,Darbhanga,12578,Bagmati Exp,3036.0,3220.0,,,
+TVC,Thiruvananthapuram,NDLS,New Delhi,12625,Kerala Exp,3031.0,2955.0,,,
+NDLS,New Delhi,TVC,Thiruvananthapuram,12626,Kerala Exp,3031.0,2980.0,,,
+NZM,Hazrat Nizamuddin,TVC,Thiruvananthapuram,12644,Hazrat Nizamuddin Thiruvananthapuram Ctrl SF,3012.0,2990.0,,,
+TVC,Thiruvananthapuram,NZM,Hazrat Nizamuddin,12643,Thiruvananthapuram Ctrl Hazrat Nizamuddin SF,3012.0,3150.0,,,
+TPTY,Tirupati,JAT,Jammu Tawi,22705,Tirupati Jammu Tawi Humsafar Exp,2985.0,2690.0,,,
+JAT,Jammu Tawi,TPTY,Tirupati,22706,Jammu Tawi Tirupati Humsafar Exp,2985.0,2935.0,,,
+GHY,Guwahati,SMVB,Bengaluru Cant,12510,Guwahati SMVT Bengaluru SF Exp,2969.0,3105.0,,,
+SMVB,Bengaluru Cant,GHY,Guwahati,12509,SMVT Bengaluru Guwahati SF Exp,2968.0,3190.0,,,
+CAPE,Kanyakumari,NZM,Hazrat Nizamuddin,12641,Thirukkural SF Exp,2919.0,2765.0,,,
+NZM,Hazrat Nizamuddin,CAPE,Kanyakumari,12642,Thirukkural SF Exp,2919.0,2805.0,,,
+ASR,Amritsar,NTSK,New Tinsukia,15934,Amritsar New Tinsukia Exp,2812.0,3570.0,,,
+NTSK,New Tinsukia,ASR,Amritsar,15933,New Tinsukia Amritsar Exp,2812.0,3545.0,,,
+NDLS,New Delhi,MAS,Chennai Central,12621,Tamil Nadu Exp,2175.0,1950.0,,,
+MAS,Chennai Central,NDLS,New Delhi,12622,Tamil Nadu Exp,2175.0,1980.0,,,
+SBC,Bangalore City,PNBE,Patna,12295,Sanghamitra Express,2459.0,2760.0,,,
+PNBE,Patna,SBC,Bangalore City,12296,Sanghamitra Express,2459.0,2790.0,,,

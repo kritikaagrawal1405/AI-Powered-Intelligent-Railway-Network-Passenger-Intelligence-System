@@ -1,0 +1,16 @@
+Train_id,Train_name,Train_type,Coaches,PNR_no,First_name,Last_name,Contact,Email_id,Booking_id,Booking_date,Source_station,Destination_station,Seat_alloted,State,City,Duration_minutes,Payment_mode,Fair,Booking_status,Meal_booked,km,Age
+12490,Samparak_Kranti,Express,25,45327839,Sneha,Jain,9876543210,sneha@example.com,6,2023-09-25,Jaipur,Delhi,5,Rajasthan,Jaipur,180,Online,640,Confirmed,True,840,15
+11450,Varanasi Super,Express,25,47836904,Rahul,Verma,8765432109,rahul@example.com,7,2023-08-21,Mumbai,Pune,3,Maharashtra,Mumbai,120,Online,750,Waiting,False,200,20
+42999,Memu 2,Passenger,10,45527842,Amit,Yadav,9876543211,amit@example.com,8,2023-07-15,Delhi,Agra,6,UP,Delhi,240,Cash,350,Confirmed,True,150,18
+80124,Vandebharat,Superfast,20,45627843,Neha,Singh,8765432108,neha@example.com,9,2023-10-08,Kolkata,Chennai,8,West Bengal,Kolkata,300,Cash,270,Confirmed,True,250,25
+71424,Shanti Express,Express,22,45727844,Rajat,Mishra,9876543212,rajat@example.com,10,2023-11-28,Bhopal,Indore,3,MP,Bhopal,90,Online,300,Waiting,False,300,30
+62374,Rajdhani,Rajdhani,25,45927845,Sachin,Kumar,9456789123,sachin@example.com,11,2023-09-10,Varanasi,Lucknow,4,UP,Varanasi,150,Cash,450,Confirmed,True,180,18
+56479,Duronto Express,Express,18,46027846,Anjali,Gupta,9876543213,anjali@example.com,12,2023-07-30,Chennai,Bangalore,5,Tamil Nadu,Chennai,180,Online,800,Confirmed,False,220,22
+47941,Shatabdi,Super fast,15,46127847,Vishal,Sharma,8765432107,vishal@example.com,13,2023-10-15,Hyderabad,Bangalore,7,Telangana,Hyderabad,210,Cash,740,Confirmed,True,270,27
+25473,Local,Passenger,18,46227848,Preeti,Verma,9876543214,preeti@example.com,14,2023-11-05,Ahmedabad,Surat,3,Gujarat,Ahmedabad,120,Online,1200,Confirmed,False,320,32
+14789,Darbhanga Expresss,Superfast,20,46327849,Aryan,Rajput,8765432106,aryan@example.com,15,2023-09-20,Delhi,Jaipur,6,Rajasthan,Delhi,240,Online,550,Confirmed,True,180,60
+14228,Mahamna,Express,20,45267838,Manish,Sharma,9569090882,dixit571@gmail.com,1,2023-07-12,Harpalpur,Delhi,1,MP,Harpalpur,120,Online,640,Waiting,False,120,45
+25486,Ambedkar Express,Express,24,45327840,Vipul,Rabari,9545789346,vr71@gmail.com,2,2022-09-11,Ahmedabad,Mumbai,2,Gujrat,Ahmedabad,270,Cash,780,Confirmed,True,270,50
+47111,Enter_City,Express,22,45247875,Harshit,Shahu,9046987634,kp91@gmail.com,3,2023-06-10,Ropad,Delhi,2,Punjab,Ropad,460,Cash,220,Confirmed,True,460,32
+14816,Memu,Passenger,12,45027849,Prince,Parihar,9935677846,dg41@gmail.com,4,2023-08-16,Chhatarpur,Bhopal,4,MP,Chhatarpur,90,Online,100,Waiting,False,90,28
+48231,Chambal,Express,25,45827848,Kapil,Payak,8765942461,rk51@gmail.com,5,2023-11-03,Lucknow,Banda,10,UP,Lucknow,620,Cash,1350,Confirmed,True,620,18

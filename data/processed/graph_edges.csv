@@ -1,0 +1,1325 @@
+source_station,destination_station,distance,travel_time,avg_delay
+Lokmanyatilak T,Thane,0.0,0.0,26.0
+Thane,Kalyan Jn,0.0,0.0,28.0
+Thane,Lokmanyatilak T,0.0,0.0,52.5
+Thane,Dadar,0.0,0.0,22.0
+Thane,Panvel,0.0,0.0,12.0
+Kalyan Jn,Pune Jn,0.0,0.0,30.0
+Kalyan Jn,Thane,0.0,0.0,60.5
+Kalyan Jn,Lonavala,0.0,0.0,15.5
+Kalyan Jn,Kasara,0.0,0.0,28.0
+Kalyan Jn,Dadar,0.0,0.0,49.0
+Kalyan Jn,Bhusaval Jn,0.0,0.0,283.0
+Kalyan Jn,C Shivaji Term Mumbai,0.0,0.0,475.0
+Kalyan Jn,Karjat,0.0,0.0,26.0
+Kalyan Jn,Nasik Road,0.0,0.0,9.0
+Pune Jn,Kurduvadi,0.0,0.0,60.0
+Pune Jn,Kalyan Jn,0.0,0.0,40.0
+Pune Jn,Uruli,0.0,0.0,24.5
+Pune Jn,Chinchvad,0.0,0.0,18.0
+Pune Jn,Solapur Jn,0.0,0.0,34.5
+Pune Jn,Lonavala,0.0,0.0,34.0
+Pune Jn,Daund Jn,0.0,0.0,31.0
+Kurduvadi,Solapur Jn,0.0,0.0,55.5
+Kurduvadi,Daund Jn,0.0,0.0,22.5
+Kurduvadi,Pandharpur,0.0,0.0,46.0
+Kurduvadi,Kem,0.0,0.0,29.5
+Kurduvadi,Pune Jn,0.0,0.0,5.5
+Solapur Jn,Dudhani,0.0,0.0,57.0
+Solapur Jn,Kurduvadi,0.0,0.0,32.0
+Solapur Jn,Kalaburagi Jn,0.0,0.0,31.0
+Solapur Jn,Pune Jn,0.0,0.0,20.0
+Solapur Jn,Daund Jn,0.0,0.0,62.5
+Dudhani,Ganagapur Road,0.0,0.0,65.0
+Dudhani,Solapur Jn,0.0,0.0,27.0
+Ganagapur Road,Kalaburagi Jn,0.0,0.0,66.5
+Ganagapur Road,Dudhani,0.0,0.0,20.0
+Kalaburagi Jn,Shahabad,0.0,0.0,60.0
+Kalaburagi Jn,Ganagapur Road,0.0,0.0,19.5
+Kalaburagi Jn,Wadi,0.0,0.0,18.0
+Kalaburagi Jn,Solapur Jn,0.0,0.0,13.0
+Shahabad,Wadi,0.0,0.0,40.0
+Shahabad,Kalaburagi Jn,0.0,0.0,16.5
+Wadi,Yadgir,0.0,0.0,28.5
+Wadi,Shahabad,0.0,0.0,13.5
+Wadi,Kalaburagi Jn,0.0,0.0,7.0
+Wadi,Raichur,0.0,0.0,13.0
+Yadgir,Krishna,0.0,0.0,30.0
+Yadgir,Wadi,0.0,0.0,26.0
+Yadgir,Saidapur,0.0,0.0,23.5
+Yadgir,Raichur,0.0,0.0,16.0
+Krishna,Raichur,0.0,0.0,28.5
+Krishna,Yadgir,0.0,0.0,42.0
+Raichur,Manthralayam Rd,0.0,0.0,29.5
+Raichur,Krishna,0.0,0.0,45.0
+Raichur,Saidapur,0.0,0.0,28.0
+Raichur,Yadgir,0.0,0.0,19.0
+Raichur,Wadi,0.0,0.0,57.5
+Manthralayam Rd,Adoni,0.0,0.0,33.5
+Manthralayam Rd,Raichur,0.0,0.0,32.0
+Adoni,Guntakal Jn,0.0,0.0,32.5
+Adoni,Manthralayam Rd,0.0,0.0,36.0
+Guntakal Jn,Anantapur,0.0,0.0,28.5
+Guntakal Jn,Adoni,0.0,0.0,39.5
+Guntakal Jn,Gooty Jn,0.0,0.0,24.5
+Anantapur,Dharmavaram Jn,0.0,0.0,23.0
+Anantapur,Guntakal Jn,0.0,0.0,29.0
+Dharmavaram Jn,Sai P Nilayam,0.0,0.0,18.0
+Dharmavaram Jn,Anantapur,0.0,0.0,19.0
+Dharmavaram Jn,Kadiri,0.0,0.0,23.0
+Sai P Nilayam,Hindupur,0.0,0.0,0.0
+Sai P Nilayam,Dharmavaram Jn,0.0,0.0,24.0
+Hindupur,Gauribidanur,0.0,0.0,0.0
+Hindupur,Sai P Nilayam,0.0,0.0,32.0
+Hindupur,Yelhanka Jn,0.0,0.0,15.5
+Gauribidanur,Bangalore Cant,0.0,0.0,30.0
+Gauribidanur,Hindupur,0.0,0.0,45.0
+Bangalore Cant,Ksr Bangalore Cy Jn,0.0,0.0,22.0
+Ksr Bangalore Cy Jn,Hosur,0.0,0.0,14.0
+Ksr Bangalore Cy Jn,Gauribidanur,0.0,0.0,43.0
+Hosur,Dharmapuri,0.0,0.0,61.0
+Hosur,Bangalore Cant,0.0,0.0,32.5
+Dharmapuri,Salem Jn,0.0,0.0,61.0
+Dharmapuri,Hosur,0.0,0.0,27.0
+Salem Jn,Erode Jn,0.0,0.0,26.0
+Salem Jn,Dharmapuri,0.0,0.0,18.5
+Salem Jn,Jolarpettai,72.2,70.4,15.0
+Salem Jn,Bommidi,0.0,0.0,6.0
+Salem Jn,Katpadi Jn,0.0,0.0,21.0
+Salem Jn,Namakkal,0.0,0.0,23.0
+Salem Jn,Samalpatti,0.0,0.0,28.0
+Salem Jn,Rasipuram,0.0,0.0,14.0
+Salem Jn,Morappur,0.0,0.0,5.5
+Erode Jn,Tiruppur,0.0,0.0,28.5
+Erode Jn,Salem Jn,0.0,0.0,11.5
+Tiruppur,Coimbatore Jn,0.0,0.0,31.0
+Tiruppur,Erode Jn,0.0,0.0,9.0
+Tiruppur,Coimbatore Nrth,0.0,0.0,18.5
+Coimbatore Jn,Tiruppur,0.0,0.0,1.0
+Coimbatore Jn,Palakkad Jn,73.9,72.7,109.0
+Daund Jn,Pune Jn,0.0,0.0,14.0
+Daund Jn,Bhigwan,0.0,0.0,28.0
+Daund Jn,Kedgaon,0.0,0.0,8.0
+Daund Jn,Kurduvadi,0.0,0.0,35.0
+Daund Jn,Ahmadnagar,0.0,0.0,74.5
+Daund Jn,Solapur Jn,0.0,0.0,24.0
+Dadar,Thane,0.0,0.0,2.0
+Dadar,Kalyan Jn,0.0,0.0,23.0
+Dadar,C Shivaji Term Mumbai,0.0,0.0,43.5
+Lonavala,Talegaon,0.0,0.0,18.5
+Lonavala,Kalyan Jn,0.0,0.0,19.5
+Lonavala,Pune Jn,0.0,0.0,36.5
+Talegaon,Chinchvad,0.0,0.0,19.0
+Talegaon,Lonavala,0.0,0.0,19.5
+Chinchvad,Pune Jn,0.0,0.0,19.5
+Chinchvad,Talegaon,0.0,0.0,29.0
+Uruli,Kedgaon,0.0,0.0,29.5
+Uruli,Pune Jn,0.0,0.0,16.5
+Kedgaon,Daund Jn,0.0,0.0,29.0
+Kedgaon,Uruli,0.0,0.0,12.5
+Bhigwan,Jeur,0.0,0.0,35.0
+Bhigwan,Daund Jn,0.0,0.0,9.5
+Jeur,Kem,0.0,0.0,42.5
+Jeur,Bhigwan,0.0,0.0,21.5
+Kem,Kurduvadi,0.0,0.0,45.0
+Kem,Jeur,0.0,0.0,28.0
+Pandharpur,Sangola,0.0,0.0,35.0
+Pandharpur,Kurduvadi,0.0,0.0,19.0
+Sangola,Mhasoda Dongar,0.0,0.0,34.5
+Sangola,Pandharpur,0.0,0.0,15.5
+Mhasoda Dongar,Jath Road,0.0,0.0,39.0
+Mhasoda Dongar,Sangola,0.0,0.0,26.0
+Jath Road,Dhalgaon,0.0,0.0,47.5
+Jath Road,Mhasoda Dongar,0.0,0.0,20.0
+Dhalgaon,Kavathe Mahankl,0.0,0.0,53.0
+Dhalgaon,Jath Road,0.0,0.0,20.0
+Kavathe Mahankl,Miraj Jn,0.0,0.0,33.5
+Kavathe Mahankl,Dhalgaon,0.0,0.0,8.0
+Miraj Jn,Sangli,0.0,0.0,14.0
+Miraj Jn,Kavathe Mahankl,0.0,0.0,8.0
+Sangli,Bhilavdi,0.0,0.0,17.0
+Sangli,Miraj Jn,0.0,0.0,6.0
+Bhilavdi,Kirloskarvadi,0.0,0.0,18.5
+Bhilavdi,Sangli,0.0,0.0,6.5
+Kirloskarvadi,Takari,0.0,0.0,20.0
+Kirloskarvadi,Bhilavdi,0.0,0.0,7.5
+Takari,Karad,0.0,0.0,23.5
+Takari,Kirloskarvadi,0.0,0.0,9.5
+Karad,Masur,0.0,0.0,27.5
+Karad,Takari,0.0,0.0,15.0
+Masur,Koregaon,0.0,0.0,33.5
+Masur,Karad,0.0,0.0,20.0
+Koregaon,Satara,0.0,0.0,20.0
+Koregaon,Masur,0.0,0.0,17.0
+Satara,Koregaon,0.0,0.0,6.5
+Rani Kamlapati,Bhopal Jn,0.0,0.0,3.0
+Rani Kamlapati,Narmadapuram,0.0,0.0,47.5
+Bhopal Jn,Bina Jn,0.0,0.0,6.0
+Bhopal Jn,Rani Kamlapati,0.0,0.0,8.0
+Bhopal Jn,Vidisha,0.0,0.0,31.5
+Bhopal Jn,V Lakshmibai Jhansi,316.2,275.4,6.0
+Bhopal Jn,Nagpur,316.2,275.0,8.0
+Bhopal Jn,Itarsi Jn,197.7,180.0,37.0
+Bhopal Jn,Bhusaval Jn,0.0,0.0,22.5
+Bina Jn,Lalitpur,0.0,0.0,11.5
+Bina Jn,Bhopal Jn,0.0,0.0,11.0
+Bina Jn,Ganj Basoda,0.0,0.0,38.5
+Bina Jn,V Lakshmibai Jhansi,72.2,70.4,31.5
+Lalitpur,V Lakshmibai Jhansi,0.0,0.0,17.5
+Lalitpur,Bina Jn,0.0,0.0,9.0
+Lalitpur,Babina,0.0,0.0,31.5
+V Lakshmibai Jhansi,Gwalior,0.0,0.0,21.5
+V Lakshmibai Jhansi,Lalitpur,0.0,0.0,0.0
+V Lakshmibai Jhansi,Datia,0.0,0.0,32.5
+V Lakshmibai Jhansi,Babina,0.0,0.0,30.0
+V Lakshmibai Jhansi,Bhopal Jn,316.2,275.0,7.0
+V Lakshmibai Jhansi,Bina Jn,73.9,72.7,66.0
+Gwalior,Morena,0.0,0.0,26.5
+Gwalior,V Lakshmibai Jhansi,0.0,0.0,0.0
+Gwalior,Agra Cantt,0.0,0.0,1.5
+Gwalior,Dabra,0.0,0.0,37.0
+Morena,Dhaulpur,0.0,0.0,22.0
+Morena,Gwalior,0.0,0.0,17.0
+Dhaulpur,Agra Cantt,0.0,0.0,16.5
+Dhaulpur,Morena,0.0,0.0,15.5
+Agra Cantt,Mathura Jn,0.0,0.0,19.5
+Agra Cantt,Dhaulpur,0.0,0.0,18.0
+Agra Cantt,H Nizamuddin,0.0,0.0,1.0
+Agra Cantt,Gwalior,0.0,0.0,17.0
+Agra Cantt,Raja Ki Mandi,0.0,0.0,27.0
+Mathura Jn,New Delhi,0.0,0.0,16.5
+Mathura Jn,Agra Cantt,0.0,0.0,19.5
+Mathura Jn,Kosi Kalan,0.0,0.0,44.5
+Mathura Jn,Raja Ki Mandi,0.0,0.0,48.0
+Mathura Jn,Faridabad,72.2,70.4,52.5
+Mathura Jn,Bharatpur Jn,0.0,0.0,27.5
+Mathura Jn,H Nizamuddin,0.0,0.0,7.5
+Mathura Jn,Sawai Madhopur,0.0,0.0,9.5
+New Delhi,Mathura Jn,0.0,0.0,9.0
+New Delhi,Delhi Kishangnj,0.0,0.0,46.0
+New Delhi,Faridabad,0.0,0.0,20.0
+New Delhi,Loharu,0.0,0.0,19.0
+New Delhi,Kanpur Central,0.0,0.0,16.5
+New Delhi,Agra Cantt,197.7,180.0,26.5
+New Delhi,Subzi Mandi,0.0,0.0,13.0
+New Delhi,Kota Jn,0.0,0.0,14.0
+New Delhi,Delhi Cantt,0.0,0.0,4.0
+New Delhi,Thiruvananthapuram,3031.0,2980.0,0.0
+New Delhi,Chennai Central,2175.0,1950.0,0.0
+Mumbai Central,Borivali,0.0,0.0,7.0
+Borivali,Vapi,0.0,0.0,16.0
+Borivali,Mumbai Central,0.0,0.0,11.5
+Borivali,Surat,0.0,0.0,25.0
+Borivali,Bandra Terminus,0.0,0.0,27.0
+Borivali,Dahanu Road,0.0,0.0,17.5
+Vapi,Surat,0.0,0.0,14.5
+Vapi,Borivali,0.0,0.0,21.0
+Vapi,Valsad,0.0,0.0,27.0
+Vapi,Dahanu Road,0.0,0.0,26.0
+Surat,Bharuch Jn,0.0,0.0,11.5
+Surat,Vapi,0.0,0.0,3.0
+Surat,Vadodara Jn,0.0,0.0,27.5
+Surat,Borivali,0.0,0.0,24.5
+Surat,Navsari,0.0,0.0,16.0
+Surat,Valsad,0.0,0.0,14.0
+Bharuch Jn,Vadodara Jn,0.0,0.0,10.0
+Bharuch Jn,Surat,0.0,0.0,3.0
+Vadodara Jn,Anand Jn,0.0,0.0,7.5
+Vadodara Jn,Bharuch Jn,0.0,0.0,5.0
+Vadodara Jn,Godhra Jn,0.0,0.0,29.0
+Vadodara Jn,Surat,0.0,0.0,22.5
+Vadodara Jn,Ratlam Jn,0.0,0.0,16.0
+Vadodara Jn,Dahod,0.0,0.0,11.5
+Anand Jn,Nadiad Jn,0.0,0.0,7.5
+Anand Jn,Vadodara Jn,0.0,0.0,5.0
+Nadiad Jn,Ahmedabad Jn,0.0,0.0,7.0
+Nadiad Jn,Anand Jn,0.0,0.0,7.0
+Ahmedabad Jn,Nadiad Jn,0.0,0.0,4.5
+Howrah Jn,Durgapur,0.0,0.0,6.5
+Howrah Jn,Bhubaneswar,0.0,0.0,62.0
+Howrah Jn,Tatanagar Jn,0.0,0.0,119.5
+Howrah Jn,Asansol Jn,0.0,0.0,16.0
+Howrah Jn,Barddhaman Jn,0.0,0.0,10.5
+Howrah Jn,Kharagpur Jn,24.1,22.6,56.5
+Howrah Jn,Chennai Central,23.4,22.0,92.5
+Howrah Jn,Shalimar,103.9,99.4,18.0
+Howrah Jn,Bandel Jn,0.0,0.0,8.0
+Howrah Jn,Bolpur S Niktn,0.0,0.0,9.5
+Durgapur,Raniganj,0.0,0.0,13.0
+Durgapur,Howrah Jn,0.0,0.0,7.0
+Durgapur,Asansol Jn,0.0,0.0,11.0
+Durgapur,Sealdah,0.0,0.0,29.5
+Raniganj,Asansol Jn,0.0,0.0,15.0
+Raniganj,Durgapur,0.0,0.0,15.0
+Asansol Jn,Dhanbad Jn,0.0,0.0,9.5
+Asansol Jn,Raniganj,0.0,0.0,16.5
+Asansol Jn,Howrah Jn,0.0,0.0,35.0
+Asansol Jn,Durgapur,0.0,0.0,40.0
+Dhanbad Jn,Chandrapura,0.0,0.0,3.5
+Dhanbad Jn,Asansol Jn,0.0,0.0,12.0
+Dhanbad Jn,Koderma,0.0,0.0,7.5
+Dhanbad Jn,Sealdah,0.0,0.0,44.0
+Dhanbad Jn,Parasnath,0.0,0.0,4.5
+Dhanbad Jn,Gaya Jn,0.0,0.0,5.5
+Chandrapura,Bokaro Stl City,0.0,0.0,2.5
+Chandrapura,Dhanbad Jn,0.0,0.0,6.0
+Bokaro Stl City,Muri,0.0,0.0,3.5
+Bokaro Stl City,Chandrapura,0.0,0.0,6.0
+Muri,Ranchi,0.0,0.0,6.0
+Muri,Bokaro Stl City,0.0,0.0,0.0
+Ranchi,Muri,0.0,0.0,2.0
+H Nizamuddin,Agra Cantt,0.0,0.0,15.0
+H Nizamuddin,New Delhi,0.0,0.0,39.5
+H Nizamuddin,Ghaziabad,0.0,0.0,53.0
+H Nizamuddin,Faridabad,0.0,0.0,24.0
+H Nizamuddin,Mathura Jn,0.0,0.0,3.0
+C Shivaji Term Mumbai,Dadar,0.0,0.0,14.5
+C Shivaji Term Mumbai,Kalyan Jn,0.0,0.0,246.0
+Kasara,Nasik Road,0.0,0.0,27.0
+Kasara,Igatpuri,0.0,0.0,21.5
+Nasik Road,Manmad Jn,0.0,0.0,33.0
+Nasik Road,Kalyan Jn,0.0,0.0,54.5
+Nasik Road,Igatpuri,0.0,0.0,50.5
+Nasik Road,Jalgaon Jn,0.0,0.0,0.0
+Manmad Jn,Chalisgaon Jn,0.0,0.0,36.5
+Manmad Jn,Nasik Road,0.0,0.0,63.5
+Manmad Jn,Rotegaon,0.0,0.0,18.5
+Chalisgaon Jn,Jalgaon Jn,0.0,0.0,40.0
+Chalisgaon Jn,Manmad Jn,0.0,0.0,61.0
+Jalgaon Jn,Bhusaval Jn,0.0,0.0,37.5
+Jalgaon Jn,Chalisgaon Jn,0.0,0.0,53.0
+Jalgaon Jn,Nasik Road,0.0,0.0,24.0
+Bhusaval Jn,Burhanpur,0.0,0.0,35.0
+Bhusaval Jn,Jalgaon Jn,0.0,0.0,50.5
+Bhusaval Jn,Akola Jn,0.0,0.0,376.5
+Bhusaval Jn,Kalyan Jn,0.0,0.0,482.0
+Bhusaval Jn,Bhopal Jn,0.0,0.0,12.0
+Burhanpur,Khandwa,0.0,0.0,25.5
+Burhanpur,Bhusaval Jn,0.0,0.0,52.0
+Khandwa,Khirkiya,0.0,0.0,18.0
+Khandwa,Burhanpur,0.0,0.0,39.0
+Khirkiya,Harda,0.0,0.0,24.0
+Khirkiya,Khandwa,0.0,0.0,57.0
+Harda,Banapura,0.0,0.0,32.5
+Harda,Khirkiya,0.0,0.0,72.5
+Banapura,Itarsi Jn,0.0,0.0,26.5
+Banapura,Harda,0.0,0.0,65.5
+Itarsi Jn,Narmadapuram,0.0,0.0,17.5
+Itarsi Jn,Banapura,0.0,0.0,55.5
+Itarsi Jn,Pipariya,70.3,78.9,26.0
+Itarsi Jn,Ghoradongri,70.3,79.7,10.5
+Itarsi Jn,Bhopal Jn,181.2,162.5,29.0
+Itarsi Jn,Nagpur,197.7,180.0,40.0
+Narmadapuram,Rani Kamlapati,0.0,0.0,19.0
+Narmadapuram,Itarsi Jn,0.0,0.0,49.5
+Vidisha,Ganj Basoda,0.0,0.0,39.5
+Vidisha,Bhopal Jn,0.0,0.0,51.0
+Ganj Basoda,Bina Jn,0.0,0.0,30.0
+Ganj Basoda,Vidisha,0.0,0.0,47.0
+Babina,V Lakshmibai Jhansi,0.0,0.0,32.5
+Babina,Lalitpur,0.0,0.0,38.0
+Datia,Dabra,0.0,0.0,35.0
+Datia,V Lakshmibai Jhansi,0.0,0.0,37.5
+Dabra,Gwalior,0.0,0.0,55.0
+Dabra,Datia,0.0,0.0,42.5
+Raja Ki Mandi,Mathura Jn,0.0,0.0,34.5
+Raja Ki Mandi,Agra Cantt,0.0,0.0,51.0
+Kosi Kalan,Faridabad,0.0,0.0,37.0
+Kosi Kalan,Mathura Jn,0.0,0.0,35.5
+Faridabad,H Nizamuddin,0.0,0.0,31.0
+Faridabad,Kosi Kalan,0.0,0.0,27.0
+Faridabad,Mathura Jn,0.0,0.0,29.0
+Delhi Kishangnj,Shakurbasti,0.0,0.0,52.0
+Delhi Kishangnj,New Delhi,0.0,0.0,16.0
+Shakurbasti,Bahadurgarh,0.0,0.0,58.0
+Shakurbasti,Delhi Kishangnj,0.0,0.0,15.5
+Bahadurgarh,Rohtak Jn,0.0,0.0,62.5
+Bahadurgarh,Shakurbasti,0.0,0.0,16.0
+Rohtak Jn,Jind Jn,0.0,0.0,64.0
+Rohtak Jn,Bahadurgarh,0.0,0.0,16.5
+Jind Jn,Narwana Jn,0.0,0.0,64.5
+Jind Jn,Rohtak Jn,0.0,0.0,15.0
+Narwana Jn,Tohana,0.0,0.0,65.0
+Narwana Jn,Jind Jn,0.0,0.0,21.0
+Tohana,Jakhal Jn,0.0,0.0,62.0
+Tohana,Narwana Jn,0.0,0.0,18.0
+Jakhal Jn,Bareta,0.0,0.0,63.0
+Jakhal Jn,Tohana,0.0,0.0,15.0
+Bareta,Budhlada,0.0,0.0,64.0
+Bareta,Jakhal Jn,0.0,0.0,16.5
+Budhlada,Mansa,0.0,0.0,68.0
+Budhlada,Bareta,0.0,0.0,17.0
+Mansa,Maur,0.0,0.0,69.0
+Mansa,Budhlada,0.0,0.0,15.5
+Maur,Bhatinda Jn,0.0,0.0,59.5
+Maur,Mansa,0.0,0.0,14.0
+Bhatinda Jn,Goneana Bhai Jagta,0.0,0.0,53.0
+Bhatinda Jn,Maur,0.0,0.0,9.5
+Goneana Bhai Jagta,Gangsar Jaitu,0.0,0.0,57.0
+Goneana Bhai Jagta,Bhatinda Jn,0.0,0.0,9.5
+Gangsar Jaitu,Kot Kapura,0.0,0.0,0.0
+Gangsar Jaitu,Goneana Bhai Jagta,0.0,0.0,13.5
+Kot Kapura,Faridkot,0.0,0.0,66.0
+Kot Kapura,Gangsar Jaitu,0.0,0.0,15.0
+Faridkot,Firozpur Cant,0.0,0.0,52.5
+Faridkot,Kot Kapura,0.0,0.0,14.0
+Firozpur Cant,Faridkot,0.0,0.0,12.0
+Saidapur,Raichur,0.0,0.0,24.0
+Saidapur,Yadgir,0.0,0.0,25.0
+Gooty Jn,Tadipatri,0.0,0.0,24.0
+Gooty Jn,Guntakal Jn,0.0,0.0,33.5
+Tadipatri,Yerraguntla,0.0,0.0,23.5
+Tadipatri,Gooty Jn,0.0,0.0,28.5
+Yerraguntla,Cuddapah,0.0,0.0,23.0
+Yerraguntla,Tadipatri,0.0,0.0,31.0
+Cuddapah,Razampeta,0.0,0.0,25.0
+Cuddapah,Yerraguntla,0.0,0.0,32.0
+Razampeta,Koduru,0.0,0.0,36.5
+Razampeta,Cuddapah,0.0,0.0,34.0
+Koduru,Renigunta Jn,0.0,0.0,31.5
+Koduru,Razampeta,0.0,0.0,30.0
+Renigunta Jn,Puttur,0.0,0.0,18.5
+Renigunta Jn,Koduru,0.0,0.0,24.5
+Renigunta Jn,Smvt Bengaluru,0.0,0.0,87.0
+Renigunta Jn,Vijayawada Jn,0.0,0.0,17.5
+Renigunta Jn,Gudur Jn,72.2,70.4,25.0
+Renigunta Jn,Tirupati,73.9,72.7,110.5
+Puttur,Tiruttani,0.0,0.0,18.5
+Puttur,Renigunta Jn,0.0,0.0,21.0
+Tiruttani,Arakkonam,0.0,0.0,25.5
+Tiruttani,Puttur,0.0,0.0,15.5
+Arakkonam,Perambur,0.0,0.0,38.5
+Arakkonam,Tiruttani,0.0,0.0,12.5
+Arakkonam,Katpadi Jn,70.3,79.7,34.5
+Arakkonam,Tiruvallur,0.0,0.0,11.0
+Perambur,Chennai Central,0.0,0.0,25.0
+Perambur,Gudur Jn,70.3,78.9,39.5
+Perambur,Arakkonam,70.3,79.7,32.0
+Perambur,Ongole,74.2,79.8,31.0
+Chennai Central,Arakkonam,0.0,0.0,7.0
+Chennai Central,Vijayawada Jn,316.2,275.4,8.0
+Chennai Central,Avadi,0.0,0.0,1.0
+Chennai Central,Howrah Jn,24.1,22.6,59.0
+Chennai Central,Gudur Jn,23.4,22.0,64.5
+Chennai Central,Ongole,97.8,93.5,40.5
+Chennai Central,Tiruvallur,0.0,0.0,5.5
+Chennai Central,New Delhi,2175.0,1980.0,0.0
+Panvel,Ratnagiri,0.0,0.0,35.5
+Panvel,Thane,0.0,0.0,43.0
+Ratnagiri,Madgaon,0.0,0.0,49.5
+Ratnagiri,Panvel,0.0,0.0,53.5
+Madgaon,Karwar,0.0,0.0,46.0
+Madgaon,Ratnagiri,0.0,0.0,50.5
+Karwar,Ankola,0.0,0.0,52.0
+Karwar,Madgaon,0.0,0.0,41.5
+Ankola,Mookambika Road,0.0,0.0,36.5
+Ankola,Karwar,0.0,0.0,46.5
+Mookambika Road,Udupi,0.0,0.0,22.0
+Mookambika Road,Ankola,0.0,0.0,45.0
+Udupi,Mangalore Jn,0.0,0.0,24.0
+Udupi,Mookambika Road,0.0,0.0,44.0
+Mangalore Jn,Kasaragod,0.0,0.0,23.0
+Mangalore Jn,Udupi,0.0,0.0,39.0
+Kasaragod,Kannur,0.0,0.0,24.5
+Kasaragod,Mangalore Jn,0.0,0.0,44.5
+Kannur,Kozhikode,0.0,0.0,22.0
+Kannur,Kasaragod,0.0,0.0,52.5
+Kozhikode,Tirur,0.0,0.0,20.5
+Kozhikode,Kannur,0.0,0.0,37.5
+Tirur,Shoranur Jn,0.0,0.0,22.0
+Tirur,Kozhikode,0.0,0.0,23.5
+Shoranur Jn,Thrisur,0.0,0.0,21.0
+Shoranur Jn,Tirur,0.0,0.0,17.5
+Thrisur,Ernakulam Town,0.0,0.0,21.0
+Thrisur,Shoranur Jn,0.0,0.0,16.5
+Thrisur,Ottappalam,72.2,70.4,23.5
+Thrisur,Aluva,73.9,72.7,115.5
+Thrisur,Punkunnam,0.0,0.0,33.0
+Thrisur,Irinjalakuda,0.0,0.0,14.0
+Ernakulam Town,Kottayam,0.0,0.0,20.0
+Ernakulam Town,Thrisur,0.0,0.0,15.5
+Ernakulam Town,Aluva,72.2,70.4,26.0
+Ernakulam Town,Vaikam Road,73.9,72.7,114.0
+Ernakulam Town,Ernakulam Jn,0.0,0.0,28.0
+Kottayam,Changanaseri,0.0,0.0,20.0
+Kottayam,Ernakulam Town,0.0,0.0,14.5
+Kottayam,Vaikam Road,72.2,70.4,23.0
+Changanaseri,Tiruvalla,0.0,0.0,20.0
+Changanaseri,Kottayam,0.0,0.0,16.5
+Tiruvalla,Chengannur,0.0,0.0,0.0
+Tiruvalla,Changanaseri,0.0,0.0,14.5
+Chengannur,Kayankulam Jn,0.0,0.0,22.0
+Chengannur,Tiruvalla,0.0,0.0,14.0
+Chengannur,Mavelikara,73.9,72.7,114.5
+Kayankulam Jn,Kollam Jn,0.0,0.0,22.0
+Kayankulam Jn,Chengannur,0.0,0.0,13.0
+Kayankulam Jn,Mavelikara,72.2,70.4,17.0
+Kayankulam Jn,Harippad,0.0,0.0,69.5
+Kollam Jn,Trivandrum North,0.0,0.0,0.0
+Kollam Jn,Kayankulam Jn,0.0,0.0,10.0
+Kollam Jn,Varkala,73.9,72.7,124.5
+Kollam Jn,Paravur,0.0,0.0,33.0
+Trivandrum North,Kollam Jn,0.0,0.0,4.5
+Madhupur Jn,Jasidih Jn,0.0,0.0,9.0
+Madhupur Jn,Barddhaman Jn,0.0,0.0,1.0
+Jasidih Jn,Jhajha,0.0,0.0,7.5
+Jasidih Jn,Madhupur Jn,0.0,0.0,139.0
+Jasidih Jn,Patna Jn,0.0,0.0,2.0
+Jhajha,Kiul Jn,0.0,0.0,3.0
+Jhajha,Jasidih Jn,0.0,0.0,147.5
+Kiul Jn,Mokameh Jn,0.0,0.0,35.0
+Kiul Jn,Jhajha,0.0,0.0,143.0
+Kiul Jn,Luckeesarai Jn,0.0,0.0,14.0
+Kiul Jn,Kajra,0.0,0.0,24.0
+Mokameh Jn,Patna Jn,0.0,0.0,26.5
+Mokameh Jn,Kiul Jn,0.0,0.0,0.0
+Mokameh Jn,Barh,0.0,0.0,34.0
+Mokameh Jn,Hathidah Jn,0.0,0.0,71.0
+Patna Jn,Ara,0.0,0.0,28.0
+Patna Jn,Mokameh Jn,0.0,0.0,0.0
+Patna Jn,Pt Deen Dayal Upadhyay Jn,0.0,0.0,6.5
+Patna Jn,Jasidih Jn,0.0,0.0,1.0
+Patna Jn,Patna Saheb,0.0,0.0,55.0
+Ara,Buxar,0.0,0.0,44.5
+Ara,Patna Jn,0.0,0.0,157.0
+Ara,Danapur,70.3,78.9,13.5
+Buxar,Pt Deen Dayal Upadhyay Jn,0.0,0.0,26.0
+Buxar,Ara,0.0,0.0,154.5
+Buxar,Dildarnagar Jn,70.3,79.7,39.5
+Pt Deen Dayal Upadhyay Jn,Prayagraj Jn,0.0,0.0,3.5
+Pt Deen Dayal Upadhyay Jn,Buxar,0.0,0.0,149.5
+Pt Deen Dayal Upadhyay Jn,Kanpur Central,0.0,0.0,7.5
+Pt Deen Dayal Upadhyay Jn,Koderma,0.0,0.0,23.0
+Pt Deen Dayal Upadhyay Jn,Dildarnagar Jn,70.3,78.9,12.0
+Pt Deen Dayal Upadhyay Jn,Mirzapur,70.3,79.7,21.0
+Pt Deen Dayal Upadhyay Jn,Gaya Jn,0.0,0.0,21.5
+Pt Deen Dayal Upadhyay Jn,Patna Jn,0.0,0.0,0.5
+Pt Deen Dayal Upadhyay Jn,Danapur,0.0,0.0,8.0
+Prayagraj Jn,Kanpur Central,0.0,0.0,9.5
+Prayagraj Jn,Pt Deen Dayal Upadhyay Jn,0.0,0.0,153.0
+Kanpur Central,Anand Vihar Trm,0.0,0.0,13.0
+Kanpur Central,Prayagraj Jn,0.0,0.0,159.0
+Kanpur Central,New Delhi,0.0,0.0,12.5
+Kanpur Central,Pt Deen Dayal Upadhyay Jn,0.0,0.0,24.0
+Anand Vihar Trm,Kanpur Central,0.0,0.0,0.0
+Bhubaneswar,Vizianagram Jn,0.0,0.0,102.0
+Bhubaneswar,Howrah Jn,0.0,0.0,41.0
+Bhubaneswar,Cuttack,74.2,79.8,39.5
+Bhubaneswar,Khurda Road Jn,76.1,79.6,121.5
+Vizianagram Jn,Vijayawada Jn,0.0,0.0,93.0
+Vizianagram Jn,Bhubaneswar,0.0,0.0,28.0
+Vizianagram Jn,Srikakulam Road,74.2,79.8,66.5
+Vizianagram Jn,Visakhapatnam,76.1,79.6,128.5
+Vizianagram Jn,Chipurupalle,23.4,22.0,90.0
+Vijayawada Jn,Renigunta Jn,0.0,0.0,97.0
+Vijayawada Jn,Vizianagram Jn,0.0,0.0,18.5
+Vijayawada Jn,Khammam,70.3,78.9,46.0
+Vijayawada Jn,Ongole,70.3,79.7,26.0
+Vijayawada Jn,Warangal,316.2,275.4,16.0
+Vijayawada Jn,Chennai Central,316.2,275.0,16.0
+Vijayawada Jn,Rajamundry,74.2,79.8,62.5
+Vijayawada Jn,Perambur,76.1,79.6,179.0
+Vijayawada Jn,Nellore,73.9,72.7,100.5
+Vijayawada Jn,Tenali Jn,24.1,22.6,116.5
+Vijayawada Jn,Eluru,23.4,22.0,89.0
+Smvt Bengaluru,Renigunta Jn,0.0,0.0,13.0
+Smvt Bengaluru,Krishnarajapurm,70.3,78.9,19.0
+Sealdah,Dhanbad Jn,0.0,0.0,2.0
+Sealdah,Durgapur,0.0,0.0,4.0
+Koderma,Pt Deen Dayal Upadhyay Jn,0.0,0.0,7.5
+Koderma,Dhanbad Jn,0.0,0.0,33.0
+Loharu,Sadulpur Jn,0.0,0.0,26.0
+Loharu,New Delhi,0.0,0.0,16.0
+Sadulpur Jn,Churu,0.0,0.0,34.5
+Sadulpur Jn,Loharu,0.0,0.0,24.0
+Churu,Ratangarh Jn,0.0,0.0,41.0
+Churu,Sadulpur Jn,0.0,0.0,24.0
+Ratangarh Jn,Sri Dungargarh,0.0,0.0,57.0
+Ratangarh Jn,Churu,0.0,0.0,0.0
+Sri Dungargarh,Bikaner Jn,0.0,0.0,32.0
+Sri Dungargarh,Ratangarh Jn,0.0,0.0,15.0
+Bikaner Jn,Sri Dungargarh,0.0,0.0,15.0
+Akola Jn,Nagpur,0.0,0.0,376.5
+Akola Jn,Bhusaval Jn,0.0,0.0,411.0
+Nagpur,Bilaspur Jn,0.0,0.0,301.5
+Nagpur,Akola Jn,0.0,0.0,411.0
+Nagpur,Betul,70.3,78.9,47.5
+Nagpur,Sevagram,70.3,79.7,31.5
+Nagpur,Bhopal Jn,316.2,275.4,11.5
+Nagpur,Balharshah,316.2,275.0,3.5
+Nagpur,Itarsi Jn,181.2,162.5,33.0
+Bilaspur Jn,Tatanagar Jn,0.0,0.0,414.0
+Bilaspur Jn,Nagpur,0.0,0.0,301.0
+Tatanagar Jn,Howrah Jn,0.0,0.0,558.0
+Tatanagar Jn,Bilaspur Jn,0.0,0.0,224.0
+Krishnarajapurm,Bangarapet,70.3,78.9,31.0
+Krishnarajapurm,Smvt Bengaluru,70.3,79.7,27.5
+Krishnarajapurm,Yelhanka Jn,0.0,0.0,66.0
+Krishnarajapurm,Malur,0.0,0.0,6.0
+Bangarapet,Kuppam,70.3,78.9,30.5
+Bangarapet,Krishnarajapurm,70.3,79.7,47.0
+Bangarapet,Jolarpettai,74.2,79.8,19.0
+Bangarapet,Malur,0.0,0.0,61.0
+Kuppam,Jolarpettai,70.3,78.9,30.0
+Kuppam,Bangarapet,70.3,79.7,47.5
+Jolarpettai,Katpadi Jn,70.3,78.9,27.0
+Jolarpettai,Kuppam,70.3,79.7,38.5
+Jolarpettai,Bangarapet,76.1,79.6,190.0
+Jolarpettai,Salem Jn,73.9,72.7,105.0
+Jolarpettai,Samalpatti,0.0,0.0,19.5
+Jolarpettai,Ambur,0.0,0.0,5.5
+Jolarpettai,Morappur,0.0,0.0,14.5
+Jolarpettai,Gudiyattam,0.0,0.0,4.0
+Katpadi Jn,Arakkonam,70.3,78.9,26.5
+Katpadi Jn,Jolarpettai,70.3,79.7,34.0
+Katpadi Jn,Chittoor,72.2,70.4,13.0
+Katpadi Jn,Ambur,0.0,0.0,23.0
+Katpadi Jn,Salem Jn,0.0,0.0,11.0
+Katpadi Jn,Tirupattur Jn,0.0,0.0,16.0
+Katpadi Jn,Gudiyattam,0.0,0.0,21.0
+Gudur Jn,Nellore,70.3,78.9,53.0
+Gudur Jn,Perambur,70.3,79.7,14.0
+Gudur Jn,Renigunta Jn,73.9,72.7,107.0
+Gudur Jn,Chennai Central,24.1,22.6,81.5
+Nellore,Ongole,70.3,78.9,60.5
+Nellore,Gudur Jn,70.3,79.7,19.5
+Nellore,Vijayawada Jn,72.2,70.4,23.5
+Ongole,Vijayawada Jn,70.3,78.9,57.5
+Ongole,Nellore,70.3,79.7,27.0
+Ongole,Chirala,23.4,22.0,83.0
+Khammam,Warangal,70.3,78.9,50.0
+Khammam,Vijayawada Jn,70.3,79.7,40.0
+Warangal,Ramgundam,70.3,78.9,59.5
+Warangal,Khammam,70.3,79.7,54.0
+Warangal,Balharshah,316.2,275.4,15.5
+Warangal,Vijayawada Jn,316.2,275.0,11.5
+Ramgundam,Sirpur Kagazngr,70.3,78.9,47.5
+Ramgundam,Warangal,70.3,79.7,47.0
+Ramgundam,Balharshah,72.2,70.4,33.0
+Sirpur Kagazngr,Balharshah,70.3,78.9,35.0
+Sirpur Kagazngr,Ramgundam,70.3,79.7,41.0
+Balharshah,Chandrapur,70.3,78.9,33.5
+Balharshah,Sirpur Kagazngr,70.3,79.7,24.5
+Balharshah,Nagpur,316.2,275.4,14.5
+Balharshah,Warangal,316.2,275.0,4.0
+Balharshah,Ramgundam,73.9,72.7,118.0
+Chandrapur,Sevagram,70.3,78.9,39.5
+Chandrapur,Balharshah,70.3,79.7,10.0
+Sevagram,Nagpur,70.3,78.9,37.5
+Sevagram,Chandrapur,70.3,79.7,41.0
+Betul,Ghoradongri,70.3,78.9,68.5
+Betul,Nagpur,70.3,79.7,24.5
+Ghoradongri,Itarsi Jn,70.3,78.9,49.5
+Ghoradongri,Betul,70.3,79.7,20.0
+Pipariya,Narsinghpur,70.3,78.9,54.0
+Pipariya,Itarsi Jn,70.3,79.7,8.0
+Narsinghpur,Jabalpur,70.3,78.9,48.5
+Narsinghpur,Pipariya,70.3,79.7,0.0
+Jabalpur,Katni,70.3,78.9,51.5
+Jabalpur,Narsinghpur,70.3,79.7,38.0
+Katni,Maihar,70.3,78.9,65.0
+Katni,Jabalpur,70.3,79.7,42.5
+Maihar,Satna,70.3,78.9,66.0
+Maihar,Katni,70.3,79.7,38.0
+Satna,Prayagraj Chheoki,70.3,78.9,66.0
+Satna,Maihar,70.3,79.7,24.5
+Prayagraj Chheoki,Mirzapur,70.3,78.9,49.5
+Prayagraj Chheoki,Satna,70.3,79.7,24.0
+Mirzapur,Pt Deen Dayal Upadhyay Jn,70.3,78.9,20.5
+Mirzapur,Prayagraj Chheoki,70.3,79.7,24.5
+Dildarnagar Jn,Buxar,70.3,78.9,19.0
+Dildarnagar Jn,Pt Deen Dayal Upadhyay Jn,70.3,79.7,33.0
+Danapur,Ara,70.3,79.7,14.0
+Danapur,Pt Deen Dayal Upadhyay Jn,0.0,0.0,10.5
+Danapur,Patliputra,0.0,0.0,9.0
+Parasnath,Gaya Jn,0.0,0.0,6.0
+Parasnath,Dhanbad Jn,0.0,0.0,27.0
+Gaya Jn,Pt Deen Dayal Upadhyay Jn,0.0,0.0,15.0
+Gaya Jn,Parasnath,0.0,0.0,28.5
+Gaya Jn,Dhanbad Jn,0.0,0.0,24.0
+Barddhaman Jn,Madhupur Jn,0.0,0.0,22.5
+Barddhaman Jn,Howrah Jn,0.0,0.0,0.0
+Bhagalpur,Sultanganj,0.0,0.0,10.0
+Sultanganj,Bariarpur,0.0,0.0,11.5
+Sultanganj,Bhagalpur,0.0,0.0,22.0
+Bariarpur,Jamalpur Jn,0.0,0.0,13.5
+Bariarpur,Sultanganj,0.0,0.0,37.5
+Jamalpur Jn,Dharhara,0.0,0.0,17.0
+Jamalpur Jn,Bariarpur,0.0,0.0,37.5
+Dharhara,Abhaipur,0.0,0.0,18.0
+Dharhara,Jamalpur Jn,0.0,0.0,30.0
+Abhaipur,Kajra,0.0,0.0,19.0
+Abhaipur,Dharhara,0.0,0.0,26.0
+Kajra,Kiul Jn,0.0,0.0,17.0
+Kajra,Abhaipur,0.0,0.0,26.0
+Luckeesarai Jn,Barhiya,0.0,0.0,21.0
+Luckeesarai Jn,Kiul Jn,0.0,0.0,45.5
+Barhiya,Hathidah Jn,0.0,0.0,22.5
+Barhiya,Luckeesarai Jn,0.0,0.0,71.0
+Hathidah Jn,Mokameh Jn,0.0,0.0,27.0
+Hathidah Jn,Barhiya,0.0,0.0,75.0
+Barh,Bakhtiyarpur Jn,0.0,0.0,39.5
+Barh,Mokameh Jn,0.0,0.0,69.0
+Bakhtiyarpur Jn,Khusropur,0.0,0.0,41.0
+Bakhtiyarpur Jn,Barh,0.0,0.0,67.0
+Khusropur,Fatuha Jn,0.0,0.0,48.0
+Khusropur,Bakhtiyarpur Jn,0.0,0.0,64.0
+Fatuha Jn,Patna Saheb,0.0,0.0,48.0
+Fatuha Jn,Khusropur,0.0,0.0,63.5
+Patna Saheb,Patna Jn,0.0,0.0,43.0
+Patna Saheb,Fatuha Jn,0.0,0.0,59.5
+Dibrugarh,New Tinsukia Jn,0.0,0.0,7.5
+Dibrugarh,Kanyakumari,4155.0,4450.0,0.0
+Dibrugarh,Mumbai LTT,3127.0,3630.0,0.0
+Dibrugarh,Lalganj,3117.0,3975.0,0.0
+New Tinsukia Jn,Mariani Jn,0.0,0.0,17.0
+New Tinsukia Jn,Dibrugarh,0.0,0.0,32.0
+New Tinsukia Jn,Duliajan,0.0,0.0,16.5
+Mariani Jn,Dimapur,0.0,0.0,21.5
+Mariani Jn,New Tinsukia Jn,0.0,0.0,38.0
+Mariani Jn,Amguri,0.0,0.0,42.5
+Mariani Jn,Furkating Jn,0.0,0.0,21.0
+Dimapur,Diphu,0.0,0.0,22.0
+Dimapur,Mariani Jn,0.0,0.0,27.0
+Dimapur,Sarupathar,0.0,0.0,48.0
+Diphu,Lumding Jn,0.0,0.0,33.0
+Diphu,Dimapur,0.0,0.0,26.0
+Lumding Jn,Chaparmukh Jn,0.0,0.0,33.0
+Lumding Jn,Diphu,0.0,0.0,24.5
+Lumding Jn,Lanka,0.0,0.0,21.0
+Chaparmukh Jn,Guwahati,0.0,0.0,25.0
+Chaparmukh Jn,Lumding Jn,0.0,0.0,23.0
+Chaparmukh Jn,Hojai,0.0,0.0,36.0
+Guwahati,Rangiya Jn,0.0,0.0,25.0
+Guwahati,Chaparmukh Jn,0.0,0.0,30.0
+Guwahati,Kamakhya,76.1,79.6,2.0
+Guwahati,Okha,3226.0,3620.0,0.0
+Guwahati,Bengaluru Cant,2969.0,3105.0,0.0
+Rangiya Jn,New Bongaigaon,0.0,0.0,13.0
+Rangiya Jn,Guwahati,0.0,0.0,32.0
+Rangiya Jn,Kamakhya,74.2,79.8,236.5
+Rangiya Jn,Barpeta Road,76.1,79.6,11.0
+Rangiya Jn,Nalbari,0.0,0.0,23.0
+New Bongaigaon,Kokrajhar,0.0,0.0,16.0
+New Bongaigaon,Rangiya Jn,0.0,0.0,26.5
+New Bongaigaon,Barpeta Road,74.2,79.8,226.0
+New Bongaigaon,Bongaigaon,0.0,0.0,18.5
+Kokrajhar,New Cooch Behar,0.0,0.0,24.5
+Kokrajhar,New Bongaigaon,0.0,0.0,24.5
+Kokrajhar,New Alipurdaur,76.1,79.6,12.5
+Kokrajhar,Fakiragram Jn,0.0,0.0,33.5
+New Cooch Behar,New Jalpaiguri,0.0,0.0,23.5
+New Cooch Behar,Kokrajhar,0.0,0.0,22.5
+New Cooch Behar,New Alipurdaur,74.2,79.8,228.5
+New Cooch Behar,Dhupguri,76.1,79.6,25.0
+New Cooch Behar,Falakata,0.0,0.0,43.0
+New Jalpaiguri,Kishanganj,0.0,0.0,17.0
+New Jalpaiguri,New Cooch Behar,0.0,0.0,19.5
+New Jalpaiguri,Jalpaiguri Road,74.2,79.8,230.0
+New Jalpaiguri,Aluabari Road,0.0,0.0,32.0
+New Jalpaiguri,Nagercoil,3113.0,3255.0,0.0
+Kishanganj,Katihar Jn,0.0,0.0,5.0
+Kishanganj,New Jalpaiguri,0.0,0.0,24.0
+Kishanganj,Barsoi Jn,76.1,79.6,19.5
+Kishanganj,Aluabari Road,0.0,0.0,34.0
+Katihar Jn,Naugachia,0.0,0.0,6.5
+Katihar Jn,Kishanganj,0.0,0.0,15.0
+Naugachia,Mansi Jn,0.0,0.0,11.5
+Naugachia,Katihar Jn,0.0,0.0,18.0
+Mansi Jn,Barauni Jn,0.0,0.0,15.0
+Mansi Jn,Naugachia,0.0,0.0,19.0
+Barauni Jn,Patliputra,0.0,0.0,7.0
+Barauni Jn,Mansi Jn,0.0,0.0,12.0
+Patliputra,Danapur,0.0,0.0,9.0
+Patliputra,Barauni Jn,0.0,0.0,8.0
+Rajamundry,Visakhapatnam,74.2,79.8,59.0
+Rajamundry,Vijayawada Jn,76.1,79.6,159.5
+Rajamundry,Nidadavolu Jn,24.1,22.6,142.5
+Rajamundry,Samalkot Jn,23.4,22.0,121.0
+Rajamundry,Tadepalligudem,103.9,99.4,71.0
+Visakhapatnam,Vizianagram Jn,74.2,79.8,55.0
+Visakhapatnam,Rajamundry,76.1,79.6,147.0
+Visakhapatnam,Anakapalle,24.1,22.6,104.5
+Visakhapatnam,Brahmapur,97.8,93.5,35.0
+Srikakulam Road,Palasa,74.2,79.8,68.0
+Srikakulam Road,Vizianagram Jn,76.1,79.6,118.0
+Srikakulam Road,Chipurupalle,24.1,22.6,102.0
+Srikakulam Road,Naupada Jn,23.4,22.0,93.5
+Palasa,Brahmapur,74.2,79.8,71.0
+Palasa,Srikakulam Road,76.1,79.6,111.0
+Palasa,Naupada Jn,24.1,22.6,101.5
+Palasa,Sompeta,23.4,22.0,80.0
+Brahmapur,Balugan,74.2,79.8,79.5
+Brahmapur,Palasa,76.1,79.6,116.5
+Brahmapur,Ichchpuram,24.1,22.6,137.0
+Brahmapur,Chatrapur,23.4,22.0,101.0
+Brahmapur,Visakhapatnam,103.9,99.4,55.5
+Brahmapur,Khurda Road Jn,97.8,93.5,79.0
+Balugan,Khurda Road Jn,74.2,79.8,80.5
+Balugan,Brahmapur,76.1,79.6,124.5
+Balugan,Chatrapur,24.1,22.6,117.0
+Khurda Road Jn,Bhubaneswar,74.2,79.8,79.0
+Khurda Road Jn,Balugan,76.1,79.6,122.5
+Khurda Road Jn,Brahmapur,103.9,99.4,67.0
+Cuttack,Jajpur K Road,74.2,79.8,0.0
+Cuttack,Bhubaneswar,76.1,79.6,127.5
+Jajpur K Road,Bhadrakh,74.2,79.8,0.0
+Jajpur K Road,Cuttack,76.1,79.6,114.0
+Bhadrakh,Balasore,74.2,79.8,174.0
+Bhadrakh,Jajpur K Road,76.1,79.6,97.0
+Balasore,Kharagpur Jn,74.2,79.8,189.5
+Balasore,Bhadrakh,76.1,79.6,97.0
+Kharagpur Jn,Dankuni,74.2,79.8,222.5
+Kharagpur Jn,Balasore,76.1,79.6,78.0
+Kharagpur Jn,Santragachi Jn,23.4,22.0,140.5
+Dankuni,Bolpur S Niktn,74.2,79.8,244.5
+Dankuni,Kharagpur Jn,76.1,79.6,68.0
+Bolpur S Niktn,Rampur Hat,74.2,79.8,247.0
+Bolpur S Niktn,Dankuni,76.1,79.6,41.0
+Bolpur S Niktn,Malda Town,0.0,0.0,12.0
+Bolpur S Niktn,Howrah Jn,0.0,0.0,21.0
+Rampur Hat,New Farakka Jn,74.2,79.8,226.5
+Rampur Hat,Bolpur S Niktn,76.1,79.6,21.5
+New Farakka Jn,Malda Town,74.2,79.8,202.5
+New Farakka Jn,Rampur Hat,76.1,79.6,20.0
+New Farakka Jn,Dhulian Ganga,0.0,0.0,37.0
+Malda Town,Barsoi Jn,74.2,79.8,209.5
+Malda Town,New Farakka Jn,76.1,79.6,16.5
+Malda Town,Samsi,0.0,0.0,9.0
+Malda Town,Bolpur S Niktn,0.0,0.0,18.0
+Barsoi Jn,Kishanganj,74.2,79.8,230.0
+Barsoi Jn,Malda Town,76.1,79.6,15.5
+Barsoi Jn,Harischandrpur,0.0,0.0,15.0
+Jalpaiguri Road,Dhupguri,74.2,79.8,220.0
+Jalpaiguri Road,New Jalpaiguri,76.1,79.6,15.0
+Jalpaiguri Road,New Maynaguri,0.0,0.0,17.0
+Dhupguri,New Cooch Behar,74.2,79.8,223.0
+Dhupguri,Jalpaiguri Road,76.1,79.6,25.5
+Dhupguri,Falakata,0.0,0.0,16.0
+Dhupguri,New Maynaguri,0.0,0.0,46.0
+New Alipurdaur,Kokrajhar,74.2,79.8,242.0
+New Alipurdaur,New Cooch Behar,76.1,79.6,19.5
+New Alipurdaur,Kamakhyaguri,0.0,0.0,15.0
+Barpeta Road,Rangiya Jn,74.2,79.8,239.0
+Barpeta Road,New Bongaigaon,76.1,79.6,8.5
+Barpeta Road,Pathsala,0.0,0.0,25.5
+Barpeta Road,Sorbhog Jn,0.0,0.0,33.0
+Kamakhya,Guwahati,74.2,79.8,216.5
+Kamakhya,Rangiya Jn,76.1,79.6,8.0
+Kamakhya,Gandhidham,3123.0,3500.0,0.0
+Trivandrum Cntl,Varkala,72.2,70.4,7.5
+Trivandrum Cntl,Chirayinkil,0.0,0.0,22.0
+Trivandrum Cntl,Neyyattinkara,0.0,0.0,32.5
+Varkala,Kollam Jn,72.2,70.4,9.0
+Varkala,Trivandrum Pett,73.9,72.7,116.5
+Varkala,Paravur,0.0,0.0,59.0
+Varkala,Chirayinkil,0.0,0.0,23.0
+Mavelikara,Chengannur,72.2,70.4,17.0
+Mavelikara,Kayankulam Jn,73.9,72.7,116.0
+Vaikam Road,Ernakulam Town,72.2,70.4,24.0
+Vaikam Road,Kottayam,73.9,72.7,112.5
+Aluva,Thrisur,72.2,70.4,28.5
+Aluva,Ernakulam Town,73.9,72.7,118.5
+Aluva,Angamali,0.0,0.0,44.0
+Ottappalam,Palakkad Jn,72.2,70.4,21.5
+Ottappalam,Thrisur,73.9,72.7,113.5
+Palakkad Jn,Coimbatore Jn,72.2,70.4,21.5
+Palakkad Jn,Ottappalam,73.9,72.7,112.5
+Palakkad Jn,Palghat Town,0.0,0.0,2.0
+Chittoor,Tirupati,72.2,70.4,18.5
+Chittoor,Katpadi Jn,73.9,72.7,101.5
+Chittoor,Pakala Jn,0.0,0.0,21.5
+Tirupati,Renigunta Jn,72.2,70.4,25.5
+Tirupati,Chittoor,73.9,72.7,109.5
+Tirupati,Jammu Tawi,2985.0,2690.0,0.0
+Trivandrum Pett,Trivandrum Cntl,73.9,72.7,100.0
+Chennai Egmore,Tambaram,0.0,0.0,4.5
+Tambaram,Chengalpattu,0.0,0.0,6.5
+Tambaram,Mambalam,0.0,0.0,16.5
+Tambaram,Villupuram Jn,0.0,0.0,5.0
+Tambaram,Chennai Egmore,0.0,0.0,12.0
+Tambaram,New Tinsukia,3218.0,3630.0,0.0
+Chengalpattu,Melmaruvattur,0.0,0.0,9.0
+Chengalpattu,Tambaram,0.0,0.0,21.5
+Melmaruvattur,Tindivanam,0.0,0.0,14.0
+Melmaruvattur,Chengalpattu,0.0,0.0,19.5
+Melmaruvattur,Villupuram Jn,0.0,0.0,6.0
+Tindivanam,Villupuram Jn,0.0,0.0,13.5
+Tindivanam,Melmaruvattur,0.0,0.0,19.5
+Villupuram Jn,Vridhachalam Jn,0.0,0.0,11.0
+Villupuram Jn,Tindivanam,0.0,0.0,17.5
+Villupuram Jn,Melmaruvattur,0.0,0.0,14.0
+Villupuram Jn,Tiruchchirapali,0.0,0.0,7.0
+Villupuram Jn,Tambaram,0.0,0.0,15.0
+Vridhachalam Jn,Tiruchchirapali,0.0,0.0,11.5
+Vridhachalam Jn,Villupuram Jn,0.0,0.0,19.0
+Vridhachalam Jn,Pennadam,0.0,0.0,3.5
+Tiruchchirapali,Dindigul Jn,0.0,0.0,12.0
+Tiruchchirapali,Vridhachalam Jn,0.0,0.0,14.5
+Tiruchchirapali,Manaparai,0.0,0.0,11.0
+Tiruchchirapali,Srirangam,0.0,0.0,37.5
+Tiruchchirapali,Villupuram Jn,0.0,0.0,6.5
+Dindigul Jn,Sholavandan,0.0,0.0,14.5
+Dindigul Jn,Tiruchchirapali,0.0,0.0,8.0
+Dindigul Jn,Ambaturai,0.0,0.0,18.0
+Dindigul Jn,Manaparai,0.0,0.0,7.5
+Dindigul Jn,Kodaikanal Road,0.0,0.0,20.5
+Dindigul Jn,Karur,0.0,0.0,41.0
+Dindigul Jn,Madurai Jn,0.0,0.0,13.0
+Dindigul Jn,Oddanchatram,0.0,0.0,15.5
+Sholavandan,Madurai Jn,0.0,0.0,14.5
+Sholavandan,Dindigul Jn,0.0,0.0,11.0
+Sholavandan,Kudalnagar,0.0,0.0,27.0
+Sholavandan,Kodaikanal Road,0.0,0.0,8.0
+Madurai Jn,Virudunagar Jn,0.0,0.0,14.5
+Madurai Jn,Sholavandan,0.0,0.0,12.0
+Madurai Jn,Kodaikanal Road,0.0,0.0,3.5
+Madurai Jn,Dindigul Jn,0.0,0.0,5.5
+Virudunagar Jn,Satur,0.0,0.0,15.5
+Virudunagar Jn,Madurai Jn,0.0,0.0,9.0
+Virudunagar Jn,Tirunelveli Jn,0.0,0.0,17.0
+Satur,Kovilpatti,0.0,0.0,16.0
+Satur,Virudunagar Jn,0.0,0.0,8.0
+Kovilpatti,Tirunelveli Jn,0.0,0.0,17.0
+Kovilpatti,Satur,0.0,0.0,8.5
+Kovilpatti,Vanchi Maniyachchi,0.0,0.0,24.5
+Tirunelveli Jn,Kovilpatti,0.0,0.0,5.5
+Tirunelveli Jn,Nanguneri,0.0,0.0,24.5
+Tirunelveli Jn,Vanchi Maniyachchi,0.0,0.0,6.5
+Tirunelveli Jn,Virudunagar Jn,0.0,0.0,0.0
+Mambalam,Chennai Egmore,0.0,0.0,9.0
+Manaparai,Dindigul Jn,0.0,0.0,15.5
+Manaparai,Tiruchchirapali,0.0,0.0,7.0
+Ambaturai,Kodaikanal Road,0.0,0.0,20.0
+Ambaturai,Dindigul Jn,0.0,0.0,8.5
+Kodaikanal Road,Madurai Jn,0.0,0.0,21.0
+Kodaikanal Road,Ambaturai,0.0,0.0,8.0
+Kodaikanal Road,Sholavandan,0.0,0.0,24.0
+Kodaikanal Road,Dindigul Jn,0.0,0.0,7.5
+Avadi,Arakkonam,0.0,0.0,8.0
+Coimbatore Nrth,Coimbatore Jn,0.0,0.0,13.0
+Ambur,Jolarpettai,0.0,0.0,20.5
+Ambur,Katpadi Jn,0.0,0.0,6.5
+Samalpatti,Morappur,0.0,0.0,26.0
+Samalpatti,Jolarpettai,0.0,0.0,5.0
+Samalpatti,Salem Jn,0.0,0.0,23.0
+Samalpatti,Tirupattur Jn,0.0,0.0,40.0
+Morappur,Bommidi,0.0,0.0,28.5
+Morappur,Samalpatti,0.0,0.0,5.0
+Morappur,Salem Jn,0.0,0.0,15.5
+Morappur,Jolarpettai,0.0,0.0,4.5
+Bommidi,Salem Jn,0.0,0.0,25.5
+Bommidi,Morappur,0.0,0.0,4.5
+Chatrapur,Brahmapur,24.1,22.6,129.0
+Chatrapur,Balugan,23.4,22.0,105.5
+Ichchpuram,Sompeta,24.1,22.6,135.0
+Ichchpuram,Brahmapur,23.4,22.0,93.5
+Sompeta,Palasa,24.1,22.6,119.5
+Sompeta,Ichchpuram,23.4,22.0,85.5
+Naupada Jn,Srikakulam Road,24.1,22.6,98.5
+Naupada Jn,Palasa,23.4,22.0,86.5
+Chipurupalle,Vizianagram Jn,24.1,22.6,102.0
+Chipurupalle,Srikakulam Road,23.4,22.0,91.0
+Anakapalle,Tuni,24.1,22.6,109.0
+Anakapalle,Visakhapatnam,23.4,22.0,103.5
+Tuni,Annavaram,24.1,22.6,113.0
+Tuni,Anakapalle,23.4,22.0,126.0
+Annavaram,Samalkot Jn,24.1,22.6,123.0
+Annavaram,Tuni,23.4,22.0,124.0
+Samalkot Jn,Rajamundry,24.1,22.6,136.0
+Samalkot Jn,Annavaram,23.4,22.0,122.5
+Nidadavolu Jn,Tadepalligudem,24.1,22.6,144.5
+Nidadavolu Jn,Rajamundry,23.4,22.0,103.0
+Tadepalligudem,Eluru,24.1,22.6,145.5
+Tadepalligudem,Nidadavolu Jn,23.4,22.0,101.0
+Tadepalligudem,Rajamundry,97.8,93.5,87.5
+Eluru,Vijayawada Jn,24.1,22.6,126.5
+Eluru,Tadepalligudem,23.4,22.0,96.5
+Tenali Jn,Bapatla,24.1,22.6,130.0
+Tenali Jn,Vijayawada Jn,23.4,22.0,80.5
+Bapatla,Chirala,24.1,22.6,133.0
+Bapatla,Tenali Jn,23.4,22.0,81.0
+Chirala,Ongole,24.1,22.6,133.0
+Chirala,Bapatla,23.4,22.0,84.5
+Santragachi Jn,Howrah Jn,23.4,22.0,143.5
+Santragachi Jn,Kharagpur Jn,103.9,99.4,27.0
+Shalimar,Santragachi Jn,103.9,99.4,20.0
+Bandra Terminus,Borivali,0.0,0.0,0.0
+Bandra Terminus,Mumbai Central,0.0,0.0,2.5
+Godhra Jn,Dahod,0.0,0.0,30.5
+Godhra Jn,Vadodara Jn,0.0,0.0,23.0
+Dahod,Meghnagar,0.0,0.0,33.5
+Dahod,Godhra Jn,0.0,0.0,39.0
+Dahod,Ratlam Jn,0.0,0.0,11.5
+Dahod,Vadodara Jn,0.0,0.0,0.0
+Meghnagar,Ratlam Jn,0.0,0.0,29.5
+Meghnagar,Dahod,0.0,0.0,38.0
+Ratlam Jn,Nagda Jn,0.0,0.0,22.5
+Ratlam Jn,Meghnagar,0.0,0.0,37.0
+Ratlam Jn,Khachrod,0.0,0.0,13.0
+Ratlam Jn,Vadodara Jn,0.0,0.0,16.5
+Ratlam Jn,Kota Jn,0.0,0.0,9.5
+Ratlam Jn,Dahod,0.0,0.0,20.0
+Nagda Jn,Shamgarh,0.0,0.0,22.0
+Nagda Jn,Ratlam Jn,0.0,0.0,0.0
+Nagda Jn,Khachrod,0.0,0.0,15.0
+Nagda Jn,Kota Jn,0.0,0.0,13.5
+Shamgarh,Bhawani Mandi,0.0,0.0,25.0
+Shamgarh,Nagda Jn,0.0,0.0,44.0
+Shamgarh,Ramganj Mandi,0.0,0.0,10.0
+Bhawani Mandi,Ramganj Mandi,0.0,0.0,28.0
+Bhawani Mandi,Shamgarh,0.0,0.0,41.0
+Ramganj Mandi,Kota Jn,0.0,0.0,32.0
+Ramganj Mandi,Bhawani Mandi,0.0,0.0,36.5
+Ramganj Mandi,Shamgarh,0.0,0.0,27.5
+Kota Jn,Sawai Madhopur,0.0,0.0,38.0
+Kota Jn,Ramganj Mandi,0.0,0.0,33.5
+Kota Jn,New Delhi,0.0,0.0,21.5
+Kota Jn,Nagda Jn,0.0,0.0,17.5
+Kota Jn,Ratlam Jn,0.0,0.0,21.5
+Sawai Madhopur,Gangapur City,0.0,0.0,45.5
+Sawai Madhopur,Kota Jn,0.0,0.0,33.5
+Sawai Madhopur,Mathura Jn,0.0,0.0,11.5
+Gangapur City,Shri Mahaveerji,0.0,0.0,50.0
+Gangapur City,Sawai Madhopur,0.0,0.0,34.5
+Shri Mahaveerji,Hindaun City,0.0,0.0,49.5
+Shri Mahaveerji,Gangapur City,0.0,0.0,35.0
+Hindaun City,Bayana Jn,0.0,0.0,47.0
+Hindaun City,Shri Mahaveerji,0.0,0.0,35.5
+Bayana Jn,Bharatpur Jn,0.0,0.0,48.0
+Bayana Jn,Hindaun City,0.0,0.0,35.0
+Bharatpur Jn,Mathura Jn,0.0,0.0,43.5
+Bharatpur Jn,Bayana Jn,0.0,0.0,31.5
+Ghaziabad,Meerut City,0.0,0.0,55.0
+Ghaziabad,H Nizamuddin,0.0,0.0,19.5
+Meerut City,Meerut Cant,0.0,0.0,58.5
+Meerut City,Ghaziabad,0.0,0.0,19.0
+Meerut Cant,Sakhoti Tanda,0.0,0.0,60.5
+Meerut Cant,Meerut City,0.0,0.0,14.5
+Sakhoti Tanda,Muzaffarnagar,0.0,0.0,62.0
+Sakhoti Tanda,Meerut Cant,0.0,0.0,13.0
+Muzaffarnagar,Saharanpur,0.0,0.0,53.0
+Muzaffarnagar,Sakhoti Tanda,0.0,0.0,9.0
+Saharanpur,Yamunanagar Jagadhri,0.0,0.0,43.5
+Saharanpur,Muzaffarnagar,0.0,0.0,9.0
+Yamunanagar Jagadhri,Ambala Cant Jn,0.0,0.0,46.5
+Yamunanagar Jagadhri,Saharanpur,0.0,0.0,11.5
+Ambala Cant Jn,Ludhiana Jn,0.0,0.0,50.0
+Ambala Cant Jn,Yamunanagar Jagadhri,0.0,0.0,11.5
+Ambala Cant Jn,Chandigarh,0.0,0.0,14.0
+Ambala Cant Jn,Kurukshetra Jn,0.0,0.0,15.5
+Ludhiana Jn,Jalandhar City,0.0,0.0,47.5
+Ludhiana Jn,Ambala Cant Jn,0.0,0.0,11.0
+Ludhiana Jn,Phagwara Jn,0.0,0.0,16.5
+Ludhiana Jn,Sahibzada Asngr,0.0,0.0,17.0
+Jalandhar City,Beas,0.0,0.0,44.5
+Jalandhar City,Ludhiana Jn,0.0,0.0,11.0
+Jalandhar City,Jalandhar Cant,0.0,0.0,18.5
+Beas,Amritsar Jn,0.0,0.0,42.0
+Beas,Jalandhar City,0.0,0.0,11.0
+Amritsar Jn,Beas,0.0,0.0,7.5
+Dahanu Road,Vapi,0.0,0.0,21.5
+Dahanu Road,Borivali,0.0,0.0,28.5
+Valsad,Navsari,0.0,0.0,30.0
+Valsad,Vapi,0.0,0.0,24.5
+Valsad,Surat,0.0,0.0,9.0
+Navsari,Surat,0.0,0.0,10.0
+Navsari,Valsad,0.0,0.0,21.0
+Khachrod,Nagda Jn,0.0,0.0,10.0
+Khachrod,Ratlam Jn,0.0,0.0,16.0
+Subzi Mandi,Sonipat Jn,0.0,0.0,21.0
+Subzi Mandi,New Delhi,0.0,0.0,27.5
+Sonipat Jn,Bhodwal Majri,0.0,0.0,28.0
+Sonipat Jn,Subzi Mandi,0.0,0.0,31.0
+Bhodwal Majri,Panipat Jn,0.0,0.0,31.0
+Bhodwal Majri,Sonipat Jn,0.0,0.0,23.5
+Panipat Jn,Karnal,0.0,0.0,30.0
+Panipat Jn,Bhodwal Majri,0.0,0.0,22.0
+Karnal,Kurukshetra Jn,0.0,0.0,35.5
+Karnal,Panipat Jn,0.0,0.0,23.5
+Kurukshetra Jn,Ambala Cant Jn,0.0,0.0,25.5
+Kurukshetra Jn,Karnal,0.0,0.0,21.0
+Chandigarh,Sahibzada Asngr,0.0,0.0,18.5
+Chandigarh,Ambala Cant Jn,0.0,0.0,11.0
+Chandigarh,Thiruvananthapuram North,3088.0,3060.0,0.0
+Chandigarh,Madurai,3074.0,3215.0,0.0
+Sahibzada Asngr,Ludhiana Jn,0.0,0.0,18.0
+Sahibzada Asngr,Chandigarh,0.0,0.0,11.5
+Phagwara Jn,Jalandhar Cant,0.0,0.0,19.5
+Phagwara Jn,Ludhiana Jn,0.0,0.0,22.0
+Jalandhar Cant,Jalandhar City,0.0,0.0,19.5
+Jalandhar Cant,Phagwara Jn,0.0,0.0,20.0
+Sabarmati Bg,Mahesana Jn,0.0,0.0,7.5
+Mahesana Jn,Palanpur Jn,0.0,0.0,8.0
+Mahesana Jn,Sabarmati Bg,0.0,0.0,6.0
+Palanpur Jn,Abu Road,0.0,0.0,8.0
+Palanpur Jn,Mahesana Jn,0.0,0.0,5.0
+Abu Road,Falna,0.0,0.0,7.0
+Abu Road,Palanpur Jn,0.0,0.0,7.0
+Falna,Ajmer Jn,0.0,0.0,6.0
+Falna,Abu Road,0.0,0.0,13.0
+Ajmer Jn,Jaipur,0.0,0.0,6.5
+Ajmer Jn,Falna,0.0,0.0,16.0
+Jaipur,Gurgaon,0.0,0.0,10.5
+Jaipur,Ajmer Jn,0.0,0.0,16.0
+Gurgaon,Delhi Cantt,0.0,0.0,14.5
+Gurgaon,Jaipur,0.0,0.0,7.0
+Delhi Cantt,New Delhi,0.0,0.0,15.0
+Delhi Cantt,Gurgaon,0.0,0.0,5.5
+Bandel Jn,Ambika Kalna,0.0,0.0,10.5
+Bandel Jn,Howrah Jn,0.0,0.0,21.5
+Ambika Kalna,Nabadwip Dham,0.0,0.0,13.0
+Ambika Kalna,Bandel Jn,0.0,0.0,38.0
+Nabadwip Dham,Katwa,0.0,0.0,10.0
+Nabadwip Dham,Ambika Kalna,0.0,0.0,37.0
+Katwa,Salar,0.0,0.0,12.0
+Katwa,Nabadwip Dham,0.0,0.0,36.0
+Salar,Khagraghat Road,0.0,0.0,14.0
+Salar,Katwa,0.0,0.0,45.0
+Khagraghat Road,Azimganj Jn,0.0,0.0,9.0
+Khagraghat Road,Salar,0.0,0.0,41.5
+Azimganj Jn,Jangipur Road,0.0,0.0,8.5
+Azimganj Jn,Khagraghat Road,0.0,0.0,35.5
+Jangipur Road,Nimtita,0.0,0.0,10.0
+Jangipur Road,Azimganj Jn,0.0,0.0,37.0
+Nimtita,Dhulian Ganga,0.0,0.0,12.5
+Nimtita,Jangipur Road,0.0,0.0,40.5
+Dhulian Ganga,New Farakka Jn,0.0,0.0,11.0
+Dhulian Ganga,Nimtita,0.0,0.0,38.5
+Samsi,Harischandrpur,0.0,0.0,10.5
+Samsi,Malda Town,0.0,0.0,42.5
+Harischandrpur,Barsoi Jn,0.0,0.0,14.0
+Harischandrpur,Samsi,0.0,0.0,49.0
+Aluabari Road,New Jalpaiguri,0.0,0.0,25.5
+Aluabari Road,Kishanganj,0.0,0.0,36.5
+New Maynaguri,Dhupguri,0.0,0.0,20.0
+New Maynaguri,Jalpaiguri Road,0.0,0.0,47.0
+Falakata,New Cooch Behar,0.0,0.0,13.0
+Falakata,Dhupguri,0.0,0.0,46.0
+Kamakhyaguri,Gossaigaon Hat,0.0,0.0,14.0
+Kamakhyaguri,New Alipurdaur,0.0,0.0,38.0
+Gossaigaon Hat,Fakiragram Jn,0.0,0.0,23.5
+Gossaigaon Hat,Kamakhyaguri,0.0,0.0,25.0
+Fakiragram Jn,Kokrajhar,0.0,0.0,36.0
+Fakiragram Jn,Gossaigaon Hat,0.0,0.0,23.0
+Bongaigaon,Sorbhog Jn,0.0,0.0,21.5
+Bongaigaon,New Bongaigaon,0.0,0.0,34.5
+Sorbhog Jn,Barpeta Road,0.0,0.0,23.5
+Sorbhog Jn,Bongaigaon,0.0,0.0,38.0
+Pathsala,Tihu,0.0,0.0,27.5
+Pathsala,Barpeta Road,0.0,0.0,30.5
+Tihu,Nalbari,0.0,0.0,29.0
+Tihu,Pathsala,0.0,0.0,28.0
+Nalbari,Rangiya Jn,0.0,0.0,28.0
+Nalbari,Tihu,0.0,0.0,24.5
+Hojai,Lanka,0.0,0.0,36.5
+Hojai,Chaparmukh Jn,0.0,0.0,23.0
+Lanka,Lumding Jn,0.0,0.0,41.5
+Lanka,Hojai,0.0,0.0,20.0
+Sarupathar,Barpathar,0.0,0.0,47.5
+Sarupathar,Dimapur,0.0,0.0,16.5
+Barpathar,Furkating Jn,0.0,0.0,34.5
+Barpathar,Sarupathar,0.0,0.0,12.0
+Furkating Jn,Mariani Jn,0.0,0.0,30.0
+Furkating Jn,Barpathar,0.0,0.0,9.5
+Amguri,Simaluguri Jn,0.0,0.0,44.0
+Amguri,Mariani Jn,0.0,0.0,42.0
+Simaluguri Jn,Bhojo,0.0,0.0,46.5
+Simaluguri Jn,Amguri,0.0,0.0,47.0
+Bhojo,Namrup,0.0,0.0,52.5
+Bhojo,Simaluguri Jn,0.0,0.0,36.5
+Namrup,Naharkatiya,0.0,0.0,55.0
+Namrup,Bhojo,0.0,0.0,24.5
+Naharkatiya,Duliajan,0.0,0.0,56.0
+Naharkatiya,Namrup,0.0,0.0,21.5
+Duliajan,New Tinsukia Jn,0.0,0.0,54.5
+Duliajan,Naharkatiya,0.0,0.0,20.5
+Pennadam,Ariyalur,0.0,0.0,11.0
+Pennadam,Vridhachalam Jn,0.0,0.0,24.0
+Ariyalur,Srirangam,0.0,0.0,18.5
+Ariyalur,Pennadam,0.0,0.0,33.5
+Srirangam,Tiruchchirapali,0.0,0.0,13.0
+Srirangam,Ariyalur,0.0,0.0,40.5
+Kudalnagar,Madurai Jn,0.0,0.0,21.0
+Vanchi Maniyachchi,Tirunelveli Jn,0.0,0.0,24.5
+Vanchi Maniyachchi,Kovilpatti,0.0,0.0,9.5
+Nanguneri,Valliyur,0.0,0.0,26.5
+Nanguneri,Tirunelveli Jn,0.0,0.0,20.5
+Valliyur,Aralvaymozhi,0.0,0.0,25.0
+Valliyur,Nanguneri,0.0,0.0,35.0
+Valliyur,Nagercoil Jn,0.0,0.0,0.0
+Aralvaymozhi,Nager Coil Town,0.0,0.0,20.0
+Aralvaymozhi,Valliyur,0.0,0.0,34.0
+Nager Coil Town,Eraniel,0.0,0.0,16.0
+Nager Coil Town,Aralvaymozhi,0.0,0.0,50.0
+Eraniel,Kulitthurai,0.0,0.0,30.0
+Eraniel,Nager Coil Town,0.0,0.0,49.5
+Kulitthurai,Neyyattinkara,0.0,0.0,30.0
+Kulitthurai,Eraniel,0.0,0.0,44.0
+Neyyattinkara,Trivandrum Cntl,0.0,0.0,30.0
+Neyyattinkara,Kulitthurai,0.0,0.0,37.5
+Chirayinkil,Kadakavur,0.0,0.0,33.5
+Chirayinkil,Trivandrum Cntl,0.0,0.0,18.5
+Kadakavur,Varkala,0.0,0.0,53.0
+Paravur,Kollam Jn,0.0,0.0,59.0
+Paravur,Varkala,0.0,0.0,35.5
+Harippad,Alleppey,0.0,0.0,71.5
+Harippad,Kayankulam Jn,0.0,0.0,33.0
+Alleppey,Shertalai,0.0,0.0,75.0
+Alleppey,Harippad,0.0,0.0,32.0
+Shertalai,Ernakulam Jn,0.0,0.0,60.0
+Shertalai,Alleppey,0.0,0.0,30.0
+Ernakulam Jn,Ernakulam Town,0.0,0.0,44.0
+Ernakulam Jn,Shertalai,0.0,0.0,28.0
+Ernakulam Jn,Barauni,3434.0,3680.0,0.0
+Ernakulam Jn,Patna,3047.0,3270.0,0.0
+Angamali,Chalakudi,0.0,0.0,46.0
+Angamali,Aluva,0.0,0.0,26.0
+Chalakudi,Irinjalakuda,0.0,0.0,54.0
+Chalakudi,Angamali,0.0,0.0,23.0
+Irinjalakuda,Thrisur,0.0,0.0,42.0
+Irinjalakuda,Chalakudi,0.0,0.0,17.0
+Punkunnam,Guruvayur,0.0,0.0,29.0
+Punkunnam,Thrisur,0.0,0.0,9.5
+Guruvayur,Punkunnam,0.0,0.0,8.0
+Karjat,Pune Jn,0.0,0.0,31.0
+Kadiri,Madanapalle Rd,0.0,0.0,25.5
+Kadiri,Dharmavaram Jn,0.0,0.0,19.0
+Madanapalle Rd,Piler,0.0,0.0,28.0
+Madanapalle Rd,Kadiri,0.0,0.0,30.5
+Piler,Pakala Jn,0.0,0.0,36.0
+Piler,Madanapalle Rd,0.0,0.0,32.5
+Pakala Jn,Chittoor,0.0,0.0,35.5
+Pakala Jn,Piler,0.0,0.0,29.5
+Tirupattur Jn,Samalpatti,0.0,0.0,13.0
+Tirupattur Jn,Katpadi Jn,0.0,0.0,0.0
+Namakkal,Karur,0.0,0.0,6.0
+Namakkal,Salem Jn,0.0,0.0,16.0
+Namakkal,Mohanur,0.0,0.0,13.0
+Namakkal,Rasipuram,0.0,0.0,13.0
+Karur,Dindigul Jn,0.0,0.0,6.0
+Karur,Namakkal,0.0,0.0,43.0
+Karur,Mohanur,0.0,0.0,9.0
+Nagercoil Jn,Valliyur,0.0,0.0,0.5
+Igatpuri,Nasik Road,0.0,0.0,22.5
+Igatpuri,Kalyan Jn,0.0,0.0,46.0
+Rotegaon,Lasur,0.0,0.0,17.0
+Rotegaon,Manmad Jn,0.0,0.0,47.0
+Lasur,Aurangabad,0.0,0.0,22.0
+Lasur,Rotegaon,0.0,0.0,42.0
+Aurangabad,Partur,0.0,0.0,22.0
+Aurangabad,Lasur,0.0,0.0,46.0
+Partur,Selu,0.0,0.0,58.0
+Partur,Aurangabad,0.0,0.0,47.5
+Selu,Manwath Road,0.0,0.0,56.0
+Selu,Partur,0.0,0.0,40.5
+Manwath Road,Parbhani Jn,0.0,0.0,51.0
+Manwath Road,Selu,0.0,0.0,35.5
+Parbhani Jn,Purna Jn,0.0,0.0,48.0
+Parbhani Jn,Manwath Road,0.0,0.0,33.0
+Purna Jn,H Sahib Nanded,0.0,0.0,37.0
+Purna Jn,Parbhani Jn,0.0,0.0,27.0
+H Sahib Nanded,Mudkhed,0.0,0.0,37.0
+H Sahib Nanded,Purna Jn,0.0,0.0,26.5
+Mudkhed,Umri,0.0,0.0,38.0
+Mudkhed,H Sahib Nanded,0.0,0.0,29.0
+Umri,Dharmabad,0.0,0.0,41.0
+Umri,Mudkhed,0.0,0.0,41.0
+Dharmabad,Basar,0.0,0.0,47.5
+Dharmabad,Umri,0.0,0.0,55.0
+Basar,Nizamabad,0.0,0.0,53.0
+Basar,Dharmabad,0.0,0.0,55.5
+Nizamabad,Kamareddi,0.0,0.0,56.0
+Nizamabad,Basar,0.0,0.0,48.0
+Kamareddi,Akanapet,0.0,0.0,57.0
+Kamareddi,Nizamabad,0.0,0.0,35.5
+Akanapet,Mirzapali,0.0,0.0,58.5
+Akanapet,Kamareddi,0.0,0.0,25.0
+Mirzapali,Bolarum,0.0,0.0,47.5
+Mirzapali,Akanapet,0.0,0.0,19.0
+Bolarum,Secunderabad Jn,0.0,0.0,43.5
+Bolarum,Mirzapali,0.0,0.0,11.0
+Secunderabad Jn,Begumpet,0.0,0.0,44.0
+Secunderabad Jn,Bolarum,0.0,0.0,5.0
+Begumpet,Lingampalli,0.0,0.0,39.0
+Begumpet,Secunderabad Jn,0.0,0.0,4.0
+Lingampalli,Begumpet,0.0,0.0,3.0
+Malur,Krishnarajapurm,0.0,0.0,66.0
+Malur,Bangarapet,0.0,0.0,8.0
+Yelhanka Jn,Hindupur,0.0,0.0,60.5
+Yelhanka Jn,Krishnarajapurm,0.0,0.0,11.5
+Ahmadnagar,Sainagar Shirdi,0.0,0.0,65.0
+Ahmadnagar,Daund Jn,0.0,0.0,18.0
+Sainagar Shirdi,Ahmadnagar,0.0,0.0,2.0
+Tiruvallur,Arakkonam,0.0,0.0,11.5
+Tiruvallur,Perambur,0.0,0.0,15.0
+Gudiyattam,Jolarpettai,0.0,0.0,18.0
+Gudiyattam,Katpadi Jn,0.0,0.0,6.0
+Rasipuram,Namakkal,0.0,0.0,13.5
+Rasipuram,Salem Jn,0.0,0.0,9.0
+Mohanur,Karur,0.0,0.0,12.0
+Mohanur,Namakkal,0.0,0.0,12.0
+Oddanchatram,Palani,0.0,0.0,14.0
+Oddanchatram,Dindigul Jn,0.0,0.0,8.0
+Palani,Udumalaippettai,0.0,0.0,13.0
+Palani,Oddanchatram,0.0,0.0,9.0
+Udumalaippettai,Pollachi Jn,0.0,0.0,10.5
+Udumalaippettai,Palani,0.0,0.0,4.5
+Pollachi Jn,Palghat Town,0.0,0.0,4.5
+Pollachi Jn,Udumalaippettai,0.0,0.0,1.5
+Palghat Town,Palakkad Jn,0.0,0.0,1.0
+Palghat Town,Pollachi Jn,0.0,0.0,2.0
+Kanyakumari,Dibrugarh,4154.0,4535.0,0.0
+Kanyakumari,Shri Mata Vaishno Devi Katra,3789.0,4110.0,0.0
+Kanyakumari,Hazrat Nizamuddin,2919.0,2765.0,0.0
+Silchar,Thiruvananthapuram,3916.0,4395.0,0.0
+Silchar,Coimbatore,3493.0,3875.0,0.0
+Thiruvananthapuram,Silchar,3916.0,4280.0,0.0
+Thiruvananthapuram,New Delhi,3031.0,2955.0,0.0
+Thiruvananthapuram,Hazrat Nizamuddin,3012.0,3150.0,0.0
+Shri Mata Vaishno Devi Katra,Kanyakumari,3789.0,4290.0,0.0
+Shri Mata Vaishno Devi Katra,Tirunelveli,3633.0,4095.0,0.0
+Tirunelveli,Shri Mata Vaishno Devi Katra,3633.0,3885.0,0.0
+Agartala,Bengaluru Cant,3555.0,3760.0,0.0
+Agartala,Mumbai LTT,3127.0,3405.0,0.0
+Bengaluru Cant,Agartala,3555.0,3880.0,0.0
+Bengaluru Cant,New Tinsukia,3544.0,3655.0,0.0
+Bengaluru Cant,Guwahati,2968.0,3190.0,0.0
+New Tinsukia,Bengaluru Cant,3543.0,3845.0,0.0
+New Tinsukia,Tambaram,3218.0,3725.0,0.0
+New Tinsukia,Amritsar,2812.0,3545.0,0.0
+Rameswaram,Firozpur Cantt,3540.0,3785.0,0.0
+Rameswaram,Okha,3153.0,3570.0,0.0
+Firozpur Cantt,Rameswaram,3540.0,3760.0,0.0
+Coimbatore,Silchar,3493.0,3975.0,0.0
+Barauni,Ernakulam Jn,3434.0,3640.0,0.0
+Thiruvananthapuram North,Amritsar,3292.0,3160.0,0.0
+Thiruvananthapuram North,Gorakhpur,3236.0,3400.0,0.0
+Thiruvananthapuram North,Rishikesh,3111.0,3150.0,0.0
+Thiruvananthapuram North,Chandigarh,3088.0,2920.0,0.0
+Amritsar,Thiruvananthapuram North,3292.0,3275.0,0.0
+Amritsar,New Tinsukia,2812.0,3570.0,0.0
+Gorakhpur,Thiruvananthapuram North,3236.0,3427.0,0.0
+Okha,Guwahati,3226.0,3955.0,0.0
+Okha,Rameswaram,3153.0,3510.0,0.0
+Erode,Jogbani,3129.0,3525.0,0.0
+Jogbani,Erode,3129.0,3825.0,0.0
+Mumbai LTT,Agartala,3127.0,3480.0,0.0
+Mumbai LTT,Dibrugarh,3127.0,3615.0,0.0
+Gandhidham,Kamakhya,3123.0,3795.0,0.0
+Lalganj,Dibrugarh,3117.0,3975.0,0.0
+Nagercoil,New Jalpaiguri,3112.0,3240.0,0.0
+Rishikesh,Thiruvananthapuram North,3111.0,3255.0,0.0
+Sri Ganganagar,Tiruchirappalli,3108.0,3385.0,0.0
+Tiruchirappalli,Sri Ganganagar,3104.0,3335.0,0.0
+Madurai,Chandigarh,3074.0,3110.0,0.0
+Madurai,Bikaner,3060.0,3040.0,0.0
+Bikaner,Madurai,3060.0,3060.0,0.0
+Patna,Ernakulam Jn,3047.0,3190.0,0.0
+Patna,Bangalore City,2459.0,2790.0,0.0
+Darbhanga,Mysuru,3036.0,3145.0,0.0
+Mysuru,Darbhanga,3036.0,3220.0,0.0
+Hazrat Nizamuddin,Thiruvananthapuram,3012.0,2990.0,0.0
+Hazrat Nizamuddin,Kanyakumari,2919.0,2805.0,0.0
+Jammu Tawi,Tirupati,2985.0,2935.0,0.0
+Bangalore City,Patna,2459.0,2760.0,0.0
