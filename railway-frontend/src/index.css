@@ -1,0 +1,312 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Rich, modern dark mode palette */
+  --rail-bg: #030816;
+  --rail-blue: #0b1426;
+  --rail-navy: #10213d;
+  --rail-steel: #1c3654;
+  --rail-cyan: #00f0ff;
+  --rail-blue-bright: #3b82f6;
+  --rail-yellow: #fcd34d;
+  --rail-red: #ef4444;
+  --rail-green: #10b981;
+  --rail-purple: #8b5cf6;
+  --rail-ghost: #94a3b8;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  background-color: var(--rail-blue);
+  color: #e0eaf8;
+  font-family: 'DM Sans', sans-serif;
+  overflow-x: hidden;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0a1628;
+}
+::-webkit-scrollbar-thumb {
+  background: #1a3a5c;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #00d4ff40;
+}
+
+/* Leaflet custom styles */
+.leaflet-container {
+  background: #0a1628 !important;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.leaflet-tile {
+  filter: brightness(0.6) saturate(0.4) hue-rotate(200deg);
+}
+
+.custom-station-icon {
+  background: transparent;
+  border: none;
+}
+
+/* Glassmorphism */
+.glass {
+  background: rgba(16, 33, 61, 0.6);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(0, 240, 255, 0.1);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+  border-radius: 16px;
+}
+
+.glass-light {
+  background: rgba(28, 54, 84, 0.45);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(0, 240, 255, 0.08);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+}
+
+/* Glowing effects */
+.glow-cyan {
+  box-shadow: 0 0 20px rgba(0, 212, 255, 0.3), 0 0 60px rgba(0, 212, 255, 0.1);
+}
+
+.glow-yellow {
+  box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+}
+
+.glow-red {
+  box-shadow: 0 0 20px rgba(255, 59, 59, 0.4);
+}
+
+.glow-green {
+  box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);
+}
+
+/* Text glow */
+.text-glow-cyan {
+  text-shadow: 0 0 10px rgba(0, 212, 255, 0.8);
+}
+
+.text-glow-yellow {
+  text-shadow: 0 0 10px rgba(255, 215, 0, 0.8);
+}
+
+/* Track line animation */
+.track-line {
+  background: linear-gradient(90deg, transparent, #00d4ff, transparent);
+  animation: trackPulse 2s ease-in-out infinite;
+}
+
+@keyframes trackPulse {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 1; }
+}
+
+/* Node pulse */
+.node-pulse {
+  animation: nodePulse 2s ease-in-out infinite;
+}
+
+@keyframes nodePulse {
+  0%, 100% { 
+    box-shadow: 0 0 0 0 rgba(0, 212, 255, 0.4);
+  }
+  50% { 
+    box-shadow: 0 0 0 8px rgba(0, 212, 255, 0);
+  }
+}
+
+/* Scanline effect */
+.scanlines::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0, 0, 0, 0.05) 2px,
+    rgba(0, 0, 0, 0.05) 4px
+  );
+  pointer-events: none;
+}
+
+/* Chart tooltip override */
+.recharts-tooltip-wrapper .recharts-default-tooltip {
+  background: rgba(13, 32, 68, 0.95) !important;
+  border: 1px solid rgba(0, 212, 255, 0.3) !important;
+  border-radius: 8px !important;
+}
+
+/* Input styles */
+.rail-input {
+  background: rgba(26, 58, 92, 0.4);
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  color: #e0eaf8;
+  font-family: 'DM Sans', sans-serif;
+  transition: all 0.2s;
+}
+
+.rail-input:focus {
+  outline: none;
+  border-color: rgba(0, 212, 255, 0.6);
+  box-shadow: 0 0 0 2px rgba(0, 212, 255, 0.1);
+  background: rgba(26, 58, 92, 0.6);
+}
+
+.rail-input::placeholder {
+  color: rgba(139, 168, 200, 0.5);
+}
+
+/* Button styles */
+.btn-primary {
+  background: linear-gradient(135deg, rgba(0, 240, 255, 0.1), rgba(0, 240, 255, 0.25));
+  border: 1px solid rgba(0, 240, 255, 0.4);
+  color: #00f0ff;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-primary::after {
+  content: '';
+  position: absolute;
+  top: 0; left: -100%; width: 50%; height: 100%;
+  background: linear-gradient(to right, transparent, rgba(255,255,255,0.2), transparent);
+  transform: skewX(-20deg);
+  transition: all 0.5s;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, rgba(0, 240, 255, 0.2), rgba(0, 240, 255, 0.4));
+  box-shadow: 0 0 20px rgba(0, 240, 255, 0.4), inset 0 0 10px rgba(0, 240, 255, 0.2);
+  transform: translateY(-2px);
+  border-color: rgba(0, 240, 255, 0.8);
+}
+
+.btn-primary:hover::after {
+  left: 150%;
+}
+
+.btn-yellow {
+  background: linear-gradient(135deg, rgba(252, 211, 77, 0.1), rgba(252, 211, 77, 0.25));
+  border: 1px solid rgba(252, 211, 77, 0.4);
+  color: #fcd34d;
+  font-weight: 600;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-yellow:hover {
+  background: linear-gradient(135deg, rgba(252, 211, 77, 0.2), rgba(252, 211, 77, 0.4));
+  box-shadow: 0 0 20px rgba(252, 211, 77, 0.4);
+  transform: translateY(-2px);
+  border-color: rgba(252, 211, 77, 0.8);
+}
+
+/* Status badges */
+.badge-low { color: #00ff88; background: rgba(0,255,136,0.1); border: 1px solid rgba(0,255,136,0.3); }
+.badge-medium { color: #ffd700; background: rgba(255,215,0,0.1); border: 1px solid rgba(255,215,0,0.3); }
+.badge-high { color: #ff6b00; background: rgba(255,107,0,0.1); border: 1px solid rgba(255,107,0,0.3); }
+.badge-critical { color: #ff3b3b; background: rgba(255,59,59,0.1); border: 1px solid rgba(255,59,59,0.3); }
+
+/* Loading spinner */
+.spinner {
+  border: 2px solid rgba(0, 212, 255, 0.1);
+  border-top-color: #00d4ff;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Graph network node */
+.net-node {
+  cursor: pointer;
+  transition: r 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), filter 0.3s ease;
+}
+.net-node:hover {
+  filter: drop-shadow(0 0 8px rgba(0, 240, 255, 0.8));
+}
+
+/* Chat bubbles */
+.chat-user {
+  background: rgba(0, 212, 255, 0.15);
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  border-radius: 12px 12px 2px 12px;
+}
+
+.chat-ai {
+  background: rgba(26, 58, 92, 0.5);
+  border: 1px solid rgba(139, 168, 200, 0.15);
+  border-radius: 12px 12px 12px 2px;
+}
+
+/* Gauge chart */
+.gauge-bg {
+  fill: none;
+  stroke: rgba(26, 58, 92, 0.8);
+}
+
+.gauge-fill {
+  fill: none;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 1s ease;
+}
+
+/* Map tooltip */
+.map-tooltip {
+  background: rgba(10, 22, 40, 0.95);
+  border: 1px solid rgba(0, 212, 255, 0.3);
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  color: #e0eaf8;
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+/* Sidebar active */
+.sidebar-active {
+  background: rgba(0, 212, 255, 0.1);
+  border-left: 2px solid #00d4ff;
+  color: #00d4ff;
+}
+
+/* Operator specific */
+.operator-card {
+  background: rgba(13, 32, 68, 0.8);
+  border: 1px solid rgba(0, 212, 255, 0.1);
+  border-radius: 12px;
+}
+
+.operator-card:hover {
+  border-color: rgba(0, 212, 255, 0.3);
+  box-shadow: 0 4px 20px rgba(0, 212, 255, 0.1);
+}
+
+/* Animated border */
+@keyframes borderSpin {
+  from { background-position: 0 0, 100% 0, 100% 100%, 0 100%; }
+  to { background-position: 100% 0, 100% 100%, 0 100%, 0 0; }
+}

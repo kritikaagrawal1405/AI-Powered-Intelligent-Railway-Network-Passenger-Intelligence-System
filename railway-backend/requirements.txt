@@ -1,0 +1,28 @@
+# AI Railway Intelligence Backend
+# ================================
+# Install: pip install -r requirements.txt
+
+# Core data
+pandas>=1.5.0
+numpy>=1.23.0
+scipy>=1.10.0
+
+# Graph engine
+networkx>=3.0
+
+# Machine learning
+scikit-learn>=1.2.0
+
+# API framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+
+# HTTP client for RailRadar live API
+requests>=2.31.0
+
+# Optional: visualization (used by graph_engine/visualize_graph.py)
+pyvis>=0.3.2
+matplotlib>=3.6.0
+
+# Note: streamlit is NOT required in the backend — it belongs to frontend only
