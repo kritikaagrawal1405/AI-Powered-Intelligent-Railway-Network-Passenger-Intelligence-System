@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: #020408;
+  color: #e8f4fd;
+  font-family: 'DM Sans', sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+::-webkit-scrollbar { width: 3px; height: 3px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #1a2d47; border-radius: 99px; }
+::selection { background: #00d4ff20; color: #00d4ff; }
+
+@layer components {
+  .card { @apply bg-bg-card border border-bg-border rounded-2xl; }
+  .card-p { @apply bg-bg-card border border-bg-border rounded-2xl p-5; }
+  .btn-primary { @apply bg-rail-cyan/10 border border-rail-cyan/40 text-rail-cyan font-medium px-4 py-2 rounded-xl text-sm hover:bg-rail-cyan/20 hover:border-rail-cyan/70 active:scale-95 transition-all duration-150; }
+  .btn-ghost { @apply bg-bg-elevated border border-bg-border text-text-secondary px-4 py-2 rounded-xl text-sm hover:text-text-primary active:scale-95 transition-all duration-150; }
+  .input { @apply bg-bg-elevated border border-bg-border rounded-xl px-3 py-2.5 text-sm text-text-primary placeholder-text-muted focus:outline-none focus:border-rail-cyan/50 focus:ring-1 focus:ring-rail-cyan/20 transition-all; }
+  .select { @apply bg-bg-elevated border border-bg-border rounded-xl px-3 py-2.5 text-sm text-text-primary cursor-pointer focus:outline-none focus:border-rail-cyan/50 transition-all; }
+  .label { @apply text-[10px] font-mono font-semibold text-text-muted uppercase tracking-[0.15em]; }
+  .pill { @apply text-[10px] font-mono font-bold px-2.5 py-1 rounded-full; }
+  .pill-green  { @apply bg-rail-green/10  text-rail-green  border border-rail-green/20; }
+  .pill-red    { @apply bg-rail-red/10    text-rail-red    border border-rail-red/20; }
+  .pill-amber  { @apply bg-rail-amber/10  text-rail-amber  border border-rail-amber/20; }
+  .pill-cyan   { @apply bg-rail-cyan/10   text-rail-cyan   border border-rail-cyan/20; }
+  .pill-purple { @apply bg-rail-purple/10 text-rail-purple border border-rail-purple/20; }
+  .skeleton { background: linear-gradient(90deg, #0a1628 25%, #0f1e35 50%, #0a1628 75%); background-size: 400% 100%; animation: shimmer 1.8s ease-in-out infinite; border-radius: 10px; }
+  .grid-bg { background-image: linear-gradient(rgba(0,212,255,0.025) 1px, transparent 1px), linear-gradient(90deg, rgba(0,212,255,0.025) 1px, transparent 1px); background-size: 32px 32px; }
+  .live-dot { @apply inline-block w-1.5 h-1.5 rounded-full bg-rail-green; animation: livePulse 2s ease-in-out infinite; }
+  .glow-cyan { text-shadow: 0 0 20px rgba(0,212,255,0.5); }
+}
+
+.map-tooltip {
+  background: rgba(2, 4, 8, 0.96);
+  color: #e8f4fd;
+  border-radius: 999px;
+  border: 1px solid rgba(0, 212, 255, 0.45);
+  padding: 4px 10px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
+}
+
+.leaflet-tooltip.map-tooltip::before {
+  border-top-color: rgba(2, 4, 8, 0.96);
+}
+
+@keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+@keyframes livePulse {
+  0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(0,255,135,0.4); }
+  50% { opacity: 0.6; box-shadow: 0 0 0 4px rgba(0,255,135,0); }
+}
